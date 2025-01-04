@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html class="d" lang="">
+
+<!-- Mirrored from kendallpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jan 2025 16:00:05 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kendall Point—San Antonio Wedding Venue</title>
+    <link rel="icon" type="image/png"
+        href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
+    <link rel="preconnect" href="https://static.showit.co/" />
+    <meta name="description"
+        content="Kendall Point is an Award Winning Classic Wedding Venue in the Texas Hill Country.  Your dream wedding day awaits!" />
+    <link rel="canonical" href="index.html" />
+    <meta property="og:image"
+        content="../static.showit.co/1200/JGk4uoSNTDy2YUX_1YElCw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-12.jpg" />
+
+    <!-- Global site tag (gtag.js) - Google Ads: 10800438354 -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10800438354"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-10800438354');
+    </script>
+
+    <meta name="google-site-verification" content="zI9suzu1675Nd0A4N2ydLGdPBXMkkn-UE0NYbk-8uvg">
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WWQMC78');
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css?family=Montserrat:regular|Montserrat:700|Libre+Baskerville:regular|Libre+Baskerville:italic"
+        rel="stylesheet" type="text/css" />
+    <script id="init_data" type="application/json">
+      {"mobile":{"w":320},"desktop":{"w":1200,"bgFillType":"color","bgColor":"#000000:0"},"sid":"uxugyxraqtkqhmrchhfzzg","break":768,"assetURL":"//static.showit.co","contactFormId":"105740/224708","cfAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9jb250YWN0Zm9ybQ==","sgAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9zb2NpYWxncmlk","blockData":[{"slug":"announcement-header","visible":"a","states":[],"d":{"h":76,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":137,"w":320,"locking":{},"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"drop-navigation","visible":"d","states":[{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1-1"}],"d":{"h":124,"w":1200,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"t"},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"stateTrans":[{},{}]},{"slug":"mobile-nav","visible":"m","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":600,"w":320,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-6","bgMediaType":"none"}},{"slug":"header","visible":"a","states":[],"d":{"h":1,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"ps":[{"trigger":"offscreen","type":"show","block":"drop-navigation"},{"trigger":"onscreen","type":"hide","block":"drop-navigation"}]},{"slug":"navigation","visible":"a","states":[{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-2"}],"d":{"h":124,"w":1200,"locking":{},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st"},"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"ps":[{"trigger":"onscreen","type":"show"}],"stateTrans":[{},{},{}]},{"slug":"social-stalk-us","visible":"d","states":[],"d":{"h":1,"w":1200,"locking":{"side":"st","offset":100},"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"h":46,"w":320,"locking":{"side":"st"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"top-gallery","visible":"a","states":[],"d":{"h":743,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"video","bgLoop":"1","bgPos":"cm","bgVideo":{"key":"oJ8ml7TmSxS4GvLI683G0g/105740/kendall_point_8_mb_header_background.mp4","aspect_ratio":1.77778,"title":"Kendall Point 8 mb Header Background","type":"asset"}},"m":{"h":182,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"video","bgLoop":"1","bgPos":"ct","bgVideo":{"key":"oJ8ml7TmSxS4GvLI683G0g/105740/kendall_point_8_mb_header_background.mp4","aspect_ratio":1.77778,"title":"Kendall Point 8 mb Header Background","type":"asset"}}},{"slug":"look-around-1","visible":"a","states":[],"d":{"h":425,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1922,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"intro","visible":"a","states":[],"d":{"h":612,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1231,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"hill-country","visible":"a","states":[],"d":{"h":1,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"3d-tour","visible":"a","states":[],"d":{"h":632,"w":1200,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"none"},"m":{"h":542,"w":320,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"none"}},{"slug":"san-antonio-venue","visible":"a","states":[],"d":{"h":528,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1014,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"i-do","visible":"a","states":[],"d":{"h":528,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":895,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"book-tour-2","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"about","visible":"a","states":[],"d":{"h":525,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":760,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"testimonials","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"u_cGLr0DRgS2apKZSQtlQg/shared/wedding-at-kendall-plantation.jpg","aspect_ratio":1.50037,"title":"Wedding-At-Kendall-Plantation","type":"asset"},"bgOpacity":25,"bgPos":"cm","bgScale":"cover","bgScroll":"f"},"m":{"h":323,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"u_cGLr0DRgS2apKZSQtlQg/shared/wedding-at-kendall-plantation.jpg","aspect_ratio":1.50037,"title":"Wedding-At-Kendall-Plantation","type":"asset"},"bgOpacity":30,"bgPos":"cm","bgScale":"cover","bgScroll":"f"}},{"slug":"instagram","visible":"a","states":[],"d":{"h":338,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":153,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"footer","visible":"a","states":[],"d":{"h":342,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":851,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"contact-sticky","visible":"m","states":[],"d":{"h":43,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":50,"w":320,"locking":{"side":"sb"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}}],"elementData":[{"type":"simple","visible":"a","id":"announcement-header_0","blockId":"announcement-header","m":{"x":72,"y":81,"w":176,"h":41,"a":0},"d":{"x":874,"y":22,"w":158,"h":36,"a":0}},{"type":"text","visible":"a","id":"announcement-header_1","blockId":"announcement-header","m":{"x":9,"y":19,"w":311,"h":39,"a":0},"d":{"x":315,"y":16,"w":533,"h":45,"a":0}},{"type":"text","visible":"a","id":"announcement-header_2","blockId":"announcement-header","m":{"x":72,"y":94,"w":176,"h":28,"a":0},"d":{"x":889,"y":33,"w":138,"h":25,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_7","blockId":"drop-navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":749,"y":91,"w":211,"h":135,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_8","blockId":"drop-navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":104,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_9","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":134,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_10","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":164,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_11","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":194,"w":164,"h":24,"a":0}},{"type":"icon","visible":"m","id":"mobile-nav_0","blockId":"mobile-nav","m":{"x":280,"y":9,"w":29,"h":28,"a":0,"lockV":"t"},"d":{"x":575,"y":175,"w":100,"h":100,"a":0},"pc":[{"type":"hide","block":"mobile-nav"}]},{"type":"text","visible":"m","id":"mobile-nav_1","blockId":"mobile-nav","m":{"x":32.5,"y":36,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_2","blockId":"mobile-nav","m":{"x":73.896,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1090.77,"y":35.5,"w":16.065,"h":16.575,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_3","blockId":"mobile-nav","m":{"x":25,"y":407,"w":44.374,"h":35.644,"a":0},"d":{"x":1069,"y":36.81,"w":16.065,"h":14.831,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_4","blockId":"mobile-nav","m":{"x":119.748,"y":407,"w":33.809,"h":34.218,"a":0},"d":{"x":1113.81,"y":35.937,"w":15.219,"h":15.702,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_5","blockId":"mobile-nav","m":{"x":164.783,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1134.946,"y":35.937,"w":16.065,"h":16.575,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_6","blockId":"mobile-nav","m":{"x":32.5,"y":378,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_7","blockId":"mobile-nav","m":{"x":32,"y":111,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_8","blockId":"mobile-nav","m":{"x":32,"y":148,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_9","blockId":"mobile-nav","m":{"x":32,"y":221,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_10","blockId":"mobile-nav","m":{"x":32,"y":258,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_11","blockId":"mobile-nav","m":{"x":32,"y":295,"w":239,"h":23,"a":0},"d":{"x":572,"y":203,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_13","blockId":"mobile-nav","m":{"x":32,"y":185,"w":239,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"mobile-nav_14","blockId":"mobile-nav","m":{"x":32,"y":326,"w":96,"h":16,"a":0},"d":{"x":546,"y":191,"w":107.99999999999999,"h":18,"a":0}},{"type":"text","visible":"d","id":"navigation_0","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":-294,"y":174,"w":162,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":514,"y":49,"w":124,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_2","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":888,"y":49,"w":114,"h":27,"a":0}},{"type":"text","visible":"m","id":"navigation_3","blockId":"navigation","m":{"x":60,"y":13,"w":200,"h":26,"a":0},"d":{"x":547,"y":587,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"simple","visible":"d","id":"navigation_view-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_5","blockId":"navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":650,"y":90,"w":217,"h":127,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_6","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":102,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_7","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":131,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_8","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":159,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_9","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":188,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_0","blockId":"navigation","m":{"x":132,"y":28,"w":75.60000000000001,"h":14,"a":0},"d":{"x":733,"y":13,"w":66,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-2_1","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":674,"y":35,"w":194,"h":160,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_2","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":690,"y":97,"w":183,"h":17,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_3","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":681,"y":61,"w":118,"h":17,"a":0}},{"type":"simple","visible":"d","id":"social-stalk-us_0","blockId":"social-stalk-us","m":{"x":-357,"y":23,"w":224,"h":140,"a":0},"d":{"x":1163,"y":64,"w":40,"h":400,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_1","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":264,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_2","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":312,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_3","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":360,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_4","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":408,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"text","visible":"a","id":"social-stalk-us_5","blockId":"social-stalk-us","m":{"x":12,"y":20,"w":144,"h":10,"a":0},"d":{"x":1107,"y":160,"w":152,"h":15,"a":-90,"lockH":"r"}},{"type":"simple","visible":"a","id":"top-gallery_2","blockId":"top-gallery","m":{"x":0,"y":0,"w":320,"h":182,"a":0},"d":{"x":-900,"y":1,"w":3000,"h":743,"a":0}},{"type":"text","visible":"a","id":"top-gallery_3","blockId":"top-gallery","m":{"x":51,"y":38,"w":218,"h":79,"a":0},"d":{"x":227,"y":333,"w":747,"h":78,"a":0}},{"type":"simple","visible":"a","id":"top-gallery_4","blockId":"top-gallery","m":{"x":86,"y":130,"w":145,"h":34,"a":0},"d":{"x":498,"y":419,"w":208,"h":55,"a":0}},{"type":"text","visible":"a","id":"top-gallery_5","blockId":"top-gallery","m":{"x":92,"y":136,"w":133,"h":24,"a":0},"d":{"x":508,"y":434,"w":188,"h":29,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_0","blockId":"look-around-1","m":{"x":-68,"y":40,"w":456,"h":1,"a":0},"d":{"x":-24,"y":47,"w":1248,"h":1,"a":0,"lockH":"s"}},{"type":"graphic","visible":"a","id":"look-around-1_1","blockId":"look-around-1","m":{"x":31,"y":69,"w":260,"h":260,"a":0},"d":{"x":72,"y":116,"w":180,"h":170,"a":0,"gs":{"s":75,"t":"cover"}},"c":{"key":"LVVRQsNFTkey_hqm-LlB0Q/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-67.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_2","blockId":"look-around-1","m":{"x":31.5,"y":343,"w":259,"h":30,"a":0},"d":{"x":42,"y":300,"w":241,"h":24,"a":0}},{"type":"text","visible":"a","id":"look-around-1_3","blockId":"look-around-1","m":{"x":66,"y":398,"w":191,"h":15,"a":0},"d":{"x":41,"y":353,"w":239,"h":21,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_4","blockId":"look-around-1","m":{"x":84,"y":29,"w":152,"h":25,"a":0},"d":{"x":525,"y":36,"w":150,"h":23,"a":0}},{"type":"text","visible":"a","id":"look-around-1_5","blockId":"look-around-1","m":{"x":101,"y":36,"w":118,"h":11,"a":0},"d":{"x":539,"y":43,"w":123,"h":18,"a":0}},{"type":"text","visible":"a","id":"look-around-1_6","blockId":"look-around-1","m":{"x":30,"y":375,"w":262,"h":16,"a":0},"d":{"x":44,"y":333,"w":238,"h":13,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_7","blockId":"look-around-1","m":{"x":30,"y":439,"w":260,"h":260,"a":0,"gs":{"s":50}},"d":{"x":282,"y":116,"w":180,"h":170,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"jOQgo1txQHGvwR96e8XsqQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0446.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_8","blockId":"look-around-1","m":{"x":30.5,"y":713,"w":259,"h":30,"a":0},"d":{"x":252,"y":300,"w":241,"h":24,"a":0}},{"type":"text","visible":"a","id":"look-around-1_9","blockId":"look-around-1","m":{"x":65,"y":769,"w":191,"h":15,"a":0},"d":{"x":253,"y":353,"w":239,"h":21,"a":0}},{"type":"text","visible":"a","id":"look-around-1_10","blockId":"look-around-1","m":{"x":29,"y":745,"w":262,"h":16,"a":0},"d":{"x":254,"y":333,"w":238,"h":13,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_11","blockId":"look-around-1","m":{"x":29,"y":1170,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":706,"y":116,"w":180,"h":170,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"BW7-Jlf4RRa6bBP3eT6deQ/105740/20230610_3963_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"look-around-1_12","blockId":"look-around-1","m":{"x":32,"y":1475,"w":262,"h":16,"a":0},"d":{"x":674,"y":333,"w":238,"h":13,"a":0}},{"type":"text","visible":"a","id":"look-around-1_13","blockId":"look-around-1","m":{"x":34,"y":1866,"w":262,"h":16,"a":0},"d":{"x":893,"y":333,"w":238,"h":13,"a":0}},{"type":"text","visible":"a","id":"look-around-1_14","blockId":"look-around-1","m":{"x":35,"y":1439,"w":259,"h":30,"a":0},"d":{"x":674,"y":300,"w":241,"h":24,"a":0}},{"type":"text","visible":"a","id":"look-around-1_15","blockId":"look-around-1","m":{"x":32,"y":1836,"w":259,"h":30,"a":0},"d":{"x":891,"y":300,"w":241,"h":24,"a":0}},{"type":"text","visible":"a","id":"look-around-1_16","blockId":"look-around-1","m":{"x":64,"y":1132,"w":191,"h":15,"a":0},"d":{"x":472,"y":353,"w":239,"h":21,"a":0}},{"type":"text","visible":"a","id":"look-around-1_17","blockId":"look-around-1","m":{"x":70,"y":1504,"w":191,"h":15,"a":0},"d":{"x":676,"y":353,"w":239,"h":21,"a":0}},{"type":"text","visible":"a","id":"look-around-1_18","blockId":"look-around-1","m":{"x":70,"y":1889,"w":191,"h":15,"a":0},"d":{"x":891,"y":353,"w":239,"h":21,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_19","blockId":"look-around-1","m":{"x":30,"y":813,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":493,"y":116,"w":180,"h":170,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg","aspect_ratio":1.50037}},{"type":"graphic","visible":"a","id":"look-around-1_20","blockId":"look-around-1","m":{"x":30,"y":1566,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":921,"y":116,"w":180,"h":170,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_21","blockId":"look-around-1","m":{"x":29,"y":1080,"w":259,"h":30,"a":0},"d":{"x":470,"y":300,"w":241,"h":24,"a":0}},{"type":"text","visible":"a","id":"look-around-1_22","blockId":"look-around-1","m":{"x":29,"y":1110,"w":262,"h":16,"a":0},"d":{"x":472,"y":333,"w":238,"h":13,"a":0}},{"type":"text","visible":"a","id":"intro_0","blockId":"intro","m":{"x":11,"y":434,"w":298,"h":631,"a":0},"d":{"x":97,"y":116,"w":561,"h":498,"a":0}},{"type":"gallery","visible":"a","id":"intro_2","blockId":"intro","m":{"x":-7,"y":0,"w":334,"h":308,"a":0},"d":{"x":702,"y":139,"w":400,"h":400,"a":0,"gs":{"t":"cover"},"g":{"aa":0,"tranTime":1}},"imgs":[{"key":"ukePkUMRjtQVxDUjxe5cNg/105740/sp-4_websize.jpg","ar":1.25}],"ch":1,"gal":"simple"},{"type":"text","visible":"a","id":"intro_3","blockId":"intro","m":{"x":20,"y":353,"w":280,"h":68,"a":0},"d":{"x":144,"y":64,"w":913,"h":35,"a":0}},{"type":"text","visible":"a","id":"intro_4","blockId":"intro","m":{"x":112,"y":330,"w":96,"h":16,"a":0},"d":{"x":547,"y":46,"w":108,"h":18,"a":0}},{"type":"simple","visible":"a","id":"hill-country_1","blockId":"hill-country","m":{"x":39,"y":341,"w":251,"h":27,"a":0},"d":{"x":153,"y":398,"w":292,"h":31,"a":0}},{"type":"iframe","visible":"a","id":"3d-tour_0","blockId":"3d-tour","m":{"x":16,"y":148,"w":290,"h":165,"a":0},"d":{"x":193,"y":124,"w":834,"h":468,"a":0}},{"type":"text","visible":"a","id":"3d-tour_1","blockId":"3d-tour","m":{"x":31,"y":94,"w":258,"h":35,"a":0},"d":{"x":240,"y":81,"w":709,"h":19,"a":0}},{"type":"text","visible":"a","id":"3d-tour_2","blockId":"3d-tour","m":{"x":27,"y":51,"w":267,"h":41,"a":0},"d":{"x":458,"y":23,"w":284,"h":35,"a":0}},{"type":"text","visible":"a","id":"3d-tour_3","blockId":"3d-tour","m":{"x":31,"y":32,"w":259,"h":16,"a":0},"d":{"x":483,"y":8,"w":234,"h":18,"a":0}},{"type":"text","visible":"a","id":"san-antonio-venue_0","blockId":"san-antonio-venue","m":{"x":13,"y":442,"w":298,"h":639,"a":0},"d":{"x":99,"y":122,"w":564,"h":360,"a":0}},{"type":"gallery","visible":"a","id":"san-antonio-venue_2","blockId":"san-antonio-venue","m":{"x":2,"y":74,"w":318,"h":300,"a":0},"d":{"x":695,"y":-26,"w":400,"h":406,"a":0,"gs":{"t":"cover"},"g":{"aa":0,"tranTime":1}},"imgs":[{"key":"Oy8mr-82vWW0pMww_9yjPQ/105740/hr_sneak_under_the_sun_photography-370_websize.jpg","ar":1.50376}],"ch":1,"gal":"simple"},{"type":"text","visible":"a","id":"san-antonio-venue_3","blockId":"san-antonio-venue","m":{"x":31,"y":22,"w":259,"h":30,"a":0},"d":{"x":99,"y":55,"w":558,"h":36,"a":0}},{"type":"simple","visible":"a","id":"san-antonio-venue_4","blockId":"san-antonio-venue","m":{"x":-7,"y":331,"w":337,"h":89,"a":0},"d":{"x":695,"y":369,"w":401,"h":113,"a":0}},{"type":"text","visible":"a","id":"san-antonio-venue_5","blockId":"san-antonio-venue","m":{"x":14,"y":340,"w":296,"h":30,"a":0},"d":{"x":695,"y":380,"w":401,"h":43,"a":0}},{"type":"simple","visible":"a","id":"san-antonio-venue_6","blockId":"san-antonio-venue","m":{"x":64,"y":378,"w":192,"h":27,"a":0},"d":{"x":813,"y":439,"w":165,"h":31,"a":0}},{"type":"text","visible":"a","id":"san-antonio-venue_7","blockId":"san-antonio-venue","m":{"x":90,"y":378,"w":141,"h":27,"a":0},"d":{"x":827,"y":447,"w":138,"h":16,"a":0}},{"type":"text","visible":"a","id":"i-do_0","blockId":"i-do","m":{"x":13,"y":423,"w":298,"h":381,"a":0},"d":{"x":539,"y":162,"w":564,"h":242,"a":0}},{"type":"gallery","visible":"a","id":"i-do_2","blockId":"i-do","m":{"x":2,"y":102,"w":334,"h":300,"a":0},"d":{"x":99,"y":53,"w":400,"h":400,"a":0,"gs":{"t":"cover"},"g":{"aa":0,"tranTime":1}},"imgs":[{"key":"UbV-a3KWsOCGLOxQpoj09g/105740/hr_sneak_under_the_sun_photography-239_websize.jpg","ar":1.50376}],"ch":1,"gal":"simple"},{"type":"text","visible":"a","id":"i-do_3","blockId":"i-do","m":{"x":31,"y":36,"w":259,"h":30,"a":0},"d":{"x":539,"y":101,"w":558,"h":36,"a":0}},{"type":"simple","visible":"a","id":"i-do_4","blockId":"i-do","m":{"x":31,"y":822,"w":259,"h":50,"a":0},"d":{"x":626,"y":396,"w":350,"h":57,"a":0}},{"type":"text","visible":"a","id":"i-do_5","blockId":"i-do","m":{"x":39,"y":835,"w":243,"h":25,"a":0},"d":{"x":626,"y":408,"w":350,"h":33,"a":0}},{"type":"text","visible":"a","id":"book-tour-2_0","blockId":"book-tour-2","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour-2_1","blockId":"book-tour-2","m":{"x":77,"y":101,"w":166,"h":34,"a":0},"d":{"x":774,"y":22,"w":203,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour-2_2","blockId":"book-tour-2","m":{"x":101,"y":107,"w":118,"h":23,"a":0},"d":{"x":791,"y":32,"w":169,"h":9,"a":0}},{"type":"simple","visible":"a","id":"about_0","blockId":"about","m":{"x":-43,"y":40,"w":407,"h":1,"a":0},"d":{"x":-17,"y":46,"w":1228,"h":1,"a":0,"lockH":"s"}},{"type":"graphic","visible":"a","id":"about_1","blockId":"about","m":{"x":60.997,"y":69,"w":199,"h":275,"a":0},"d":{"x":238.502,"y":88,"w":269,"h":382,"a":0,"gs":{"s":62}},"c":{"key":"-ibAwEm6Jo2uL7h2_vt02w/105740/voss-family-dawn-elizabeth-studios-038.jpg","aspect_ratio":0.66667}},{"type":"text","visible":"a","id":"about_2","blockId":"about","m":{"x":41,"y":372,"w":259,"h":30,"a":0},"d":{"x":557,"y":105,"w":404,"h":41,"a":0}},{"type":"text","visible":"a","id":"about_3","blockId":"about","m":{"x":19,"y":396,"w":281,"h":357,"a":0},"d":{"x":557,"y":161,"w":396,"h":230,"a":0}},{"type":"text","visible":"a","id":"about_4","blockId":"about","m":{"x":65,"y":721,"w":191,"h":15,"a":0},"d":{"x":557,"y":400,"w":191,"h":24,"a":0}},{"type":"simple","visible":"a","id":"about_5","blockId":"about","m":{"x":99,"y":29,"w":122,"h":25,"a":0},"d":{"x":537.5,"y":36,"w":125,"h":23,"a":0}},{"type":"text","visible":"a","id":"about_6","blockId":"about","m":{"x":101,"y":37,"w":118,"h":10,"a":0},"d":{"x":539,"y":43,"w":123,"h":18,"a":0}},{"type":"iframe","visible":"a","id":"testimonials_0","blockId":"testimonials","m":{"x":48,"y":48,"w":224,"h":226.1,"a":0},"d":{"x":360,"y":120,"w":480,"h":160,"a":0}},{"type":"text","visible":"a","id":"testimonials_1","blockId":"testimonials","m":{"x":12,"y":53,"w":297,"h":84,"a":0},"d":{"x":84,"y":139,"w":1033,"h":80,"a":0}},{"type":"text","visible":"a","id":"testimonials_2","blockId":"testimonials","m":{"x":71,"y":170,"w":178,"h":16,"a":0},"d":{"x":428,"y":247,"w":344,"h":14,"a":0}},{"type":"simple","visible":"a","id":"testimonials_3","blockId":"testimonials","m":{"x":64,"y":218,"w":189,"h":52,"a":0},"d":{"x":482,"y":303,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"testimonials_4","blockId":"testimonials","m":{"x":90,"y":227,"w":137,"h":35,"a":0},"d":{"x":516,"y":313,"w":169,"h":25,"a":0}},{"type":"social","visible":"a","id":"instagram_0","blockId":"instagram","m":{"x":-31,"y":0,"w":383,"h":153,"a":0},"d":{"x":-1079,"y":14,"w":3358,"h":327,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"footer_0","blockId":"footer","m":{"x":16,"y":784,"w":289,"h":39,"a":0},"d":{"x":400,"y":284,"w":400,"h":38,"a":0}},{"type":"icon","visible":"a","id":"footer_1","blockId":"footer","m":{"x":174,"y":588,"w":33,"h":33,"a":0},"d":{"x":1141,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_2","blockId":"footer","m":{"x":52,"y":588,"w":33,"h":33,"a":0},"d":{"x":1051,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_3","blockId":"footer","m":{"x":113,"y":588,"w":33,"h":33,"a":0},"d":{"x":1081,"y":178,"w":15,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_4","blockId":"footer","m":{"x":235,"y":588,"w":33,"h":33,"a":0},"d":{"x":1111,"y":178,"w":16,"h":17,"a":0}},{"type":"text","visible":"a","id":"footer_5","blockId":"footer","m":{"x":95,"y":549,"w":131,"h":22,"a":0},"d":{"x":891,"y":178,"w":147,"h":16,"a":0}},{"type":"simple","visible":"a","id":"footer_6","blockId":"footer","m":{"x":10,"y":651,"w":300,"h":1,"a":0},"d":{"x":-39,"y":259,"w":1279,"h":1,"a":0,"lockH":"s"}},{"type":"simple","visible":"a","id":"footer_7","blockId":"footer","m":{"x":10,"y":364,"w":300,"h":1,"a":0},"d":{"x":366,"y":34,"w":1,"h":198,"a":0}},{"type":"simple","visible":"m","id":"footer_8","blockId":"footer","m":{"x":10,"y":531,"w":300,"h":1,"a":0},"d":{"x":376,"y":44,"w":1,"h":198,"a":0}},{"type":"simple","visible":"a","id":"footer_9","blockId":"footer","m":{"x":10,"y":259,"w":300,"h":1,"a":0},"d":{"x":833.5,"y":34.25,"w":1,"h":198,"a":0}},{"type":"text","visible":"a","id":"footer_10","blockId":"footer","m":{"x":29,"y":282,"w":262,"h":16,"a":0},"d":{"x":885,"y":85,"w":270,"h":14,"a":0}},{"type":"text","visible":"a","id":"footer_11","blockId":"footer","m":{"x":5,"y":315,"w":311,"h":32,"a":0},"d":{"x":863,"y":102,"w":314,"h":40,"a":0}},{"type":"graphic","visible":"a","id":"footer_12","blockId":"footer","m":{"x":48,"y":18,"w":224,"h":224,"a":0},"d":{"x":479,"y":15,"w":242,"h":242,"a":0},"c":{"key":"39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png","aspect_ratio":1}},{"type":"text","visible":"a","id":"footer_13","blockId":"footer","m":{"x":16,"y":729,"w":289,"h":39,"a":0},"d":{"x":800,"y":281,"w":400,"h":38,"a":0}},{"type":"text","visible":"a","id":"footer_14","blockId":"footer","m":{"x":16,"y":689,"w":289,"h":18,"a":0},"d":{"x":-3,"y":283,"w":400,"h":38,"a":0}},{"type":"text","visible":"d","id":"footer_15","blockId":"footer","m":{"x":674,"y":176,"w":131,"h":22,"a":0},"d":{"x":105,"y":26,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_16","blockId":"footer","m":{"x":95,"y":394,"w":131,"h":22,"a":0},"d":{"x":105,"y":51,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_17","blockId":"footer","m":{"x":95,"y":460,"w":131,"h":22,"a":0},"d":{"x":105,"y":77,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_18","blockId":"footer","m":{"x":95,"y":438,"w":131,"h":22,"a":0},"d":{"x":105,"y":106,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_19","blockId":"footer","m":{"x":48,"y":140,"w":131,"h":22,"a":0},"d":{"x":105,"y":162,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_20","blockId":"footer","m":{"x":95,"y":482,"w":131,"h":22,"a":0},"d":{"x":105,"y":186,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_21","blockId":"footer","m":{"x":16,"y":667,"w":289,"h":18,"a":0},"d":{"x":-3,"y":303,"w":400,"h":17,"a":0}},{"type":"text","visible":"d","id":"footer_22","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":105,"y":210,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_23","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":81,"y":234,"w":205,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_24","blockId":"footer","m":{"x":95,"y":416,"w":131,"h":22,"a":0},"d":{"x":105,"y":133,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"contact-sticky_0","blockId":"contact-sticky","m":{"x":18,"y":16,"w":285,"h":18,"a":0},"d":{"x":143,"y":14,"w":915,"h":15,"a":0}}]}
+    </script>
+    <link rel="stylesheet" type="text/css" href="../cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css" />
+    <script id="si-jquery" src="../ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="../lib.showit.co/engine/2.2.6/showit-lib.min.js"></script>
+    <script src="../lib.showit.co/engine/2.2.6/showit.min.js"></script>
+
+    <script>
+        function initPage() {
+
+        }
+    </script>
+    <link rel="stylesheet" type="text/css" href="../lib.showit.co/engine/2.2.6/showit.css" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('style.css') }}" />
+</head>
+
+<body>
+    <div id="si-sp" class="sp">
+
+        @include('partials.Header')
+        <div id="top-gallery" data-bid="top-gallery" class="sb sib-top-gallery sb-nd-dH">
+            <div class="ss-s ss-bg">
+                <div class="sb-m"></div>
+                <div class="sc" style="width:1200px">
+                    <div data-sid="top-gallery_2" class="sie-top-gallery_2 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="top-gallery_3" class="sie-top-gallery_3 se">
+                        <h1 class="se-t sie-top-gallery_3-text st-m-title st-d-title se-rc">Choose the Perfect Setting
+                            for Your Dream Wedding</h1>
+                    </div><a href="contact.html" target="_self" class="sie-top-gallery_4 se" data-sid="top-gallery_4">
+                        <div class="se-simple"></div>
+                    </a><a href="contact.html" target="_self" class="sie-top-gallery_5 se" data-sid="top-gallery_5">
+                        <h3 class="se-t sie-top-gallery_5-text st-m-subheading st-d-subheading">See Kendall Point for
+                            Yourself&nbsp;</h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="look-around-1" data-bid="look-around-1" class="sb sib-look-around-1">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="look-around-1_0" class="sie-look-around-1_0 se">
+                        <div class="se-simple"></div>
+                    </div><a href="amenities.html" target="_self" class="sie-look-around-1_1 se"
+                        data-sid="look-around-1_1">
+                        <div style="width:100%;height:100%" data-img="look-around-1_1" class="se-img se-gr slzy">
+                            <span role="img"
+                                aria-label="A bridge and groom kiss on a tree swing in front of the Kendall Point lake."></span>
+                        </div><noscript><img
+                                src="../static.showit.co/200/LVVRQsNFTkey_hqm-LlB0Q/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-67.jpg"
+                                class="se-img"
+                                alt="A bridge and groom kiss on a tree swing in front of the Kendall Point lake."
+                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-67" /></noscript>
+                    </a><a href="amenities.html" target="_self" class="sie-look-around-1_2 se"
+                        data-sid="look-around-1_2">
+                        <h2 class="se-t sie-look-around-1_2-text st-m-heading st-d-heading">Amenities</h2>
+                    </a><a href="amenities.html" target="_self" class="sie-look-around-1_3 se"
+                        data-sid="look-around-1_3">
+                        <h3 class="se-t sie-look-around-1_3-text st-m-heading st-d-heading">take a look »</h3>
+                    </a>
+                    <div data-sid="look-around-1_4" class="sie-look-around-1_4 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="look-around-1_5" class="sie-look-around-1_5 se">
+                        <h3 class="se-t sie-look-around-1_5-text st-m-subheading st-d-subheading se-rc">look around
+                        </h3>
+                    </div><a href="amenities.html" target="_self" class="sie-look-around-1_6 se"
+                        data-sid="look-around-1_6">
+                        <h3 class="se-t sie-look-around-1_6-text st-m-subheading st-d-subheading">included in your
+                            package</h3>
+                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_7 se"
+                        data-sid="look-around-1_7">
+                        <div style="width:100%;height:100%" data-img="look-around-1_7" class="se-img se-gr slzy">
+                            <span role="img"
+                                aria-label="The Kendall Point wedding venue offers ample space and picturesque views."></span>
+                        </div><noscript><img
+                                src="../static.showit.co/200/jOQgo1txQHGvwR96e8XsqQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0446.jpg"
+                                class="se-img"
+                                alt="The Kendall Point wedding venue offers ample space and picturesque views."
+                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-0446" /></noscript>
+                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_8 se"
+                        data-sid="look-around-1_8">
+                        <h2 class="se-t sie-look-around-1_8-text st-m-heading st-d-heading">photos</h2>
+                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_9 se"
+                        data-sid="look-around-1_9">
+                        <h3 class="se-t sie-look-around-1_9-text st-m-heading st-d-heading">yes, please! »</h3>
+                    </a>
+                    <div data-sid="look-around-1_10" class="sie-look-around-1_10 se">
+                        <h3 class="se-t sie-look-around-1_10-text st-m-subheading st-d-subheading se-rc">more photos
+                            and videos</h3>
+                    </div><a href="pricing-guide.html" target="_self" class="sie-look-around-1_11 se"
+                        data-sid="look-around-1_11">
+                        <div style="width:100%;height:100%" data-img="look-around-1_11" class="se-img se-gr slzy">
+                            <span role="img"
+                                aria-label="A view from the stair at Kendall Point overlooking the ceremony site and lake."></span>
+                        </div><noscript><img
+                                src="../static.showit.co/200/BW7-Jlf4RRa6bBP3eT6deQ/105740/20230610_3963_websize.jpg"
+                                class="se-img"
+                                alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
+                                title="20230610_3963_websize" /></noscript>
+                    </a>
+                    <div data-sid="look-around-1_12" class="sie-look-around-1_12 se">
+                        <h3 class="se-t sie-look-around-1_12-text st-m-subheading st-d-subheading se-rc">Special rates
+                            for special dates!</h3>
+                    </div>
+                    <div data-sid="look-around-1_13" class="sie-look-around-1_13 se">
+                        <h3 class="se-t sie-look-around-1_13-text st-m-subheading st-d-subheading se-rc">wedding inspo
+                            and tips</h3>
+                    </div><a href="pricing-guide.html" target="_self" class="sie-look-around-1_14 se"
+                        data-sid="look-around-1_14">
+                        <h2 class="se-t sie-look-around-1_14-text st-m-heading st-d-heading">pricing</h2>
+                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_15 se"
+                        data-sid="look-around-1_15">
+                        <h2 class="se-t sie-look-around-1_15-text st-m-heading st-d-heading">blog</h2>
+                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_16 se"
+                        data-sid="look-around-1_16">
+                        <h3 class="se-t sie-look-around-1_16-text st-m-heading st-d-heading">Check them out »</h3>
+                    </a><a href="pricing-guide.html" target="_self" class="sie-look-around-1_17 se"
+                        data-sid="look-around-1_17">
+                        <h3 class="se-t sie-look-around-1_17-text st-m-heading st-d-heading">Check it out »</h3>
+                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_18 se"
+                        data-sid="look-around-1_18">
+                        <h3 class="se-t sie-look-around-1_18-text st-m-heading st-d-heading">read now! »</h3>
+                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_19 se"
+                        data-sid="look-around-1_19">
+                        <div style="width:100%;height:100%" data-img="look-around-1_19" class="se-img se-gr slzy">
+                            <span role="img"
+                                aria-label="A view from the stair at Kendall Point overlooking the ceremony site and lake."></span>
+                        </div><noscript><img
+                                src="../static.showit.co/200/yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg"
+                                class="se-img"
+                                alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
+                                title="Kendall&amp;John_Ceremony-6" /></noscript>
+                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_20 se"
+                        data-sid="look-around-1_20">
+                        <div style="width:100%;height:100%" data-img="look-around-1_20" class="se-img se-gr slzy">
+                            <span role="img"
+                                aria-label="A view from the stair at Kendall Point overlooking the ceremony site and lake."></span>
+                        </div><noscript><img
+                                src="../static.showit.co/200/_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg"
+                                class="se-img"
+                                alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
+                                title="Haley&amp;Korey-Ceremony-2" /></noscript>
+                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_21 se"
+                        data-sid="look-around-1_21">
+                        <h2 class="se-t sie-look-around-1_21-text st-m-heading st-d-heading">vendors</h2>
+                    </a>
+                    <div data-sid="look-around-1_22" class="sie-look-around-1_22 se">
+                        <h3 class="se-t sie-look-around-1_22-text st-m-subheading st-d-subheading se-rc">the best of
+                            the best</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="intro" data-bid="intro" class="sb sib-intro">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="intro_0" class="sie-intro_0 se">
+                        <p class="se-t sie-intro_0-text st-m-paragraph st-d-paragraph se-rc">Kendall Point isn’t just a
+                            stunning Texas Hill Country wedding venue, it’s a place designed to make couples feel right
+                            at home.&nbsp;<br><br>Our venue offers indoor and outdoor ceremony spaces, so you and your
+                            favorite people can bask in the gorgeous Hill Country scenery and enjoy true Southern
+                            hospitality. From your first tour to the day you finally say, “I do!” our job is to not only
+                            celebrate your story, but make you feel like part of our family.
+                            <br><br>From the ground up, Kendall Point was <a href="amenities.html"
+                                target="_self">built
+                                with you in mind</a>, making it one of the best wedding venues in
+                            Texas. The stunning wrap-around porch offers <a href="gallery.html" target="_self">360°
+                                views</a> of the lush Hill Country while the Grand Ballroom has an understated elegance
+                            that is unmatched by any other Texas wedding venue.
+                            <br><br>Conveniently located near downtown San Antonio, your wedding guests will have ample
+                            entertainment and hotel accommodations nearby.<br><br>We invite you to <a
+                                href="contact-book-your-tour.html" target="_self">schedule an in-person or virtual
+                                tour</a> to see everything Kendall Point has to offer.
+                            <br><br>
+                        </p>
+                    </div>
+                    <div data-sid="intro_2" class="sie-intro_2 se">
+                        <div data-sie="intro_2" class="sg-s sig-intro_2 sg-sc-1" style="width:100%;height:100%">
+                            <div style="width:100%;height:100%;background-image:url(../static.showit.co/400/ukePkUMRjtQVxDUjxe5cNg/105740/sp-4_websize.jpg)"
+                                class="se-img"></div>
+                        </div>
+                        <div><noscript><img
+                                    src="../static.showit.co/400/ukePkUMRjtQVxDUjxe5cNg/105740/sp-4_websize.jpg"
+                                    class="se-img" alt="SP-4_websize" title="SP-4_websize" /></noscript></div>
+                    </div>
+                    <div data-sid="intro_3" class="sie-intro_3 se">
+                        <p class="se-t sie-intro_3-text st-m-paragraph st-d-paragraph se-rc">Where Southern Charm Meets
+                            Exceptional Hospitality<br></p>
+                    </div>
+                    <div data-sid="intro_4" class="sie-intro_4 se">
+                        <h3 class="se-t sie-intro_4-text st-m-subheading st-d-subheading se-rc">welcome</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="hill-country" data-bid="hill-country" class="sb sib-hill-country">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px"><a href="vendors.html" target="_self"
+                        class="sie-hill-country_1 se" data-sid="hill-country_1">
+                        <div class="se-simple"></div>
+                    </a></div>
+            </div>
+        </div>
+        <div id="3d-tour" data-bid="3d-tour" class="sb sib-3d-tour">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="3d-tour_0" class="sie-3d-tour_0 se"><iframe
+                            src="https://my.matterport.com/show/?m=5U8HbpJLLiw" width="100%" height="100%"
+                            frameBorder="0" allowfullscreen=""></iframe></div>
+                    <div data-sid="3d-tour_1" class="sie-3d-tour_1 se">
+                        <h3 class="se-t sie-3d-tour_1-text st-m-subheading st-d-subheading se-rc">Looking for
+                            measurements? this tool is available, and awesome!<br><br></h3>
+                    </div>
+                    <div data-sid="3d-tour_2" class="sie-3d-tour_2 se">
+                        <h2 class="se-t sie-3d-tour_2-text st-m-heading st-d-heading se-rc">3D Tour</h2>
+                    </div>
+                    <div data-sid="3d-tour_3" class="sie-3d-tour_3 se">
+                        <h3 class="se-t sie-3d-tour_3-text st-m-subheading st-d-subheading se-rc">Look Around</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="san-antonio-venue" data-bid="san-antonio-venue" class="sb sib-san-antonio-venue">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px"><a href="san-antonio-wedding-venue.html" target="_self"
+                        class="sie-san-antonio-venue_0 se" data-sid="san-antonio-venue_0">
+                        <p class="se-t sie-san-antonio-venue_0-text st-m-paragraph st-d-paragraph">Kendall Point was
+                            built in 2011 from the ground up as a dedicated wedding venue in Boerne, Texas, just outside
+                            of San Antonio, the heart of central Texas. From our wrap-around porches to our bridal and
+                            groom suites, every detail was chosen with weddings in mind, ensuring that each couple gets
+                            the full VIP experience.
+                            <br><br>Outdoor wedding ceremonies are hosted under our gazebo on turf grass, overlooking a
+                            picturesque natural spring-fed pond. In addition to a sparkling chandelier, our gazebo has
+                            the perfect soft white draping.&nbsp;<br><br>Indoor ceremonies and receptions are hosted in
+                            our Grand Ballroom, featuring a sweeping staircase that makes a stunning backdrop for
+                            wedding photos and plenty of room for dancing and dining for up to 400 guests!<br><br>
+                        </p>
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_2 se"
+                        data-sid="san-antonio-venue_2">
+                        <div data-sie="san-antonio-venue_2" class="sg-s sig-san-antonio-venue_2 sg-sc-1"
+                            style="width:100%;height:100%">
+                            <div style="width:100%;height:100%;background-image:url(../static.showit.co/400/Oy8mr-82vWW0pMww_9yjPQ/105740/hr_sneak_under_the_sun_photography-370_websize.jpg)"
+                                class="se-img"></div>
+                        </div>
+                        <div><noscript><img
+                                    src="../static.showit.co/400/Oy8mr-82vWW0pMww_9yjPQ/105740/hr_sneak_under_the_sun_photography-370_websize.jpg"
+                                    class="se-img" alt="HR sneak  Under the Sun Photography-370_websize"
+                                    title="HR sneak  Under the Sun Photography-370_websize" /></noscript></div>
+                    </a><a href="san-antonio-wedding-venue.html" target="_self" class="sie-san-antonio-venue_3 se"
+                        data-sid="san-antonio-venue_3">
+                        <h2 class="se-t sie-san-antonio-venue_3-text st-m-heading st-d-title">San Antonio Weddings</h2>
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_4 se"
+                        data-sid="san-antonio-venue_4">
+                        <div class="se-simple"></div>
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_5 se"
+                        data-sid="san-antonio-venue_5">
+                        <h2 class="se-t sie-san-antonio-venue_5-text st-m-heading st-d-heading">Interested in our San
+                            antonio Wedding Venue?</h2>
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_6 se"
+                        data-sid="san-antonio-venue_6">
+                        <div class="se-simple"></div>
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_7 se"
+                        data-sid="san-antonio-venue_7">
+                        <p class="se-t sie-san-antonio-venue_7-text st-m-paragraph st-d-subheading">view amenities</p>
+                    </a></div>
+            </div>
+        </div>
+        <div id="i-do" data-bid="i-do" class="sb sib-i-do">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="i-do_0" class="sie-i-do_0 se">
+                        <p class="se-t sie-i-do_0-text st-m-paragraph st-d-paragraph se-rc">Your love story has been a
+                            lifetime in the making, and we are truly honored to play a part in helping you tell it. But
+                            our commitment to you goes beyond a beautiful wedding venue. We want to help create the
+                            memories that will last a lifetime.
+                            <br><br>Here at Kendall Point, every aspect of our San Antonio wedding venue is dedicated to
+                            making you feel special, important, and cared for. <br><br>Schedule a tour today to get a
+                            sneak preview of your class Texas wedding day!
+                            <br><br>
+                        </p>
+                    </div>
+                    <div data-sid="i-do_2" class="sie-i-do_2 se">
+                        <div data-sie="i-do_2" class="sg-s sig-i-do_2 sg-sc-1" style="width:100%;height:100%">
+                            <div style="width:100%;height:100%;background-image:url(../static.showit.co/400/UbV-a3KWsOCGLOxQpoj09g/105740/hr_sneak_under_the_sun_photography-239_websize.jpg)"
+                                class="se-img"></div>
+                        </div>
+                        <div><noscript><img
+                                    src="../static.showit.co/400/UbV-a3KWsOCGLOxQpoj09g/105740/hr_sneak_under_the_sun_photography-239_websize.jpg"
+                                    class="se-img" alt="HR sneak  Under the Sun Photography-239_websize"
+                                    title="HR sneak  Under the Sun Photography-239_websize" /></noscript></div>
+                    </div>
+                    <div data-sid="i-do_3" class="sie-i-do_3 se">
+                        <h2 class="se-t sie-i-do_3-text st-m-heading st-d-title se-rc">Say “I Do” to Kendall Point</h2>
+                    </div><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_4 se"
+                        data-sid="i-do_4">
+                        <div class="se-simple"></div>
+                    </a><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_5 se"
+                        data-sid="i-do_5">
+                        <h2 class="se-t sie-i-do_5-text st-m-title st-d-title">Schedule a tour</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="book-tour-2" data-bid="book-tour-2" class="sb sib-book-tour-2">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="book-tour-2_0" class="sie-book-tour-2_0 se">
+                        <h3 class="se-t sie-book-tour-2_0-text st-m-heading st-d-heading se-rc">what does a kendall
+                            point wedding include?</h3>
+                    </div><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_1 se"
+                        data-sid="book-tour-2_1">
+                        <div class="se-simple"></div>
+                    </a><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_2 se"
+                        data-sid="book-tour-2_2">
+                        <h3 class="se-t sie-book-tour-2_2-text st-m-subheading st-d-subheading">pricing &amp; amenities
+                        </h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="about" data-bid="about" class="sb sib-about">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="about_0" class="sie-about_0 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="about_1" class="sie-about_1 se">
+                        <div style="width:100%;height:100%" data-img="about_1" class="se-img se-gr slzy"><span
+                                role="img"
+                                aria-label="The Voss Family, Kendall Point owners and operators."></span>
+                        </div>
+                        <noscript><img
+                                src="../static.showit.co/400/-ibAwEm6Jo2uL7h2_vt02w/105740/voss-family-dawn-elizabeth-studios-038.jpg"
+                                class="se-img" alt="The Voss Family, Kendall Point owners and operators."
+                                title="Voss-Family-Dawn-Elizabeth-Studios-038" /></noscript>
+                    </div>
+                    <div data-sid="about_2" class="sie-about_2 se">
+                        <h2 class="se-t sie-about_2-text st-m-heading st-d-title se-rc">We are Family</h2>
+                    </div>
+                    <div data-sid="about_3" class="sie-about_3 se">
+                        <p class="se-t sie-about_3-text st-m-paragraph st-d-paragraph se-rc">For us, Kendall Point
+                            wasn’t just a dream come true, but an answer to lots of prayers.
+                            <br><br>As a small, family-owned, Christian business, we put our heart and soul into each
+                            wedding and consider every couple as part of our family. We look forward to working with you
+                            and helping you make your wedding dreams come true! Come join our family, y’all, we can't
+                            wait to have you!
+                            <br><br>
+                        </p>
+                    </div><a href="about.html" target="_self" class="sie-about_4 se" data-sid="about_4">
+                        <h3 class="se-t sie-about_4-text st-m-heading st-d-heading">Our Full Story &gt;</h3>
+                    </a>
+                    <div data-sid="about_5" class="sie-about_5 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="about_6" class="sie-about_6 se">
+                        <h3 class="se-t sie-about_6-text st-m-subheading st-d-subheading se-rc">about us</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="testimonials" data-bid="testimonials" class="sb sib-testimonials">
+            <div class="ss-s ss-bg">
+                <div class="sb-m ssp-d ssp-m"></div>
+                <div class="sc" style="width:1200px">
+                    <div data-sid="testimonials_0" class="sie-testimonials_0 se">
+                        <div class="si-embed"><noscript><iframe
+                                    src="https://www.googletagmanager.com/ns.html?id=GTM-WWQMC78" height="0"
+                                    width="0" style="display:none;visibility:hidden"></iframe></noscript></div>
+                    </div>
+                    <div data-sid="testimonials_1" class="sie-testimonials_1 se">
+                        <h2 class="se-t sie-testimonials_1-text st-m-heading st-d-title se-rc"><b>"This venue made for
+                                the best wedding <br>I could’ve dreamed of!"</b><br></h2>
+                    </div>
+                    <div data-sid="testimonials_2" class="sie-testimonials_2 se">
+                        <h3 class="se-t sie-testimonials_2-text st-m-subheading st-d-subheading se-rc"><b>Nicolette
+                                C.</b><br></h3>
+                    </div><a href="reviews.html" target="_self" class="sie-testimonials_3 se"
+                        data-sid="testimonials_3">
+                        <div class="se-simple"></div>
+                    </a><a href="reviews.html" target="_self" class="sie-testimonials_4 se"
+                        data-sid="testimonials_4">
+                        <h3 class="se-t sie-testimonials_4-text st-m-subheading st-d-subheading">Read more reviews from
+                            our couples!</h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="instagram" data-bid="instagram" class="sb sib-instagram">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="instagram_0" class="sie-instagram_0 se">
+                        <div id="instagram_0" class="si-social-grid"
+                            data-account="78a070a0-3613-4e4b-bc38-ed09e8bc7280" data-allow-video="1"
+                            data-allow-carousel="1" data-allow-image="1" data-allow-caption="1"
+                            data-has-fallback="true" data-m-gap="5" data-d-gap="5" data-m-rows="1" data-d-rows="1"
+                            data-m-calc-height="153" data-d-calc-height="327"
+                            data-fallback-images="[{&quot;title&quot;:&quot;Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00107&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/1qVBPgMMQFyJ18sL_-c9pg/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00107.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Bobby &amp; Ariel - March 2022-387_websize&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/sdJOL-vVSNuHg6oH70u7Pw/105740/bobby_and_ariel_-_march_2022-387_websize.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-1&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/dPYymN-lQVGQV6hyxfVxjQ/105740/kendall-point-texas-wedding-venue-virginia-ann-1.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00065&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/DS-SFQg9QZCU9YthbcXkwA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00065.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Kendall-Point-Texas-Wedding-Venue-Jessica-Chole-Photography-36&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/-RcyjY2GTAil8JwirpsYnw/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-36.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Brooke+Colten-Brooke-30&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/zv0KBiK1QyWhm8iDE4SM8A/105740/brooke_colten-brooke-30.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;},{&quot;title&quot;:&quot;Brooke+Colten-ReceptionDetails-62&quot;,&quot;media_url&quot;:&quot;//static.showit.co/327/rMOq4syQR0KBdjooQ5l4lA/105740/brooke_colten-receptiondetails-62.jpg&quot;,&quot;media_type&quot;:&quot;FALLBACK&quot;}]">
+                            <div class="sg-img-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer" data-bid="footer" class="sb sib-footer">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="footer_0" class="sie-footer_0 se">
+                        <p class="se-t sie-footer_0-text st-m-paragraph st-d-paragraph se-rc">© 2024 Kendall
+                            Point<br><a href="photo-credit.html" target="_self">Click Here for Photo Credit</a><br>
+                        </p>
+                    </div><a href="https://www.tiktok.com/@texasweddingvenue?" target="_blank"
+                        class="sie-footer_1 se" data-sid="footer_1">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M433.29,150.28c-13.21-1.22-34.28-5.4-52.61-20.21a164.93,164.93,0,0,1-27.47-32.68l-.64-1-.62-1-.14-.21c-.69-1.12-1.35-2.23-2-3.32-2.62-4.5-4.75-8.68-5.29-9.73-1.91-3.82-3.48-7.31-4.76-10.37-.34-.93-.67-1.89-1-2.92A54.43,54.43,0,0,1,336.56,53l-70.32.4.84,277.68c0,14.9-12.19,40-34.61,50.87-16.22,7.88-38.32,7.19-50.67.72l-.09-.05-.06,0,0,0a74,74,0,0,1-8.89-5.62,62.36,62.36,0,0,1-9.41-8.8c-3.5-4-10.71-12.57-13.11-25.7-1.89-10.33.28-18.48,1.34-23.35.85-3.87,5.85-24.89,26.59-37.94,21.7-13.65,43.91-8.06,47.54-7.08.28-17.86,1.05-64.79,1.15-70.41-10.74-1.81-46-6.37-82.41,14-39.25,21.89-53.34,57.85-57.12,68a131,131,0,0,0-8.2,49.21,122.67,122.67,0,0,0,37.24,86.72,148.78,148.78,0,0,0,21,16.79q2.58,2,5.41,3.72a69.53,69.53,0,0,0,14.59,6.79c5.4,2.32,62.76,25.78,118.78-8.39,56.58-34.5,61.55-97.13,61.9-102.79V189.44A150.19,150.19,0,0,0,434.54,220C434.43,213.39,433.64,166.92,433.29,150.28Z" />
+                            </svg></div>
+                    </a><a href="http://instagram.com/kendallpointvenue" target="_blank" class="sie-footer_2 se"
+                        data-sid="footer_2">
+                        <div class="se-icon"><svg viewBox="0 0 15 14" xmlns="http://www.w3.org/2000/svg">
+                                <!--Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch-->
+                                <title>
+                                    Instagram-color
+                                </title>
+                                <desc>
+                                    Created with Sketch.
+                                </desc>
+                                <defs></defs>
+                                <g stroke="none" stroke-="" fill-rule="evenodd">
+                                    <g transform="translate(-1233.000000, -45.000000)">
+                                        <path
+                                            d="M1240.85861,45 C1238.95751,45 1238.71913,45.0080581 1237.9725,45.0421244 C1237.22743,45.0761073 1236.71858,45.1944502 1236.27333,45.3675048 C1235.81302,45.5463668 1235.42264,45.7857201 1235.03346,46.1748706 C1234.64431,46.564049 1234.40496,46.9544221 1234.2261,47.414734 C1234.05304,47.8599856 1233.9347,48.3688406 1233.90072,49.113909 C1233.86665,49.8605334 1233.85859,50.0989141 1233.85859,52.0000139 C1233.85859,53.9010859 1233.86665,54.1394666 1233.90072,54.886091 C1233.9347,55.6311594 1234.05304,56.1400144 1234.2261,56.585266 C1234.40496,57.0455779 1234.64431,57.435951 1235.03346,57.8251294 C1235.42264,58.2142799 1235.81302,58.4536332 1236.27333,58.632523 C1236.71858,58.8055498 1237.22743,58.9238927 1237.9725,58.9578756 C1238.71913,58.9919419 1238.95751,59 1240.85861,59 C1242.75968,59 1242.99806,58.9919419 1243.74468,58.9578756 C1244.48975,58.9238927 1244.99861,58.8055498 1245.44386,58.632523 C1245.90417,58.4536332 1246.29454,58.2142799 1246.68372,57.8251294 C1247.07287,57.435951 1247.31223,57.0455779 1247.49112,56.585266 C1247.66414,56.1400144 1247.78249,55.6311594 1247.81647,54.886091 C1247.85054,54.1394666 1247.85859,53.9010859 1247.85859,52.0000139 C1247.85859,50.0989141 1247.85054,49.8605334 1247.81647,49.113909 C1247.78249,48.3688406 1247.66414,47.8599856 1247.49112,47.414734 C1247.31223,46.9544221 1247.07287,46.564049 1246.68372,46.1748706 C1246.29454,45.7857201 1245.90417,45.5463668 1245.44386,45.3675048 C1244.99861,45.1944502 1244.48975,45.0761073 1243.74468,45.0421244 C1242.99806,45.0080581 1242.75968,45 1240.85861,45 Z M1240.85861,46.261259 C1242.72767,46.261259 1242.94907,46.2684002 1243.68719,46.3020774 C1244.36969,46.3331984 1244.74033,46.4472343 1244.98699,46.5430979 C1245.31374,46.6700824 1245.54692,46.8217692 1245.79186,47.0667353 C1246.03682,47.3116737 1246.18851,47.5448584 1246.3155,47.8716004 C1246.41136,48.1182615 1246.5254,48.4889062 1246.55652,49.1713993 C1246.59019,49.9095211 1246.59733,50.1309242 1246.59733,52.0000139 C1246.59733,53.8690758 1246.59019,54.0904789 1246.55652,54.8286007 C1246.5254,55.5110938 1246.41136,55.8817385 1246.3155,56.1283996 C1246.18851,56.4551416 1246.03682,56.6883263 1245.79186,56.9332647 C1245.54692,57.1782308 1245.31374,57.3299176 1244.98699,57.4569021 C1244.74033,57.5527657 1244.36969,57.6668016 1243.68719,57.6979226 C1242.94918,57.7315998 1242.72781,57.738741 1240.85861,57.738741 C1238.98938,57.738741 1238.76803,57.7315998 1238.02999,57.6979226 C1237.3475,57.6668016 1236.97686,57.5527657 1236.73019,57.4569021 C1236.40345,57.3299176 1236.17027,57.1782308 1235.92533,56.9332647 C1235.68039,56.6883263 1235.52868,56.4551416 1235.40169,56.1283996 C1235.30583,55.8817385 1235.19179,55.5110938 1235.16067,54.8286007 C1235.12699,54.0904789 1235.11985,53.8690758 1235.11985,52.0000139 C1235.11985,50.1309242 1235.12699,49.9095211 1235.16067,49.1713993 C1235.19179,48.4889062 1235.30583,48.1182615 1235.40169,47.8716004 C1235.52868,47.5448584 1235.68036,47.3116737 1235.92533,47.0667353 C1236.17027,46.8217692 1236.40345,46.6700824 1236.73019,46.5430979 C1236.97686,46.4472343 1237.3475,46.3331984 1238.02999,46.3020774 C1238.76811,46.2684002 1238.98952,46.261259 1240.85861,46.261259 Z M1240.85861,48.4054077 C1238.87334,48.4054077 1237.264,50.0147487 1237.264,52.0000139 C1237.264,53.9852513 1238.87334,55.5945923 1240.85861,55.5945923 C1242.84385,55.5945923 1244.45319,53.9852513 1244.45319,52.0000139 C1244.45319,50.0147487 1242.84385,48.4054077 1240.85861,48.4054077 Z M1240.85861,54.3333333 C1239.56992,54.3333333 1238.52526,53.2886704 1238.52526,52.0000139 C1238.52526,50.7113296 1239.56992,49.6666667 1240.85861,49.6666667 C1242.14726,49.6666667 1243.19193,50.7113296 1243.19193,52.0000139 C1243.19193,53.2886704 1242.14726,54.3333333 1240.85861,54.3333333 Z M1245.43522,48.2633906 C1245.43522,48.7273148 1245.05913,49.1033779 1244.5952,49.1033779 C1244.13131,49.1033779 1243.75522,48.7273148 1243.75522,48.2633906 C1243.75522,47.7994665 1244.13131,47.4233756 1244.5952,47.4233756 C1245.05913,47.4233756 1245.43522,47.7994665 1245.43522,48.2633906 Z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg></div>
+                    </a><a href="https://www.facebook.com/kendallpointvenue" target="_blank" class="sie-footer_3 se"
+                        data-sid="footer_3">
+                        <div class="se-icon"><svg viewBox="0 0 13 14" xmlns="http://www.w3.org/2000/svg">
+                                <!--Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch-->
+                                <title>
+                                    Facebook Copy-color
+                                </title>
+                                <desc>
+                                    Created with Sketch.
+                                </desc>
+                                <defs></defs>
+                                <g stroke="none" stroke-="" fill-rule="evenodd">
+                                    <g transform="translate(-1277.000000, -45.000000)">
+                                        <path
+                                            d="M1278.1209,58.1764706 C1277.75501,58.1764706 1277.45859,57.8711449 1277.45859,57.4946404 L1277.45859,46.5053116 C1277.45859,46.1287113 1277.75506,45.8235294 1278.1209,45.8235294 L1288.79633,45.8235294 C1289.16208,45.8235294 1289.45859,46.1287113 1289.45859,46.5053116 L1289.45859,57.4946404 C1289.45859,57.8711928 1289.16204,58.1764706 1288.79633,58.1764706 L1285.73842,58.1764706 L1285.73842,53.392731 L1287.29822,53.392731 L1287.53178,51.5284228 L1285.73842,51.5284228 L1285.73842,50.3381798 C1285.73842,49.7984195 1285.88402,49.4305907 1286.63592,49.4305907 L1287.59492,49.4301593 L1287.59492,47.7627071 C1287.42907,47.7399874 1286.85979,47.6892276 1286.19748,47.6892276 C1284.8148,47.6892276 1283.86818,48.5580398 1283.86818,50.1535464 L1283.86818,51.5284228 L1282.30437,51.5284228 L1282.30437,53.392731 L1283.86818,53.392731 L1283.86818,58.1764706 L1278.1209,58.1764706 Z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg></div>
+                    </a><a href="https://www.pinterest.com/kendallpointvenue/" target="_blank"
+                        class="sie-footer_4 se" data-sid="footer_4">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M256 32C132.3 32 32 132.3 32 256c0 91.7 55.2 170.5 134.1 205.2-.6-15.6-.1-34.4 3.9-51.4 4.3-18.2 28.8-122.1 28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2 19.2-58 43.2-58 20.4 0 30.2 15.3 30.2 33.6 0 20.5-13.1 51.1-19.8 79.5-5.6 23.8 11.9 43.1 35.4 43.1 42.4 0 71-54.5 71-119.1 0-49.1-33.1-85.8-93.2-85.8-67.9 0-110.3 50.7-110.3 107.3 0 19.5 5.8 33.3 14.8 43.9 4.1 4.9 4.7 6.9 3.2 12.5-1.1 4.1-3.5 14-4.6 18-1.5 5.7-6.1 7.7-11.2 5.6-31.3-12.8-45.9-47-45.9-85.6 0-63.6 53.7-139.9 160.1-139.9 85.5 0 141.8 61.9 141.8 128.3 0 87.9-48.9 153.5-120.9 153.5-24.2 0-46.9-13.1-54.7-27.9 0 0-13 51.6-15.8 61.6-4.7 17.3-14 34.5-22.5 48 20.1 5.9 41.4 9.2 63.5 9.2 123.7 0 224-100.3 224-224C480 132.3 379.7 32 256 32z" />
+                            </svg></div>
+                    </a>
+                    <div data-sid="footer_5" class="sie-footer_5 se">
+                        <p class="se-t sie-footer_5-text st-m-paragraph st-d-paragraph se-rc">social stalk us<br></p>
+                    </div>
+                    <div data-sid="footer_6" class="sie-footer_6 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="footer_7" class="sie-footer_7 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="footer_8" class="sie-footer_8 se">
+                        <div class="se-simple"></div>
+                    </div>
+                    <div data-sid="footer_9" class="sie-footer_9 se">
+                        <div class="se-simple"></div>
+                    </div><a href="contact.html" target="_self" class="sie-footer_10 se" data-sid="footer_10">
+                        <h3 class="se-t sie-footer_10-text st-m-subheading st-d-subheading">Like what you see?</h3>
+                    </a><a href="contact.html" target="_self" class="sie-footer_11 se" data-sid="footer_11">
+                        <div class="se-t sie-footer_11-text st-m-title st-d-title">reach out to us!</div>
+                    </a><a href="#/" target="_self" class="sie-footer_12 se" data-sid="footer_12">
+                        <div style="width:100%;height:100%" data-img="footer_12" class="se-img se-gr slzy"></div>
+                        <noscript><img
+                                src="../static.showit.co/400/39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png"
+                                class="se-img" alt="" title="Kendall-Point-Submark-White" /></noscript>
+                    </a>
+                    <div data-sid="footer_13" class="sie-footer_13 se">
+                        <p class="se-t sie-footer_13-text st-m-paragraph st-d-paragraph se-rc">20 GUTHRIE ROAD
+                            <br>BOERNE, TEXAS 78006<br>
+                        </p>
+                    </div><a href="mailto:kristin@kendallpoint.com" target="_self" class="sie-footer_14 se"
+                        data-sid="footer_14">
+                        <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
+                            kristin@kendallpoint.com<br><br></p>
+                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                        <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
+                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                        <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
+                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                        <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
+                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                        <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
+                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                        <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
+                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                        <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
+                    </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
+                        <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
+                    </a><a href="resources.html" target="_self" class="sie-footer_22 se" data-sid="footer_22">
+                        <p class="se-t sie-footer_22-text st-m-paragraph st-d-paragraph">Resources<br></p>
+                    </a><a href="san-antonio-wedding-venue.html" target="_self" class="sie-footer_23 se"
+                        data-sid="footer_23">
+                        <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
+                        </p>
+                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                        <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="contact-sticky" data-bid="contact-sticky" class="sb sib-contact-sticky sb-lm">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px"><a href="contact-book-your-tour.html" target="_self"
+                        class="sie-contact-sticky_0 se" data-sid="contact-sticky_0">
+                        <h2 class="se-t sie-contact-sticky_0-text st-m-subheading st-d-subheading">Book Your Tour<br>
+                        </h2>
+                    </a></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/rE174ODWG -->
+    <div id="mobile-sticky-sec" class="mobile-contact-sec"><span class="contact_us_page_sec"><a
+                href=contact-book-your-tour.html "><img src= wp-content/plugins/mobile-contact-section/public/assets/images/email_icon.svg  width="10px" height="10px" alt="Contact" /></a><h2><a class="contact_us_page_sec_sub" rel="nofollow" href="contact-book-your-tour.html">Book Your Tour</a></h2></span></div></body>
+
+<!-- Mirrored from kendallpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jan 2025 16:01:08 GMT -->
+</html>
