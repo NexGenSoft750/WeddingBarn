@@ -3503,7 +3503,8 @@
                             for Your Dream Wedding</h1>
                     </div><a href="contact.html" target="_self" class="sie-top-gallery_4 se" data-sid="top-gallery_4">
                         <div class="se-simple"></div>
-                    </a><a href="contact.html" target="_self" class="sie-top-gallery_5 se" data-sid="top-gallery_5">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-top-gallery_5 se"
+                        data-sid="top-gallery_5">
                         <h3 class="se-t sie-top-gallery_5-text st-m-subheading st-d-subheading">See Kendall Point for
                             Yourself&nbsp;</h3>
                     </a>
@@ -3515,7 +3516,7 @@
                 <div class="sc" style="width:1200px">
                     <div data-sid="look-around-1_0" class="sie-look-around-1_0 se">
                         <div class="se-simple"></div>
-                    </div><a href="amenities.html" target="_self" class="sie-look-around-1_1 se"
+                    </div><a href="{{ route('amenities') }}" target="_self" class="sie-look-around-1_1 se"
                         data-sid="look-around-1_1">
                         <div style="width:100%;height:100%" data-img="look-around-1_1" class="se-img se-gr slzy">
                             <span role="img"
@@ -3525,10 +3526,10 @@
                                 class="se-img"
                                 alt="A bridge and groom kiss on a tree swing in front of the Kendall Point lake."
                                 title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-67" /></noscript>
-                    </a><a href="amenities.html" target="_self" class="sie-look-around-1_2 se"
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-look-around-1_2 se"
                         data-sid="look-around-1_2">
                         <h2 class="se-t sie-look-around-1_2-text st-m-heading st-d-heading">Amenities</h2>
-                    </a><a href="amenities.html" target="_self" class="sie-look-around-1_3 se"
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-look-around-1_3 se"
                         data-sid="look-around-1_3">
                         <h3 class="se-t sie-look-around-1_3-text st-m-heading st-d-heading">take a look »</h3>
                     </a>
@@ -3538,11 +3539,11 @@
                     <div data-sid="look-around-1_5" class="sie-look-around-1_5 se">
                         <h3 class="se-t sie-look-around-1_5-text st-m-subheading st-d-subheading se-rc">look around
                         </h3>
-                    </div><a href="amenities.html" target="_self" class="sie-look-around-1_6 se"
+                    </div><a href="{{ route('amenities') }}" target="_self" class="sie-look-around-1_6 se"
                         data-sid="look-around-1_6">
                         <h3 class="se-t sie-look-around-1_6-text st-m-subheading st-d-subheading">included in your
                             package</h3>
-                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_7 se"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-look-around-1_7 se"
                         data-sid="look-around-1_7">
                         <div style="width:100%;height:100%" data-img="look-around-1_7" class="se-img se-gr slzy">
                             <span role="img"
@@ -3552,17 +3553,17 @@
                                 class="se-img"
                                 alt="The Kendall Point wedding venue offers ample space and picturesque views."
                                 title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-0446" /></noscript>
-                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_8 se"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-look-around-1_8 se"
                         data-sid="look-around-1_8">
                         <h2 class="se-t sie-look-around-1_8-text st-m-heading st-d-heading">photos</h2>
-                    </a><a href="gallery.html" target="_self" class="sie-look-around-1_9 se"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-look-around-1_9 se"
                         data-sid="look-around-1_9">
                         <h3 class="se-t sie-look-around-1_9-text st-m-heading st-d-heading">yes, please! »</h3>
                     </a>
                     <div data-sid="look-around-1_10" class="sie-look-around-1_10 se">
                         <h3 class="se-t sie-look-around-1_10-text st-m-subheading st-d-subheading se-rc">more photos
                             and videos</h3>
-                    </div><a href="pricing-guide.html" target="_self" class="sie-look-around-1_11 se"
+                    </div><a href="{{ route('price') }}" target="_self" class="sie-look-around-1_11 se"
                         data-sid="look-around-1_11">
                         <div style="width:100%;height:100%" data-img="look-around-1_11" class="se-img se-gr slzy">
                             <span role="img"
@@ -3583,19 +3584,19 @@
                     </div><a href="pricing-guide.html" target="_self" class="sie-look-around-1_14 se"
                         data-sid="look-around-1_14">
                         <h2 class="se-t sie-look-around-1_14-text st-m-heading st-d-heading">pricing</h2>
-                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_15 se"
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_15 se"
                         data-sid="look-around-1_15">
                         <h2 class="se-t sie-look-around-1_15-text st-m-heading st-d-heading">blog</h2>
-                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_16 se"
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-look-around-1_16 se"
                         data-sid="look-around-1_16">
                         <h3 class="se-t sie-look-around-1_16-text st-m-heading st-d-heading">Check them out »</h3>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-look-around-1_17 se"
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-look-around-1_17 se"
                         data-sid="look-around-1_17">
                         <h3 class="se-t sie-look-around-1_17-text st-m-heading st-d-heading">Check it out »</h3>
-                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_18 se"
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_18 se"
                         data-sid="look-around-1_18">
                         <h3 class="se-t sie-look-around-1_18-text st-m-heading st-d-heading">read now! »</h3>
-                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_19 se"
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-look-around-1_19 se"
                         data-sid="look-around-1_19">
                         <div style="width:100%;height:100%" data-img="look-around-1_19" class="se-img se-gr slzy">
                             <span role="img"
@@ -3605,7 +3606,7 @@
                                 class="se-img"
                                 alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
                                 title="Kendall&amp;John_Ceremony-6" /></noscript>
-                    </a><a href="blog/index.html" target="_self" class="sie-look-around-1_20 se"
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_20 se"
                         data-sid="look-around-1_20">
                         <div style="width:100%;height:100%" data-img="look-around-1_20" class="se-img se-gr slzy">
                             <span role="img"
@@ -3615,7 +3616,7 @@
                                 class="se-img"
                                 alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
                                 title="Haley&amp;Korey-Ceremony-2" /></noscript>
-                    </a><a href="vendors.html" target="_self" class="sie-look-around-1_21 se"
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-look-around-1_21 se"
                         data-sid="look-around-1_21">
                         <h2 class="se-t sie-look-around-1_21-text st-m-heading st-d-heading">vendors</h2>
                     </a>
@@ -3727,7 +3728,7 @@
                     </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_4 se"
                         data-sid="san-antonio-venue_4">
                         <div class="se-simple"></div>
-                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_5 se"
+                    </a><a href="{{route('amenities')}}" target="_self" class="sie-san-antonio-venue_5 se"
                         data-sid="san-antonio-venue_5">
                         <h2 class="se-t sie-san-antonio-venue_5-text st-m-heading st-d-heading">Interested in our San
                             antonio Wedding Venue?</h2>
@@ -3769,7 +3770,7 @@
                     </div><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_4 se"
                         data-sid="i-do_4">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_5 se"
+                    </a><a href="{{route('book')}}" target="_blank" class="sie-i-do_5 se"
                         data-sid="i-do_5">
                         <h2 class="se-t sie-i-do_5-text st-m-title st-d-title">Schedule a tour</h2>
                     </a>
@@ -3785,7 +3786,7 @@
                     </div><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_1 se"
                         data-sid="book-tour-2_1">
                         <div class="se-simple"></div>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_2 se"
+                    </a><a href="{{route('price')}}" target="_self" class="sie-book-tour-2_2 se"
                         data-sid="book-tour-2_2">
                         <h3 class="se-t sie-book-tour-2_2-text st-m-subheading st-d-subheading">pricing &amp; amenities
                         </h3>
@@ -3821,7 +3822,7 @@
                             wait to have you!
                             <br><br>
                         </p>
-                    </div><a href="about.html" target="_self" class="sie-about_4 se" data-sid="about_4">
+                    </div><a href="{{route('about')}}" target="_self" class="sie-about_4 se" data-sid="about_4">
                         <h3 class="se-t sie-about_4-text st-m-heading st-d-heading">Our Full Story &gt;</h3>
                     </a>
                     <div data-sid="about_5" class="sie-about_5 se">
@@ -3849,10 +3850,10 @@
                     <div data-sid="testimonials_2" class="sie-testimonials_2 se">
                         <h3 class="se-t sie-testimonials_2-text st-m-subheading st-d-subheading se-rc"><b>Nicolette
                                 C.</b><br></h3>
-                    </div><a href="reviews.html" target="_self" class="sie-testimonials_3 se"
+                    </div><a href="{{route('review')}}" target="_self" class="sie-testimonials_3 se"
                         data-sid="testimonials_3">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-testimonials_4 se"
+                    </a><a href="{{route('review')}}" target="_self" class="sie-testimonials_4 se"
                         data-sid="testimonials_4">
                         <h3 class="se-t sie-testimonials_4-text st-m-subheading st-d-subheading">Read more reviews from
                             our couples!</h3>

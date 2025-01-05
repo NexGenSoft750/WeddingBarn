@@ -3305,7 +3305,7 @@
                             elegant wedding
                             with timeless appeal and picturesque scenery, Kendall Point is the place to say “I Do.” Set
                             atop a hill,
-                            offering <a href="gallery.html" target="_self">breathtaking views of Texas Hill
+                            offering <a href="{{ route('gallery') }}" target="_self">breathtaking views of Texas Hill
                                 Country</a> and a cool
                             breeze year-round, Kendall Point highlights some of the most desirable features for today’s
                             bride.<br><br>Celebrate your nuptials in unforgettable elegance with an outdoor ceremony on
@@ -3314,7 +3314,7 @@
                             it overlooks a
                             natural spring pond.<br><br>Whether you are planning a gorgeous daytime wedding or a
                             spectacular nighttime
-                            event, we want to <a href="contact-book-your-tour.html" target="_self">make your wedding
+                            event, we want to <a href="{{ route('book') }}" target="_self">make your wedding
                                 vision come
                                 true</a>!&nbsp;<br><br><br><br><br><br><br></p>
                     </div>
@@ -3337,7 +3337,7 @@
                     </div><a href="contact-book-your-tour.html" target="_self" class="sie-cta-amenities_1 se"
                         data-sid="cta-amenities_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-cta-amenities_2 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-cta-amenities_2 se"
                         data-sid="cta-amenities_2">
                         <h3 class="se-t sie-cta-amenities_2-text st-m-subheading st-d-subheading">Let's Plan Your Dream
                             Wedding!
@@ -3500,10 +3500,10 @@
                                 days include
                                 top-notch vendors! Our featured vendors go above and beyond for our couples.</b><br>
                         </h2>
-                    </div><a href="vendors.html" target="_self" class="sie-vendor-banner_1 se"
+                    </div><a href="{{ route('vendor') }}" target="_self" class="sie-vendor-banner_1 se"
                         data-sid="vendor-banner_1">
                         <div class="se-simple"></div>
-                    </a><a href="vendors.html" target="_self" class="sie-vendor-banner_2 se"
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-vendor-banner_2 se"
                         data-sid="vendor-banner_2">
                         <h3 class="se-t sie-vendor-banner_2-text st-m-subheading st-d-subheading">Check them out</h3>
                     </a>
@@ -3603,10 +3603,10 @@
                         <h2 class="se-t sie-testimonials-1_0-text st-m-heading st-d-title se-rc"><b>"This venue made
                                 for the best
                                 wedding<br></b>I could have dreamed of!"<br></h2>
-                    </div><a href="reviews.html" target="_self" class="sie-testimonials-1_1 se"
+                    </div><a href="{{ route('review') }}" target="_self" class="sie-testimonials-1_1 se"
                         data-sid="testimonials-1_1">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-testimonials-1_2 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-testimonials-1_2 se"
                         data-sid="testimonials-1_2">
                         <h3 class="se-t sie-testimonials-1_2-text st-m-subheading st-d-subheading">Read more reviews
                         </h3>
@@ -3625,10 +3625,10 @@
                         <h3 class="se-t sie-book-tour_0-text st-m-heading st-d-heading se-rc">Ready to book a tour?
                             Let's get you on
                             the calendar!</h3>
-                    </div><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_1 se"
+                    </div><a href="{{ route('book') }}" target="_self" class="sie-book-tour_1 se"
                         data-sid="book-tour_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_2 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-book-tour_2 se"
                         data-sid="book-tour_2">
                         <h3 class="se-t sie-book-tour_2-text st-m-subheading st-d-subheading">Book your tour</h3>
                     </a>
