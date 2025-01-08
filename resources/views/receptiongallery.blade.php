@@ -2582,14 +2582,14 @@
     <div id="si-sp" class="sp">
         <div id="announcement-header" data-bid="announcement-header" class="sb sib-announcement-header">
             <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"><a href="https://forms.gle/tpF2a84L33JxYTr99" target="_self"
+                <div class="sc" style="width:1200px"><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_self"
                         class="sie-announcement-header_0 se" data-sid="announcement-header_0">
                         <div class="se-simple"></div>
                     </a><a href="open-house.html" target="_blank" class="sie-announcement-header_1 se"
                         data-sid="announcement-header_1">
                         <h1 class="se-t sie-announcement-header_1-text st-m-subheading st-d-subheading">open
                             house<br>sunday, february 2nd 12:00-3:00<br></h1>
-                    </a><a href="https://forms.gle/tpF2a84L33JxYTr99" target="_blank"
+                    </a><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_blank"
                         class="sie-announcement-header_2 se" data-sid="announcement-header_2">
                         <h1 class="se-t sie-announcement-header_2-text st-m-subheading st-d-subheading">rsvp&nbsp;</h1>
                     </a></div>
