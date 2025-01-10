@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 Route::prefix('home')->group(function () {
     Route::get('/', function () {
@@ -45,4 +46,8 @@ Route::prefix('home')->group(function () {
     Route::get('/about', function () {
         return view('about');
     })->name('about');
+    Route::get('/micro-wedding', function () {
+        return view('microwedding');
+    })->name('microwedding');
+    Route::post('/submit-contact-form', [ContactController::class, 'submitForm'])->name('contactemail');
 });

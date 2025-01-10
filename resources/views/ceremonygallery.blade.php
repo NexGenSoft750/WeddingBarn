@@ -2573,6 +2573,113 @@
             font-weight: 800 !important;
             text-decoration: underline !important
         }
+               .d .sie-navigations_1 {
+   left: 400px; /* Default settings for large desktops */
+        top: 50px;
+        width: 150px;
+        height: 27px;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+/* Large desktops (screen width >= 1367px) */
+@media (min-width: 1367px) {
+    .d .sie-navigations_1 {
+        left: 380px; /* Default settings for large desktops */
+        top: 30px;
+        width: 150px;
+        height: 27px;
+        margin-left: 10px;
+        margin-bottom: 30px;
+    }
+}
+
+/* Laptops (screen widths between 1024px and 1366px) */
+@media (min-width: 1024px) and (max-width: 1366px) {
+    .d .sie-navigations_1 {
+        left: 370px; /* Further adjust positioning */
+        top: 30px; /* Adjust top position */
+        margin-right: 20px;
+        margin-bottom: 30px;
+    }
+    .d .sie-navigations_1-text {
+        color: rgba(4, 4, 4, 1);
+        text-transform: uppercase;
+        line-height: 2;
+        letter-spacing: 0.1em;
+        font-size: 8px; /* Reduced font size */
+        text-align: center;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        font-style: normal;
+    }
+}
+
+
+/* Tablets and smaller laptops (screen widths between 768px and 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .d .sie-navigations_1 {
+         left: 220px; /* Adjust positioning */
+        top: 10px; /* Adjust top position */
+        width: 130px; /* Reduce width */
+        height: 25px; /* Adjust height */
+         margin-left: 10px;
+        margin-bottom: 30px;
+    }
+
+}
+@media screen and (max-width: 425px) {
+   .d .sie-navigations_1 {
+        display: none; /* Hide the entire navbar */
+    }
+}
+
+
+/* Mobile and smaller tablets (screen widths between 425px and 767px) */
+
+.d .sie-navigations_1-text {
+    color: rgba(4, 4, 4, 1);
+    text-transform: uppercase;
+    line-height: 2;
+    letter-spacing: 0.2em;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+/* Mobile devices (screen width <= 425px) */
+
+
+
+
+
+
+
+/* Large mobile devices (screen widths between 576px and 767px) */
+
+
+/* Small mobile devices (screen widths < 576px) */
+.m .sie-mobiles-nav_13 {
+    left: 32px;
+    top: 110px;
+    width: 239px;
+    height: 23px;
+    margin-left: 10px;
+}
+.m .sie-mobiles-nav_13-text {
+    color: rgba(4, 4, 4, 1);
+    text-transform: uppercase;
+    line-height: 1.4;
+    letter-spacing: 0.2em;
+    font-size: 13px;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-style: normal;
+}
     </style>
 </head>
 
@@ -2688,7 +2795,11 @@
                 <div class="sc" style="width:1200px">
                     <div data-sid="navigation_0" class="sie-navigation_0 se">
                         <p class="se-t sie-navigation_0-text st-m-paragraph st-d-paragraph se-rc"></p>
-                    </div><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
+                    </div>
+                     <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
+                     data-sid="navigation_1">
+                     <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
+                 </a><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
                         data-sid="navigation_1">
                         <p class="se-t sie-navigation_1-text st-m-paragraph st-d-paragraph">The Venue</p>
                     </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_2 se"

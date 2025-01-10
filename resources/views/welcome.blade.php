@@ -70,635 +70,989 @@
     </script>
     <link rel="stylesheet" type="text/css" href="../lib.showit.co/engine/2.2.6/showit.css" />
     <style id="si-page-css">
-        .d .sie-3d-tour_2-text,
-        .d .st-d-paragraph.se-rc a,
-        .d .st-d-subheading.se-rc a,
-        .d .st-d-title,
-        .d .st-d-title.se-rc a,
-        .m .st-m-paragraph.se-rc a,
-        .m .st-m-subheading.se-rc a,
-        .m .st-m-title,
-        .m .st-m-title.se-rc a {
-            color: #384f72
-        }
-
-        .d .sie-top-gallery_5,
-        .m .sie-top-gallery_5 {
-            transition-duration: .5s;
-            transition-property: opacity
-        }
-
-        .d .sib-navigation .sis-navigation_view-1,
-        .d .sib-navigation .sis-navigation_view-1-1,
-        .d .sib-navigation .sis-navigation_view-2,
-        .d .sib-social-stalk-us .ss-bg,
-        .m .sib-navigation .sis-navigation_view-1,
-        .m .sib-navigation .sis-navigation_view-1-1,
-        .m .sib-navigation .sis-navigation_view-2,
-        html.d,
         html.m {
-            background-color: rgba(0, 0, 0, 0)
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        html.d {
+            background-color: rgba(0, 0, 0, 0);
         }
 
         .d .st-d-title {
+            color: rgba(56, 79, 114, 1);
             text-transform: lowercase;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 35px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .d .st-d-heading,
+        .d .st-d-title.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
+        .d .st-d-title.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
+        }
+
         .m .st-m-title {
-            font-size: 30px;
+            color: rgba(56, 79, 114, 1);
             text-transform: lowercase;
+            font-size: 30px;
             text-align: center;
             font-family: 'Libre Baskerville';
+            font-weight: 400;
             font-style: italic;
-            font-weight: 400
         }
 
-        .d .st-d-paragraph.se-rc a:hover,
-        .d .st-d-subheading.se-rc a:hover,
-        .d .st-d-title.se-rc a:hover,
-        .m .st-m-paragraph.se-rc a:hover,
-        .m .st-m-subheading.se-rc a:hover,
+        .m .st-m-title.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
         .m .st-m-title.se-rc a:hover {
             text-decoration: underline;
-            color: #384f72;
-            opacity: .8
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
         }
 
         .d .st-d-heading {
-            color: #8b8b8b;
+            color: rgba(139, 139, 139, 1);
+            text-transform: lowercase;
             line-height: 1.2;
-            letter-spacing: .1em
+            letter-spacing: 0.1em;
+            font-size: 30px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
-        .d .st-d-heading.se-rc a,
-        .m .st-m-heading.se-rc a {
-            color: #8b8b8b
+        .d .st-d-heading.se-rc a {
+            color: rgba(139, 139, 139, 1);
         }
 
-        .d .st-d-heading.se-rc a:hover,
-        .m .st-m-heading.se-rc a:hover {
+        .d .st-d-heading.se-rc a:hover {
             text-decoration: underline;
-            color: #8b8b8b;
-            opacity: .8
+            color: rgba(139, 139, 139, 1);
+            opacity: 0.8;
         }
 
         .m .st-m-heading {
-            color: #8b8b8b;
+            color: rgba(139, 139, 139, 1);
             text-transform: lowercase;
             line-height: 1;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 20px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .d .st-d-subheading,
-        .m .st-m-subheading {
-            color: #384f72;
-            letter-spacing: .1em;
-            text-align: center;
-            font-family: Montserrat;
-            text-transform: uppercase
+        .m .st-m-heading.se-rc a {
+            color: rgba(139, 139, 139, 1);
+        }
+
+        .m .st-m-heading.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(139, 139, 139, 1);
+            opacity: 0.8;
         }
 
         .d .st-d-subheading {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
             font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .d .st-d-subheading.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
+        .d .st-d-subheading.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
         }
 
         .m .st-m-subheading {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
             font-size: 11px;
+            text-align: center;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .st-d-paragraph,
-        .m .st-m-paragraph {
-            color: #384f72;
-            line-height: 2;
-            letter-spacing: 0;
-            font-size: 12px;
-            font-family: 'Libre Baskerville';
-            font-weight: 400;
-            font-style: normal
+        .m .st-m-subheading.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
+        .m .st-m-subheading.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
         }
 
         .d .st-d-paragraph {
-            text-align: left
+            color: rgba(56, 79, 114, 1);
+            line-height: 2;
+            letter-spacing: 0em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .st-d-paragraph.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
+        .d .st-d-paragraph.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
+        }
+
+        .m .st-m-paragraph {
+            color: rgba(56, 79, 114, 1);
+            line-height: 2;
+            letter-spacing: 0em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .st-m-paragraph.se-rc a {
+            color: rgba(56, 79, 114, 1);
+        }
+
+        .m .st-m-paragraph.se-rc a:hover {
+            text-decoration: underline;
+            color: rgba(56, 79, 114, 1);
+            opacity: 0.8;
         }
 
         .m .sib-announcement-header {
-            height: 137px
+            height: 137px;
         }
 
         .d .sib-announcement-header {
-            height: 76px
+            height: 76px;
         }
 
-        .d .sib-announcement-header .ss-bg,
-        .m .sib-announcement-header .ss-bg,
-        .m .sib-navigation .ss-bg {
-            background-color: #6c8bbb
+        .m .sib-announcement-header .ss-bg {
+            background-color: rgba(108, 139, 187, 1);
+        }
+
+        .d .sib-announcement-header .ss-bg {
+            background-color: rgba(108, 139, 187, 1);
         }
 
         .d .sie-announcement-header_0 {
             left: 874px;
             top: 22px;
             width: 158px;
-            height: 36px
+            height: 36px;
         }
 
         .m .sie-announcement-header_0 {
             left: 72px;
             top: 81px;
             width: 176px;
-            height: 41px
+            height: 41px;
         }
 
-        .d .sib-3d-tour .ss-bg,
-        .d .sib-about .ss-bg,
-        .d .sib-header .ss-bg,
-        .d .sib-hill-country .ss-bg,
-        .d .sib-i-do .ss-bg,
-        .d .sib-instagram .ss-bg,
-        .d .sib-intro .ss-bg,
-        .d .sib-look-around-1 .ss-bg,
-        .d .sib-mobile-nav .ss-bg,
-        .d .sib-navigation .ss-bg,
-        .d .sib-san-antonio-venue .ss-bg,
-        .d .sib-testimonials .ss-bg,
-        .d .sib-top-gallery .ss-bg,
-        .d .sie-announcement-header_0 .se-simple,
-        .d .sie-book-tour-2_1 .se-simple,
-        .d .sie-drop-navigation_view-1-1_0 .se-simple,
-        .d .sie-drop-navigation_view-1_0 .se-simple,
-        .d .sie-hill-country_1 .se-simple,
-        .d .sie-navigation_view-1-1_5 .se-simple,
-        .d .sie-navigation_view-2_1 .se-simple,
-        .d .sie-san-antonio-venue_6 .se-simple,
-        .d .sie-top-gallery_4 .se-simple,
-        .m .sib-3d-tour .ss-bg,
-        .m .sib-about .ss-bg,
-        .m .sib-drop-navigation .ss-bg,
-        .m .sib-header .ss-bg,
-        .m .sib-hill-country .ss-bg,
-        .m .sib-i-do .ss-bg,
-        .m .sib-instagram .ss-bg,
-        .m .sib-intro .ss-bg,
-        .m .sib-look-around-1 .ss-bg,
-        .m .sib-mobile-nav .ss-bg,
-        .m .sib-san-antonio-venue .ss-bg,
-        .m .sib-testimonials .ss-bg,
-        .m .sib-top-gallery .ss-bg,
-        .m .sie-announcement-header_0 .se-simple,
-        .m .sie-book-tour-2_1 .se-simple,
-        .m .sie-drop-navigation_view-1-1_0 .se-simple,
-        .m .sie-drop-navigation_view-1_0 .se-simple,
-        .m .sie-hill-country_1 .se-simple,
-        .m .sie-san-antonio-venue_6 .se-simple,
-        .m .sie-top-gallery_4 .se-simple {
-            background-color: #fff
+        .d .sie-announcement-header_0 .se-simple:hover {}
+
+        .m .sie-announcement-header_0 .se-simple:hover {}
+
+        .d .sie-announcement-header_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-announcement-header_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-announcement-header_1 {
             left: 315px;
             top: 16px;
             width: 533px;
-            height: 45px
+            height: 45px;
         }
 
         .m .sie-announcement-header_1 {
             left: 9px;
             top: 19px;
             width: 311px;
-            height: 39px
+            height: 39px;
         }
 
         .d .sie-announcement-header_1-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             line-height: 1.3;
-            letter-spacing: .35em;
-            font-size: 18px
+            letter-spacing: 0.35em;
+            font-size: 18px;
         }
 
         .m .sie-announcement-header_1-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             line-height: 1.3;
-            letter-spacing: .35em;
-            font-size: 15px
-        }
-
-        .d .sie-announcement-header_2-text,
-        .m .sie-announcement-header_2-text {
-            letter-spacing: .48em;
-            font-family: Montserrat;
-            font-style: normal;
-            font-weight: 700
+            letter-spacing: 0.35em;
+            font-size: 15px;
         }
 
         .d .sie-announcement-header_2 {
             left: 889px;
             top: 33px;
             width: 138px;
-            height: 25px
+            height: 25px;
         }
 
         .m .sie-announcement-header_2 {
             left: 72px;
             top: 94px;
             width: 176px;
-            height: 28px
+            height: 28px;
         }
 
         .d .sie-announcement-header_2-text {
-            font-size: 16px
+            letter-spacing: 0.48em;
+            font-size: 16px;
+            font-family: 'Montserrat';
+            font-weight: 700;
+            font-style: normal;
         }
 
         .m .sie-announcement-header_2-text {
-            font-size: 11px
+            letter-spacing: 0.48em;
+            font-size: 11px;
+            font-family: 'Montserrat';
+            font-weight: 700;
+            font-style: normal;
         }
 
-        .sib-contact-sticky,
-        .sib-drop-navigation,
-        .sib-social-stalk-us {
-            z-index: 100
+        .sib-drop-navigation {
+            z-index: 100;
         }
 
         .m .sib-drop-navigation {
             height: 39px;
-            display: none
+            display: none;
         }
 
         .d .sib-drop-navigation {
             height: 124px;
-            display: none
+            display: none;
         }
 
-        .d .sib-book-tour-2 .ss-bg,
-        .d .sib-contact-sticky .ss-bg,
-        .d .sib-drop-navigation .ss-bg,
-        .d .sib-footer .ss-bg,
-        .d .sie-about_5 .se-simple,
-        .d .sie-drop-navigation_view-1-1_7 .se-simple,
-        .d .sie-i-do_4 .se-simple,
-        .d .sie-look-around-1_4 .se-simple,
-        .d .sie-navigation_view-1-1_0 .se-simple,
-        .d .sie-navigation_view-1_0 .se-simple,
-        .d .sie-san-antonio-venue_4 .se-simple,
-        .d .sie-social-stalk-us_0 .se-simple,
-        .d .sie-testimonials_3 .se-simple,
-        .m .sib-book-tour-2 .ss-bg,
-        .m .sib-contact-sticky .ss-bg,
-        .m .sib-footer .ss-bg,
-        .m .sib-social-stalk-us .ss-bg,
-        .m .sie-about_5 .se-simple,
-        .m .sie-i-do_4 .se-simple,
-        .m .sie-look-around-1_4 .se-simple,
-        .m .sie-navigation_view-1-1_0 .se-simple,
-        .m .sie-navigation_view-1_0 .se-simple,
-        .m .sie-san-antonio-venue_4 .se-simple,
-        .m .sie-testimonials_3 .se-simple {
-            background-color: #384f72
+        .m .sib-drop-navigation .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
-        .d .sib-drop-navigation .sis-drop-navigation_view-1,
-        .d .sib-drop-navigation .sis-drop-navigation_view-1-1,
-        .m .sib-drop-navigation .sis-drop-navigation_view-1,
-        .m .sib-drop-navigation .sis-drop-navigation_view-1-1 {
-            background-color: transparent
+        .d .sib-drop-navigation .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
         }
 
-        .d .sie-drop-navigation_view-1-1_0,
+        .m .sib-drop-navigation .sis-drop-navigation_view-1 {
+            background-color: transparent;
+        }
+
+        .d .sib-drop-navigation .sis-drop-navigation_view-1 {
+            background-color: transparent;
+        }
+
         .d .sie-drop-navigation_view-1_0 {
             left: 1025px;
             top: 44px;
             width: 138px;
-            height: 37px
+            height: 37px;
         }
 
-        .m .sie-drop-navigation_view-1-1_0,
-        .m .sie-drop-navigation_view-1_0,
-        .m .sie-navigation_view-1-1_0,
-        .m .sie-navigation_view-1_0,
-        .m .sie-navigation_view-2_1 {
+        .m .sie-drop-navigation_view-1_0 {
             left: 48px;
             top: 6px;
             width: 224px;
             height: 27.299999999999997px;
-            display: none
+            display: none;
         }
 
-        .d .sie-drop-navigation_view-1-1_1,
+        .d .sie-drop-navigation_view-1_0 .se-simple:hover {}
+
+        .m .sie-drop-navigation_view-1_0 .se-simple:hover {}
+
+        .d .sie-drop-navigation_view-1_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-drop-navigation_view-1_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
         .d .sie-drop-navigation_view-1_1 {
             left: 594px;
             top: 49px;
             width: 119px;
-            height: 27px
+            height: 27px;
         }
 
-        .m .sie-drop-navigation_view-1-1_1,
-        .m .sie-drop-navigation_view-1-1_2,
-        .m .sie-drop-navigation_view-1-1_3,
-        .m .sie-drop-navigation_view-1-1_6,
-        .m .sie-drop-navigation_view-1_1,
-        .m .sie-drop-navigation_view-1_2,
-        .m .sie-drop-navigation_view-1_3,
-        .m .sie-drop-navigation_view-1_6,
-        .m .sie-navigation_0,
-        .m .sie-navigation_1,
-        .m .sie-navigation_2,
-        .m .sie-navigation_view-1-1_1,
-        .m .sie-navigation_view-1-1_3,
-        .m .sie-navigation_view-1-1_4,
-        .m .sie-navigation_view-1_1,
-        .m .sie-navigation_view-1_3,
-        .m .sie-navigation_view-1_4 {
+        .m .sie-drop-navigation_view-1_1 {
             left: 122px;
             top: 18px;
             width: 75.60000000000001px;
             height: 14px;
-            display: none
+            display: none;
         }
 
-        .d .sie-drop-navigation_view-1-1_1-text,
-        .d .sie-drop-navigation_view-1-1_2-text,
-        .d .sie-drop-navigation_view-1-1_3-text,
-        .d .sie-drop-navigation_view-1_1-text,
-        .d .sie-drop-navigation_view-1_2-text,
-        .d .sie-drop-navigation_view-1_3-text,
-        .d .sie-navigation_view-1-1_3-text,
-        .d .sie-navigation_view-1_3-text {
-            color: #fff;
+        .d .sie-drop-navigation_view-1_1-text {
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-drop-navigation_view-1-1_1-text,
-        .m .sie-drop-navigation_view-1-1_2-text,
-        .m .sie-drop-navigation_view-1-1_3-text,
-        .m .sie-drop-navigation_view-1-1_6-text,
-        .m .sie-drop-navigation_view-1_1-text,
-        .m .sie-drop-navigation_view-1_2-text,
-        .m .sie-drop-navigation_view-1_3-text,
-        .m .sie-drop-navigation_view-1_6-text,
-        .m .sie-navigation_0-text,
-        .m .sie-navigation_1-text,
-        .m .sie-navigation_2-text,
-        .m .sie-navigation_view-1-1_1-text,
-        .m .sie-navigation_view-1-1_3-text,
-        .m .sie-navigation_view-1-1_4-text,
-        .m .sie-navigation_view-1_1-text,
-        .m .sie-navigation_view-1_3-text,
-        .m .sie-navigation_view-1_4-text,
-        .m .sie-navigation_view-2_0-text {
-            color: #4e4e4e;
+        .m .sie-drop-navigation_view-1_1-text {
+            color: rgba(78, 78, 78, 1);
             line-height: 2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 12px;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .sie-drop-navigation_view-1-1_2,
         .d .sie-drop-navigation_view-1_2 {
             left: 750px;
             top: 49px;
             width: 110px;
-            height: 27px
+            height: 27px;
         }
 
-        .d .sie-drop-navigation_view-1-1_3,
+        .m .sie-drop-navigation_view-1_2 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1_2-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1_2-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .d .sie-drop-navigation_view-1_3 {
             left: 890px;
             top: 49px;
             width: 91px;
-            height: 27px
+            height: 27px;
         }
 
-        .d .sie-drop-navigation_view-1-1_4,
+        .m .sie-drop-navigation_view-1_3 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1_3-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1_3-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .d .sie-drop-navigation_view-1_4 {
             left: 546.5px;
             top: 581px;
             width: 108px;
             height: 18px;
-            display: none
+            display: none;
         }
 
-        .m .sie-drop-navigation_view-1-1_4,
         .m .sie-drop-navigation_view-1_4 {
             left: 112px;
             top: 14px;
             width: 96px;
-            height: 12px
+            height: 12px;
         }
 
-        .d .sie-drop-navigation_view-1-1_4-text,
-        .d .sie-drop-navigation_view-1_4-text,
-        .d .sie-intro_4-text,
-        .d .sie-navigation_3-text {
-            color: #4e4e4e;
+        .d .sie-drop-navigation_view-1_4-text {
+            color: rgba(78, 78, 78, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 11px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-drop-navigation_view-1-1_4-text,
         .m .sie-drop-navigation_view-1_4-text {
-            color: #004558;
+            color: rgba(0, 69, 88, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 12px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .sie-drop-navigation_view-1-1_5,
         .d .sie-drop-navigation_view-1_5 {
-            left: 0;
-            top: 0;
+            left: 0px;
+            top: 0px;
             width: 231px;
-            height: 124px
+            height: 124px;
         }
 
-        .m .sie-drop-navigation_view-1-1_5,
         .m .sie-drop-navigation_view-1_5 {
             left: -3px;
             top: 5px;
             width: 326px;
             height: 31px;
-            display: none
+            display: none;
         }
 
-        .d .sie-drop-navigation_view-1-1_5 .se-img,
-        .d .sie-drop-navigation_view-1_5 .se-img,
-        .d .sie-footer_12 .se-img,
-        .d .sie-look-around-1_11 .se-img,
-        .d .sie-look-around-1_19 .se-img,
-        .d .sie-look-around-1_20 .se-img,
-        .d .sie-look-around-1_7 .se-img,
-        .d .sie-navigation_view-1-1_2 .se-img,
-        .d .sie-navigation_view-1_2 .se-img,
-        .m .sie-drop-navigation_view-1-1_5 .se-img,
-        .m .sie-drop-navigation_view-1_5 .se-img,
-        .m .sie-footer_12 .se-img,
-        .m .sie-look-around-1_1 .se-img,
-        .m .sie-look-around-1_7 .se-img,
-        .m .sie-navigation_view-1-1_2 .se-img,
-        .m .sie-navigation_view-1_2 .se-img {
+        .d .sie-drop-navigation_view-1_5 .se-img {
             background-repeat: no-repeat;
             background-size: cover;
             background-position: 50% 50%;
-            border-radius: inherit
+            border-radius: inherit;
         }
 
-        .d .sie-drop-navigation_view-1-1_6,
+        .m .sie-drop-navigation_view-1_5 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
         .d .sie-drop-navigation_view-1_6 {
             left: 1025px;
             top: 49px;
             width: 138px;
-            height: 27px
+            height: 27px;
         }
 
-        .d .sie-drop-navigation_view-1-1_6-text,
+        .m .sie-drop-navigation_view-1_6 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
         .d .sie-drop-navigation_view-1_6-text {
-            color: #384f72;
+            color: rgba(56, 79, 114, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1_6-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sib-drop-navigation .sis-drop-navigation_view-1-1 {
+            background-color: transparent;
+        }
+
+        .d .sib-drop-navigation .sis-drop-navigation_view-1-1 {
+            background-color: transparent;
+        }
+
+        .d .sie-drop-navigation_view-1-1_0 {
+            left: 1025px;
+            top: 44px;
+            width: 138px;
+            height: 37px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_0 {
+            left: 48px;
+            top: 6px;
+            width: 224px;
+            height: 27.299999999999997px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_0 .se-simple:hover {}
+
+        .m .sie-drop-navigation_view-1-1_0 .se-simple:hover {}
+
+        .d .sie-drop-navigation_view-1-1_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-drop-navigation_view-1-1_0 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-drop-navigation_view-1-1_1 {
+            left: 594px;
+            top: 49px;
+            width: 119px;
+            height: 27px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_1 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_1-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_1-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-drop-navigation_view-1-1_2 {
+            left: 750px;
+            top: 49px;
+            width: 110px;
+            height: 27px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_2 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_2-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_2-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-drop-navigation_view-1-1_3 {
+            left: 890px;
+            top: 49px;
+            width: 91px;
+            height: 27px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_3 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_3-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_3-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-drop-navigation_view-1-1_4 {
+            left: 546.5px;
+            top: 581px;
+            width: 108px;
+            height: 18px;
+            display: none;
+        }
+
+        .m .sie-drop-navigation_view-1-1_4 {
+            left: 112px;
+            top: 14px;
+            width: 96px;
+            height: 12px;
+        }
+
+        .d .sie-drop-navigation_view-1-1_4-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 11px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_4-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-drop-navigation_view-1-1_5 {
+            left: 0px;
+            top: 0px;
+            width: 231px;
+            height: 124px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_5 {
+            left: -3px;
+            top: 5px;
+            width: 326px;
+            height: 31px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_5 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-drop-navigation_view-1-1_5 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .d .sie-drop-navigation_view-1-1_6 {
+            left: 1025px;
+            top: 49px;
+            width: 138px;
+            height: 27px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_6 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_6-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_6-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-drop-navigation_view-1-1_7 {
             left: 749px;
             top: 91px;
             width: 211px;
-            height: 135px
+            height: 135px;
         }
 
-        .m .sie-drop-navigation_view-1-1_7,
-        .m .sie-navigation_view-1-1_5 {
+        .m .sie-drop-navigation_view-1-1_7 {
             left: 58px;
             top: 16px;
             width: 224px;
             height: 27.299999999999997px;
-            display: none
+            display: none;
         }
 
-        .m .sie-drop-navigation_view-1-1_7 .se-simple,
-        .m .sie-navigation_view-1-1_5 .se-simple,
-        .m .sie-navigation_view-2_1 .se-simple,
-        .m .sie-social-stalk-us_0 .se-simple {
-            background-color: #040404
+        .d .sie-drop-navigation_view-1-1_7 .se-simple:hover {}
+
+        .m .sie-drop-navigation_view-1-1_7 .se-simple:hover {}
+
+        .d .sie-drop-navigation_view-1-1_7 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-drop-navigation_view-1-1_7 .se-simple {
+            background-color: rgba(4, 4, 4, 1);
         }
 
         .d .sie-drop-navigation_view-1-1_8 {
             left: 762px;
             top: 104px;
             width: 164px;
-            height: 24px
+            height: 24px;
         }
 
-        .m .sie-drop-navigation_view-1-1_8,
-        .m .sie-navigation_view-1-1_6,
-        .m .sie-navigation_view-2_3 {
+        .m .sie-drop-navigation_view-1-1_8 {
             left: 114px;
             top: 11px;
             width: 91.8px;
             height: 17px;
-            display: none
+            display: none;
         }
 
-        .d .sie-drop-navigation_view-1-1_10-text,
-        .d .sie-drop-navigation_view-1-1_11-text,
-        .d .sie-drop-navigation_view-1-1_8-text,
-        .d .sie-drop-navigation_view-1-1_9-text,
-        .m .sie-drop-navigation_view-1-1_10-text,
-        .m .sie-drop-navigation_view-1-1_11-text,
-        .m .sie-drop-navigation_view-1-1_8-text,
-        .m .sie-drop-navigation_view-1-1_9-text {
-            color: #fff;
+        .d .sie-drop-navigation_view-1-1_8-text {
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_8-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-drop-navigation_view-1-1_9 {
             left: 762px;
             top: 134px;
             width: 164px;
-            height: 24px
+            height: 24px;
         }
 
-        .m .sie-drop-navigation_view-1-1_10,
-        .m .sie-drop-navigation_view-1-1_11,
-        .m .sie-drop-navigation_view-1-1_9,
-        .m .sie-navigation_view-1-1_7,
-        .m .sie-navigation_view-1-1_8,
-        .m .sie-navigation_view-1-1_9,
-        .m .sie-navigation_view-2_2 {
+        .m .sie-drop-navigation_view-1-1_9 {
             left: 124px;
             top: 21px;
             width: 91.8px;
             height: 17px;
-            display: none
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_9-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_9-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-drop-navigation_view-1-1_10 {
             left: 762px;
             top: 164px;
             width: 164px;
-            height: 24px
+            height: 24px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_10 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_10-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_10-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-drop-navigation_view-1-1_11 {
             left: 762px;
             top: 194px;
             width: 164px;
-            height: 24px
+            height: 24px;
+        }
+
+        .m .sie-drop-navigation_view-1-1_11 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-drop-navigation_view-1-1_11-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-drop-navigation_view-1-1_11-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .sib-mobile-nav {
-            z-index: 99
+            z-index: 99;
         }
 
         .m .sib-mobile-nav {
             height: 600px;
-            display: none
+            display: none;
         }
 
         .d .sib-mobile-nav {
             height: 400px;
-            display: none
+            display: none;
+        }
+
+        .m .sib-mobile-nav .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-mobile-nav .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-mobile-nav_0 {
@@ -706,207 +1060,338 @@
             top: 175px;
             width: 100px;
             height: 100px;
-            display: none
+            display: none;
         }
 
         .m .sie-mobile-nav_0 {
             left: 280px;
             top: 9px;
             width: 29px;
-            height: 28px
+            height: 28px;
         }
 
-        .d .sie-mobile-nav_0 svg,
+        .d .sie-mobile-nav_0 svg {
+            fill: rgba(197, 184, 168, 1);
+        }
+
         .m .sie-mobile-nav_0 svg {
-            fill: rgba(197, 184, 168, 1)
+            fill: rgba(197, 184, 168, 1);
         }
 
-        .d .sie-mobile-nav_1,
-        .d .sie-mobile-nav_6 {
+        .d .sie-mobile-nav_1 {
             left: 422.5px;
             top: 82.5px;
             width: 195px;
             height: 65px;
-            display: none
+            display: none;
         }
 
         .m .sie-mobile-nav_1 {
             left: 32.5px;
             top: 36px;
             width: 255px;
-            height: 15px
+            height: 15px;
         }
 
-        .d .sie-mobile-nav_1-text,
-        .d .sie-mobile-nav_6-text {
-            color: #4e4e4e;
+        .d .sie-mobile-nav_1-text {
+            color: rgba(78, 78, 78, 1);
             text-transform: lowercase;
             line-height: 1.2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 35px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .m .sie-mobile-nav_1-text,
-        .m .sie-mobile-nav_6-text {
-            color: #384f72;
+        .m .sie-mobile-nav_1-text {
+            color: rgba(56, 79, 114, 1);
             line-height: 2;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 11px;
             text-align: left;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
         .d .sie-mobile-nav_2 {
             left: 1090.77px;
             top: 35.5px;
             width: 16.065px;
-            height: 16.575px
+            height: 16.575px;
         }
 
         .m .sie-mobile-nav_2 {
             left: 73.896px;
             top: 407px;
             width: 35.217px;
-            height: 35.644px
+            height: 35.644px;
         }
 
-        .d .sie-mobile-nav_2 svg,
-        .d .sie-mobile-nav_3 svg,
-        .d .sie-mobile-nav_4 svg,
-        .d .sie-mobile-nav_5 svg {
-            fill: rgba(216, 201, 135, 1)
+        .d .sie-mobile-nav_2 svg {
+            fill: rgba(216, 201, 135, 1);
         }
 
-        .m .sie-mobile-nav_2 svg,
-        .m .sie-mobile-nav_3 svg,
-        .m .sie-mobile-nav_4 svg,
-        .m .sie-mobile-nav_5 svg {
-            fill: rgba(56, 79, 114, 1)
+        .m .sie-mobile-nav_2 svg {
+            fill: rgba(56, 79, 114, 1);
         }
 
         .d .sie-mobile-nav_3 {
             left: 1069px;
             top: 36.81px;
             width: 16.065px;
-            height: 14.831px
+            height: 14.831px;
         }
 
         .m .sie-mobile-nav_3 {
             left: 25px;
             top: 407px;
             width: 44.374px;
-            height: 35.644px
+            height: 35.644px;
+        }
+
+        .d .sie-mobile-nav_3 svg {
+            fill: rgba(216, 201, 135, 1);
+        }
+
+        .m .sie-mobile-nav_3 svg {
+            fill: rgba(56, 79, 114, 1);
         }
 
         .d .sie-mobile-nav_4 {
             left: 1113.81px;
             top: 35.937px;
             width: 15.219px;
-            height: 15.702px
+            height: 15.702px;
         }
 
         .m .sie-mobile-nav_4 {
             left: 119.748px;
             top: 407px;
             width: 33.809px;
-            height: 34.218px
+            height: 34.218px;
+        }
+
+        .d .sie-mobile-nav_4 svg {
+            fill: rgba(216, 201, 135, 1);
+        }
+
+        .m .sie-mobile-nav_4 svg {
+            fill: rgba(56, 79, 114, 1);
         }
 
         .d .sie-mobile-nav_5 {
             left: 1134.946px;
             top: 35.937px;
             width: 16.065px;
-            height: 16.575px
+            height: 16.575px;
         }
 
         .m .sie-mobile-nav_5 {
             left: 164.783px;
             top: 407px;
             width: 35.217px;
-            height: 35.644px
+            height: 35.644px;
+        }
+
+        .d .sie-mobile-nav_5 svg {
+            fill: rgba(216, 201, 135, 1);
+        }
+
+        .m .sie-mobile-nav_5 svg {
+            fill: rgba(56, 79, 114, 1);
+        }
+
+        .d .sie-mobile-nav_6 {
+            left: 422.5px;
+            top: 82.5px;
+            width: 195px;
+            height: 65px;
+            display: none;
         }
 
         .m .sie-mobile-nav_6 {
             left: 32.5px;
             top: 378px;
             width: 255px;
-            height: 15px
+            height: 15px;
         }
 
-        .d .sie-mobile-nav_10,
-        .d .sie-mobile-nav_13,
-        .d .sie-mobile-nav_7,
-        .d .sie-mobile-nav_8,
+        .d .sie-mobile-nav_6-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: lowercase;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 35px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-mobile-nav_6-text {
+            color: rgba(56, 79, 114, 1);
+            line-height: 2;
+            letter-spacing: 0.3em;
+            font-size: 11px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .d .sie-mobile-nav_7 {
+            left: 562px;
+            top: 193px;
+            width: 97.19999999999999px;
+            height: 18px;
+            display: none;
+        }
+
+        .m .sie-mobile-nav_7 {
+            left: 32px;
+            top: 111px;
+            width: 239.006px;
+            height: 23px;
+        }
+
+        .d .sie-mobile-nav_7-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-mobile-nav_7-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-mobile-nav_8 {
+            left: 562px;
+            top: 193px;
+            width: 97.19999999999999px;
+            height: 18px;
+            display: none;
+        }
+
+        .m .sie-mobile-nav_8 {
+            left: 32px;
+            top: 148px;
+            width: 239.006px;
+            height: 23px;
+        }
+
+        .d .sie-mobile-nav_8-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-mobile-nav_8-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .d .sie-mobile-nav_9 {
             left: 562px;
             top: 193px;
             width: 97.19999999999999px;
             height: 18px;
-            display: none
+            display: none;
         }
 
-        .m .sie-mobile-nav_10,
-        .m .sie-mobile-nav_7,
-        .m .sie-mobile-nav_8,
         .m .sie-mobile-nav_9 {
             left: 32px;
+            top: 221px;
             width: 239.006px;
-            height: 23px
+            height: 23px;
         }
 
-        .m .sie-mobile-nav_7 {
-            top: 111px
-        }
-
-        .d .sie-mobile-nav_10-text,
-        .d .sie-mobile-nav_11-text,
-        .d .sie-mobile-nav_13-text,
-        .d .sie-mobile-nav_7-text,
-        .d .sie-mobile-nav_8-text,
         .d .sie-mobile-nav_9-text {
-            color: #4e4e4e;
+            color: rgba(78, 78, 78, 1);
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 12px;
             text-align: left;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-mobile-nav_10-text,
-        .m .sie-mobile-nav_11-text,
-        .m .sie-mobile-nav_13-text,
-        .m .sie-mobile-nav_7-text,
-        .m .sie-mobile-nav_8-text,
         .m .sie-mobile-nav_9-text {
-            color: #040404;
+            color: rgba(4, 4, 4, 1);
             text-transform: uppercase;
             line-height: 1.4;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
             text-align: left;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-mobile-nav_8 {
-            top: 148px
-        }
-
-        .m .sie-mobile-nav_9 {
-            top: 221px
+        .d .sie-mobile-nav_10 {
+            left: 562px;
+            top: 193px;
+            width: 97.19999999999999px;
+            height: 18px;
+            display: none;
         }
 
         .m .sie-mobile-nav_10 {
-            top: 258px
+            left: 32px;
+            top: 258px;
+            width: 239.006px;
+            height: 23px;
+        }
+
+        .d .sie-mobile-nav_10-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-mobile-nav_10-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-mobile-nav_11 {
@@ -914,106 +1399,256 @@
             top: 203px;
             width: 97.19999999999999px;
             height: 18px;
-            display: none
+            display: none;
         }
 
         .m .sie-mobile-nav_11 {
             left: 32px;
             top: 295px;
             width: 239px;
-            height: 23px
+            height: 23px;
+        }
+
+        .d .sie-mobile-nav_11-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-mobile-nav_11-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-mobile-nav_13 {
+            left: 562px;
+            top: 193px;
+            width: 97.19999999999999px;
+            height: 18px;
+            display: none;
         }
 
         .m .sie-mobile-nav_13 {
             left: 32px;
             top: 185px;
             width: 239px;
-            height: 23px
+            height: 23px;
+        }
+
+        .d .sie-mobile-nav_13-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-mobile-nav_13-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-mobile-nav_14 {
             left: 546px;
             top: 191px;
             width: 107.99999999999999px;
-            height: 18px
+            height: 18px;
         }
 
         .m .sie-mobile-nav_14 {
             left: 32px;
             top: 326px;
             width: 96px;
-            height: 16px
+            height: 16px;
         }
 
-        .d .sie-mobile-nav_14-text,
+        .d .sie-mobile-nav_14-text {
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .m .sie-mobile-nav_14-text {
             text-transform: uppercase;
             line-height: 1.4;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .sib-header,
-        .d .sib-hill-country,
-        .d .sib-social-stalk-us,
-        .m .sib-header,
-        .m .sib-hill-country {
-            height: 1px
+        .m .sib-header {
+            height: 1px;
+        }
+
+        .d .sib-header {
+            height: 1px;
+        }
+
+        .m .sib-header .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-header .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .sib-navigation {
-            z-index: 15
+            z-index: 15;
         }
 
         .m .sib-navigation {
-            height: 39px
+            height: 39px;
         }
 
         .d .sib-navigation {
-            height: 124px
+            height: 124px;
+        }
+
+        .m .sib-navigation .ss-bg {
+            background-color: rgba(108, 139, 187, 1);
+        }
+
+        .d .sib-navigation .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-navigation_0 {
             left: -294px;
             top: 174px;
             width: 162px;
-            height: 27px
+            height: 27px;
         }
 
-        .d .sie-navigation_0-text,
-        .d .sie-navigation_1-text,
-        .d .sie-navigation_2-text,
-        .d .sie-navigation_view-1-1_1-text,
-        .d .sie-navigation_view-1-1_4-text,
-        .d .sie-navigation_view-1_1-text,
-        .d .sie-navigation_view-1_4-text,
-        .d .sie-navigation_view-2_0-text {
-            color: #040404;
+        .m .sie-navigation_0 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_0-text {
+            color: rgba(4, 4, 4, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-navigation_0-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_1 {
             left: 514px;
             top: 49px;
             width: 124px;
-            height: 27px
+            height: 27px;
+        }
+
+        .m .sie-navigation_1 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_1-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_2 {
             left: 888px;
             top: 49px;
             width: 114px;
-            height: 27px
+            height: 27px;
+        }
+
+        .m .sie-navigation_2 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_2-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_2-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_3 {
@@ -1021,132 +1656,560 @@
             top: 587px;
             width: 108px;
             height: 18px;
-            display: none
+            display: none;
         }
 
         .m .sie-navigation_3 {
             left: 60px;
             top: 13px;
             width: 200px;
-            height: 26px
+            height: 26px;
+        }
+
+        .d .sie-navigation_3-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 11px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sie-navigation_3-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 12px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .sie-navigation_view-1-1_0,
+        .m .sib-navigation .sis-navigation_view-1 {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        .d .sib-navigation .sis-navigation_view-1 {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
         .d .sie-navigation_view-1_0 {
             left: 1031px;
             top: 43px;
             width: 140px;
-            height: 39px
+            height: 39px;
         }
 
-        .d .sie-navigation_view-1-1_1,
+        .m .sie-navigation_view-1_0 {
+            left: 48px;
+            top: 6px;
+            width: 224px;
+            height: 27.299999999999997px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1_0 .se-simple:hover {}
+
+        .m .sie-navigation_view-1_0 .se-simple:hover {}
+
+        .d .sie-navigation_view-1_0 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-navigation_view-1_0 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
         .d .sie-navigation_view-1_1 {
             left: 761px;
             top: 49px;
             width: 114px;
-            height: 27px
+            height: 27px;
         }
 
-        .d .sie-navigation_view-1-1_2,
+        .m .sie-navigation_view-1_1 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1_1-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .d .sie-navigation_view-1_2 {
             left: 10px;
             top: 25px;
             width: 356px;
-            height: 75px
+            height: 75px;
         }
 
-        .m .sie-navigation_view-1-1_2,
         .m .sie-navigation_view-1_2 {
             left: 48px;
             top: 78px;
             width: 224px;
             height: 45px;
-            display: none
+            display: none;
         }
 
-        .d .sie-navigation_view-1-1_3,
+        .d .sie-navigation_view-1_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-navigation_view-1_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
         .d .sie-navigation_view-1_3 {
             left: 1031px;
             top: 49px;
             width: 140px;
-            height: 33px
+            height: 33px;
         }
 
-        .d .sie-navigation_view-1-1_4,
+        .m .sie-navigation_view-1_3 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1_3-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1_3-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
         .d .sie-navigation_view-1_4 {
             left: 644px;
             top: 49px;
             width: 110px;
-            height: 27px
+            height: 27px;
+        }
+
+        .m .sie-navigation_view-1_4 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1_4-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1_4-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sib-navigation .sis-navigation_view-1-1 {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        .d .sib-navigation .sis-navigation_view-1-1 {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        .d .sie-navigation_view-1-1_0 {
+            left: 1031px;
+            top: 43px;
+            width: 140px;
+            height: 39px;
+        }
+
+        .m .sie-navigation_view-1-1_0 {
+            left: 48px;
+            top: 6px;
+            width: 224px;
+            height: 27.299999999999997px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_0 .se-simple:hover {}
+
+        .m .sie-navigation_view-1-1_0 .se-simple:hover {}
+
+        .d .sie-navigation_view-1-1_0 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-navigation_view-1-1_0 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sie-navigation_view-1-1_1 {
+            left: 761px;
+            top: 49px;
+            width: 114px;
+            height: 27px;
+        }
+
+        .m .sie-navigation_view-1-1_1 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_1-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-navigation_view-1-1_2 {
+            left: 10px;
+            top: 25px;
+            width: 356px;
+            height: 75px;
+        }
+
+        .m .sie-navigation_view-1-1_2 {
+            left: 48px;
+            top: 78px;
+            width: 224px;
+            height: 45px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-navigation_view-1-1_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .d .sie-navigation_view-1-1_3 {
+            left: 1031px;
+            top: 49px;
+            width: 140px;
+            height: 33px;
+        }
+
+        .m .sie-navigation_view-1-1_3 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_3-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_3-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-navigation_view-1-1_4 {
+            left: 644px;
+            top: 49px;
+            width: 110px;
+            height: 27px;
+        }
+
+        .m .sie-navigation_view-1-1_4 {
+            left: 122px;
+            top: 18px;
+            width: 75.60000000000001px;
+            height: 14px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_4-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_4-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_view-1-1_5 {
             left: 650px;
             top: 90px;
             width: 217px;
-            height: 127px
+            height: 127px;
+        }
+
+        .m .sie-navigation_view-1-1_5 {
+            left: 58px;
+            top: 16px;
+            width: 224px;
+            height: 27.299999999999997px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_5 .se-simple:hover {}
+
+        .m .sie-navigation_view-1-1_5 .se-simple:hover {}
+
+        .d .sie-navigation_view-1-1_5 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-navigation_view-1-1_5 .se-simple {
+            background-color: rgba(4, 4, 4, 1);
         }
 
         .d .sie-navigation_view-1-1_6 {
             left: 656px;
             top: 102px;
             width: 155px;
-            height: 23px
+            height: 23px;
         }
 
-        .d .sie-navigation_view-1-1_6-text,
-        .d .sie-navigation_view-1-1_7-text,
-        .d .sie-navigation_view-1-1_8-text,
-        .d .sie-navigation_view-1-1_9-text,
-        .m .sie-navigation_view-1-1_6-text,
-        .m .sie-navigation_view-1-1_7-text,
-        .m .sie-navigation_view-1-1_8-text,
-        .m .sie-navigation_view-1-1_9-text {
+        .m .sie-navigation_view-1-1_6 {
+            left: 114px;
+            top: 11px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_6-text {
             text-transform: uppercase;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 13px;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_6-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_view-1-1_7 {
             left: 656px;
             top: 131px;
             width: 155px;
-            height: 23px
+            height: 23px;
+        }
+
+        .m .sie-navigation_view-1-1_7 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_7-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_7-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_view-1-1_8 {
             left: 656px;
             top: 159px;
             width: 155px;
-            height: 23px
+            height: 23px;
+        }
+
+        .m .sie-navigation_view-1-1_8 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_8-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_8-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_view-1-1_9 {
             left: 656px;
             top: 188px;
             width: 155px;
-            height: 23px
+            height: 23px;
+        }
+
+        .m .sie-navigation_view-1-1_9 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-1-1_9-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-1-1_9-text {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sib-navigation .sis-navigation_view-2 {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        .d .sib-navigation .sis-navigation_view-2 {
+            background-color: rgba(0, 0, 0, 0);
         }
 
         .d .sie-navigation_view-2_0 {
             left: 733px;
             top: 13px;
             width: 66px;
-            height: 27px
+            height: 27px;
         }
 
         .m .sie-navigation_view-2_0 {
@@ -1154,40 +2217,114 @@
             top: 28px;
             width: 75.60000000000001px;
             height: 14px;
-            display: none
+            display: none;
+        }
+
+        .d .sie-navigation_view-2_0-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-navigation_view-2_0-text {
+            color: rgba(78, 78, 78, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-navigation_view-2_1 {
             left: 674px;
             top: 35px;
             width: 194px;
-            height: 160px
+            height: 160px;
+        }
+
+        .m .sie-navigation_view-2_1 {
+            left: 48px;
+            top: 6px;
+            width: 224px;
+            height: 27.299999999999997px;
+            display: none;
+        }
+
+        .d .sie-navigation_view-2_1 .se-simple:hover {}
+
+        .m .sie-navigation_view-2_1 .se-simple:hover {}
+
+        .d .sie-navigation_view-2_1 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-navigation_view-2_1 .se-simple {
+            background-color: rgba(4, 4, 4, 1);
         }
 
         .d .sie-navigation_view-2_2 {
             left: 690px;
             top: 97px;
             width: 183px;
-            height: 17px
+            height: 17px;
+        }
+
+        .m .sie-navigation_view-2_2 {
+            left: 124px;
+            top: 21px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
         }
 
         .d .sie-navigation_view-2_3 {
             left: 681px;
             top: 61px;
             width: 118px;
-            height: 17px
+            height: 17px;
+        }
+
+        .m .sie-navigation_view-2_3 {
+            left: 114px;
+            top: 11px;
+            width: 91.8px;
+            height: 17px;
+            display: none;
+        }
+
+        .sib-social-stalk-us {
+            z-index: 100;
         }
 
         .m .sib-social-stalk-us {
             height: 46px;
-            display: none
+            display: none;
+        }
+
+        .d .sib-social-stalk-us {
+            height: 1px;
+        }
+
+        .m .sib-social-stalk-us .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sib-social-stalk-us .ss-bg {
+            background-color: rgba(0, 0, 0, 0);
         }
 
         .d .sie-social-stalk-us_0 {
             left: 1163px;
             top: 64px;
             width: 40px;
-            height: 400px
+            height: 400px;
         }
 
         .m .sie-social-stalk-us_0 {
@@ -1195,1956 +2332,3011 @@
             top: 23px;
             width: 224px;
             height: 140px;
-            display: none
+            display: none;
+        }
+
+        .d .sie-social-stalk-us_0 .se-simple:hover {}
+
+        .m .sie-social-stalk-us_0 .se-simple:hover {}
+
+        .d .sie-social-stalk-us_0 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-social-stalk-us_0 .se-simple {
+            background-color: rgba(4, 4, 4, 1);
         }
 
         .d .sie-social-stalk-us_1 {
             left: 1171px;
             top: 264px;
             width: 25px;
-            height: 25px
+            height: 25px;
         }
 
-        .m .sie-social-stalk-us_1,
-        .m .sie-social-stalk-us_2,
-        .m .sie-social-stalk-us_3,
-        .m .sie-social-stalk-us_4 {
+        .m .sie-social-stalk-us_1 {
             left: 135px;
             top: 75px;
             width: 50px;
             height: 50px;
-            display: none
+            display: none;
         }
 
-        .d .sie-footer_1 svg,
-        .d .sie-footer_2 svg,
-        .d .sie-footer_3 svg,
-        .d .sie-footer_4 svg,
-        .d .sie-social-stalk-us_1 svg,
-        .d .sie-social-stalk-us_2 svg,
-        .d .sie-social-stalk-us_3 svg,
-        .d .sie-social-stalk-us_4 svg,
-        .m .sie-footer_1 svg,
-        .m .sie-footer_2 svg,
-        .m .sie-footer_3 svg,
-        .m .sie-footer_4 svg {
-            fill: rgba(255, 255, 255, 1)
+        .d .sie-social-stalk-us_1 svg {
+            fill: rgba(255, 255, 255, 1);
         }
 
-        .m .sie-social-stalk-us_1 svg,
-        .m .sie-social-stalk-us_2 svg,
-        .m .sie-social-stalk-us_3 svg,
-        .m .sie-social-stalk-us_4 svg {
-            fill: rgba(139, 139, 139, 1)
+        .m .sie-social-stalk-us_1 svg {
+            fill: rgba(139, 139, 139, 1);
         }
 
         .d .sie-social-stalk-us_2 {
             left: 1171px;
             top: 312px;
             width: 25px;
-            height: 25px
+            height: 25px;
+        }
+
+        .m .sie-social-stalk-us_2 {
+            left: 135px;
+            top: 75px;
+            width: 50px;
+            height: 50px;
+            display: none;
+        }
+
+        .d .sie-social-stalk-us_2 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-social-stalk-us_2 svg {
+            fill: rgba(139, 139, 139, 1);
         }
 
         .d .sie-social-stalk-us_3 {
             left: 1171px;
             top: 360px;
             width: 25px;
-            height: 25px
+            height: 25px;
+        }
+
+        .m .sie-social-stalk-us_3 {
+            left: 135px;
+            top: 75px;
+            width: 50px;
+            height: 50px;
+            display: none;
+        }
+
+        .d .sie-social-stalk-us_3 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-social-stalk-us_3 svg {
+            fill: rgba(139, 139, 139, 1);
         }
 
         .d .sie-social-stalk-us_4 {
             left: 1171px;
             top: 408px;
             width: 25px;
-            height: 25px
+            height: 25px;
+        }
+
+        .m .sie-social-stalk-us_4 {
+            left: 135px;
+            top: 75px;
+            width: 50px;
+            height: 50px;
+            display: none;
+        }
+
+        .d .sie-social-stalk-us_4 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-social-stalk-us_4 svg {
+            fill: rgba(139, 139, 139, 1);
         }
 
         .d .sie-social-stalk-us_5 {
             left: 1107px;
             top: 160px;
             width: 152px;
-            height: 15px
+            height: 15px;
         }
 
         .m .sie-social-stalk-us_5 {
             left: 12px;
             top: 20px;
             width: 144px;
-            height: 10px
+            height: 10px;
         }
 
-        .d .sie-contact-sticky_0-text,
-        .d .sie-footer_0-text.se-rc a,
         .d .sie-social-stalk-us_5-text {
-            color: #fff
+            color: rgba(255, 255, 255, 1);
         }
 
         .sib-top-gallery {
-            z-index: 14
+            z-index: 14;
         }
 
         .m .sib-top-gallery {
-            height: 182px
+            height: 182px;
         }
 
-        .d .sib-top-gallery,
+        .d .sib-top-gallery {
+            height: 743px;
+        }
+
+        .m .sib-top-gallery .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-top-gallery .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
         .d .sib-top-gallery.sb-nd-dH .sc {
-            height: 743px
+            height: 743px;
         }
 
         .d .sie-top-gallery_2 {
             left: -900px;
             top: 1px;
             width: 3000px;
-            height: 743px
+            height: 743px;
         }
 
         .m .sie-top-gallery_2 {
-            left: 0;
-            top: 0;
+            left: 0px;
+            top: 0px;
             width: 320px;
-            height: 182px
+            height: 182px;
         }
 
-        .d .sie-top-gallery_2 .se-simple,
+        .d .sie-top-gallery_2 .se-simple:hover {}
+
+        .m .sie-top-gallery_2 .se-simple:hover {}
+
+        .d .sie-top-gallery_2 .se-simple {
+            background-color: rgba(4, 4, 4, 0.35);
+        }
+
         .m .sie-top-gallery_2 .se-simple {
-            background-color: rgba(4, 4, 4, .35)
+            background-color: rgba(4, 4, 4, 0.35);
         }
 
         .d .sie-top-gallery_3 {
             left: 227px;
             top: 333px;
             width: 747px;
-            height: 78px
+            height: 78px;
         }
 
         .m .sie-top-gallery_3 {
             left: 51px;
             top: 38px;
             width: 218px;
-            height: 79px
+            height: 79px;
         }
 
         .d .sie-top-gallery_3-text {
-            color: #fff;
-            font-size: 35px
+            color: rgba(255, 255, 255, 1);
+            font-size: 35px;
         }
 
         .m .sie-top-gallery_3-text {
-            color: #fff;
-            font-size: 24px
+            color: rgba(255, 255, 255, 1);
+            font-size: 24px;
         }
 
         .d .sie-top-gallery_4 {
             left: 498px;
             top: 419px;
             width: 208px;
-            height: 55px
+            height: 55px;
         }
 
         .m .sie-top-gallery_4 {
             left: 86px;
             top: 130px;
             width: 145px;
-            height: 34px
+            height: 34px;
         }
 
-        .d .sie-about_4:hover,
-        .d .sie-book-tour-2_0:hover,
-        .d .sie-look-around-1_16:hover,
-        .d .sie-look-around-1_17:hover,
-        .d .sie-look-around-1_18:hover,
-        .d .sie-look-around-1_3:hover,
-        .d .sie-look-around-1_9:hover,
-        .d .sie-top-gallery_5:hover,
-        .m .sie-about_4:hover,
-        .m .sie-book-tour-2_0:hover,
-        .m .sie-look-around-1_16:hover,
-        .m .sie-look-around-1_17:hover,
-        .m .sie-look-around-1_18:hover,
-        .m .sie-look-around-1_3:hover,
-        .m .sie-look-around-1_9:hover,
+        .d .sie-top-gallery_4 .se-simple:hover {}
+
+        .m .sie-top-gallery_4 .se-simple:hover {}
+
+        .d .sie-top-gallery_4 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-top-gallery_4 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-top-gallery_5:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
         .m .sie-top-gallery_5:hover {
             opacity: 1;
-            transition-duration: .5s;
-            transition-property: opacity
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-top-gallery_5 {
             left: 508px;
             top: 434px;
             width: 188px;
-            height: 29px
+            height: 29px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-top-gallery_5 {
             left: 92px;
             top: 136px;
             width: 133px;
-            height: 24px
+            height: 24px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
-        .d .sie-top-gallery_5-text,
-        .m .sie-top-gallery_5-text {
-            color: #6c8bbb;
-            transition-duration: .5s;
-            transition-property: color, font-family, font-weight, font-style
-        }
-
-        .d .sie-top-gallery_5-text:hover,
-        .m .sie-top-gallery_5-text:hover {
-            color: #384f72;
-            font-family: Montserrat;
+        .d .sie-top-gallery_5-text:hover {
+            color: rgba(56, 79, 114, 1);
+            font-family: 'Montserrat';
             font-weight: 700;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-top-gallery_5-text:hover {
+            color: rgba(56, 79, 114, 1);
+            font-family: 'Montserrat';
+            font-weight: 700;
+            font-style: normal;
         }
 
         .d .sie-top-gallery_5-text {
-            font-size: 13px
+            color: rgba(108, 139, 187, 1);
+            font-size: 13px;
+            transition-duration: 0.5s;
+            transition-property: color, font-family, font-weight, font-style;
         }
 
         .m .sie-top-gallery_5-text {
-            font-size: 9px
+            color: rgba(108, 139, 187, 1);
+            font-size: 9px;
+            transition-duration: 0.5s;
+            transition-property: color, font-family, font-weight, font-style;
         }
 
-        .d .sie-look-around-1_1,
-        .d .sie-look-around-1_3,
-        .m .sie-look-around-1_1,
-        .m .sie-look-around-1_3 {
-            transition-property: opacity;
-            transition-duration: .5s
-        }
-
-        .sib-about,
-        .sib-book-tour-2,
         .sib-look-around-1 {
-            z-index: 10
+            z-index: 10;
         }
 
         .m .sib-look-around-1 {
-            height: 1922px
+            height: 1922px;
         }
 
         .d .sib-look-around-1 {
-            height: 425px
+            height: 425px;
+        }
+
+        .m .sib-look-around-1 .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-look-around-1 .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-look-around-1_0 {
             left: -24px;
             top: 47px;
             width: 1248px;
-            height: 1px
+            height: 1px;
         }
 
         .m .sie-look-around-1_0 {
             left: -68px;
             top: 40px;
             width: 456px;
-            height: 1px
+            height: 1px;
         }
 
-        .d .sie-about_0 .se-simple,
-        .d .sie-look-around-1_0 .se-simple,
-        .m .sie-about_0 .se-simple,
+        .d .sie-look-around-1_0 .se-simple:hover {}
+
+        .m .sie-look-around-1_0 .se-simple:hover {}
+
+        .d .sie-look-around-1_0 .se-simple {
+            background-color: rgba(4, 4, 4, 0.2);
+        }
+
         .m .sie-look-around-1_0 .se-simple {
-            background-color: rgba(4, 4, 4, .2)
+            background-color: rgba(4, 4, 4, 0.2);
         }
 
-        .d .sie-look-around-1_11:hover,
-        .d .sie-look-around-1_19:hover,
-        .d .sie-look-around-1_1:hover,
-        .d .sie-look-around-1_20:hover,
-        .d .sie-look-around-1_7:hover,
-        .m .sie-look-around-1_11:hover,
-        .m .sie-look-around-1_19:hover,
-        .m .sie-look-around-1_1:hover,
-        .m .sie-look-around-1_20:hover,
-        .m .sie-look-around-1_7:hover {
-            opacity: .7;
-            transition-duration: .5s;
-            transition-property: opacity
+        .d .sie-look-around-1_1:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_1:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_1 {
             left: 72px;
             top: 116px;
             width: 180px;
-            height: 170px
+            height: 170px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_1 {
             left: 31px;
             top: 69px;
             width: 260px;
-            height: 260px
+            height: 260px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_1 .se-img {
             background-repeat: no-repeat;
             background-size: cover;
             background-position: 75% 75%;
-            border-radius: inherit
+            border-radius: inherit;
+        }
+
+        .m .sie-look-around-1_1 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
         }
 
         .d .sie-look-around-1_2 {
             left: 42px;
             top: 300px;
             width: 241px;
-            height: 24px
+            height: 24px;
         }
 
         .m .sie-look-around-1_2 {
             left: 31.5px;
             top: 343px;
             width: 259px;
-            height: 30px
+            height: 30px;
         }
 
-        .d .sie-look-around-1_14-text,
-        .d .sie-look-around-1_15-text,
-        .d .sie-look-around-1_2-text,
-        .d .sie-look-around-1_21-text,
-        .d .sie-look-around-1_8-text {
-            color: #004558;
+        .d .sie-look-around-1_2-text {
+            color: rgba(0, 69, 88, 1);
             text-transform: lowercase;
             line-height: 1.2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 24px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .m .sie-look-around-1_14-text,
-        .m .sie-look-around-1_15-text,
-        .m .sie-look-around-1_2-text,
-        .m .sie-look-around-1_21-text,
-        .m .sie-look-around-1_8-text {
-            color: #384f72;
+        .m .sie-look-around-1_2-text {
+            color: rgba(56, 79, 114, 1);
             text-transform: lowercase;
             line-height: 1;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 23px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
+        }
+
+        .d .sie-look-around-1_3:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_3:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_3 {
             left: 41px;
             top: 353px;
             width: 239px;
-            height: 21px
+            height: 21px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_3 {
             left: 66px;
             top: 398px;
             width: 191px;
-            height: 15px
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
-        .d .sie-about_4-text:hover,
-        .d .sie-book-tour-2_0-text:hover,
-        .d .sie-look-around-1_16-text:hover,
-        .d .sie-look-around-1_17-text:hover,
-        .d .sie-look-around-1_18-text:hover,
-        .d .sie-look-around-1_3-text:hover,
-        .d .sie-look-around-1_9-text:hover,
-        .m .sie-about_4-text:hover,
-        .m .sie-book-tour-2_0-text:hover,
-        .m .sie-look-around-1_16-text:hover,
-        .m .sie-look-around-1_17-text:hover,
-        .m .sie-look-around-1_18-text:hover,
-        .m .sie-look-around-1_3-text:hover,
-        .m .sie-look-around-1_9-text:hover {
-            color: #edebe6
+        .d .sie-look-around-1_3-text:hover {
+            color: rgba(237, 235, 230, 1);
         }
 
-        .d .sie-look-around-1_16-text,
-        .d .sie-look-around-1_17-text,
-        .d .sie-look-around-1_18-text,
-        .d .sie-look-around-1_3-text,
-        .d .sie-look-around-1_9-text {
-            color: #004558;
+        .m .sie-look-around-1_3-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .d .sie-look-around-1_3-text {
+            color: rgba(0, 69, 88, 1);
             text-transform: uppercase;
             line-height: 1.2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 10px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
             font-style: italic;
-            transition-duration: .5s;
-            transition-property: color
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
-        .m .sie-look-around-1_16-text,
-        .m .sie-look-around-1_17-text,
-        .m .sie-look-around-1_18-text,
-        .m .sie-look-around-1_3-text,
-        .m .sie-look-around-1_9-text {
-            color: #384f72;
+        .m .sie-look-around-1_3-text {
+            color: rgba(56, 79, 114, 1);
             text-transform: uppercase;
             line-height: 1;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 10px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
             font-style: italic;
-            transition-duration: .5s;
-            transition-property: color
-        }
-
-        .d .sie-book-tour-2_0,
-        .d .sie-look-around-1_11,
-        .d .sie-look-around-1_16,
-        .d .sie-look-around-1_17,
-        .d .sie-look-around-1_18,
-        .d .sie-look-around-1_19,
-        .d .sie-look-around-1_20,
-        .d .sie-look-around-1_7,
-        .d .sie-look-around-1_9,
-        .m .sie-book-tour-2_0,
-        .m .sie-look-around-1_11,
-        .m .sie-look-around-1_16,
-        .m .sie-look-around-1_17,
-        .m .sie-look-around-1_18,
-        .m .sie-look-around-1_19,
-        .m .sie-look-around-1_20,
-        .m .sie-look-around-1_7,
-        .m .sie-look-around-1_9 {
-            transition-duration: .5s;
-            transition-property: opacity
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .d .sie-look-around-1_4 {
             left: 525px;
             top: 36px;
             width: 150px;
-            height: 23px
+            height: 23px;
         }
 
         .m .sie-look-around-1_4 {
             left: 84px;
             top: 29px;
             width: 152px;
-            height: 25px
+            height: 25px;
         }
 
-        .d .sie-about_6,
+        .d .sie-look-around-1_4 .se-simple:hover {}
+
+        .m .sie-look-around-1_4 .se-simple:hover {}
+
+        .d .sie-look-around-1_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-look-around-1_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
         .d .sie-look-around-1_5 {
             left: 539px;
             top: 43px;
             width: 123px;
-            height: 18px
+            height: 18px;
         }
 
         .m .sie-look-around-1_5 {
             left: 101px;
             top: 36px;
             width: 118px;
-            height: 11px
+            height: 11px;
         }
 
-        .d .sie-about_6-text,
         .d .sie-look-around-1_5-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 10px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-about_6-text,
         .m .sie-look-around-1_5-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 9px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
         .d .sie-look-around-1_6 {
             left: 44px;
             top: 333px;
             width: 238px;
-            height: 13px
+            height: 13px;
         }
 
         .m .sie-look-around-1_6 {
             left: 30px;
             top: 375px;
             width: 262px;
-            height: 16px
+            height: 16px;
         }
 
-        .d .sie-look-around-1_12-text,
-        .d .sie-look-around-1_13-text,
-        .d .sie-look-around-1_22-text,
         .d .sie-look-around-1_6-text {
-            color: #4e4e4e;
+            color: rgba(78, 78, 78, 1);
             text-transform: uppercase;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 8px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-look-around-1_10-text,
-        .m .sie-look-around-1_12-text,
-        .m .sie-look-around-1_13-text,
-        .m .sie-look-around-1_22-text,
         .m .sie-look-around-1_6-text {
-            color: #040404;
+            color: rgba(4, 4, 4, 1);
             text-transform: uppercase;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 8px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .d .sie-look-around-1_7:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_7:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_7 {
             left: 282px;
             top: 116px;
             width: 180px;
-            height: 170px
+            height: 170px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_7 {
             left: 30px;
             top: 439px;
             width: 260px;
-            height: 260px
+            height: 260px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_7 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-look-around-1_7 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
         }
 
         .d .sie-look-around-1_8 {
             left: 252px;
             top: 300px;
             width: 241px;
-            height: 24px
+            height: 24px;
         }
 
         .m .sie-look-around-1_8 {
             left: 30.5px;
             top: 713px;
             width: 259px;
-            height: 30px
+            height: 30px;
+        }
+
+        .d .sie-look-around-1_8-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: lowercase;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 24px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-look-around-1_8-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 23px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .d .sie-look-around-1_9:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_9:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_9 {
             left: 253px;
             top: 353px;
             width: 239px;
-            height: 21px
+            height: 21px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_9 {
             left: 65px;
             top: 769px;
             width: 191px;
-            height: 15px
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_9-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-look-around-1_9-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .d .sie-look-around-1_9-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: uppercase;
+            line-height: 1.2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .m .sie-look-around-1_9-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            line-height: 1;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .d .sie-look-around-1_10 {
             left: 254px;
             top: 333px;
             width: 238px;
-            height: 13px
+            height: 13px;
         }
 
         .m .sie-look-around-1_10 {
             left: 29px;
             top: 745px;
             width: 262px;
-            height: 16px
+            height: 16px;
         }
 
         .d .sie-look-around-1_10-text {
-            color: #004558;
+            color: rgba(0, 69, 88, 1);
             text-transform: uppercase;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 8px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-look-around-1_10-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-look-around-1_11:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_11:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_11 {
             left: 706px;
             top: 116px;
             width: 180px;
-            height: 170px
+            height: 170px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_11 {
             left: 29px;
             top: 1170px;
             width: 260px;
-            height: 260px
+            height: 260px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
-        .m .sie-look-around-1_11 .se-img,
-        .m .sie-look-around-1_19 .se-img,
-        .m .sie-look-around-1_20 .se-img {
+        .d .sie-look-around-1_11 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-look-around-1_11 .se-img {
             background-repeat: no-repeat;
             background-size: cover;
             background-position: 5% 5%;
-            border-radius: inherit
+            border-radius: inherit;
         }
 
         .d .sie-look-around-1_12 {
             left: 674px;
             top: 333px;
             width: 238px;
-            height: 13px
+            height: 13px;
         }
 
         .m .sie-look-around-1_12 {
             left: 32px;
             top: 1475px;
             width: 262px;
-            height: 16px
+            height: 16px;
+        }
+
+        .d .sie-look-around-1_12-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-look-around-1_12-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-look-around-1_13 {
             left: 893px;
             top: 333px;
             width: 238px;
-            height: 13px
+            height: 13px;
         }
 
         .m .sie-look-around-1_13 {
             left: 34px;
             top: 1866px;
             width: 262px;
-            height: 16px
+            height: 16px;
+        }
+
+        .d .sie-look-around-1_13-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-look-around-1_13-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-look-around-1_14 {
             left: 674px;
             top: 300px;
             width: 241px;
-            height: 24px
+            height: 24px;
         }
 
         .m .sie-look-around-1_14 {
             left: 35px;
             top: 1439px;
             width: 259px;
-            height: 30px
+            height: 30px;
+        }
+
+        .d .sie-look-around-1_14-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: lowercase;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 24px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-look-around-1_14-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 23px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-look-around-1_15 {
             left: 891px;
             top: 300px;
             width: 241px;
-            height: 24px
+            height: 24px;
         }
 
         .m .sie-look-around-1_15 {
             left: 32px;
             top: 1836px;
             width: 259px;
-            height: 30px
+            height: 30px;
+        }
+
+        .d .sie-look-around-1_15-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: lowercase;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 24px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-look-around-1_15-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 23px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .d .sie-look-around-1_16:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_16:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_16 {
             left: 472px;
             top: 353px;
             width: 239px;
-            height: 21px
+            height: 21px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_16 {
             left: 64px;
             top: 1132px;
             width: 191px;
-            height: 15px
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_16-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-look-around-1_16-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .d .sie-look-around-1_16-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: uppercase;
+            line-height: 1.2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .m .sie-look-around-1_16-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            line-height: 1;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .d .sie-look-around-1_17:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_17:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_17 {
             left: 676px;
             top: 353px;
             width: 239px;
-            height: 21px
+            height: 21px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_17 {
             left: 70px;
             top: 1504px;
             width: 191px;
-            height: 15px
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_17-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-look-around-1_17-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .d .sie-look-around-1_17-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: uppercase;
+            line-height: 1.2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .m .sie-look-around-1_17-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            line-height: 1;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .d .sie-look-around-1_18:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_18:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_18 {
             left: 891px;
             top: 353px;
             width: 239px;
-            height: 21px
+            height: 21px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_18 {
             left: 70px;
             top: 1889px;
             width: 191px;
-            height: 15px
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_18-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-look-around-1_18-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .d .sie-look-around-1_18-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: uppercase;
+            line-height: 1.2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .m .sie-look-around-1_18-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: uppercase;
+            line-height: 1;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
+        }
+
+        .d .sie-look-around-1_19:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_19:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_19 {
             left: 493px;
             top: 116px;
             width: 180px;
-            height: 170px
+            height: 170px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_19 {
             left: 30px;
             top: 813px;
             width: 260px;
-            height: 260px
+            height: 260px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_19 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-look-around-1_19 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 5% 5%;
+            border-radius: inherit;
+        }
+
+        .d .sie-look-around-1_20:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-look-around-1_20:hover {
+            opacity: 0.7;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-look-around-1_20 {
             left: 921px;
             top: 116px;
             width: 180px;
-            height: 170px
+            height: 170px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-look-around-1_20 {
             left: 30px;
             top: 1566px;
             width: 260px;
-            height: 260px
+            height: 260px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-look-around-1_20 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-look-around-1_20 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 5% 5%;
+            border-radius: inherit;
         }
 
         .d .sie-look-around-1_21 {
             left: 470px;
             top: 300px;
             width: 241px;
-            height: 24px
+            height: 24px;
         }
 
         .m .sie-look-around-1_21 {
             left: 29px;
             top: 1080px;
             width: 259px;
-            height: 30px
+            height: 30px;
+        }
+
+        .d .sie-look-around-1_21-text {
+            color: rgba(0, 69, 88, 1);
+            text-transform: lowercase;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 24px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-look-around-1_21-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 23px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-look-around-1_22 {
             left: 472px;
             top: 333px;
             width: 238px;
-            height: 13px
+            height: 13px;
         }
 
         .m .sie-look-around-1_22 {
             left: 29px;
             top: 1110px;
             width: 262px;
-            height: 16px
+            height: 16px;
+        }
+
+        .d .sie-look-around-1_22-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-look-around-1_22-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sib-intro {
-            height: 1231px
+            height: 1231px;
         }
 
         .d .sib-intro {
-            height: 612px
+            height: 612px;
+        }
+
+        .m .sib-intro .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-intro .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-intro_0 {
             left: 97px;
             top: 116px;
             width: 561px;
-            height: 498px
+            height: 498px;
         }
 
         .m .sie-intro_0 {
             left: 11px;
             top: 434px;
             width: 298px;
-            height: 631px
+            height: 631px;
         }
 
-        .d .sie-i-do_0-text,
-        .d .sie-intro_0-text,
-        .d .sie-san-antonio-venue_0-text {
-            color: #000;
+        .d .sie-intro_0-text {
+            color: rgba(0, 0, 0, 1);
             line-height: 2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 12px;
             text-align: left;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .m .sie-about_3-text,
-        .m .sie-i-do_0-text,
-        .m .sie-intro_0-text,
-        .m .sie-san-antonio-venue_0-text {
-            color: #040404;
+        .m .sie-intro_0-text {
+            color: rgba(4, 4, 4, 1);
             line-height: 2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 12px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: normal
-        }
-
-        .d .sie-intro_3-text,
-        .m .sie-intro_3-text {
-            letter-spacing: .1em;
-            font-family: 'Libre Baskerville';
-            font-style: italic
+            font-style: normal;
         }
 
         .d .sie-intro_2 {
             left: 702px;
             top: 139px;
             width: 400px;
-            height: 400px
+            height: 400px;
         }
 
         .m .sie-intro_2 {
             left: -7px;
-            top: 0;
+            top: 0px;
             width: 334px;
-            height: 308px
+            height: 308px;
         }
 
-        .sie-i-do_2 img,
-        .sie-intro_2 img,
-        .sie-san-antonio-venue_2 img {
-            border: none
+        .sie-intro_2 img {
+            border: none;
         }
 
-        .d .sie-i-do_2 .se-img,
-        .d .sie-intro_2 .se-img,
-        .d .sie-san-antonio-venue_2 .se-img,
-        .m .sie-i-do_2 .se-img,
-        .m .sie-intro_2 .se-img,
-        .m .sie-san-antonio-venue_2 .se-img {
+        .d .sie-intro_2 .se-img {
             background-repeat: no-repeat;
             background-size: cover;
-            background-position: 50% 50%
+            background-position: 50% 50%;
+        }
+
+        .m .sie-intro_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
         }
 
         .d .sie-intro_3 {
             left: 144px;
             top: 64px;
             width: 913px;
-            height: 35px
+            height: 35px;
         }
 
         .m .sie-intro_3 {
             left: 20px;
             top: 353px;
             width: 280px;
-            height: 68px
+            height: 68px;
         }
 
         .d .sie-intro_3-text {
-            color: #4e4e4e;
+            color: rgba(78, 78, 78, 1);
             line-height: 1.6;
+            letter-spacing: 0.1em;
             font-size: 30px;
             text-align: center;
-            font-weight: 400
-        }
-
-        .m .sie-intro_3-text,
-        .m .sie-intro_4-text {
-            color: #000;
-            text-align: center;
-            font-weight: 400
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .m .sie-intro_3-text {
+            color: rgba(0, 0, 0, 1);
             line-height: 1.9;
-            font-size: 16px
+            letter-spacing: 0.1em;
+            font-size: 16px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-intro_4 {
             left: 547px;
             top: 46px;
             width: 108px;
-            height: 18px
+            height: 18px;
         }
 
         .m .sie-intro_4 {
             left: 112px;
             top: 330px;
             width: 96px;
-            height: 16px
+            height: 16px;
+        }
+
+        .d .sie-intro_4-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 11px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sie-intro_4-text {
+            color: rgba(0, 0, 0, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 12px;
-            font-family: Montserrat;
-            font-style: normal
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sib-hill-country {
+            height: 1px;
+        }
+
+        .d .sib-hill-country {
+            height: 1px;
+        }
+
+        .m .sib-hill-country .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-hill-country .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-hill-country_1 {
             left: 153px;
             top: 398px;
             width: 292px;
-            height: 31px
+            height: 31px;
         }
 
         .m .sie-hill-country_1 {
             left: 39px;
             top: 341px;
             width: 251px;
-            height: 27px
+            height: 27px;
+        }
+
+        .d .sie-hill-country_1 .se-simple:hover {}
+
+        .m .sie-hill-country_1 .se-simple:hover {}
+
+        .d .sie-hill-country_1 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-hill-country_1 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .sib-3d-tour {
-            z-index: 2
+            z-index: 2;
         }
 
         .m .sib-3d-tour {
-            height: 542px
+            height: 542px;
         }
 
         .d .sib-3d-tour {
-            height: 632px
+            height: 632px;
+        }
+
+        .m .sib-3d-tour .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-3d-tour .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-3d-tour_0 {
             left: 193px;
             top: 124px;
             width: 834px;
-            height: 468px
+            height: 468px;
         }
 
         .m .sie-3d-tour_0 {
             left: 16px;
             top: 148px;
             width: 290px;
-            height: 165px
+            height: 165px;
         }
 
         .d .sie-3d-tour_1 {
             left: 240px;
             top: 81px;
             width: 709px;
-            height: 19px
+            height: 19px;
         }
 
         .m .sie-3d-tour_1 {
             left: 31px;
             top: 94px;
             width: 258px;
-            height: 35px
+            height: 35px;
         }
 
         .d .sie-3d-tour_1-text {
-            color: #040404
+            color: rgba(4, 4, 4, 1);
         }
 
         .d .sie-3d-tour_2 {
             left: 458px;
             top: 23px;
             width: 284px;
-            height: 35px
+            height: 35px;
         }
 
         .m .sie-3d-tour_2 {
             left: 27px;
             top: 51px;
             width: 267px;
-            height: 41px
+            height: 41px;
+        }
+
+        .d .sie-3d-tour_2-text {
+            color: rgba(56, 79, 114, 1);
         }
 
         .m .sie-3d-tour_2-text {
-            color: #384f72;
+            color: rgba(56, 79, 114, 1);
             text-transform: lowercase;
             line-height: 1;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 30px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
         .d .sie-3d-tour_3 {
             left: 483px;
             top: 8px;
             width: 234px;
-            height: 18px
+            height: 18px;
         }
 
         .m .sie-3d-tour_3 {
             left: 31px;
             top: 32px;
             width: 259px;
-            height: 16px
+            height: 16px;
         }
 
         .d .sie-3d-tour_3-text {
-            color: #040404;
-            letter-spacing: .3em;
-            font-size: 10px
+            color: rgba(4, 4, 4, 1);
+            letter-spacing: 0.3em;
+            font-size: 10px;
         }
 
         .m .sie-3d-tour_3-text {
-            color: #040404;
+            color: rgba(4, 4, 4, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 9px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
         .m .sib-san-antonio-venue {
-            height: 1014px
+            height: 1014px;
         }
 
-        .d .sib-i-do,
         .d .sib-san-antonio-venue {
-            height: 528px
+            height: 528px;
+        }
+
+        .m .sib-san-antonio-venue .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-san-antonio-venue .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-san-antonio-venue_0 {
             left: 99px;
             top: 122px;
             width: 564px;
-            height: 360px
+            height: 360px;
         }
 
         .m .sie-san-antonio-venue_0 {
             left: 13px;
             top: 442px;
             width: 298px;
-            height: 639px
+            height: 639px;
+        }
+
+        .d .sie-san-antonio-venue_0-text {
+            color: rgba(0, 0, 0, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-san-antonio-venue_0-text {
+            color: rgba(4, 4, 4, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-san-antonio-venue_2 {
             left: 695px;
             top: -26px;
             width: 400px;
-            height: 406px
+            height: 406px;
         }
 
         .m .sie-san-antonio-venue_2 {
             left: 2px;
             top: 74px;
             width: 318px;
-            height: 300px
+            height: 300px;
+        }
+
+        .sie-san-antonio-venue_2 img {
+            border: none;
+        }
+
+        .d .sie-san-antonio-venue_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+        }
+
+        .m .sie-san-antonio-venue_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
         }
 
         .d .sie-san-antonio-venue_3 {
             left: 99px;
             top: 55px;
             width: 558px;
-            height: 36px
+            height: 36px;
         }
 
         .m .sie-san-antonio-venue_3 {
             left: 31px;
             top: 22px;
             width: 259px;
-            height: 30px
+            height: 30px;
         }
 
-        .d .sie-i-do_3-text,
         .d .sie-san-antonio-venue_3-text {
-            color: #4e4e4e;
+            color: rgba(78, 78, 78, 1);
             text-transform: none;
             line-height: 1.2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 30px;
             text-align: left;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .m .sie-about_2-text,
-        .m .sie-i-do_3-text,
         .m .sie-san-antonio-venue_3-text {
-            color: #384f72;
+            color: rgba(56, 79, 114, 1);
             text-transform: none;
             line-height: 1;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 20px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
         .d .sie-san-antonio-venue_4 {
             left: 695px;
             top: 369px;
             width: 401px;
-            height: 113px
+            height: 113px;
         }
 
         .m .sie-san-antonio-venue_4 {
             left: -7px;
             top: 331px;
             width: 337px;
-            height: 89px
+            height: 89px;
+        }
+
+        .d .sie-san-antonio-venue_4 .se-simple:hover {}
+
+        .m .sie-san-antonio-venue_4 .se-simple:hover {}
+
+        .d .sie-san-antonio-venue_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-san-antonio-venue_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
         }
 
         .d .sie-san-antonio-venue_5 {
             left: 695px;
             top: 380px;
             width: 401px;
-            height: 43px
+            height: 43px;
         }
 
         .m .sie-san-antonio-venue_5 {
             left: 14px;
             top: 340px;
             width: 296px;
-            height: 30px
+            height: 30px;
         }
 
-        .d .sie-i-do_5-text,
         .d .sie-san-antonio-venue_5-text {
-            color: #fff;
-            font-size: 20px
+            color: rgba(255, 255, 255, 1);
+            font-size: 20px;
         }
 
         .m .sie-san-antonio-venue_5-text {
-            color: #fff;
-            font-size: 15px
+            color: rgba(255, 255, 255, 1);
+            font-size: 15px;
         }
 
         .d .sie-san-antonio-venue_6 {
             left: 813px;
             top: 439px;
             width: 165px;
-            height: 31px
+            height: 31px;
         }
 
         .m .sie-san-antonio-venue_6 {
             left: 64px;
             top: 378px;
             width: 192px;
-            height: 27px
+            height: 27px;
+        }
+
+        .d .sie-san-antonio-venue_6 .se-simple:hover {}
+
+        .m .sie-san-antonio-venue_6 .se-simple:hover {}
+
+        .d .sie-san-antonio-venue_6 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-san-antonio-venue_6 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-san-antonio-venue_7 {
             left: 827px;
             top: 447px;
             width: 138px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-san-antonio-venue_7 {
             left: 90px;
             top: 378px;
             width: 141px;
-            height: 27px
+            height: 27px;
         }
 
         .d .sie-san-antonio-venue_7-text {
-            font-size: 13px
+            font-size: 13px;
         }
 
         .m .sie-san-antonio-venue_7-text {
             text-transform: uppercase;
             font-size: 12px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
         .m .sib-i-do {
-            height: 895px
+            height: 895px;
+        }
+
+        .d .sib-i-do {
+            height: 528px;
+        }
+
+        .m .sib-i-do .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-i-do .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-i-do_0 {
             left: 539px;
             top: 162px;
             width: 564px;
-            height: 242px
+            height: 242px;
         }
 
         .m .sie-i-do_0 {
             left: 13px;
             top: 423px;
             width: 298px;
-            height: 381px
+            height: 381px;
+        }
+
+        .d .sie-i-do_0-text {
+            color: rgba(0, 0, 0, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-i-do_0-text {
+            color: rgba(4, 4, 4, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-i-do_2 {
             left: 99px;
             top: 53px;
             width: 400px;
-            height: 400px
+            height: 400px;
         }
 
         .m .sie-i-do_2 {
             left: 2px;
             top: 102px;
             width: 334px;
-            height: 300px
+            height: 300px;
+        }
+
+        .sie-i-do_2 img {
+            border: none;
+        }
+
+        .d .sie-i-do_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+        }
+
+        .m .sie-i-do_2 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
         }
 
         .d .sie-i-do_3 {
             left: 539px;
             top: 101px;
             width: 558px;
-            height: 36px
+            height: 36px;
         }
 
         .m .sie-i-do_3 {
             left: 31px;
             top: 36px;
             width: 259px;
-            height: 30px
+            height: 30px;
+        }
+
+        .d .sie-i-do_3-text {
+            color: rgba(78, 78, 78, 1);
+            text-transform: none;
+            line-height: 1.2;
+            letter-spacing: 0.1em;
+            font-size: 30px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-i-do_3-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: none;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 20px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-i-do_4 {
             left: 626px;
             top: 396px;
             width: 350px;
-            height: 57px
+            height: 57px;
         }
 
         .m .sie-i-do_4 {
             left: 31px;
             top: 822px;
             width: 259px;
-            height: 50px
+            height: 50px;
+        }
+
+        .d .sie-i-do_4 .se-simple:hover {}
+
+        .m .sie-i-do_4 .se-simple:hover {}
+
+        .d .sie-i-do_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-i-do_4 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
         }
 
         .d .sie-i-do_5 {
             left: 626px;
             top: 408px;
             width: 350px;
-            height: 33px
+            height: 33px;
         }
 
         .m .sie-i-do_5 {
             left: 39px;
             top: 835px;
             width: 243px;
-            height: 25px
+            height: 25px;
+        }
+
+        .d .sie-i-do_5-text {
+            color: rgba(255, 255, 255, 1);
+            font-size: 20px;
         }
 
         .m .sie-i-do_5-text {
-            color: #fff;
-            font-size: 25px
+            color: rgba(255, 255, 255, 1);
+            font-size: 25px;
+        }
+
+        .sib-book-tour-2 {
+            z-index: 10;
         }
 
         .m .sib-book-tour-2 {
-            height: 167px
+            height: 167px;
         }
 
         .d .sib-book-tour-2 {
-            height: 73px
+            height: 73px;
+        }
+
+        .m .sib-book-tour-2 .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sib-book-tour-2 .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sie-book-tour-2_0:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-book-tour-2_0:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-book-tour-2_0 {
             left: 238px;
             top: 27px;
             width: 478px;
-            height: 19px
+            height: 19px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-book-tour-2_0 {
             left: 43px;
             top: 34px;
             width: 234px;
-            height: 51px
+            height: 51px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
-        .d .sie-book-tour-2_0-text,
-        .m .sie-book-tour-2_0-text {
-            color: #fff;
-            text-transform: lowercase;
-            letter-spacing: .1em;
-            font-size: 16px;
-            font-family: 'Libre Baskerville';
-            font-weight: 400;
-            font-style: italic;
-            transition-duration: .5s;
-            transition-property: color
+        .d .sie-book-tour-2_0-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-book-tour-2_0-text:hover {
+            color: rgba(237, 235, 230, 1);
         }
 
         .d .sie-book-tour-2_0-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: lowercase;
             line-height: 1.2;
-            text-align: left
+            letter-spacing: 0.1em;
+            font-size: 16px;
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .m .sie-book-tour-2_0-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: lowercase;
             line-height: 1.5;
-            text-align: center
+            letter-spacing: 0.1em;
+            font-size: 16px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .d .sie-book-tour-2_1 {
             left: 774px;
             top: 22px;
             width: 203px;
-            height: 29px
+            height: 29px;
         }
 
         .m .sie-book-tour-2_1 {
             left: 77px;
             top: 101px;
             width: 166px;
-            height: 34px
+            height: 34px;
+        }
+
+        .d .sie-book-tour-2_1 .se-simple:hover {}
+
+        .m .sie-book-tour-2_1 .se-simple:hover {}
+
+        .d .sie-book-tour-2_1 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-book-tour-2_1 .se-simple {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-book-tour-2_2 {
             left: 791px;
             top: 32px;
             width: 169px;
-            height: 9px
+            height: 9px;
         }
 
         .m .sie-book-tour-2_2 {
             left: 101px;
             top: 107px;
             width: 118px;
-            height: 23px
+            height: 23px;
         }
 
         .d .sie-book-tour-2_2-text {
-            color: #004558;
+            color: rgba(0, 69, 88, 1);
             text-transform: uppercase;
-            letter-spacing: .3em;
+            letter-spacing: 0.3em;
             font-size: 10px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
-        }
-
-        .d .sie-about_2-text,
-        .d .sie-about_3-text {
-            font-family: 'Libre Baskerville';
-            font-weight: 400
+            font-style: normal;
         }
 
         .m .sie-book-tour-2_2-text {
-            color: #040404;
-            letter-spacing: .3em;
-            font-size: 12px
+            color: rgba(4, 4, 4, 1);
+            letter-spacing: 0.3em;
+            font-size: 12px;
         }
 
-        .d .sie-about_2-text,
-        .d .sie-about_3-text,
-        .d .sie-about_4-text {
-            letter-spacing: .1em;
-            text-align: left
+        .sib-about {
+            z-index: 10;
         }
 
         .m .sib-about {
-            height: 760px
+            height: 760px;
         }
 
         .d .sib-about {
-            height: 525px
+            height: 525px;
+        }
+
+        .m .sib-about .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-about .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-about_0 {
             left: -17px;
             top: 46px;
             width: 1228px;
-            height: 1px
+            height: 1px;
         }
 
         .m .sie-about_0 {
             left: -43px;
             top: 40px;
             width: 407px;
-            height: 1px
+            height: 1px;
+        }
+
+        .d .sie-about_0 .se-simple:hover {}
+
+        .m .sie-about_0 .se-simple:hover {}
+
+        .d .sie-about_0 .se-simple {
+            background-color: rgba(4, 4, 4, 0.2);
+        }
+
+        .m .sie-about_0 .se-simple {
+            background-color: rgba(4, 4, 4, 0.2);
         }
 
         .d .sie-about_1 {
             left: 238.502px;
             top: 88px;
             width: 269px;
-            height: 382px
+            height: 382px;
         }
 
         .m .sie-about_1 {
             left: 60.997px;
             top: 69px;
             width: 199px;
-            height: 275px
+            height: 275px;
         }
 
-        .d .sie-about_1 .se-img,
+        .d .sie-about_1 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 62% 62%;
+            border-radius: inherit;
+        }
+
         .m .sie-about_1 .se-img {
             background-repeat: no-repeat;
             background-size: cover;
             background-position: 62% 62%;
-            border-radius: inherit
+            border-radius: inherit;
         }
 
         .d .sie-about_2 {
             left: 557px;
             top: 105px;
             width: 404px;
-            height: 41px
+            height: 41px;
         }
 
         .m .sie-about_2 {
             left: 41px;
             top: 372px;
             width: 259px;
-            height: 30px
+            height: 30px;
         }
 
         .d .sie-about_2-text {
-            color: #384f72;
+            color: rgba(56, 79, 114, 1);
             text-transform: none;
             line-height: 1.2;
+            letter-spacing: 0.1em;
             font-size: 30px;
-            font-style: italic
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-about_2-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: none;
+            line-height: 1;
+            letter-spacing: 0.1em;
+            font-size: 20px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-about_3 {
             left: 557px;
             top: 161px;
             width: 396px;
-            height: 230px
+            height: 230px;
         }
 
         .m .sie-about_3 {
             left: 19px;
             top: 396px;
             width: 281px;
-            height: 357px
-        }
-
-        .d .sie-about_4,
-        .m .sie-about_4 {
-            width: 191px;
-            transition-duration: .5s;
-            transition-property: opacity
+            height: 357px;
         }
 
         .d .sie-about_3-text {
-            color: #4e4e4e;
+            color: rgba(78, 78, 78, 1);
             line-height: 2;
+            letter-spacing: 0.1em;
             font-size: 12px;
-            font-style: normal
+            text-align: left;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-about_3-text {
+            color: rgba(4, 4, 4, 1);
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .d .sie-about_4:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-about_4:hover {
+            opacity: 1;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-about_4 {
             left: 557px;
             top: 400px;
-            height: 24px
+            width: 191px;
+            height: 24px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-about_4 {
             left: 65px;
             top: 721px;
-            height: 15px
+            width: 191px;
+            height: 15px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
-        .d .sie-about_4-text,
-        .m .sie-about_4-text {
-            text-transform: lowercase;
-            transition-duration: .5s;
-            transition-property: color
+        .d .sie-about_4-text:hover {
+            color: rgba(237, 235, 230, 1);
+        }
+
+        .m .sie-about_4-text:hover {
+            color: rgba(237, 235, 230, 1);
         }
 
         .d .sie-about_4-text {
-            color: #384f72;
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
             line-height: 1.2;
+            letter-spacing: 0.1em;
             font-size: 16px;
+            text-align: left;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
-        }
-
-        .d .sie-testimonials_1-text,
-        .m .sie-about_4-text,
-        .m .sie-testimonials_1-text {
-            color: #384f72;
-            letter-spacing: .1em;
-            text-align: center;
-            font-family: 'Libre Baskerville';
-            font-weight: 400;
-            font-style: italic
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .m .sie-about_4-text {
+            color: rgba(56, 79, 114, 1);
+            text-transform: lowercase;
             line-height: 1;
-            font-size: 15px
-        }
-
-        .d .sie-footer_1,
-        .d .sie-footer_2,
-        .d .sie-footer_3,
-        .d .sie-footer_4,
-        .m .sie-footer_1,
-        .m .sie-footer_2,
-        .m .sie-footer_3,
-        .m .sie-footer_4 {
-            transition-duration: .5s;
-            transition-property: opacity
+            letter-spacing: 0.1em;
+            font-size: 15px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+            transition-duration: 0.5s;
+            transition-property: color;
         }
 
         .d .sie-about_5 {
             left: 537.5px;
             top: 36px;
             width: 125px;
-            height: 23px
+            height: 23px;
         }
 
         .m .sie-about_5 {
             left: 99px;
             top: 29px;
             width: 122px;
-            height: 25px
+            height: 25px;
+        }
+
+        .d .sie-about_5 .se-simple:hover {}
+
+        .m .sie-about_5 .se-simple:hover {}
+
+        .d .sie-about_5 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-about_5 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sie-about_6 {
+            left: 539px;
+            top: 43px;
+            width: 123px;
+            height: 18px;
         }
 
         .m .sie-about_6 {
             left: 101px;
             top: 37px;
             width: 118px;
-            height: 10px
+            height: 10px;
+        }
+
+        .d .sie-about_6-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-about_6-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sib-testimonials {
-            height: 323px
+            height: 323px;
         }
 
         .d .sib-testimonials {
-            height: 400px
+            height: 400px;
+        }
+
+        .m .sib-testimonials .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-testimonials .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-testimonials_0 {
             left: 360px;
             top: 120px;
             width: 480px;
-            height: 160px
+            height: 160px;
         }
 
         .m .sie-testimonials_0 {
             left: 48px;
             top: 48px;
             width: 224px;
-            height: 226.1px
+            height: 226.1px;
         }
 
         .d .sie-testimonials_0 .si-embed {
             transform-origin: left top 0;
             transform: scale(1, 1);
             width: 480px;
-            height: 160px
+            height: 160px;
         }
 
         .m .sie-testimonials_0 .si-embed {
             transform-origin: left top 0;
             transform: scale(1, 1);
             width: 224px;
-            height: 226.1px
+            height: 226.1px;
         }
 
         .d .sie-testimonials_1 {
             left: 84px;
             top: 139px;
             width: 1033px;
-            height: 80px
+            height: 80px;
         }
 
         .m .sie-testimonials_1 {
             left: 12px;
             top: 53px;
             width: 297px;
-            height: 84px
+            height: 84px;
         }
 
         .d .sie-testimonials_1-text {
+            color: rgba(56, 79, 114, 1);
             text-transform: none;
             line-height: 1.2;
-            font-size: 30px
+            letter-spacing: 0.1em;
+            font-size: 30px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .m .sie-testimonials_1-text {
+            color: rgba(56, 79, 114, 1);
             text-transform: lowercase;
             line-height: 1.5;
-            font-size: 20px
-        }
-
-        .d .sie-testimonials_2-text,
-        .d .sie-testimonials_4-text,
-        .m .sie-testimonials_2-text,
-        .m .sie-testimonials_4-text {
-            letter-spacing: .3em;
-            font-family: Montserrat;
-            font-style: normal;
+            letter-spacing: 0.1em;
+            font-size: 20px;
             text-align: center;
+            font-family: 'Libre Baskerville';
             font-weight: 400;
-            text-transform: uppercase
+            font-style: italic;
         }
 
         .d .sie-testimonials_2 {
             left: 428px;
             top: 247px;
             width: 344px;
-            height: 14px
+            height: 14px;
         }
 
         .m .sie-testimonials_2 {
             left: 71px;
             top: 170px;
             width: 178px;
-            height: 16px
+            height: 16px;
         }
 
         .d .sie-testimonials_2-text {
-            color: #000;
-            font-size: 11px
+            color: rgba(0, 0, 0, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 11px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sie-testimonials_2-text {
-            color: #4e4e4e;
-            font-size: 12px
+            color: rgba(78, 78, 78, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-testimonials_3 {
             left: 482px;
             top: 303px;
             width: 236px;
-            height: 44px
+            height: 44px;
         }
 
         .m .sie-testimonials_3 {
             left: 64px;
             top: 218px;
             width: 189px;
-            height: 52px
+            height: 52px;
+        }
+
+        .d .sie-testimonials_3 .se-simple:hover {}
+
+        .m .sie-testimonials_3 .se-simple:hover {}
+
+        .d .sie-testimonials_3 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .m .sie-testimonials_3 .se-simple {
+            background-color: rgba(56, 79, 114, 1);
         }
 
         .d .sie-testimonials_4 {
             left: 516px;
             top: 313px;
             width: 169px;
-            height: 25px
+            height: 25px;
         }
 
         .m .sie-testimonials_4 {
             left: 90px;
             top: 227px;
             width: 137px;
-            height: 35px
+            height: 35px;
         }
 
-        .d .sie-testimonials_4-text,
-        .m .sie-testimonials_4-text {
-            color: #fff;
+        .d .sie-testimonials_4-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
             line-height: 1.2;
-            font-size: 10px
+            letter-spacing: 0.3em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-testimonials_4-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 1.2;
+            letter-spacing: 0.3em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sib-instagram {
-            height: 153px
+            height: 153px;
         }
 
         .d .sib-instagram {
-            height: 338px
+            height: 338px;
+        }
+
+        .m .sib-instagram .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .d .sib-instagram .ss-bg {
+            background-color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-instagram_0 {
             left: -1079px;
             top: 14px;
             width: 3358px;
-            height: 327px
+            height: 327px;
         }
 
         .m .sie-instagram_0 {
             left: -31px;
-            top: 0;
+            top: 0px;
             width: 383px;
-            height: 153px
+            height: 153px;
         }
 
         .d .sie-instagram_0 .sg-img-container {
             display: grid;
             justify-content: center;
             grid-template-columns: repeat(auto-fit, 327px);
-            gap: 5px
+            gap: 5px;
         }
 
         .d .sie-instagram_0 .si-social-image {
             height: 327px;
-            width: 327px
+            width: 327px;
         }
 
         .m .sie-instagram_0 .sg-img-container {
             display: grid;
             justify-content: center;
             grid-template-columns: repeat(auto-fit, 153px);
-            gap: 5px
+            gap: 5px;
         }
 
         .m .sie-instagram_0 .si-social-image {
             height: 153px;
-            width: 153px
+            width: 153px;
         }
 
-        .sie-instagram_0,
+        .sie-instagram_0 {
+            overflow: hidden;
+        }
+
         .sie-instagram_0 .si-social-grid {
-            overflow: hidden
+            overflow: hidden;
         }
 
         .sie-instagram_0 img {
             border: none;
             object-fit: cover;
-            max-height: 100%
+            max-height: 100%;
         }
 
         .sib-footer {
-            z-index: 1
+            z-index: 1;
         }
 
         .m .sib-footer {
-            height: 851px
+            height: 851px;
         }
 
         .d .sib-footer {
-            height: 342px
+            height: 342px;
+        }
+
+        .m .sib-footer .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sib-footer .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
         }
 
         .d .sie-footer_0 {
             left: 400px;
             top: 284px;
             width: 400px;
-            height: 38px
+            height: 38px;
         }
 
         .m .sie-footer_0 {
             left: 16px;
             top: 784px;
             width: 289px;
-            height: 39px
+            height: 39px;
         }
 
-        .d .sie-footer_0-text,
-        .d .sie-footer_13-text,
-        .d .sie-footer_14-text,
-        .d .sie-footer_21-text {
-            color: #fff;
+        .d .sie-footer_0-text {
+            color: rgba(255, 255, 255, 1);
             text-transform: none;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 9px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
         }
 
-        .m .sie-footer_0-text,
-        .m .sie-footer_13-text,
-        .m .sie-footer_14-text,
-        .m .sie-footer_21-text {
-            color: #fff;
+        .m .sie-footer_0-text {
+            color: rgba(255, 255, 255, 1);
             text-transform: none;
             line-height: 2;
-            letter-spacing: .1em;
+            letter-spacing: 0.1em;
             font-size: 10px;
             text-align: center;
             font-family: 'Libre Baskerville';
             font-weight: 400;
-            font-style: italic
+            font-style: italic;
+        }
+
+        .d .sie-footer_0-text.se-rc a {
+            color: rgba(255, 255, 255, 1);
         }
 
         .d .sie-footer_0-text.se-rc a:hover {
-            color: #fff;
-            opacity: .8
+            color: rgba(255, 255, 255, 1);
+            opacity: 0.8;
         }
 
-        .d .sie-footer_1:hover,
-        .d .sie-footer_2:hover,
-        .d .sie-footer_3:hover,
-        .d .sie-footer_4:hover,
-        .m .sie-footer_1:hover,
-        .m .sie-footer_2:hover,
-        .m .sie-footer_3:hover,
-        .m .sie-footer_4:hover {
-            opacity: .5;
-            transition-duration: .5s;
-            transition-property: opacity
+        .d .sie-footer_1:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-footer_1:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-footer_1 {
             left: 1141px;
             top: 178px;
             width: 16px;
-            height: 17px
+            height: 17px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-footer_1 {
             left: 174px;
             top: 588px;
             width: 33px;
-            height: 33px
+            height: 33px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-footer_1 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-footer_1 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-footer_1 svg:hover {}
+
+        .m .sie-footer_1 svg:hover {}
+
+        .d .sie-footer_2:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-footer_2:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-footer_2 {
             left: 1051px;
             top: 178px;
             width: 16px;
-            height: 17px
+            height: 17px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-footer_2 {
             left: 52px;
             top: 588px;
             width: 33px;
-            height: 33px
+            height: 33px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-footer_2 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-footer_2 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-footer_2 svg:hover {}
+
+        .m .sie-footer_2 svg:hover {}
+
+        .d .sie-footer_3:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-footer_3:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-footer_3 {
             left: 1081px;
             top: 178px;
             width: 15px;
-            height: 17px
+            height: 17px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-footer_3 {
             left: 113px;
             top: 588px;
             width: 33px;
-            height: 33px
+            height: 33px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .d .sie-footer_3 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-footer_3 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-footer_3 svg:hover {}
+
+        .m .sie-footer_3 svg:hover {}
+
+        .d .sie-footer_4:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
+        }
+
+        .m .sie-footer_4:hover {
+            opacity: 0.5;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .d .sie-footer_4 {
             left: 1111px;
             top: 178px;
             width: 16px;
-            height: 17px
+            height: 17px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
 
         .m .sie-footer_4 {
             left: 235px;
             top: 588px;
             width: 33px;
-            height: 33px
+            height: 33px;
+            transition-duration: 0.5s;
+            transition-property: opacity;
         }
+
+        .d .sie-footer_4 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .m .sie-footer_4 svg {
+            fill: rgba(255, 255, 255, 1);
+        }
+
+        .d .sie-footer_4 svg:hover {}
+
+        .m .sie-footer_4 svg:hover {}
 
         .d .sie-footer_5 {
             left: 891px;
             top: 178px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_5 {
             left: 95px;
             top: 549px;
             width: 131px;
-            height: 22px
+            height: 22px;
         }
 
         .d .sie-footer_5-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 9px;
             text-align: left;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
-        .d .sie-footer_10-text,
-        .m .sie-footer_10-text {
-            color: #fff;
-            text-transform: uppercase;
-            letter-spacing: .2em;
-            text-align: center;
-            font-family: Montserrat;
-            font-weight: 400;
-            font-style: normal
-        }
-
-        .m .sie-footer_15-text,
-        .m .sie-footer_16-text,
-        .m .sie-footer_17-text,
-        .m .sie-footer_18-text,
-        .m .sie-footer_19-text,
-        .m .sie-footer_20-text,
-        .m .sie-footer_22-text,
-        .m .sie-footer_23-text,
-        .m .sie-footer_24-text,
         .m .sie-footer_5-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 10px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
         }
 
         .d .sie-footer_6 {
             left: -39px;
             top: 259px;
             width: 1279px;
-            height: 1px
+            height: 1px;
         }
 
         .m .sie-footer_6 {
             left: 10px;
             top: 651px;
             width: 300px;
-            height: 1px
+            height: 1px;
         }
 
-        .d .sie-footer_6 .se-simple,
-        .d .sie-footer_7 .se-simple,
-        .d .sie-footer_8 .se-simple,
-        .d .sie-footer_9 .se-simple,
-        .m .sie-footer_6 .se-simple,
-        .m .sie-footer_7 .se-simple,
-        .m .sie-footer_8 .se-simple,
-        .m .sie-footer_9 .se-simple {
-            background-color: rgba(139, 139, 139, .2)
+        .d .sie-footer_6 .se-simple:hover {}
+
+        .m .sie-footer_6 .se-simple:hover {}
+
+        .d .sie-footer_6 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
+        }
+
+        .m .sie-footer_6 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
         }
 
         .d .sie-footer_7 {
             left: 366px;
             top: 34px;
             width: 1px;
-            height: 198px
+            height: 198px;
         }
 
         .m .sie-footer_7 {
             left: 10px;
             top: 364px;
             width: 300px;
-            height: 1px
+            height: 1px;
+        }
+
+        .d .sie-footer_7 .se-simple:hover {}
+
+        .m .sie-footer_7 .se-simple:hover {}
+
+        .d .sie-footer_7 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
+        }
+
+        .m .sie-footer_7 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
         }
 
         .d .sie-footer_8 {
@@ -3152,134 +5344,236 @@
             top: 44px;
             width: 1px;
             height: 198px;
-            display: none
+            display: none;
         }
 
         .m .sie-footer_8 {
             left: 10px;
             top: 531px;
             width: 300px;
-            height: 1px
+            height: 1px;
+        }
+
+        .d .sie-footer_8 .se-simple:hover {}
+
+        .m .sie-footer_8 .se-simple:hover {}
+
+        .d .sie-footer_8 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
+        }
+
+        .m .sie-footer_8 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
         }
 
         .d .sie-footer_9 {
             left: 833.5px;
             top: 34.25px;
             width: 1px;
-            height: 198px
+            height: 198px;
         }
 
         .m .sie-footer_9 {
             left: 10px;
             top: 259px;
             width: 300px;
-            height: 1px
+            height: 1px;
+        }
+
+        .d .sie-footer_9 .se-simple:hover {}
+
+        .m .sie-footer_9 .se-simple:hover {}
+
+        .d .sie-footer_9 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
+        }
+
+        .m .sie-footer_9 .se-simple {
+            background-color: rgba(139, 139, 139, 0.2);
         }
 
         .d .sie-footer_10 {
             left: 885px;
             top: 85px;
             width: 270px;
-            height: 14px
+            height: 14px;
         }
 
         .m .sie-footer_10 {
             left: 29px;
             top: 282px;
             width: 262px;
-            height: 16px
+            height: 16px;
         }
 
         .d .sie-footer_10-text {
-            font-size: 9px
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .m .sie-footer_10-text {
-            font-size: 8px
-        }
-
-        .d .sie-footer_11-text,
-        .m .sie-footer_11-text {
-            text-transform: lowercase;
-            font-family: 'Libre Baskerville';
-            font-style: italic;
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 8px;
             text-align: center;
+            font-family: 'Montserrat';
             font-weight: 400;
-            color: #fff
+            font-style: normal;
         }
 
         .d .sie-footer_11 {
             left: 863px;
             top: 102px;
             width: 314px;
-            height: 40px
+            height: 40px;
         }
 
         .m .sie-footer_11 {
             left: 5px;
             top: 315px;
             width: 311px;
-            height: 32px
+            height: 32px;
         }
 
         .d .sie-footer_11-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: lowercase;
             line-height: 1.2;
-            letter-spacing: 0;
-            font-size: 28px
+            letter-spacing: 0em;
+            font-size: 28px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .m .sie-footer_11-text {
-            letter-spacing: .2em;
-            font-size: 24px
+            color: rgba(255, 255, 255, 1);
+            text-transform: lowercase;
+            letter-spacing: 0.2em;
+            font-size: 24px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-footer_12 {
             left: 479px;
             top: 15px;
             width: 242px;
-            height: 242px
+            height: 242px;
         }
 
         .m .sie-footer_12 {
             left: 48px;
             top: 18px;
             width: 224px;
-            height: 224px
+            height: 224px;
+        }
+
+        .d .sie-footer_12 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
+        }
+
+        .m .sie-footer_12 .se-img {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            border-radius: inherit;
         }
 
         .d .sie-footer_13 {
             left: 800px;
             top: 281px;
             width: 400px;
-            height: 38px
+            height: 38px;
         }
 
         .m .sie-footer_13 {
             left: 16px;
             top: 729px;
             width: 289px;
-            height: 39px
+            height: 39px;
+        }
+
+        .d .sie-footer_13-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-footer_13-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-footer_14 {
             left: -3px;
             top: 283px;
             width: 400px;
-            height: 38px
+            height: 38px;
         }
 
         .m .sie-footer_14 {
             left: 16px;
             top: 689px;
             width: 289px;
-            height: 18px
+            height: 18px;
+        }
+
+        .d .sie-footer_14-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-footer_14-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-footer_15 {
             left: 105px;
             top: 26px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_15 {
@@ -3287,76 +5581,152 @@
             top: 176px;
             width: 131px;
             height: 22px;
-            display: none
+            display: none;
         }
 
-        .d .sie-footer_15-text,
-        .d .sie-footer_16-text,
-        .d .sie-footer_17-text,
-        .d .sie-footer_18-text,
-        .d .sie-footer_19-text,
-        .d .sie-footer_20-text,
-        .d .sie-footer_22-text,
-        .d .sie-footer_23-text,
-        .d .sie-footer_24-text {
-            color: #fff;
+        .d .sie-footer_15-text {
+            color: rgba(255, 255, 255, 1);
             text-transform: uppercase;
             line-height: 2;
-            letter-spacing: .2em;
+            letter-spacing: 0.2em;
             font-size: 9px;
             text-align: center;
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 400;
-            font-style: normal
+            font-style: normal;
+        }
+
+        .m .sie-footer_15-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_16 {
             left: 105px;
             top: 51px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_16 {
             left: 95px;
             top: 394px;
             width: 131px;
-            height: 22px
+            height: 22px;
+        }
+
+        .d .sie-footer_16-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_16-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_17 {
             left: 105px;
             top: 77px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_17 {
             left: 95px;
             top: 460px;
             width: 131px;
-            height: 22px
+            height: 22px;
+        }
+
+        .d .sie-footer_17-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_17-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_18 {
             left: 105px;
             top: 106px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_18 {
             left: 95px;
             top: 438px;
             width: 131px;
-            height: 22px
+            height: 22px;
+        }
+
+        .d .sie-footer_18-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_18-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_19 {
             left: 105px;
             top: 162px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_19 {
@@ -3364,133 +5734,447 @@
             top: 140px;
             width: 131px;
             height: 22px;
-            display: none
+            display: none;
+        }
+
+        .d .sie-footer_19-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_19-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_20 {
             left: 105px;
             top: 186px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_20 {
             left: 95px;
             top: 482px;
             width: 131px;
-            height: 22px
+            height: 22px;
+        }
+
+        .d .sie-footer_20-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_20-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_21 {
             left: -3px;
             top: 303px;
             width: 400px;
-            height: 17px
+            height: 17px;
         }
 
         .m .sie-footer_21 {
             left: 16px;
             top: 667px;
             width: 289px;
-            height: 18px
+            height: 18px;
+        }
+
+        .d .sie-footer_21-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .m .sie-footer_21-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: none;
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Libre Baskerville';
+            font-weight: 400;
+            font-style: italic;
         }
 
         .d .sie-footer_22 {
             left: 105px;
             top: 210px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
-        .m .sie-footer_22,
-        .m .sie-footer_23 {
+        .m .sie-footer_22 {
             left: 89px;
             top: 162px;
             width: 131px;
             height: 22px;
-            display: none
+            display: none;
+        }
+
+        .d .sie-footer_22-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_22-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_23 {
             left: 81px;
             top: 234px;
             width: 205px;
-            height: 16px
+            height: 16px;
+        }
+
+        .m .sie-footer_23 {
+            left: 89px;
+            top: 162px;
+            width: 131px;
+            height: 22px;
+            display: none;
+        }
+
+        .d .sie-footer_23-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_23-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
         }
 
         .d .sie-footer_24 {
             left: 105px;
             top: 133px;
             width: 147px;
-            height: 16px
+            height: 16px;
         }
 
         .m .sie-footer_24 {
             left: 95px;
             top: 416px;
             width: 131px;
-            height: 22px
+            height: 22px;
+        }
+
+        .d .sie-footer_24-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 9px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .m .sie-footer_24-text {
+            color: rgba(255, 255, 255, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 10px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .sib-contact-sticky {
+            z-index: 100;
         }
 
         .m .sib-contact-sticky {
-            height: 50px
+            height: 50px;
         }
 
         .d .sib-contact-sticky {
             height: 43px;
-            display: none
+            display: none;
+        }
+
+        .m .sib-contact-sticky .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
+        }
+
+        .d .sib-contact-sticky .ss-bg {
+            background-color: rgba(56, 79, 114, 1);
         }
 
         .d .sie-contact-sticky_0 {
             left: 143px;
             top: 14px;
             width: 915px;
-            height: 15px
+            height: 15px;
         }
 
         .m .sie-contact-sticky_0 {
             left: 18px;
             top: 16px;
             width: 285px;
-            height: 18px
+            height: 18px;
+        }
+
+        .d .sie-contact-sticky_0-text {
+            color: rgba(255, 255, 255, 1);
         }
 
         .m .sie-contact-sticky_0-text {
-            color: #fff;
+            color: rgba(255, 255, 255, 1);
             line-height: 1.4;
-            font-size: 13px
+            font-size: 13px;
         }
 
         body {
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale
+            -moz-osx-font-smoothing: grayscale;
         }
 
         .sie-navigation_4:hover+#navigation_view-2 {
-            display: block !important
+            display: block !important;
         }
 
-        @media only screen and (min-width:767px) {
+        @media only screen and (min-width: 767px) {
             #mobile-sticky-sec {
                 display: none !important;
-                visibility: hidden !important
+                visibility: hidden !important;
             }
 
-            @media only screen and (max-width:767px) {
+            @media only screen and (max-width: 767px) {
                 #mobile-sticky-sec {
                     display: block !important;
-                    visibility: visible !important
+                    visibility: visible !important;
                 }
             }
         }
+        .d .sie-navigations_1 {
+   left: 400px; /* Default settings for large desktops */
+        top: 50px;
+        width: 150px;
+        height: 27px;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+/* Large desktops (screen width >= 1367px) */
+@media (min-width: 1367px) {
+    .d .sie-navigations_1 {
+        left: 380px; /* Default settings for large desktops */
+        top: 30px;
+        width: 150px;
+        height: 27px;
+        margin-left: 10px;
+        margin-bottom: 30px;
+    }
+}
+
+/* Laptops (screen widths between 1024px and 1366px) */
+@media (min-width: 1024px) and (max-width: 1366px) {
+    .d .sie-navigations_1 {
+        left: 370px; /* Further adjust positioning */
+        top: 30px; /* Adjust top position */
+        margin-right: 20px;
+        margin-bottom: 30px;
+    }
+    .d .sie-navigations_1-text {
+        color: rgba(4, 4, 4, 1);
+        text-transform: uppercase;
+        line-height: 2;
+        letter-spacing: 0.1em;
+        font-size: 8px; /* Reduced font size */
+        text-align: center;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        font-style: normal;
+    }
+}
+
+
+/* Tablets and smaller laptops (screen widths between 768px and 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .d .sie-navigations_1 {
+         left: 220px; /* Adjust positioning */
+        top: 10px; /* Adjust top position */
+        width: 130px; /* Reduce width */
+        height: 25px; /* Adjust height */
+         margin-left: 10px;
+        margin-bottom: 30px;
+    }
+
+}
+@media screen and (max-width: 425px) {
+   .d .sie-navigations_1 {
+        display: none; /* Hide the entire navbar */
+    }
+}
+
+
+/* Mobile and smaller tablets (screen widths between 425px and 767px) */
+
+.d .sie-navigations_1-text {
+    color: rgba(4, 4, 4, 1);
+    text-transform: uppercase;
+    line-height: 2;
+    letter-spacing: 0.2em;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+/* Mobile devices (screen width <= 425px) */
+
+
+
+
+
+
+
+/* Large mobile devices (screen widths between 576px and 767px) */
+
+
+/* Small mobile devices (screen widths < 576px) */
+.m .sie-mobiles-nav_13 {
+    left: 32px;
+    top: 110px;
+    width: 239px;
+    height: 23px;
+    margin-left: 10px;
+}
+.m .sie-mobiles-nav_13-text {
+    color: rgba(4, 4, 4, 1);
+    text-transform: uppercase;
+    line-height: 1.4;
+    letter-spacing: 0.2em;
+    font-size: 13px;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-style: normal;
+}
     </style>
 
 </head>
 
 <body>
-    <div id="si-sp" class="sp">
 
-        @include('partials.Header')
+    <div id="si-sp" class="sp">
+       @include('partials.Header')
+        <div id="social-stalk-us" data-bid="social-stalk-us" class="sb sib-social-stalk-us sb-lm sb-ld">
+            <div class="ss-s ss-bg">
+                <div class="sc" style="width:1200px">
+                    <div data-sid="social-stalk-us_0" class="sie-social-stalk-us_0 se">
+                        <div class="se-simple"></div>
+                    </div><a href="https://www.tiktok.com/@texasweddingvenue" target="_blank"
+                        class="sie-social-stalk-us_1 se" data-sid="social-stalk-us_1">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M433.29,150.28c-13.21-1.22-34.28-5.4-52.61-20.21a164.93,164.93,0,0,1-27.47-32.68l-.64-1-.62-1-.14-.21c-.69-1.12-1.35-2.23-2-3.32-2.62-4.5-4.75-8.68-5.29-9.73-1.91-3.82-3.48-7.31-4.76-10.37-.34-.93-.67-1.89-1-2.92A54.43,54.43,0,0,1,336.56,53l-70.32.4.84,277.68c0,14.9-12.19,40-34.61,50.87-16.22,7.88-38.32,7.19-50.67.72l-.09-.05-.06,0,0,0a74,74,0,0,1-8.89-5.62,62.36,62.36,0,0,1-9.41-8.8c-3.5-4-10.71-12.57-13.11-25.7-1.89-10.33.28-18.48,1.34-23.35.85-3.87,5.85-24.89,26.59-37.94,21.7-13.65,43.91-8.06,47.54-7.08.28-17.86,1.05-64.79,1.15-70.41-10.74-1.81-46-6.37-82.41,14-39.25,21.89-53.34,57.85-57.12,68a131,131,0,0,0-8.2,49.21,122.67,122.67,0,0,0,37.24,86.72,148.78,148.78,0,0,0,21,16.79q2.58,2,5.41,3.72a69.53,69.53,0,0,0,14.59,6.79c5.4,2.32,62.76,25.78,118.78-8.39,56.58-34.5,61.55-97.13,61.9-102.79V189.44A150.19,150.19,0,0,0,434.54,220C434.43,213.39,433.64,166.92,433.29,150.28Z" />
+                            </svg></div>
+                    </a><a href="https://www.instagram.com/kendallpointvenue/" target="_blank"
+                        class="sie-social-stalk-us_2 se" data-sid="social-stalk-us_2">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M338,54.63H174c-62.72,0-114,51.32-114,114V343.33c0,62.72,51.32,114,114,114H338c62.72,0,114-51.32,114-114V168.67C452,105.94,400.68,54.63,338,54.63Zm83.91,288.71A84.24,84.24,0,0,1,338,427.24H174a84.24,84.24,0,0,1-83.91-83.91V168.67A84.24,84.24,0,0,1,174,84.76H338a84.24,84.24,0,0,1,83.91,83.91Z" />
+                                <path
+                                    d="M255.77,148.18A107.94,107.94,0,1,0,363.71,256.13,107.94,107.94,0,0,0,255.77,148.18Zm-.52,178.71a70.68,70.68,0,1,1,70.68-70.68A70.68,70.68,0,0,1,255.25,326.9Z" />
+                                <circle cx="365.44" cy="146.5" r="25.56" />
+                            </svg></div>
+                    </a><a href="https://www.facebook.com/kendallpointvenue/" target="_blank"
+                        class="sie-social-stalk-us_3 se" data-sid="social-stalk-us_3">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64h-64z" />
+                            </svg></div>
+                    </a><a href="https://www.pinterest.com/kendallpointvenue/" target="_blank"
+                        class="sie-social-stalk-us_4 se" data-sid="social-stalk-us_4">
+                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <path
+                                    d="M256 32C132.3 32 32 132.3 32 256s100.3 224 224 224 224-100.3 224-224S379.7 32 256 32zm135.8 359.8C355.5 428 307.3 448 256 448c-16.2 0-32.1-2-47.4-5.9 2.8-6.3 5.2-12.8 7-19.3 2.8-10 15.8-61.6 15.8-61.6 7.8 14.8 30.5 27.9 54.7 27.9 72 0 120.9-65.6 120.9-153.5 0-66.4-56.3-128.3-141.8-128.3-106.4 0-160.1 76.3-160.1 139.9 0 38.5 14.6 72.8 45.9 85.6 5.1 2.1 9.7.1 11.2-5.6 1-3.9 3.5-13.9 4.6-18 1.5-5.6.9-7.6-3.2-12.5-9-10.7-14.8-24.4-14.8-43.9 0-56.6 42.3-107.3 110.3-107.3 60.1 0 93.2 36.7 93.2 85.8 0 64.6-28.6 119.1-71 119.1-23.4 0-41-19.4-35.4-43.1 6.7-28.4 19.8-59 19.8-79.5 0-18.3-9.8-33.6-30.2-33.6-24 0-43.2 24.8-43.2 58 0 21.1 7.2 35.4 7.2 35.4S175 391.5 170.7 409.7c-1.3 5.5-2.2 11.1-2.9 16.8-17.3-9-33.3-20.6-47.4-34.8C84 355.5 64 307.3 64 256s20-99.5 56.2-135.8C156.5 84 204.7 64 256 64s99.5 20 135.8 56.2C428 156.5 448 204.7 448 256s-20 99.5-56.2 135.8z" />
+                            </svg></div>
+                    </a>
+                    <div data-sid="social-stalk-us_5" class="sie-social-stalk-us_5 se">
+                        <h3 class="se-t sie-social-stalk-us_5-text st-m-subheading st-d-subheading se-rc">social stalk
+                            us!</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div id="top-gallery" data-bid="top-gallery" class="sb sib-top-gallery sb-nd-dH">
             <div class="ss-s ss-bg">
                 <div class="sb-m"></div>
@@ -3501,10 +6185,10 @@
                     <div data-sid="top-gallery_3" class="sie-top-gallery_3 se">
                         <h1 class="se-t sie-top-gallery_3-text st-m-title st-d-title se-rc">Choose the Perfect Setting
                             for Your Dream Wedding</h1>
-                    </div><a href="contact.html" target="_self" class="sie-top-gallery_4 se" data-sid="top-gallery_4">
+                    </div><a href="contact.html" target="_self" class="sie-top-gallery_4 se"
+                        data-sid="top-gallery_4">
                         <div class="se-simple"></div>
-                    </a><a href="{{ route('contact') }}" target="_self" class="sie-top-gallery_5 se"
-                        data-sid="top-gallery_5">
+                    </a><a href="contact.html" target="_self" class="sie-top-gallery_5 se" data-sid="top-gallery_5">
                         <h3 class="se-t sie-top-gallery_5-text st-m-subheading st-d-subheading">See Kendall Point for
                             Yourself&nbsp;</h3>
                     </a>
@@ -3581,7 +6265,7 @@
                     <div data-sid="look-around-1_13" class="sie-look-around-1_13 se">
                         <h3 class="se-t sie-look-around-1_13-text st-m-subheading st-d-subheading se-rc">wedding inspo
                             and tips</h3>
-                    </div><a href="pricing-guide.html" target="_self" class="sie-look-around-1_14 se"
+                    </div><a href="{{ route('price') }}" target="_self" class="sie-look-around-1_14 se"
                         data-sid="look-around-1_14">
                         <h2 class="se-t sie-look-around-1_14-text st-m-heading st-d-heading">pricing</h2>
                     </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_15 se"
@@ -3638,8 +6322,7 @@
                             hospitality. From your first tour to the day you finally say, “I do!” our job is to not only
                             celebrate your story, but make you feel like part of our family.
                             <br><br>From the ground up, Kendall Point was <a href="amenities.html"
-                                target="_self">built
-                                with you in mind</a>, making it one of the best wedding venues in
+                                target="_self">built with you in mind</a>, making it one of the best wedding venues in
                             Texas. The stunning wrap-around porch offers <a href="gallery.html" target="_self">360°
                                 views</a> of the lush Hill Country while the Grand Ballroom has an understated elegance
                             that is unmatched by any other Texas wedding venue.
@@ -3728,7 +6411,7 @@
                     </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_4 se"
                         data-sid="san-antonio-venue_4">
                         <div class="se-simple"></div>
-                    </a><a href="{{route('amenities')}}" target="_self" class="sie-san-antonio-venue_5 se"
+                    </a><a href="amenities.html" target="_self" class="sie-san-antonio-venue_5 se"
                         data-sid="san-antonio-venue_5">
                         <h2 class="se-t sie-san-antonio-venue_5-text st-m-heading st-d-heading">Interested in our San
                             antonio Wedding Venue?</h2>
@@ -3770,7 +6453,7 @@
                     </div><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_4 se"
                         data-sid="i-do_4">
                         <div class="se-simple"></div>
-                    </a><a href="{{route('book')}}" target="_blank" class="sie-i-do_5 se"
+                    </a><a href="contact-book-your-tour.html" target="_blank" class="sie-i-do_5 se"
                         data-sid="i-do_5">
                         <h2 class="se-t sie-i-do_5-text st-m-title st-d-title">Schedule a tour</h2>
                     </a>
@@ -3786,7 +6469,7 @@
                     </div><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_1 se"
                         data-sid="book-tour-2_1">
                         <div class="se-simple"></div>
-                    </a><a href="{{route('price')}}" target="_self" class="sie-book-tour-2_2 se"
+                    </a><a href="pricing-guide.html" target="_self" class="sie-book-tour-2_2 se"
                         data-sid="book-tour-2_2">
                         <h3 class="se-t sie-book-tour-2_2-text st-m-subheading st-d-subheading">pricing &amp; amenities
                         </h3>
@@ -3803,8 +6486,7 @@
                     <div data-sid="about_1" class="sie-about_1 se">
                         <div style="width:100%;height:100%" data-img="about_1" class="se-img se-gr slzy"><span
                                 role="img"
-                                aria-label="The Voss Family, Kendall Point owners and operators."></span>
-                        </div>
+                                aria-label="The Voss Family, Kendall Point owners and operators."></span></div>
                         <noscript><img
                                 src="../static.showit.co/400/-ibAwEm6Jo2uL7h2_vt02w/105740/voss-family-dawn-elizabeth-studios-038.jpg"
                                 class="se-img" alt="The Voss Family, Kendall Point owners and operators."
@@ -3822,7 +6504,7 @@
                             wait to have you!
                             <br><br>
                         </p>
-                    </div><a href="{{route('about')}}" target="_self" class="sie-about_4 se" data-sid="about_4">
+                    </div><a href="about.html" target="_self" class="sie-about_4 se" data-sid="about_4">
                         <h3 class="se-t sie-about_4-text st-m-heading st-d-heading">Our Full Story &gt;</h3>
                     </a>
                     <div data-sid="about_5" class="sie-about_5 se">
@@ -3850,10 +6532,10 @@
                     <div data-sid="testimonials_2" class="sie-testimonials_2 se">
                         <h3 class="se-t sie-testimonials_2-text st-m-subheading st-d-subheading se-rc"><b>Nicolette
                                 C.</b><br></h3>
-                    </div><a href="{{route('review')}}" target="_self" class="sie-testimonials_3 se"
+                    </div><a href="reviews.html" target="_self" class="sie-testimonials_3 se"
                         data-sid="testimonials_3">
                         <div class="se-simple"></div>
-                    </a><a href="{{route('review')}}" target="_self" class="sie-testimonials_4 se"
+                    </a><a href="reviews.html" target="_self" class="sie-testimonials_4 se"
                         data-sid="testimonials_4">
                         <h3 class="se-t sie-testimonials_4-text st-m-subheading st-d-subheading">Read more reviews from
                             our couples!</h3>
@@ -3961,8 +6643,7 @@
                     </a>
                     <div data-sid="footer_13" class="sie-footer_13 se">
                         <p class="se-t sie-footer_13-text st-m-paragraph st-d-paragraph se-rc">20 GUTHRIE ROAD
-                            <br>BOERNE, TEXAS 78006<br>
-                        </p>
+                            <br>BOERNE, TEXAS 78006<br></p>
                     </div><a href="mailto:kristin@kendallpoint.com" target="_self" class="sie-footer_14 se"
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
@@ -3987,7 +6668,8 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se"
+                        data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
                 </div>
