@@ -452,70 +452,7 @@ packages, perfect if you want to have a small wedding or elope in Austin." />
     <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
       <div class="sqs-announcement-bar-dropzone"></div>
 
-      <header class="Header Header--top">
-        <div class="Header-inner Header-inner--top" data-nc-group="top">
-          <div data-nc-container="top-left">
-
-            <div class="Header-search" data-nc-element="search">
-              <form class="Header-search-form" action="/search" method="get">
-                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
-                <button class="Header-search-form-submit" type="submit" data-test="template-search">
-                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
-                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
-                  </svg>
-                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
-                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
-                  </svg>
-                </button>
-              </form>
-            </div>
-
-          </div>
-          <div data-nc-container="top-center">
-
-
-              <div class="Header-social" data-nc-element="social">
-
-  <nav class="SocialLinks" data-content-field="connected-accounts">
-    <div class="SocialLinks-inner">
-    <a href="https://www.pinterest.com/redridgetx/" target="_blank" class="SocialLinks-link pinterest-unauth" style="">
-        <div>
-          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
-
-            <use class="SocialLinks-link-icon" xlink:href="#pinterest-unauth-icon"></use>
-            <use class="SocialLinks-link-mask" xlink:href="#pinterest-unauth-mask"></use>
-          </svg>
-        </div>
-      </a><a href="https://www.facebook.com/RedRidgeReceptions/" target="_blank" class="SocialLinks-link facebook-unauth" style="">
-        <div>
-          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
-
-            <use class="SocialLinks-link-icon" xlink:href="#facebook-unauth-icon"></use>
-            <use class="SocialLinks-link-mask" xlink:href="#facebook-unauth-mask"></use>
-          </svg>
-        </div>
-      </a><a href="https://www.instagram.com/redridgereceptions/" target="_blank" class="SocialLinks-link instagram-unauth" style="">
-        <div>
-          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
-
-            <use class="SocialLinks-link-icon" xlink:href="#instagram-unauth-icon"></use>
-            <use class="SocialLinks-link-mask" xlink:href="#instagram-unauth-mask"></use>
-          </svg>
-        </div>
-      </a>
-    </div>
-  </nav>
-
-              </div>
-
-          </div>
-          <div data-nc-container="top-right">
-
-
-
-          </div>
-        </div>
-      </header>
+   @include('partials.updatedheader')
 
       <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
 
@@ -800,15 +737,8 @@ packages, perfect if you want to have a small wedding or elope in Austin." />
 >
   <div class="sqs-gallery">
 
-
-
-
-
-
-
-
-
-            <div class="slide" data-type="image" data-animation-role="image">
+@foreach($images as $image)
+   <div class="slide" data-type="image" data-animation-role="image">
               <div class="margin-wrapper">
 
                 <a
@@ -825,93 +755,24 @@ packages, perfect if you want to have a small wedding or elope in Austin." />
                   "
                 >
 
-                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450695822-RWPHL0E81R2MY5O7MQUX/Red-Ridge-Receptions-micro-weddings-elopement-12.jpg" alt="Austin wedding couple post ceremony kiss under garden arch" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450695822-RWPHL0E81R2MY5O7MQUX/Red-Ridge-Receptions-micro-weddings-elopement-12.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450695822-RWPHL0E81R2MY5O7MQUX/Red-Ridge-Receptions-micro-weddings-elopement-12.jpg" data-image-dimensions="1067x1600" data-image-focal-point="0.5,0.5" alt="Austin wedding couple post ceremony kiss under garden arch" data-load="false" data-image-id="66aa830377efdf3d24a1992c" data-type="image" />
+<img
+    src="{{ Storage::url($image->image_path) }}"
+    alt="Image"
+    class="thumb-image"
+    elementtiming="system-gallery-block-grid"
+    data-src="{{ Storage::url($image->image_path) }}"
+    data-image="{{ Storage::url($image->image_path) }}"
+    data-image-dimensions="1218x1600"
+    data-image-focal-point="0.5,0.5"
+    data-load="false"
+    data-image-id="66aa832dcb924915708e72bf"
+    data-type="image"
+>
                 </a>
 
               </div>
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper">
-
-                <a
-
-
-                      role="presentation"
-
-
-
-                  class="
-                    image-slide-anchor
-
-                    content-fill
-                  "
-                >
-
-                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450719429-4019L104V6I4XK944ZK3/Red-Ridge-Receptions-micro-weddings-elopement-13.jpg" alt="Austin micro wedding couple" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450719429-4019L104V6I4XK944ZK3/Red-Ridge-Receptions-micro-weddings-elopement-13.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450719429-4019L104V6I4XK944ZK3/Red-Ridge-Receptions-micro-weddings-elopement-13.jpg" data-image-dimensions="1067x1600" data-image-focal-point="0.5,0.5" alt="Austin micro wedding couple" data-load="false" data-image-id="66aa831d66e4574dc57467f0" data-type="image" />
-                </a>
-
-              </div>
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper">
-
-                <a
-
-
-                      role="presentation"
-
-
-
-                  class="
-                    image-slide-anchor
-
-                    content-fill
-                  "
-                >
-
-                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450736729-Q5JIQNWSZO3LYKUDBFLK/Red-Ridge-Receptions-micro-weddings-elopement-11.jpg" alt="Bride and Groom after micro wedding ceremony at Red Ridge Receptions" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-grid" data-src="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450736729-Q5JIQNWSZO3LYKUDBFLK/Red-Ridge-Receptions-micro-weddings-elopement-11.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d07bc8dff196100018776a9/1722450736729-Q5JIQNWSZO3LYKUDBFLK/Red-Ridge-Receptions-micro-weddings-elopement-11.jpg" data-image-dimensions="1218x1600" data-image-focal-point="0.5,0.5" alt="Bride and Groom after micro wedding ceremony at Red Ridge Receptions" data-load="false" data-image-id="66aa832dcb924915708e72bf" data-type="image" />
-                </a>
-
-              </div>
-            </div>
-
-
-
-
-
-
-
-  </div>
-
-
-
-</div>
+@endforeach
 
 
 

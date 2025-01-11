@@ -8601,25 +8601,25 @@
                         <h2 class="se-t sie-pricing_10-text st-m-heading st-d-subheading se-rc">SATURDAY<br></h2>
                     </div>
                     <div data-sid="pricing_11" class="sie-pricing_11 se">
-                        <h2 class="se-t sie-pricing_11-text st-m-heading st-d-heading se-rc">$9,500</h2>
+                        <h2 class="se-t sie-pricing_11-text st-m-heading st-d-heading se-rc">{{ $prices->friday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_12" class="sie-pricing_12 se">
-                        <h2 class="se-t sie-pricing_12-text st-m-heading st-d-heading se-rc">$6,500</h2>
+                        <h2 class="se-t sie-pricing_12-text st-m-heading st-d-heading se-rc">{{ $prices->monday_thursday_price }}</h2>
                     </div>
                     <div data-sid="pricing_13" class="sie-pricing_13 se">
-                        <h2 class="se-t sie-pricing_13-text st-m-heading st-d-heading se-rc">$11,500</h2>
+                        <h2 class="se-t sie-pricing_13-text st-m-heading st-d-heading se-rc">{{ $prices->saturday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_14" class="sie-pricing_14 se">
-                        <h2 class="se-t sie-pricing_14-text st-m-heading st-d-heading se-rc">$8,000</h2>
+                        <h2 class="se-t sie-pricing_14-text st-m-heading st-d-heading se-rc">{{ $prices->sunday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_15" class="sie-pricing_15 se">
-                        <h2 class="se-t sie-pricing_15-text st-m-heading st-d-heading se-rc">$9,500</h2>
+                        <h2 class="se-t sie-pricing_15-text st-m-heading st-d-heading se-rc">{{ $prices->saturday_non_peak }}</h2>
                     </div>
                     <div data-sid="pricing_16" class="sie-pricing_16 se">
-                        <h3 class="se-t sie-pricing_16-text st-m-heading st-d-subheading se-rc">$7,500</h3>
+                        <h3 class="se-t sie-pricing_16-text st-m-heading st-d-subheading se-rc">{{ $prices->sunday_non_peak }}</h3>
                     </div>
                     <div data-sid="pricing_17" class="sie-pricing_17 se">
-                        <h3 class="se-t sie-pricing_17-text st-m-heading st-d-subheading se-rc">$7,500</h3>
+                        <h3 class="se-t sie-pricing_17-text st-m-heading st-d-subheading se-rc">{{ $prices->friday_non_peak }}</h3>
                     </div>
                     <div data-sid="pricing_18" class="sie-pricing_18 se">
                         <h3 class="se-t sie-pricing_18-text st-m-subheading st-d-subheading se-rc">peak

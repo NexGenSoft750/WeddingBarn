@@ -20,16 +20,20 @@
             <!-- Announcement Section -->
             <div class="col-12 announcement-header">
                 <h1>open house<br>sunday february 2nd 12:00-3:00</h1>
-                <button class="rsvp">RSVP</button>
+                <a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_blank" class="button-link">
+                    <button class="rsvp">RSVP</button>
+                </a>
+
             </div>
 
         </div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="{{ route('home') }}">
                 <img src="{{ asset('download.png') }}" alt="Kendall Point Logo" class="logo">
             </a>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -37,19 +41,22 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">THE VENUE</a>
+                        <a class="nav-link" href="{{ route('microwedding') }}">MICRO WEDDING</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">GALLERY</a>
+                        <a class="nav-link" href="{{ route('amenities') }}">THE VENUE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">REVIEWS</a>
+                        <a class="nav-link" href="{{ route('gallery') }}">GALLERY</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">CONTACT US</a>
+                        <a class="nav-link" href="{{ route('review') }}">REVIEWS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-primary text-white" href="#">BOOK A TOUR</a>
+                        <a class="nav-link" href="{{ route('contact') }}">CONTACT US</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-primary text-white" href="{{ route('book') }}">BOOK A TOUR</a>
                     </li>
                 </ul>
             </div>
@@ -75,13 +82,14 @@
                     <p>Our office is closed on Mondays.</p>
                 </div>
                 <div class="flex-container">
-                    <div class="want">
+                    <div class="want" onclick="window.location.href='{{ route('book') }}';">
                         Want to see it for yourself? <br>Book a tour!
                     </div>
-                    <div class="view">
+                    <div class="view" onclick="window.location.href='{{ route('price') }}';">
                         View Pricing & Details
                     </div>
                 </div>
+
                 <div class="image">
                     <img src="{{ asset('download.jpg') }}" alt="Image">
                 </div>
@@ -89,45 +97,89 @@
 
             <!-- Right Column (Form) -->
             <div class="col-md-6">
-                <form>
+                @if (session('success'))
+                    <div class="alert alert-success">
+                        {{ session('success') }}
+                    </div>
+                @endif
+                <form action="{{ route('contactemail') }}" method="POST">
+                    @csrf
+
                     <div class="form-group">
                         <label for="firstName">First Name</label>
-                        <input type="text" class="form-control" id="firstName" placeholder="Enter first name">
+                        <input type="text" class="form-control" id="firstName" name="first_name"
+                            placeholder="Enter first name">
+                        @error('first_name')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="lastName">Last Name</label>
-                        <input type="text" class="form-control" id="lastName" placeholder="Enter last name">
+                        <input type="text" class="form-control" id="lastName" name="last_name"
+                            placeholder="Enter last name">
+                        @error('last_name')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="email">Email</label>
-                        <input type="email" class="form-control" id="email" placeholder="Enter email">
+                        <input type="email" class="form-control" id="email" name="email"
+                            placeholder="Enter email">
+                        @error('email')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="phone">Phone</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="Enter phone number">
+                        <input type="tel" class="form-control" id="phone" name="phone"
+                            placeholder="Enter phone number">
+                        @error('phone')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="fianceFirstName">Fiancé First Name:</label>
-                        <input type="text" class="form-control" id="fianceFirstName" placeholder="">
+                        <input type="text" class="form-control" name="fiance_first_name" id="fianceFirstName"
+                            placeholder="">
+                        @error('fiance_first_name')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="fianceLastName">Fiancé Last Name:</label>
-                        <input type="text" class="form-control" id="fianceLastName" placeholder="">
+                        <input type="text" class="form-control" name="fiance_last_name" id="fianceLastName"
+                            placeholder="">
+                        @error('fiance_last_name')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="weddingDate">What wedding date(s) did you have in mind?</label>
-                        <input type="text" class="form-control" id="weddingDate" placeholder="">
+                        <input type="text" class="form-control" name="wedding_date" id="weddingDate"
+                            placeholder="">
+                        @error('wedding_date')
+                            <span class="text-danger">{{ $message }}</span>
+                        @enderror
                     </div>
+
                     <div class="form-group">
                         <label for="message">Any comments, notes, or questions for us?</label>
-                        <textarea class="form-control" id="message" rows="5" placeholder=""></textarea>
+                        <textarea class="form-control" id="message" name="message" rows="5" placeholder=""></textarea>
+
                     </div>
-                    <p>By clicking submit, you agree to receive emails from us!
-                        Don't see the email? Check your spam folder!
-                    </p>
+
+                    <p>By clicking submit, you agree to receive emails from us! Don't see the email? Check your spam
+                        folder!</p>
                     <button type="submit" class="submit-button">Submit</button>
                 </form>
             </div>
+
 
         </div>
     </div>
@@ -137,7 +189,7 @@
             <div class="testimonial">
                 "This venue made for the best wedding<br> I could have dreamed of!"<br>Nicolette C.
             </div>
-            <a href="#" class="read-more">
+            <a href="#" class="read-more" onclick="window.location.href='{{ route('review') }}';">
                 READ MORE REVIEWS
             </a>
         </div>

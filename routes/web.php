@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+use App\Models\DefaultImage;
+use App\Models\Price;
 
 Route::prefix('home')->group(function () {
     Route::get('/', function () {
@@ -38,7 +40,8 @@ Route::prefix('home')->group(function () {
         return view('vendor');
     })->name('vendor');
     Route::get('/price', function () {
-        return view('price');
+        $prices = Price::first();
+        return view('price', compact('prices'));
     })->name('price');
     Route::get('/blog', function () {
         return view('blog');
@@ -47,7 +50,8 @@ Route::prefix('home')->group(function () {
         return view('about');
     })->name('about');
     Route::get('/micro-wedding', function () {
-        return view('microwedding');
+        $images = DefaultImage::all();
+        return view('microwedding', compact('images'));
     })->name('microwedding');
     Route::post('/submit-contact-form', [ContactController::class, 'submitForm'])->name('contactemail');
 });
