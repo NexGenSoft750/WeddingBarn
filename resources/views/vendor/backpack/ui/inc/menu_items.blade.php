@@ -4,3 +4,5 @@
 <x-backpack::menu-item title="Users" icon="la la-question" :link="backpack_url('user')" />
 <x-backpack::menu-item title="Default images" icon="la la-question" :link="backpack_url('default-image')" />
 <x-backpack::menu-item title="Prices" icon="la la-question" :link="backpack_url('price')" />
+<x-backpack::menu-item title="Tour availabilities" icon="la la-question" :link="backpack_url('tour-availability')" />
+<x-backpack::menu-item title="Tour bookings" icon="la la-question" :link="backpack_url('tour-booking')" />

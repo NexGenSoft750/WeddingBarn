@@ -2,8 +2,12 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\TourBookingController;
 use App\Models\DefaultImage;
 use App\Models\Price;
+use App\Models\TourAvailability;
+use App\Models\TourBooking;
+use Carbon\Carbon;
 
 Route::prefix('home')->group(function () {
     Route::get('/', function () {
@@ -49,9 +53,24 @@ Route::prefix('home')->group(function () {
     Route::get('/about', function () {
         return view('about');
     })->name('about');
+    Route::get('/inpersontour', function () {
+        $tourAvailability = TourAvailability::first();
+        $bookedDates = TourBooking::pluck('tour_date')->map(function ($date) {
+            return Carbon::parse($date)->format('Y-m-d');
+        });
+        return view('inpersontour', compact('tourAvailability', 'bookedDates'));
+    })->name('inpersontour');
+    Route::get('/virtualtour', function () {
+        $tourAvailability = TourAvailability::first();
+        $bookedDates = TourBooking::pluck('tour_date')->map(function ($date) {
+            return Carbon::parse($date)->format('Y-m-d');
+        });
+        return view('virtualtour', compact('tourAvailability', 'bookedDates'));
+    })->name('virtualtour');
     Route::get('/micro-wedding', function () {
         $images = DefaultImage::all();
         return view('microwedding', compact('images'));
     })->name('microwedding');
     Route::post('/submit-contact-form', [ContactController::class, 'submitForm'])->name('contactemail');
+    Route::post('/tour-booking', [TourBookingController::class, 'store'])->name('touremail');
 });
