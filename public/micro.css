@@ -1,0 +1,566 @@
+ body {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+
+
+ .custom-bg {
+     background-color: rgba(108, 139, 187, 1);
+     padding: 15px 0;
+     height: 76px;
+     width: 100%;
+ }
+
+ .announcement-header {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+ }
+
+ .announcement-header h1 {
+     color: rgba(255, 255, 255, 1);
+     line-height: 1.3;
+     letter-spacing: 0.35em;
+     font-size: 18px;
+     text-transform: uppercase;
+ }
+
+ .logo {
+     vertical-align: middle;
+     border-style: none;
+     width: 356px;
+     height: 75px;
+ }
+
+ .rsvp {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 5px;
+     margin-left: 30px;
+     width: 158px;
+     height: 36px;
+     letter-spacing: 0.48em;
+     font-size: 16px;
+     font-family: 'Montserrat';
+     font-weight: 700;
+     font-style: normal;
+     background-color: rgba(255, 255, 255, 1);
+     border: 0px;
+     color: rgba(56, 79, 114, 1);
+ }
+
+ .rsvp button {
+     background-color: rgba(255, 255, 255, 1);
+     padding: 10px 20px;
+     font-size: 16px;
+     color: rgba(108, 139, 187, 1);
+     border-radius: 5px;
+     cursor: pointer;
+ }
+
+ .rsvp button:hover {
+     background-color: rgba(255, 255, 255, 0.9);
+ }
+
+ @media (max-width: 576px) {
+     .announcement-header h1 {
+         font-size: 14px;
+         letter-spacing: 0.2em;
+     }
+
+     .rsvp button {
+         font-size: 14px;
+         padding: 8px 16px;
+     }
+ }
+
+ .navbar {
+     background-color: white;
+     padding: 20px;
+     margin-top: 20px;
+
+ }
+
+ .navbar-brand {
+     font-size: 2.5rem;
+     font-weight: bold;
+ }
+
+ .navbar-text {
+     font-size: 1rem;
+     color: black;
+ }
+
+ .nav-link {
+     margin: 5px;
+ }
+
+ .nav-link:hover {
+     color: rgba(108, 139, 187, 1);
+     /* Change color on hover */
+     font-size: 14px;
+     /* Slightly increase font size on hover */
+     text-decoration: underline;
+     /* Optional: Add underline on hover */
+ }
+
+
+ .nav-link.active,
+ .nav-link:hover {
+     color: #007bff;
+
+ }
+
+ .btn-primary {
+     background-color: rgba(56, 79, 114, 1);
+     background-color: rgba(56, 79, 114, 1);
+ }
+
+ .btn-primary:hover {
+     background-color: rgba(56, 79, 114, 1);
+     background-color: rgba(56, 79, 114, 1);
+ }
+
+ /* Custom Hero Section Styling */
+ .hero-section {
+     background: url('download4.jpg') center/cover no-repeat;
+     position: relative;
+     filter: brightness(2);
+     /* Increase brightness (1 is the normal value, 1.5 makes it 50% brighter) */
+     color: #7a7875;
+ }
+
+
+ .hero-section::before {
+     content: '';
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: rgba(0, 0, 0, 0.5);
+     /* Add a dark overlay */
+     z-index: 1;
+ }
+
+ .hero-section .container {
+     position: relative;
+     z-index: 2;
+ }
+
+ .container {
+     max-width: 800px;
+     /* Limit width */
+     margin: 0 auto;
+     /* Center horizontally */
+     text-align: center;
+     /* Center text for the title */
+ }
+
+ .title {
+     font-size: 2.5rem;
+     /* Large font size for title */
+     font-family: Georgia, "Times New Roman", Times, serif;
+     /* Elegant font */
+     font-weight: 400;
+     /* Normal weight */
+     color: #323232;
+     /* Dark grey */
+     margin-bottom: 30px;
+     margin-top: 100px;
+     /* Space below title */
+ }
+
+ .first-paragraph {
+     margin-bottom: 20px;
+     /* Space below the first paragraph */
+     text-align: justify;
+     /* Justify the text */
+ }
+
+ .first-paragraph p {
+     font-size: 1rem;
+     font-family: Georgia, "Times New Roman", Times, serif;
+     color: #646464;
+     line-height: 1.8;
+     justify-content: center;
+     align-items: center;
+     width: 70%;
+     margin-left: 150px;
+
+ }
+
+ @media screen and (max-width: 768px) {
+     .first-paragraph p {
+
+         margin-left: 90px;
+
+     }
+ }
+
+ @media screen and (max-width: 425px) {
+     .first-paragraph p {
+
+         margin-left: 50px;
+
+     }
+ }
+
+ .flex-paragraphs {
+     display: flex;
+     /* Use Flexbox for side-by-side layout */
+     justify-content: space-evenly;
+     /* Create space between the two divs */
+     /* Add spacing between paragraphs */
+     margin-top: 40px;
+     /* Space above the flex container */
+     text-align: justify;
+     /* Justify the text inside paragraphs */
+ }
+
+ .paragraph {
+     width: 30%;
+     /* Each paragraph takes 48% of the width */
+ }
+
+ .paragraph p {
+     font-size: 1rem;
+     font-family: Georgia, "Times New Roman", Times, serif;
+     color: #646464;
+     line-height: 1.8;
+ }
+
+ .photo-grid {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     /* Three equal-width columns */
+     gap: 20px;
+     padding: 20px;
+     max-width: 1200px;
+     margin: 0 auto;
+ }
+
+ @media screen and (max-width: 425px) {
+     .photo-grid {
+         display: grid;
+         grid-template-columns: repeat(1, 1fr);
+         /* Three equal-width columns */
+         gap: 20px;
+         padding: 20px;
+         max-width: 1200px;
+         margin: 0 auto;
+     }
+ }
+
+ .photo img {
+     width: 100%;
+     height: 400px;
+     /* Set a fixed height */
+     object-fit: cover;
+     /* Ensure images cover the full area */
+     border-radius: 8px;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+
+ .four {
+     max-width: 1200px;
+     margin: 100px;
+     padding: 20px;
+ }
+
+ .grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+ }
+
+ .images img {
+
+     margin-bottom: 15px;
+     display: block;
+     object-fit: cover;
+     width: 70%;
+     height: fit-content;
+     object-position: 50% 50%;
+     border-radius: 8px;
+
+ }
+
+ .text .title-paragraph {
+     margin-bottom: 20px;
+     word-wrap: break-word;
+     text-align: justify;
+ }
+
+ .title-paragraph {
+     width: 60%;
+ }
+
+ .text h2 {
+     font-size: 1rem;
+     margin-bottom: 10px;
+ }
+
+ .text p {
+     font-size: 1rem;
+     line-height: 1.6;
+ }
+
+ .button {
+
+     padding: auto;
+     width: fit-content;
+     height: auto;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+     font-size: 12px;
+     font-weight: 600;
+     font-style: normal;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+     font-size: 15px;
+     font-weight: 400;
+     font-style: italic;
+     text-transform: capitalize;
+     letter-spacing: .035em;
+     color: #34312d;
+     background-color: #e9e8e7;
+     border: none;
+ }
+
+ .custom-container {
+     width: 90%;
+     /* Increase width */
+     max-width: 1200px;
+     /* Allow wider content */
+     margin: 0 auto;
+     /* Center the container */
+     padding: 20px;
+     /* Padding around the content */
+ }
+
+ header h1 {
+     font-size: 3rem;
+     color: #343a40;
+ }
+
+ header p.lead {
+     font-size: 1.25rem;
+     color: #6c757d;
+ }
+
+ h2 {
+     color: #007bff;
+     margin-top: 30px;
+ }
+
+ h3 {
+     font-family: "Pacifico", serif;
+ }
+
+ p {
+     line-height: 1.8;
+     /* Increased line height for better readability */
+     margin-bottom: 15px;
+ }
+
+ .content {
+     max-width: 1200px;
+     /* Increased max width */
+     margin: 40px auto;
+     background: #fff;
+     padding: 30px 50px;
+     /* More padding for a cleaner layout */
+     border-radius: 8px;
+ }
+
+ .content h2 {
+     font-size: 2rem;
+     color: #2c3e50;
+     margin-bottom: 20px;
+     /* Removed border below h2 */
+     padding-bottom: 5px;
+ }
+
+ .content h3 {
+     font-size: 1.8rem;
+     font-family: "Meddon", serif;
+     font-weight: 400;
+     font-style: normal;
+     color: #34495e;
+     margin: 30px 0 15px;
+     /* Space above and below */
+     text-align: center;
+ }
+
+ .content p {
+     font-size: 1.1rem;
+     /* Slightly larger text for better readability */
+     color: #555;
+     margin-bottom: 25px;
+     /* Increased spacing between paragraphs */
+     text-align: justify;
+ }
+
+ .content ul {
+     margin: 20px 0;
+     /* Space above and below lists */
+     padding: 0;
+     /* Remove padding */
+     list-style: none;
+     /* Remove bullets */
+ }
+
+ .content ul li {
+     font-size: 1.1rem;
+     color: #555;
+     line-height: 1.8;
+     /* Better line spacing */
+     margin-bottom: 15px;
+     /* Space between list items */
+     position: relative;
+     /* For custom styling */
+ }
+
+ .content ul li::before {
+     /* Add custom bullet as a circle */
+     /* Change color of the bullet */
+     font-size: 1.5rem;
+     margin-right: 10px;
+     position: absolute;
+     left: -20px;
+     /* Adjust position */
+     top: 0;
+ }
+
+ .reserve-btn {
+     display: inline-block;
+     margin-top: 40px;
+     /* Space above the button */
+     padding: 10px 20px;
+     background-color: #3498db;
+     color: #fff;
+     text-decoration: none;
+     border-radius: 5px;
+     font-size: 1rem;
+     text-align: center;
+     transition: background-color 0.3s ease;
+ }
+
+ .content {
+     max-width: 1200px;
+     margin: 0 auto;
+     padding: 20px 40px;
+     background: #fff;
+     border-radius: 8px;
+ }
+
+ .content h2 {
+     font-size: 2.5rem;
+     color: #2c3e50;
+     margin-bottom: 30px;
+     padding-bottom: 10px;
+ }
+
+ .faq h3 {
+     font-size: 1rem;
+     color: #34495e;
+     margin-top: 20px;
+     text-align: start;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bolder;
+ }
+
+ .faq p,
+ .faq ul li {
+     font-size: 16px;
+     line-height: 1.6;
+     margin-bottom: 20px;
+ }
+
+ .faq ul {
+     padding-left: 20px;
+     list-style: none;
+ }
+
+ .faq ul li::before {
+
+     font-size: 1.2rem;
+     display: inline-block;
+     margin-right: 10px;
+ }
+
+ /* Ensuring the paragraph doesn't stretch too wide */
+ .faizan p {
+     font-size: 1.2rem;
+     color: #555;
+     max-width: 500px;
+     /* Control the width to fit within three to four lines */
+     margin: 0 auto;
+     margin-bottom: 30px;
+     /* Center the paragraph */
+     line-height: 1.6;
+     /* Adjust line height for better readability */
+ }
+
+ .styled-line {
+     border: 0;
+     /* Remove the default border */
+     height: 2px;
+     /* Set the thickness of the line */
+     background-color: black;
+     /* Set the color of the line */
+     margin: 20px 0;
+     /* Add space above and below the line */
+ }
+
+
+
+
+
+ .contact-image {
+     width: 250px;
+     /* Image stays small */
+     height: auto;
+     margin-bottom: 0;
+     /* No margin to avoid pushing content down */
+     flex-shrink: 0;
+     /* Prevent image from shrinking */
+ }
+
+
+
+ .left-content h2,
+ .left-content h3 {
+     margin-bottom: 10px;
+ }
+
+ .left-content p {
+     margin-bottom: 15px;
+ }
+
+ .right-column {
+     padding-left: 20px;
+ }
+
+ .right-column ul {
+     list-style: none;
+     padding-left: 0;
+ }
+
+ .right-column a {
+     text-decoration: none;
+     color: #000;
+ }
+
+ .right-column a:hover {
+     text-decoration: underline;
+ }
+
+ @media screen and (max-width: 425px) {
+     .left-content {
+         font-size: xx-small;
+     }
+ }
