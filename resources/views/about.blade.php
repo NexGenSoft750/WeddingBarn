@@ -17,7 +17,6 @@
     <link rel="canonical" href="about.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/WTfTC4rKQZGoroGe26jwtw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0445.jpg" />
-
     <!-- Global site tag (gtag.js) - Google Ads: 10800438354 -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10800438354"></script>
     <script>
@@ -4624,84 +4623,97 @@
             font-weight: 800 !important;
             text-decoration: underline !important;
         }
-               .d .sie-navigations_1 {
-   left: 400px; /* Default settings for large desktops */
-        top: 50px;
-        width: 150px;
-        height: 27px;
-        margin-left: 10px;
-        margin-top: 10px;
-}
 
-/* Large desktops (screen width >= 1367px) */
-@media (min-width: 1367px) {
-    .d .sie-navigations_1 {
-        left: 380px; /* Default settings for large desktops */
-        top: 30px;
-        width: 150px;
-        height: 27px;
-        margin-left: 10px;
-        margin-bottom: 30px;
-    }
-}
+        .d .sie-navigations_1 {
+            left: 400px;
+            /* Default settings for large desktops */
+            top: 50px;
+            width: 150px;
+            height: 27px;
+            margin-left: 10px;
+            margin-top: 10px;
+        }
 
-/* Laptops (screen widths between 1024px and 1366px) */
-@media (min-width: 1024px) and (max-width: 1366px) {
-    .d .sie-navigations_1 {
-        left: 370px; /* Further adjust positioning */
-        top: 30px; /* Adjust top position */
-        margin-right: 20px;
-        margin-bottom: 30px;
-    }
-    .d .sie-navigations_1-text {
-        color: rgba(4, 4, 4, 1);
-        text-transform: uppercase;
-        line-height: 2;
-        letter-spacing: 0.1em;
-        font-size: 8px; /* Reduced font size */
-        text-align: center;
-        font-family: 'Montserrat';
-        font-weight: 300;
-        font-style: normal;
-    }
-}
+        /* Large desktops (screen width >= 1367px) */
+        @media (min-width: 1367px) {
+            .d .sie-navigations_1 {
+                left: 380px;
+                /* Default settings for large desktops */
+                top: 30px;
+                width: 150px;
+                height: 27px;
+                margin-left: 10px;
+                margin-bottom: 30px;
+            }
+        }
 
+        /* Laptops (screen widths between 1024px and 1366px) */
+        @media (min-width: 1024px) and (max-width: 1366px) {
+            .d .sie-navigations_1 {
+                left: 370px;
+                /* Further adjust positioning */
+                top: 30px;
+                /* Adjust top position */
+                margin-right: 20px;
+                margin-bottom: 30px;
+            }
 
-/* Tablets and smaller laptops (screen widths between 768px and 1023px) */
-@media (min-width: 768px) and (max-width: 1023px) {
-    .d .sie-navigations_1 {
-         left: 220px; /* Adjust positioning */
-        top: 10px; /* Adjust top position */
-        width: 130px; /* Reduce width */
-        height: 25px; /* Adjust height */
-         margin-left: 10px;
-        margin-bottom: 30px;
-    }
-
-}
-@media screen and (max-width: 425px) {
-   .d .sie-navigations_1 {
-        display: none; /* Hide the entire navbar */
-    }
-}
+            .d .sie-navigations_1-text {
+                color: rgba(4, 4, 4, 1);
+                text-transform: uppercase;
+                line-height: 2;
+                letter-spacing: 0.1em;
+                font-size: 8px;
+                /* Reduced font size */
+                text-align: center;
+                font-family: 'Montserrat';
+                font-weight: 300;
+                font-style: normal;
+            }
+        }
 
 
-/* Mobile and smaller tablets (screen widths between 425px and 767px) */
+        /* Tablets and smaller laptops (screen widths between 768px and 1023px) */
+        @media (min-width: 768px) and (max-width: 1023px) {
+            .d .sie-navigations_1 {
+                left: 220px;
+                /* Adjust positioning */
+                top: 10px;
+                /* Adjust top position */
+                width: 130px;
+                /* Reduce width */
+                height: 25px;
+                /* Adjust height */
+                margin-left: 10px;
+                margin-bottom: 30px;
+            }
 
-.d .sie-navigations_1-text {
-    color: rgba(4, 4, 4, 1);
-    text-transform: uppercase;
-    line-height: 2;
-    letter-spacing: 0.2em;
-    font-size: 13px;
-    text-align: center;
-    font-family: 'Montserrat';
-    font-weight: 300;
-    font-style: normal;
-}
+        }
+
+        @media screen and (max-width: 425px) {
+            .d .sie-navigations_1 {
+                display: none;
+                /* Hide the entire navbar */
+            }
+        }
 
 
-/* Mobile devices (screen width <= 425px) */
+        /* Mobile and smaller tablets (screen widths between 425px and 767px) */
+
+        .d .sie-navigations_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 300;
+            font-style: normal;
+        }
+
+
+        /* Mobile devices (screen width <= 425px) */
 
 
 
@@ -4709,28 +4721,29 @@
 
 
 
-/* Large mobile devices (screen widths between 576px and 767px) */
+        /* Large mobile devices (screen widths between 576px and 767px) */
 
 
-/* Small mobile devices (screen widths < 576px) */
-.m .sie-mobiles-nav_13 {
-    left: 32px;
-    top: 110px;
-    width: 239px;
-    height: 23px;
-    margin-left: 10px;
-}
-.m .sie-mobiles-nav_13-text {
-    color: rgba(4, 4, 4, 1);
-    text-transform: uppercase;
-    line-height: 1.4;
-    letter-spacing: 0.2em;
-    font-size: 13px;
-    text-align: left;
-    font-family: 'Montserrat';
-    font-weight: 400;
-    font-style: normal;
-}
+        /* Small mobile devices (screen widths < 576px) */
+        .m .sie-mobiles-nav_13 {
+            left: 32px;
+            top: 110px;
+            width: 239px;
+            height: 23px;
+            margin-left: 10px;
+        }
+
+        .m .sie-mobiles-nav_13-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
     </style>
 
 </head>
@@ -4888,13 +4901,14 @@
                     <div data-sid="navigation_0" class="sie-navigation_0 se">
                         <p class="se-t sie-navigation_0-text st-m-paragraph st-d-paragraph se-rc"></p>
                     </div>
-                     <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
-                     data-sid="navigation_1">
-                     <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
-                 </a><a href="amenities.html" target="_self" class="sie-navigation_1 se"
+                    <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
+                        data-sid="navigation_1">
+                        <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
                         data-sid="navigation_1">
                         <p class="se-t sie-navigation_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="contact.html" target="_self" class="sie-navigation_2 se" data-sid="navigation_2">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_2 se"
+                        data-sid="navigation_2">
                         <p class="se-t sie-navigation_2-text st-m-paragraph st-d-paragraph">contact us<br></p>
                     </a>
                     <div data-sid="navigation_3" class="sie-navigation_3 se">
@@ -4906,19 +4920,19 @@
                 <div class="sc"><a href="contact-book-your-tour.html" target="_self"
                         class="sie-navigation_view-1_0 se" data-sid="navigation_view-1_0">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-navigation_view-1_1 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
                         data-sid="navigation_view-1_1">
                         <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1_2 se"
+                    </a><a href="{{ route('home') }}" target="_self" class="sie-navigation_view-1_2 se"
                         data-sid="navigation_view-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
                         </div><noscript><img
                                 src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
                                 class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-navigation_view-1_3 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
                         data-sid="navigation_view-1_3">
                         <p class="se-t sie-navigation_view-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br></p>
-                    </a><a href="#/" target="_self" class="sie-navigation_view-1_4 se se-stl"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1_4 se se-stl"
                         data-sid="navigation_view-1_4" data-scrollto="#navigation" data-state="navigation|1|0|0">
                         <p class="se-t sie-navigation_view-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
                     </a></div>
@@ -4927,35 +4941,35 @@
                 <div class="sc"><a href="contact-book-your-tour.html" target="_self"
                         class="sie-navigation_view-1-1_0 se" data-sid="navigation_view-1-1_0">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-navigation_view-1-1_1 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1-1_1 se"
                         data-sid="navigation_view-1-1_1">
                         <p class="se-t sie-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1-1_2 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1-1_2 se"
                         data-sid="navigation_view-1-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1-1_2"
                             class="se-img se-gr slzy"></div><noscript><img
                                 src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
                                 class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-navigation_view-1-1_3 se"
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_view-1-1_3 se"
                         data-sid="navigation_view-1-1_3">
                         <p class="se-t sie-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br>
                         </p>
-                    </a><a href="gallery.html" target="_self" class="sie-navigation_view-1-1_4 se"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1-1_4 se"
                         data-sid="navigation_view-1-1_4">
                         <p class="se-t sie-navigation_view-1-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
                     </a>
                     <div data-sid="navigation_view-1-1_5" class="sie-navigation_view-1-1_5 se">
                         <div class="se-simple"></div>
-                    </div><a href="the-venue-gallery.html" target="_self" class="sie-navigation_view-1-1_6 se"
+                    </div><a href="{{ route('venuegallery') }}" target="_self" class="sie-navigation_view-1-1_6 se"
                         data-sid="navigation_view-1-1_6">
                         <p class="se-t sie-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="ceremonies-gallery.html" target="_self" class="sie-navigation_view-1-1_7 se"
+                    </a><a href="{{ route('ceremonygallery') }}" target="_self" class="sie-navigation_view-1-1_7 se"
                         data-sid="navigation_view-1-1_7">
                         <p class="se-t sie-navigation_view-1-1_7-text st-m-paragraph st-d-paragraph">Ceremonies</p>
-                    </a><a href="receptions-gallery.html" target="_self" class="sie-navigation_view-1-1_8 se"
-                        data-sid="navigation_view-1-1_8">
+                    </a><a href="{{ route('receptiongallery') }}" target="_self"
+                        class="sie-navigation_view-1-1_8 se" data-sid="navigation_view-1-1_8">
                         <p class="se-t sie-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">Receptions</p>
-                    </a><a href="portraits-gallery.html" target="_self" class="sie-navigation_view-1-1_9 se"
+                    </a><a href="{{ route('portraitgallery') }}" target="_self" class="sie-navigation_view-1-1_9 se"
                         data-sid="navigation_view-1-1_9">
                         <p class="se-t sie-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Portraits</p>
                     </a>
@@ -5078,10 +5092,10 @@
                     <div data-sid="book-tour_0" class="sie-book-tour_0 se">
                         <h3 class="se-t sie-book-tour_0-text st-m-heading st-d-heading se-rc">Ready to book a tour?
                             Let's get you on the calendar!</h3>
-                    </div><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_1 se"
+                    </div><a href="{{ route('book') }}" target="_self" class="sie-book-tour_1 se"
                         data-sid="book-tour_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_2 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-book-tour_2 se"
                         data-sid="book-tour_2">
                         <h3 class="se-t sie-book-tour_2-text st-m-subheading st-d-subheading">Book your tour</h3>
                     </a>
@@ -5198,13 +5212,20 @@
                     <div data-sid="every-season_stunning-in-every-season_5"
                         class="sie-every-season_stunning-in-every-season_5 se">
                         <div class="se-simple"></div>
-                    </div><a href="#/" target="_self"
+                    </div><a href="{{ route('about') }}" target="_self"
                         class="sie-every-season_stunning-in-every-season_6 se se-sl se-stl"
                         data-sid="every-season_stunning-in-every-season_6" data-scrollto="#every-season"
                         data-state="every-season|next|0|0">
                         <h3
                             class="se-t sie-every-season_stunning-in-every-season_6-text st-m-subheading st-d-subheading">
                             See for yourself &gt;</h3>
+
+                        <div>
+                            @if ($user)
+                                <p>Welcome, {{ $user->name }}</p>
+                            @endif
+                        </div>
+
                     </a>
                 </div>
             </div>
@@ -5451,7 +5472,8 @@
                     </div>
                     <div data-sid="footer_9" class="sie-footer_9 se">
                         <div class="se-simple"></div>
-                    </div><a href="contact.html" target="_self" class="sie-footer_10 se" data-sid="footer_10">
+                    </div><a href="{{ route('contact') }}" target="_self" class="sie-footer_10 se"
+                        data-sid="footer_10">
                         <h3 class="se-t sie-footer_10-text st-m-subheading st-d-subheading">Like what you see?</h3>
                     </a><a href="contact.html" target="_self" class="sie-footer_11 se" data-sid="footer_11">
                         <div class="se-t sie-footer_11-text st-m-title st-d-title">reach out to us!</div>
@@ -5463,22 +5485,28 @@
                     </a>
                     <div data-sid="footer_13" class="sie-footer_13 se">
                         <p class="se-t sie-footer_13-text st-m-paragraph st-d-paragraph se-rc">20 GUTHRIE ROAD
-                            <br>BOERNE, TEXAS 78006<br></p>
+                            <br>BOERNE, TEXAS 78006<br>
+                        </p>
                     </div><a href="mailto:kristin@kendallpoint.com" target="_self" class="sie-footer_14 se"
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="#/" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se"
+                        data-sid="footer_15">
                         <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se"
+                        data-sid="footer_16">
                         <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se"
+                        data-sid="footer_17">
                         <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se"
+                        data-sid="footer_18">
                         <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se"
+                        data-sid="footer_19">
                         <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
                         <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
@@ -5488,7 +5516,8 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se"
+                        data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
                 </div>
