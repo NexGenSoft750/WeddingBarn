@@ -184,110 +184,7 @@
 <body>
 
     <div id="si-sp" class="sp">
-        <div id="announcement-header" data-bid="announcement-header" class="sb sib-announcement-header">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_self"
-                        class="sie-announcement-header_0 se" data-sid="announcement-header_0">
-                        <div class="se-simple"></div>
-                    </a><a href="open-house.html" target="_blank" class="sie-announcement-header_1 se"
-                        data-sid="announcement-header_1">
-                        <h1 class="se-t sie-announcement-header_1-text st-m-subheading st-d-subheading">open
-                            house<br>sunday, february 2nd 12:00-3:00<br></h1>
-                    </a><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_blank"
-                        class="sie-announcement-header_2 se" data-sid="announcement-header_2">
-                        <h1 class="se-t sie-announcement-header_2-text st-m-subheading st-d-subheading">rsvp&nbsp;</h1>
-                    </a></div>
-            </div>
-        </div>
-        <div id="drop-navigation" data-bid="drop-navigation" class="sb sib-drop-navigation sb-lm sb-ld">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-            <div id="drop-navigation_view-1" class="ss sis-drop-navigation_view-1 sactive">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1_0 se" data-sid="drop-navigation_view-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="amenities.html" target="_self" class="sie-drop-navigation_view-1_1 se"
-                        data-sid="drop-navigation_view-1_1">
-                        <p class="se-t sie-drop-navigation_view-1_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1_2 se se-stl"
-                        data-sid="drop-navigation_view-1_2" data-scrollto="#drop-navigation"
-                        data-state="drop-navigation|1|0|0">
-                        <p class="se-t sie-drop-navigation_view-1_2-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a><a href="contact/index.html" target="_self" class="sie-drop-navigation_view-1_3 se"
-                        data-sid="drop-navigation_view-1_3">
-                        <p class="se-t sie-drop-navigation_view-1_3-text st-m-paragraph st-d-paragraph">contact<br></p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1_4 se se-pc se-sl"
-                        data-sid="drop-navigation_view-1_4" data-scrollto="#mobile-nav">
-                        <h3 class="se-t sie-drop-navigation_view-1_4-text st-m-subheading st-d-subheading">MENU</h3>
-                    </a><a href="index.html" target="_self" class="sie-drop-navigation_view-1_5 se se-pc"
-                        data-sid="drop-navigation_view-1_5">
-                        <div style="width:100%;height:100%" data-img="drop-navigation_view-1_5"
-                            class="se-img se-gr slzy"></div><noscript><img
-                                src="../static.showit.co/400/KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png"
-                                class="se-img" alt=""
-                                title="Kendall-Point-Square-Logo-No-Tag-White" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-drop-navigation_view-1_6 se"
-                        data-sid="drop-navigation_view-1_6">
-                        <p class="se-t sie-drop-navigation_view-1_6-text st-m-paragraph st-d-paragraph">Book A Tour<br>
-                        </p>
-                    </a></div>
-            </div>
-            <div id="drop-navigation_view-1-1" class="ss sis-drop-navigation_view-1-1">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1-1_0 se" data-sid="drop-navigation_view-1-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="amenities.html" target="_self" class="sie-drop-navigation_view-1-1_1 se"
-                        data-sid="drop-navigation_view-1-1_1">
-                        <p class="se-t sie-drop-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="gallery.html" target="_self" class="sie-drop-navigation_view-1-1_2 se"
-                        data-sid="drop-navigation_view-1-1_2">
-                        <p class="se-t sie-drop-navigation_view-1-1_2-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a><a href="contact/index.html" target="_self" class="sie-drop-navigation_view-1-1_3 se"
-                        data-sid="drop-navigation_view-1-1_3">
-                        <p class="se-t sie-drop-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">contact<br>
-                        </p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1-1_4 se se-pc se-sl"
-                        data-sid="drop-navigation_view-1-1_4" data-scrollto="#mobile-nav">
-                        <h3 class="se-t sie-drop-navigation_view-1-1_4-text st-m-subheading st-d-subheading">MENU</h3>
-                    </a><a href="index.html" target="_self" class="sie-drop-navigation_view-1-1_5 se se-pc"
-                        data-sid="drop-navigation_view-1-1_5">
-                        <div style="width:100%;height:100%" data-img="drop-navigation_view-1-1_5"
-                            class="se-img se-gr slzy"></div><noscript><img
-                                src="../static.showit.co/400/KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png"
-                                class="se-img" alt=""
-                                title="Kendall-Point-Square-Logo-No-Tag-White" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1-1_6 se" data-sid="drop-navigation_view-1-1_6">
-                        <p class="se-t sie-drop-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">Book A
-                            Tour<br></p>
-                    </a>
-                    <div data-sid="drop-navigation_view-1-1_7" class="sie-drop-navigation_view-1-1_7 se">
-                        <div class="se-simple"></div>
-                    </div><a href="the-venue-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_8 se"
-                        data-sid="drop-navigation_view-1-1_8">
-                        <p class="se-t sie-drop-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="ceremonies-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_9 se"
-                        data-sid="drop-navigation_view-1-1_9">
-                        <p class="se-t sie-drop-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Ceremonies
-                        </p>
-                    </a><a href="receptions-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_10 se"
-                        data-sid="drop-navigation_view-1-1_10">
-                        <p class="se-t sie-drop-navigation_view-1-1_10-text st-m-paragraph st-d-paragraph">Receptions
-                        </p>
-                    </a><a href="portraits-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_11 se"
-                        data-sid="drop-navigation_view-1-1_11">
-                        <p class="se-t sie-drop-navigation_view-1-1_11-text st-m-paragraph st-d-paragraph">portraits
-                        </p>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div id="header" data-bid="header" class="sb sib-header sb-ps">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-        </div>
+     @include('partials.updatedheader')
         <div id="social-stalk-us" data-bid="social-stalk-us" class="sb sib-social-stalk-us sb-lm sb-ld">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
@@ -328,104 +225,7 @@
                 </div>
             </div>
         </div>
-           <div id="navigation" data-bid="navigation" class="sb sib-navigation sb-lm">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                     <div data-sid="navigation_0" class="sie-navigation_0 se">
-                     <p class="se-t sie-navigation_0-text st-m-paragraph st-d-paragraph se-rc"></p>
-                 </div>
-                  <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
-                     data-sid="navigation_1">
-                     <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
-                 </a><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
-                     data-sid="navigation_1">
-                     <p class="se-t sie-navigation_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                 </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_2 se"
-                     data-sid="navigation_2">
-                     <p class="se-t sie-navigation_2-text st-m-paragraph st-d-paragraph">contact us<br></p>
-                 </a>
-                    <div data-sid="navigation_3" class="sie-navigation_3 se se-pc">
-                        <h3 class="se-t sie-navigation_3-text st-m-subheading st-d-subheading se-rc">MENU</h3>
-                    </div>
-                </div>
-            </div>
-            <div id="navigation_view-1" class="ss sis-navigation_view-1 sactive">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-navigation_view-1_0 se" data-sid="navigation_view-1_0">
-                         <div class="se-simple"></div>
-                 </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
-                     data-sid="navigation_view-1_1">
-                     <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                 </a><a href="#/" target="_self" class="sie-navigation_view-1_2 se"
-                     data-sid="navigation_view-1_2">
-                     <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
-                     </div><noscript><img
-                             src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
-                             class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                 </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
-                     data-sid="navigation_view-1_3">
-                     <p class="se-t sie-navigation_view-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br></p>
-                 </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1_4 se se-stl"
-                     data-sid="navigation_view-1_4" data-scrollto="#navigation" data-state="navigation|1|0|0">
-                     <p class="se-t sie-navigation_view-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
-                 </a></div>
-            </div>
-            <div id="navigation_view-1-1" class="ss sis-navigation_view-1-1">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-navigation_view-1-1_0 se" data-sid="navigation_view-1-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1-1_1 se"
-                        data-sid="navigation_view-1-1_1">
-                        <p class="se-t sie-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1-1_2 se"
-                        data-sid="navigation_view-1-1_2">
-                        <div style="width:100%;height:100%" data-img="navigation_view-1-1_2"
-                            class="se-img se-gr slzy"></div><noscript><img
-                                src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
-                                class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1-1_3 se"
-                     data-sid="navigation_view-1-1_3">
-                     <p class="se-t sie-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br>
-                     </p>
-                 </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1-1_4 se"
-                     data-sid="navigation_view-1-1_4">
-                     <p class="se-t sie-navigation_view-1-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
-                 </a>
-                 <div data-sid="navigation_view-1-1_5" class="sie-navigation_view-1-1_5 se">
-                     <div class="se-simple"></div>
-                 </div><a href="{{ route('venuegallery') }}" target="_self" class="sie-navigation_view-1-1_6 se"
-                     data-sid="navigation_view-1-1_6">
-                     <p class="se-t sie-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">The Venue</p>
-                 </a><a href="{{ route('ceremonygallery') }}" target="_self" class="sie-navigation_view-1-1_7 se"
-                     data-sid="navigation_view-1-1_7">
-                     <p class="se-t sie-navigation_view-1-1_7-text st-m-paragraph st-d-paragraph">Ceremonies</p>
-                 </a><a href="{{ route('receptiongallery') }}" target="_self" class="sie-navigation_view-1-1_8 se"
-                     data-sid="navigation_view-1-1_8">
-                     <p class="se-t sie-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">Receptions</p>
-                 </a><a href="{{ route('portraitgallery') }}" target="_self" class="sie-navigation_view-1-1_9 se"
-                     data-sid="navigation_view-1-1_9">
-                     <p class="se-t sie-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Portraits</p>
-                 </a>
-                </div>
-            </div>
-            <div id="navigation_view-2" class="ss sis-navigation_view-2">
-                <div class="sc"><a href="#/" target="_self" class="sie-navigation_view-2_0 se se-stl"
-                        data-sid="navigation_view-2_0" data-scrollto="#navigation" data-state="navigation|0|0|0">
-                        <p class="se-t sie-navigation_view-2_0-text st-m-paragraph st-d-paragraph">About</p>
-                    </a>
-                    <div data-sid="navigation_view-2_1" class="sie-navigation_view-2_1 se">
-                        <div class="se-simple"></div>
-                    </div><a href="san-antonio-wedding-venue.html" target="_self" class="sie-navigation_view-2_2 se"
-                        data-sid="navigation_view-2_2">
-                        <p class="se-t sie-navigation_view-2_2-text st-m-paragraph st-d-paragraph">San Antonio Wedding
-                            Venue</p>
-                    </a><a href="about.html" target="_self" class="sie-navigation_view-2_3 se"
-                        data-sid="navigation_view-2_3">
-                        <p class="se-t sie-navigation_view-2_3-text st-m-paragraph st-d-paragraph">About Us</p>
-                    </a>
-                </div>
-            </div>
-        </div>
+
         <div id="review-header" data-bid="review-header" class="sb sib-review-header">
             <div class="ss-s ss-bg">
                 <div class="sb-m ssp-d"></div>
@@ -600,10 +400,10 @@
                     <div data-sid="book-tour_0" class="sie-book-tour_0 se">
                         <h3 class="se-t sie-book-tour_0-text st-m-heading st-d-heading se-rc">Ready to book a tour?
                             Let's get you on the calendar!</h3>
-                    </div><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_1 se"
+                    </div><a href="{{ route('book') }}" target="_self" class="sie-book-tour_1 se"
                         data-sid="book-tour_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_2 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-book-tour_2 se"
                         data-sid="book-tour_2">
                         <h3 class="se-t sie-book-tour_2-text st-m-subheading st-d-subheading">Book your tour</h3>
                     </a>
@@ -715,18 +515,18 @@
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
-                        <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
-                        <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
-                        <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
-                        <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
-                        <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
-                        <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
+                     </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
+                </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
+                </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
+                </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
+                </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
+                </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
                     </a><a href="resources.html" target="_self" class="sie-footer_22 se" data-sid="footer_22">
@@ -735,7 +535,7 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se" data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
                 </div>

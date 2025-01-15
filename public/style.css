@@ -9,7 +9,11 @@
             height: 76px;
             width: 100%;
         }
-
+@media (max-width: 768px) {
+    .sie-navigations_1 {
+        display: none;
+    }
+}
         .announcement-header {
             display: flex;
             justify-content: center;

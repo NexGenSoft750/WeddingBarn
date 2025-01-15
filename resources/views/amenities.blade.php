@@ -36,7 +36,3317 @@
         href="https://fonts.googleapis.com/css?family=Montserrat:regular|Montserrat:700|Libre+Baskerville:regular|Libre+Baskerville:italic"
         rel="stylesheet" type="text/css" />
     <script id="init_data" type="application/json">
-      {"mobile":{"w":320},"desktop":{"w":1200,"bgFillType":"color","bgColor":"#000000:0"},"sid":"uxugyxraqtkqhmrchhfzzg","break":768,"assetURL":"//static.showit.co","contactFormId":"105740/224708","cfAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9jb250YWN0Zm9ybQ==","sgAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9zb2NpYWxncmlk","blockData":[{"slug":"announcement-header","visible":"a","states":[],"d":{"h":76,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":137,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"drop-navigation","visible":"d","states":[{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1-1"}],"d":{"h":124,"w":1200,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st","scrollOffset":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"stateTrans":[{},{}]},{"slug":"header","visible":"a","states":[],"d":{"h":1,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"ps":[{"trigger":"offscreen","type":"show","block":"drop-navigation"},{"trigger":"onscreen","type":"hide","block":"drop-navigation"}]},{"slug":"social-stalk-us","visible":"d","states":[],"d":{"h":1,"w":1200,"locking":{"offset":100,"scrollOffset":1,"side":"t"},"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"h":46,"w":320,"locking":{"side":"t","offset":0},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"navigation","visible":"a","states":[{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-2"}],"d":{"h":124,"w":1200,"locking":{},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st"},"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"stateTrans":[{},{},{}]},{"slug":"gallery","visible":"a","states":[],"d":{"h":601,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":203,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"nY_0qidQTiCB3xMfNSBHAw/105740/courtney_and_nick-receptiondetails-77.jpg","aspect_ratio":1.50037,"title":"Courtney&Nick-ReceptionDetails-77","type":"asset"},"bgOpacity":100,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"included-with-your-rental","visible":"a","states":[],"d":{"h":508,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":1208,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"header-message","visible":"a","states":[],"d":{"h":280,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":500,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"cta-amenities","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"bridal-suite","visible":"a","states":[],"d":{"h":551,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":925,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"grooms-suite","visible":"a","states":[],"d":{"h":438,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":764,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"vendor-banner","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"},"m":{"h":298,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"local-accommodations","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":728,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"3d-tour","visible":"a","states":[],"d":{"h":632,"w":1200,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"none"},"m":{"h":542,"w":320,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"none"}},{"slug":"testimonials-1","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"},"m":{"h":323,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"}},{"slug":"book-tour","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"instagram","visible":"a","states":[],"d":{"h":338,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":153,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"footer","visible":"a","states":[],"d":{"h":342,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":851,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"mobile-nav","visible":"m","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":600,"w":320,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-6","bgMediaType":"none"}},{"slug":"contact-sticky","visible":"m","states":[],"d":{"h":43,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":50,"w":320,"locking":{"side":"sb"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}}],"elementData":[{"type":"simple","visible":"a","id":"announcement-header_0","blockId":"announcement-header","m":{"x":72,"y":81,"w":176,"h":41,"a":0},"d":{"x":874,"y":22,"w":158,"h":36,"a":0}},{"type":"text","visible":"a","id":"announcement-header_1","blockId":"announcement-header","m":{"x":9,"y":19,"w":311,"h":39,"a":0},"d":{"x":315,"y":16,"w":533,"h":45,"a":0}},{"type":"text","visible":"a","id":"announcement-header_2","blockId":"announcement-header","m":{"x":72,"y":94,"w":176,"h":28,"a":0},"d":{"x":889,"y":33,"w":138,"h":25,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_7","blockId":"drop-navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":749,"y":91,"w":211,"h":135,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_8","blockId":"drop-navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":104,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_9","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":134,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_10","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":164,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_11","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":194,"w":164,"h":24,"a":0}},{"type":"simple","visible":"d","id":"social-stalk-us_0","blockId":"social-stalk-us","m":{"x":-357,"y":23,"w":224,"h":140,"a":0},"d":{"x":1163,"y":64,"w":40,"h":400,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_1","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":264,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_2","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":312,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_3","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":360,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_4","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":408,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"text","visible":"a","id":"social-stalk-us_5","blockId":"social-stalk-us","m":{"x":12,"y":20,"w":144,"h":10,"a":0},"d":{"x":1107,"y":160,"w":152,"h":15,"a":-90,"lockH":"r"}},{"type":"text","visible":"d","id":"navigation_0","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":-294,"y":174,"w":162,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":514,"y":49,"w":124,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_2","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":888,"y":49,"w":114,"h":27,"a":0}},{"type":"text","visible":"m","id":"navigation_3","blockId":"navigation","m":{"x":60,"y":13,"w":200,"h":26,"a":0},"d":{"x":547,"y":587,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"simple","visible":"d","id":"navigation_view-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_5","blockId":"navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":650,"y":90,"w":217,"h":127,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_6","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":102,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_7","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":131,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_8","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":159,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_9","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":188,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_0","blockId":"navigation","m":{"x":132,"y":28,"w":75.60000000000001,"h":14,"a":0},"d":{"x":733,"y":13,"w":66,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-2_1","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":674,"y":35,"w":194,"h":160,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_2","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":690,"y":97,"w":183,"h":17,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_3","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":681,"y":61,"w":118,"h":17,"a":0}},{"type":"gallery","visible":"d","id":"gallery_0","blockId":"gallery","m":{"x":-26,"y":-1,"w":373,"h":756,"a":0,"g":{"aa":3,"dots":true}},"d":{"x":-4,"y":-2,"w":1208,"h":604,"a":0,"lockH":"s","g":{"aa":3,"dots":true}},"imgs":[{"key":"aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg","ar":1.50037,"desc":"Aerial view of the Kendall Point gazebo set up for an outdoor ceremony."},{"key":"HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg","ar":1.49927,"desc":"View of Kendall Point San Antonio wedding venue."},{"key":"3eyDzelPuWVmRmX96C9Nkw/105740/sp-76_websize.jpg","ar":1.49953},{"key":"j_IM5HwYTKWNatfBOCGEhg/105740/akg-148_websize.jpg","ar":1.49953,"desc":"Kendall Point adorned with string lights for an evening wedding reception."},{"key":"o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg","ar":1.49953,"desc":"The outdoor gazebo at Kendall Point."},{"key":"im99cqRXTTCxaG1ID0q55A/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-32.jpg","ar":1.50037,"desc":"Reception tables set up in Kendall Point ballroom."},{"key":"PF9kR3NNRb-LrsU224uhRA/105740/haley_and_korey-receptiondetails-22.jpg","ar":1.50037,"desc":"Head table set up for a reception at Kendall Point"},{"key":"3OWqus9zTzS33vvWQw3xSw/105740/haley_and_korey-receptiondetails-10.jpg","ar":0.6665,"desc":"The Kendall Point grand staircase decorated with flowers."},{"key":"4d601kO0S-iQauzJdDaN4A/105740/courtney_and_nick-ceremony-3.jpg","ar":0.6665,"desc":"The wooden swing next to the Kendall Point lake."},{"key":"kBuy2gywRwGmyHiEpvUaWg/105740/20230610_3398_websize.jpg","ar":0.66688},{"key":"aKk5ZepKQ4C341Zhob8Fmw/105740/laurenkyle-slideshow-24.jpg","ar":0.6665},{"key":"_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg","ar":1.50037},{"key":"YNnIs3lnRoiNfYqaWcAafA/105740/kayleejamesphoto-1532_websize.jpg","ar":0.75},{"key":"NOK7H4T5SguOFnT6uSgU3g/105740/kayleejamesphoto-1076_websize.jpg","ar":0.7525}],"gal":"sliding","g":{},"ch":1},{"type":"text","visible":"a","id":"included-with-your-rental_0","blockId":"included-with-your-rental","m":{"x":24,"y":968,"w":273,"h":82,"a":0},"d":{"x":240,"y":461,"w":760,"h":17,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental_1","blockId":"included-with-your-rental","m":{"x":20,"y":662,"w":281,"h":291,"a":0},"d":{"x":800,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental_2","blockId":"included-with-your-rental","m":{"x":24,"y":356,"w":281,"h":298,"a":0},"d":{"x":429,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental_3","blockId":"included-with-your-rental","m":{"x":20,"y":87,"w":281,"h":257,"a":0},"d":{"x":53,"y":83,"w":347,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental_4","blockId":"included-with-your-rental","m":{"x":59,"y":33,"w":202,"h":46,"a":0},"d":{"x":328,"y":19,"w":544,"h":41,"a":0}},{"type":"simple","visible":"a","id":"header-message_0","blockId":"header-message","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"header-message_1","blockId":"header-message","m":{"x":19,"y":61,"w":282,"h":324,"a":0},"d":{"x":154,"y":67,"w":892,"h":198,"a":0}},{"type":"text","visible":"a","id":"header-message_2","blockId":"header-message","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":406,"y":32,"w":388,"h":17,"a":0}},{"type":"text","visible":"a","id":"header-message_3","blockId":"header-message","m":{"x":97,"y":237,"w":96,"h":16,"a":0},"d":{"x":194,"y":222,"w":809,"h":18,"a":0}},{"type":"text","visible":"a","id":"cta-amenities_0","blockId":"cta-amenities","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"cta-amenities_1","blockId":"cta-amenities","m":{"x":43,"y":101,"w":234,"h":34,"a":0},"d":{"x":752,"y":17,"w":300,"h":39,"a":0}},{"type":"text","visible":"a","id":"cta-amenities_2","blockId":"cta-amenities","m":{"x":52,"y":107,"w":216,"h":23,"a":0},"d":{"x":760,"y":32,"w":285,"h":10,"a":0}},{"type":"text","visible":"a","id":"bridal-suite_0","blockId":"bridal-suite","m":{"x":34,"y":295,"w":259,"h":16,"a":0},"d":{"x":742,"y":91,"w":234,"h":13,"a":0}},{"type":"text","visible":"a","id":"bridal-suite_1","blockId":"bridal-suite","m":{"x":20,"y":348,"w":281,"h":568,"a":0},"d":{"x":583,"y":154,"w":551,"h":336,"a":0}},{"type":"text","visible":"a","id":"bridal-suite_2","blockId":"bridal-suite","m":{"x":30,"y":315,"w":267,"h":21,"a":0},"d":{"x":717,"y":111,"w":284,"h":35,"a":0}},{"type":"gallery","visible":"a","id":"bridal-suite_3","blockId":"bridal-suite","m":{"x":17,"y":31,"w":286,"h":245,"a":0,"gs":{"t":"fit"}},"d":{"x":172,"y":56,"w":380,"h":434,"a":0,"gs":{"t":"cover"}},"imgs":[{"key":"L1pdJ7rTTA2Kg4mMacBf9w/105740/libby_and_grant_sneakpeek-9.jpg","ar":0.6665,"desc":"A bride looks out the window."},{"key":"uuQUW-AqQouo7CWeouzpRg/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-49.jpg","ar":1.50037,"desc":"A bride celebrating in the clawfoot tub in the bridal suite."},{"key":"Ovm38udaTLq0vLKap4GLMg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg","ar":1.50037,"desc":"A bride sitting in the Kendall Point clawfoot tub and holding her shoes."},{"key":"VH5d2LFUT02GEPSXEdvYMA/105740/86451656_2987919944553449_6941888097869103104_o.jpg","ar":1.5,"desc":"The clawfoot tub in the Kendall Point bridal suite."},{"key":"cS0GcgPZQIGYmoz061n97Q/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-118.jpg","ar":1.50037,"desc":"A bride and two bridesmaids sit in the clawfoot tub in the bridal suite."},{"key":"6M0C-8bgRMSDTiOBskG5Ow/105740/kendall-point-texas-wedding-venue-snap-chic-3.jpg","ar":1.49953,"desc":"A bride sits in the tub in the Kendall Point bridal suite."},{"key":"sMwwLY96QTSEzJ7YeI0yCw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00056.jpg","ar":0.66667,"desc":"A wall of hangers with the wedding dress and bridesmaids' dresse sin the bridal suite."},{"key":"UIOJjqcRTnG5s6CX5CPbbw/105740/allisonjeffersphotography-15.jpg","ar":0.66667,"desc":"The wedding gown and accompanying bridesmaids dresses all hanging in the bridal suite."},{"key":"6yMErOZqQcuhoLg8apM5EA/105740/clawfoot-tub-kendall_point-texas-wedding-venue.jpg","ar":1.50037,"desc":"A bride in her dress in the bridal suite."},{"key":"c-tYEdY2SPKV0JHVDBLpQA/105740/admire-wedding-dawn-elizabeth-studios-0098.jpg","ar":1.50037,"desc":"The wedding gown hanging in the bridal suite."},{"key":"dYTfor_dQg2nWl0BJJ-KRQ/105740/weddingparty-holly-marie-photography-cg-129.jpg","ar":1.5,"desc":"Bride and her bridesmaids posing on the porch."}],"ch":1,"gal":"simple"},{"type":"simple","visible":"a","id":"grooms-suite_0","blockId":"grooms-suite","m":{"x":18,"y":7,"w":284,"h":1,"a":0},"d":{"x":-35.5,"y":4,"w":1271,"h":1,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"grooms-suite_1","blockId":"grooms-suite","m":{"x":31,"y":330,"w":259,"h":16,"a":0},"d":{"x":217,"y":71,"w":234,"h":18,"a":0}},{"type":"text","visible":"a","id":"grooms-suite_2","blockId":"grooms-suite","m":{"x":20,"y":382,"w":281,"h":368,"a":0},"d":{"x":98,"y":147,"w":472,"h":226,"a":0}},{"type":"text","visible":"a","id":"grooms-suite_3","blockId":"grooms-suite","m":{"x":27,"y":346,"w":267,"h":41,"a":0},"d":{"x":192,"y":95,"w":284,"h":35,"a":0}},{"type":"gallery","visible":"a","id":"grooms-suite_4","blockId":"grooms-suite","m":{"x":18,"y":55,"w":286,"h":245,"a":0,"gs":{"t":"fit"}},"d":{"x":600,"y":29,"w":529,"h":380,"a":0,"gs":{"t":"cover"}},"imgs":[{"key":"WzkcrXdKS5OZLENerXZJzA/105740/haley_and_korey-korey-44.jpg","ar":1.50037,"desc":"Groom and groomsmen cheers each other in the groom's suite."},{"key":"MRw7TPg_SAu4NH-mYM95AA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00114.jpg","ar":0.6665,"desc":"A groom and his groomsmen celebrate in the groom's suite."},{"key":"GBLyyrPAQOmrGzTsLy0BRg/105740/kendall-point-texas-wedding-venue-west-vita-1.jpg","ar":1.50037,"desc":"A groom and his groomsmen pose on the Kendall Point balcony"},{"key":"3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg","ar":1,"desc":"A groom and his groomsmen pose on the balcony outside the groom's suite."},{"key":"mJNVAbmJRMSzukUQaJNzgQ/105740/haley_and_korey-korey-4.jpg","ar":1.50037,"desc":"Black and white photo of groomsmen on the wrap around porch."},{"key":"wQU6ha-bR52ONQkweNGAMQ/105740/haley_and_korey-korey-22.jpg","ar":1.50037,"desc":"Groom and his groomsmen playing foosball in the groom's suite."}],"ch":1,"gal":"simple"},{"type":"text","visible":"a","id":"vendor-banner_0","blockId":"vendor-banner","m":{"x":12,"y":38,"w":297,"h":124,"a":0},"d":{"x":84,"y":116,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"vendor-banner_1","blockId":"vendor-banner","m":{"x":56,"y":203,"w":209,"h":52,"a":0},"d":{"x":482,"y":240,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"vendor-banner_2","blockId":"vendor-banner","m":{"x":69,"y":221,"w":183,"h":17,"a":0},"d":{"x":509,"y":255,"w":183,"h":14,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_0","blockId":"local-accommodations","m":{"x":34,"y":527,"w":255,"h":133,"a":0},"d":{"x":849,"y":140,"w":300,"h":222,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_1","blockId":"local-accommodations","m":{"x":33,"y":275,"w":255,"h":204,"a":0},"d":{"x":451,"y":140,"w":300,"h":222,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_2","blockId":"local-accommodations","m":{"x":33,"y":140,"w":255,"h":56,"a":0},"d":{"x":52,"y":140,"w":300,"h":222,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_3","blockId":"local-accommodations","m":{"x":61,"y":231,"w":200,"h":32,"a":0},"d":{"x":451,"y":75,"w":300,"h":50,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_4","blockId":"local-accommodations","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":406,"y":32,"w":388,"h":17,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_5","blockId":"local-accommodations","m":{"x":46,"y":479,"w":228,"h":32,"a":0},"d":{"x":849,"y":75,"w":300,"h":50,"a":0}},{"type":"text","visible":"a","id":"local-accommodations_6","blockId":"local-accommodations","m":{"x":61,"y":90,"w":200,"h":32,"a":0},"d":{"x":52,"y":75,"w":300,"h":50,"a":0}},{"type":"iframe","visible":"a","id":"3d-tour_0","blockId":"3d-tour","m":{"x":16,"y":148,"w":290,"h":165,"a":0},"d":{"x":193,"y":124,"w":834,"h":468,"a":0}},{"type":"text","visible":"a","id":"3d-tour_1","blockId":"3d-tour","m":{"x":31,"y":94,"w":258,"h":35,"a":0},"d":{"x":240,"y":81,"w":709,"h":19,"a":0}},{"type":"text","visible":"a","id":"3d-tour_2","blockId":"3d-tour","m":{"x":27,"y":51,"w":267,"h":41,"a":0},"d":{"x":458,"y":23,"w":284,"h":35,"a":0}},{"type":"text","visible":"a","id":"3d-tour_3","blockId":"3d-tour","m":{"x":31,"y":32,"w":259,"h":16,"a":0},"d":{"x":483,"y":8,"w":234,"h":18,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_0","blockId":"testimonials-1","m":{"x":12,"y":53,"w":297,"h":84,"a":0},"d":{"x":84,"y":101,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"testimonials-1_1","blockId":"testimonials-1","m":{"x":66,"y":218,"w":189,"h":52,"a":0},"d":{"x":482,"y":255,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_2","blockId":"testimonials-1","m":{"x":86,"y":238,"w":150,"h":12,"a":0},"d":{"x":516,"y":263,"w":169,"h":28,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_3","blockId":"testimonials-1","m":{"x":112,"y":154,"w":96,"h":16,"a":0},"d":{"x":547,"y":199,"w":108,"h":14,"a":0}},{"type":"text","visible":"a","id":"book-tour_0","blockId":"book-tour","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour_1","blockId":"book-tour","m":{"x":68,"y":95,"w":186,"h":40,"a":0},"d":{"x":779,"y":22,"w":189,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour_2","blockId":"book-tour","m":{"x":65,"y":110,"w":192,"h":11,"a":0},"d":{"x":800,"y":32,"w":147,"h":9,"a":0}},{"type":"social","visible":"a","id":"instagram_0","blockId":"instagram","m":{"x":-31,"y":0,"w":383,"h":153,"a":0},"d":{"x":-1079,"y":14,"w":3358,"h":327,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"footer_0","blockId":"footer","m":{"x":16,"y":784,"w":289,"h":39,"a":0},"d":{"x":400,"y":284,"w":400,"h":38,"a":0}},{"type":"icon","visible":"a","id":"footer_1","blockId":"footer","m":{"x":174,"y":588,"w":33,"h":33,"a":0},"d":{"x":1141,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_2","blockId":"footer","m":{"x":52,"y":588,"w":33,"h":33,"a":0},"d":{"x":1051,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_3","blockId":"footer","m":{"x":113,"y":588,"w":33,"h":33,"a":0},"d":{"x":1081,"y":178,"w":15,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_4","blockId":"footer","m":{"x":235,"y":588,"w":33,"h":33,"a":0},"d":{"x":1111,"y":178,"w":16,"h":17,"a":0}},{"type":"text","visible":"a","id":"footer_5","blockId":"footer","m":{"x":95,"y":549,"w":131,"h":22,"a":0},"d":{"x":891,"y":178,"w":147,"h":16,"a":0}},{"type":"simple","visible":"a","id":"footer_6","blockId":"footer","m":{"x":10,"y":651,"w":300,"h":1,"a":0},"d":{"x":-39,"y":259,"w":1279,"h":1,"a":0,"lockH":"s"}},{"type":"simple","visible":"a","id":"footer_7","blockId":"footer","m":{"x":10,"y":364,"w":300,"h":1,"a":0},"d":{"x":366,"y":34,"w":1,"h":198,"a":0}},{"type":"simple","visible":"m","id":"footer_8","blockId":"footer","m":{"x":10,"y":531,"w":300,"h":1,"a":0},"d":{"x":376,"y":44,"w":1,"h":198,"a":0}},{"type":"simple","visible":"a","id":"footer_9","blockId":"footer","m":{"x":10,"y":259,"w":300,"h":1,"a":0},"d":{"x":833.5,"y":34.25,"w":1,"h":198,"a":0}},{"type":"text","visible":"a","id":"footer_10","blockId":"footer","m":{"x":29,"y":282,"w":262,"h":16,"a":0},"d":{"x":885,"y":85,"w":270,"h":14,"a":0}},{"type":"text","visible":"a","id":"footer_11","blockId":"footer","m":{"x":5,"y":315,"w":311,"h":32,"a":0},"d":{"x":863,"y":102,"w":314,"h":40,"a":0}},{"type":"graphic","visible":"a","id":"footer_12","blockId":"footer","m":{"x":48,"y":18,"w":224,"h":224,"a":0},"d":{"x":479,"y":15,"w":242,"h":242,"a":0},"c":{"key":"39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png","aspect_ratio":1}},{"type":"text","visible":"a","id":"footer_13","blockId":"footer","m":{"x":16,"y":729,"w":289,"h":39,"a":0},"d":{"x":800,"y":281,"w":400,"h":38,"a":0}},{"type":"text","visible":"a","id":"footer_14","blockId":"footer","m":{"x":16,"y":689,"w":289,"h":18,"a":0},"d":{"x":-3,"y":283,"w":400,"h":38,"a":0}},{"type":"text","visible":"d","id":"footer_15","blockId":"footer","m":{"x":674,"y":176,"w":131,"h":22,"a":0},"d":{"x":105,"y":26,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_16","blockId":"footer","m":{"x":95,"y":394,"w":131,"h":22,"a":0},"d":{"x":105,"y":51,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_17","blockId":"footer","m":{"x":95,"y":460,"w":131,"h":22,"a":0},"d":{"x":105,"y":77,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_18","blockId":"footer","m":{"x":95,"y":438,"w":131,"h":22,"a":0},"d":{"x":105,"y":106,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_19","blockId":"footer","m":{"x":48,"y":140,"w":131,"h":22,"a":0},"d":{"x":105,"y":162,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_20","blockId":"footer","m":{"x":95,"y":482,"w":131,"h":22,"a":0},"d":{"x":105,"y":186,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_21","blockId":"footer","m":{"x":16,"y":667,"w":289,"h":18,"a":0},"d":{"x":-3,"y":303,"w":400,"h":17,"a":0}},{"type":"text","visible":"d","id":"footer_22","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":105,"y":210,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_23","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":81,"y":234,"w":205,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_24","blockId":"footer","m":{"x":95,"y":416,"w":131,"h":22,"a":0},"d":{"x":105,"y":133,"w":147,"h":16,"a":0}},{"type":"icon","visible":"m","id":"mobile-nav_0","blockId":"mobile-nav","m":{"x":280,"y":9,"w":29,"h":28,"a":0,"lockV":"t"},"d":{"x":575,"y":175,"w":100,"h":100,"a":0},"pc":[{"type":"hide","block":"mobile-nav"}]},{"type":"text","visible":"m","id":"mobile-nav_1","blockId":"mobile-nav","m":{"x":32.5,"y":36,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_2","blockId":"mobile-nav","m":{"x":73.896,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1090.77,"y":35.5,"w":16.065,"h":16.575,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_3","blockId":"mobile-nav","m":{"x":25,"y":407,"w":44.374,"h":35.644,"a":0},"d":{"x":1069,"y":36.81,"w":16.065,"h":14.831,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_4","blockId":"mobile-nav","m":{"x":119.748,"y":407,"w":33.809,"h":34.218,"a":0},"d":{"x":1113.81,"y":35.937,"w":15.219,"h":15.702,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_5","blockId":"mobile-nav","m":{"x":164.783,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1134.946,"y":35.937,"w":16.065,"h":16.575,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_6","blockId":"mobile-nav","m":{"x":32.5,"y":378,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_7","blockId":"mobile-nav","m":{"x":32,"y":111,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_8","blockId":"mobile-nav","m":{"x":32,"y":148,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_9","blockId":"mobile-nav","m":{"x":32,"y":221,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_10","blockId":"mobile-nav","m":{"x":32,"y":258,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_11","blockId":"mobile-nav","m":{"x":32,"y":295,"w":239,"h":23,"a":0},"d":{"x":572,"y":203,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_13","blockId":"mobile-nav","m":{"x":32,"y":185,"w":239,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"mobile-nav_14","blockId":"mobile-nav","m":{"x":32,"y":326,"w":96,"h":16,"a":0},"d":{"x":546,"y":191,"w":107.99999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"contact-sticky_0","blockId":"contact-sticky","m":{"x":18,"y":16,"w":285,"h":18,"a":0},"d":{"x":143,"y":14,"w":915,"h":15,"a":0}}]}
+        {
+            "mobile": {
+                "w": 320
+            },
+            "desktop": {
+                "w": 1200,
+                "bgFillType": "color",
+                "bgColor": "#000000:0"
+            },
+            "sid": "uxugyxraqtkqhmrchhfzzg",
+            "break": 768,
+            "assetURL": "//static.showit.co",
+            "contactFormId": "105740/224708",
+            "cfAction": "aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9jb250YWN0Zm9ybQ==",
+            "sgAction": "aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9zb2NpYWxncmlk",
+            "blockData": [{
+                "slug": "announcement-header",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 76,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 137,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "drop-navigation",
+                "visible": "d",
+                "states": [{
+                    "d": {
+                        "bgFillType": "color",
+                        "bgMediaType": "none"
+                    },
+                    "m": {
+                        "bgFillType": "color",
+                        "bgMediaType": "none"
+                    },
+                    "slug": "view-1"
+                }, {
+                    "d": {
+                        "bgFillType": "color",
+                        "bgMediaType": "none"
+                    },
+                    "m": {
+                        "bgFillType": "color",
+                        "bgMediaType": "none"
+                    },
+                    "slug": "view-1-1"
+                }],
+                "d": {
+                    "h": 124,
+                    "w": 1200,
+                    "locking": {
+                        "side": "t"
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 39,
+                    "w": 320,
+                    "locking": {
+                        "side": "st",
+                        "scrollOffset": 1
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "none"
+                },
+                "stateTrans": [{}, {}]
+            }, {
+                "slug": "header",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 1,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 1,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "ps": [{
+                    "trigger": "offscreen",
+                    "type": "show",
+                    "block": "drop-navigation"
+                }, {
+                    "trigger": "onscreen",
+                    "type": "hide",
+                    "block": "drop-navigation"
+                }]
+            }, {
+                "slug": "social-stalk-us",
+                "visible": "d",
+                "states": [],
+                "d": {
+                    "h": 1,
+                    "w": 1200,
+                    "locking": {
+                        "offset": 100,
+                        "scrollOffset": 1,
+                        "side": "t"
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "#000000:0",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 46,
+                    "w": 320,
+                    "locking": {
+                        "side": "t",
+                        "offset": 0
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "navigation",
+                "visible": "a",
+                "states": [{
+                    "d": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "m": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "slug": "view-1"
+                }, {
+                    "d": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "m": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "slug": "view-1-1"
+                }, {
+                    "d": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "m": {
+                        "bgFillType": "color",
+                        "bgColor": "#000000:0",
+                        "bgMediaType": "none"
+                    },
+                    "slug": "view-2"
+                }],
+                "d": {
+                    "h": 124,
+                    "w": 1200,
+                    "locking": {},
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 39,
+                    "w": 320,
+                    "locking": {
+                        "side": "st"
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                },
+                "stateTrans": [{}, {}, {}]
+            }, {
+                "slug": "gallery",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 601,
+                    "w": 1200,
+                    "nature": "dH",
+                    "aav": 5,
+                    "stateTrIn": {
+                        "type": "fade",
+                        "duration": 1
+                    },
+                    "stateTrOut": {
+                        "type": "fade",
+                        "duration": 1
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 203,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "image",
+                    "bgImage": {
+                        "key": "nY_0qidQTiCB3xMfNSBHAw/105740/courtney_and_nick-receptiondetails-77.jpg",
+                        "aspect_ratio": 1.50037,
+                        "title": "Courtney&Nick-ReceptionDetails-77",
+                        "type": "asset"
+                    },
+                    "bgOpacity": 100,
+                    "bgPos": "cm",
+                    "bgScale": "cover",
+                    "bgScroll": "p"
+                }
+            }, {
+                "slug": "included-with-your-rental",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 508,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 1208,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "header-message",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 280,
+                    "w": 1200,
+                    "nature": "dH",
+                    "aav": 5,
+                    "stateTrIn": {
+                        "type": "fade",
+                        "duration": 1
+                    },
+                    "stateTrOut": {
+                        "type": "fade",
+                        "duration": 1
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 500,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "cta-amenities",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 73,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 167,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "bridal-suite",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 551,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 925,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "grooms-suite",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 438,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 764,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "vendor-banner",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 400,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "image",
+                    "bgImage": {
+                        "key": "Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg",
+                        "aspect_ratio": 1.43627,
+                        "title": "Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2",
+                        "type": "asset"
+                    },
+                    "bgOpacity": 20,
+                    "bgPos": "cm",
+                    "bgScale": "cover",
+                    "bgScroll": "p"
+                },
+                "m": {
+                    "h": 298,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "image",
+                    "bgImage": {
+                        "key": "Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg",
+                        "aspect_ratio": 1.43627,
+                        "title": "Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2",
+                        "type": "asset"
+                    },
+                    "bgOpacity": 20,
+                    "bgPos": "cm",
+                    "bgScale": "cover",
+                    "bgScroll": "p"
+                }
+            }, {
+                "slug": "local-accommodations",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 400,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 728,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-3",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "3d-tour",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 632,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-7",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 542,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-7",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "testimonials-1",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 400,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "image",
+                    "bgImage": {
+                        "key": "-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg",
+                        "aspect_ratio": 1.50037,
+                        "title": "Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57",
+                        "type": "asset"
+                    },
+                    "bgOpacity": 40,
+                    "bgPos": "cm",
+                    "bgScale": "cover",
+                    "bgScroll": "f"
+                },
+                "m": {
+                    "h": 323,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#ffffff",
+                    "bgMediaType": "image",
+                    "bgImage": {
+                        "key": "-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg",
+                        "aspect_ratio": 1.50037,
+                        "title": "Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57",
+                        "type": "asset"
+                    },
+                    "bgOpacity": 40,
+                    "bgPos": "cm",
+                    "bgScale": "cover",
+                    "bgScroll": "f"
+                }
+            }, {
+                "slug": "book-tour",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 73,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 167,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "instagram",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 338,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 153,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "footer",
+                "visible": "a",
+                "states": [],
+                "d": {
+                    "h": 342,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 851,
+                    "w": 320,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "mobile-nav",
+                "visible": "m",
+                "states": [],
+                "d": {
+                    "h": 400,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "#FFFFFF",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 600,
+                    "w": 320,
+                    "locking": {
+                        "side": "t"
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "colors-6",
+                    "bgMediaType": "none"
+                }
+            }, {
+                "slug": "contact-sticky",
+                "visible": "m",
+                "states": [],
+                "d": {
+                    "h": 43,
+                    "w": 1200,
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                },
+                "m": {
+                    "h": 50,
+                    "w": 320,
+                    "locking": {
+                        "side": "sb"
+                    },
+                    "bgFillType": "color",
+                    "bgColor": "colors-1",
+                    "bgMediaType": "none"
+                }
+            }],
+            "elementData": [{
+                "type": "simple",
+                "visible": "a",
+                "id": "announcement-header_0",
+                "blockId": "announcement-header",
+                "m": {
+                    "x": 72,
+                    "y": 81,
+                    "w": 176,
+                    "h": 41,
+                    "a": 0
+                },
+                "d": {
+                    "x": 874,
+                    "y": 22,
+                    "w": 158,
+                    "h": 36,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "announcement-header_1",
+                "blockId": "announcement-header",
+                "m": {
+                    "x": 9,
+                    "y": 19,
+                    "w": 311,
+                    "h": 39,
+                    "a": 0
+                },
+                "d": {
+                    "x": 315,
+                    "y": 16,
+                    "w": 533,
+                    "h": 45,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "announcement-header_2",
+                "blockId": "announcement-header",
+                "m": {
+                    "x": 72,
+                    "y": 94,
+                    "w": 176,
+                    "h": 28,
+                    "a": 0
+                },
+                "d": {
+                    "x": 889,
+                    "y": 33,
+                    "w": 138,
+                    "h": 25,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "drop-navigation_view-1_0",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 48,
+                    "y": 6,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1025,
+                    "y": 44,
+                    "w": 138,
+                    "h": 37,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1_1",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 594,
+                    "y": 49,
+                    "w": 119,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1_2",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 750,
+                    "y": 49,
+                    "w": 110,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1_3",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 890,
+                    "y": 49,
+                    "w": 91,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "drop-navigation_view-1_4",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 112,
+                    "y": 14,
+                    "w": 96,
+                    "h": 12,
+                    "a": 0
+                },
+                "d": {
+                    "x": 546.5,
+                    "y": 581,
+                    "w": 108,
+                    "h": 18,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "show",
+                    "block": "mobile-nav"
+                }]
+            }, {
+                "type": "graphic",
+                "visible": "d",
+                "id": "drop-navigation_view-1_5",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": -3,
+                    "y": 5,
+                    "w": 326,
+                    "h": 31,
+                    "a": 0
+                },
+                "d": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 231,
+                    "h": 124,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "show",
+                    "block": "mobile-nav"
+                }],
+                "c": {
+                    "key": "KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png",
+                    "aspect_ratio": 1
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1_6",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1025,
+                    "y": 49,
+                    "w": 138,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_0",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 48,
+                    "y": 6,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1025,
+                    "y": 44,
+                    "w": 138,
+                    "h": 37,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_1",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 594,
+                    "y": 49,
+                    "w": 119,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_2",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 750,
+                    "y": 49,
+                    "w": 110,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_3",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 890,
+                    "y": 49,
+                    "w": 91,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "drop-navigation_view-1-1_4",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 112,
+                    "y": 14,
+                    "w": 96,
+                    "h": 12,
+                    "a": 0
+                },
+                "d": {
+                    "x": 546.5,
+                    "y": 581,
+                    "w": 108,
+                    "h": 18,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "show",
+                    "block": "mobile-nav"
+                }]
+            }, {
+                "type": "graphic",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_5",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": -3,
+                    "y": 5,
+                    "w": 326,
+                    "h": 31,
+                    "a": 0
+                },
+                "d": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 231,
+                    "h": 124,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "show",
+                    "block": "mobile-nav"
+                }],
+                "c": {
+                    "key": "KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png",
+                    "aspect_ratio": 1
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_6",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1025,
+                    "y": 49,
+                    "w": 138,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_7",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 58,
+                    "y": 16,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 749,
+                    "y": 91,
+                    "w": 211,
+                    "h": 135,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_8",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 114,
+                    "y": 11,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 762,
+                    "y": 104,
+                    "w": 164,
+                    "h": 24,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_9",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 762,
+                    "y": 134,
+                    "w": 164,
+                    "h": 24,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_10",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 762,
+                    "y": 164,
+                    "w": 164,
+                    "h": 24,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "drop-navigation_view-1-1_11",
+                "blockId": "drop-navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 762,
+                    "y": 194,
+                    "w": 164,
+                    "h": 24,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "social-stalk-us_0",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": -357,
+                    "y": 23,
+                    "w": 224,
+                    "h": 140,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1163,
+                    "y": 64,
+                    "w": 40,
+                    "h": 400,
+                    "a": 0,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "icon",
+                "visible": "d",
+                "id": "social-stalk-us_1",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": 135,
+                    "y": 75,
+                    "w": 50,
+                    "h": 50,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1171,
+                    "y": 264,
+                    "w": 25,
+                    "h": 25,
+                    "a": 0,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "icon",
+                "visible": "d",
+                "id": "social-stalk-us_2",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": 135,
+                    "y": 75,
+                    "w": 50,
+                    "h": 50,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1171,
+                    "y": 312,
+                    "w": 25,
+                    "h": 25,
+                    "a": 0,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "icon",
+                "visible": "d",
+                "id": "social-stalk-us_3",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": 135,
+                    "y": 75,
+                    "w": 50,
+                    "h": 50,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1171,
+                    "y": 360,
+                    "w": 25,
+                    "h": 25,
+                    "a": 0,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "icon",
+                "visible": "d",
+                "id": "social-stalk-us_4",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": 135,
+                    "y": 75,
+                    "w": 50,
+                    "h": 50,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1171,
+                    "y": 408,
+                    "w": 25,
+                    "h": 25,
+                    "a": 0,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "social-stalk-us_5",
+                "blockId": "social-stalk-us",
+                "m": {
+                    "x": 12,
+                    "y": 20,
+                    "w": 144,
+                    "h": 10,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1107,
+                    "y": 160,
+                    "w": 152,
+                    "h": 15,
+                    "a": -90,
+                    "lockH": "r"
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_0",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": -294,
+                    "y": 174,
+                    "w": 162,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_1",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 514,
+                    "y": 49,
+                    "w": 124,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_2",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 888,
+                    "y": 49,
+                    "w": 114,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "navigation_3",
+                "blockId": "navigation",
+                "m": {
+                    "x": 60,
+                    "y": 13,
+                    "w": 200,
+                    "h": 26,
+                    "a": 0
+                },
+                "d": {
+                    "x": 547,
+                    "y": 587,
+                    "w": 108,
+                    "h": 18,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "show",
+                    "block": "mobile-nav"
+                }]
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "navigation_view-1_0",
+                "blockId": "navigation",
+                "m": {
+                    "x": 48,
+                    "y": 6,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1031,
+                    "y": 43,
+                    "w": 140,
+                    "h": 39,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1_1",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 761,
+                    "y": 49,
+                    "w": 114,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "graphic",
+                "visible": "d",
+                "id": "navigation_view-1_2",
+                "blockId": "navigation",
+                "m": {
+                    "x": 48,
+                    "y": 78,
+                    "w": 224,
+                    "h": 45,
+                    "a": 0
+                },
+                "d": {
+                    "x": 10,
+                    "y": 25,
+                    "w": 356,
+                    "h": 75,
+                    "a": 0
+                },
+                "c": {
+                    "key": "785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png",
+                    "aspect_ratio": 5
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1_3",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1031,
+                    "y": 49,
+                    "w": 140,
+                    "h": 33,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1_4",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 644,
+                    "y": 49,
+                    "w": 110,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "navigation_view-1-1_0",
+                "blockId": "navigation",
+                "m": {
+                    "x": 48,
+                    "y": 6,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1031,
+                    "y": 43,
+                    "w": 140,
+                    "h": 39,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_1",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 761,
+                    "y": 49,
+                    "w": 114,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "graphic",
+                "visible": "d",
+                "id": "navigation_view-1-1_2",
+                "blockId": "navigation",
+                "m": {
+                    "x": 48,
+                    "y": 78,
+                    "w": 224,
+                    "h": 45,
+                    "a": 0
+                },
+                "d": {
+                    "x": 10,
+                    "y": 25,
+                    "w": 356,
+                    "h": 75,
+                    "a": 0
+                },
+                "c": {
+                    "key": "785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png",
+                    "aspect_ratio": 5
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_3",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1031,
+                    "y": 49,
+                    "w": 140,
+                    "h": 33,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_4",
+                "blockId": "navigation",
+                "m": {
+                    "x": 122,
+                    "y": 18,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 644,
+                    "y": 49,
+                    "w": 110,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "navigation_view-1-1_5",
+                "blockId": "navigation",
+                "m": {
+                    "x": 58,
+                    "y": 16,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 650,
+                    "y": 90,
+                    "w": 217,
+                    "h": 127,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_6",
+                "blockId": "navigation",
+                "m": {
+                    "x": 114,
+                    "y": 11,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 656,
+                    "y": 102,
+                    "w": 155,
+                    "h": 23,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_7",
+                "blockId": "navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 656,
+                    "y": 131,
+                    "w": 155,
+                    "h": 23,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_8",
+                "blockId": "navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 656,
+                    "y": 159,
+                    "w": 155,
+                    "h": 23,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-1-1_9",
+                "blockId": "navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 656,
+                    "y": 188,
+                    "w": 155,
+                    "h": 23,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-2_0",
+                "blockId": "navigation",
+                "m": {
+                    "x": 132,
+                    "y": 28,
+                    "w": 75.60000000000001,
+                    "h": 14,
+                    "a": 0
+                },
+                "d": {
+                    "x": 733,
+                    "y": 13,
+                    "w": 66,
+                    "h": 27,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "d",
+                "id": "navigation_view-2_1",
+                "blockId": "navigation",
+                "m": {
+                    "x": 48,
+                    "y": 6,
+                    "w": 224,
+                    "h": 27.299999999999997,
+                    "a": 0
+                },
+                "d": {
+                    "x": 674,
+                    "y": 35,
+                    "w": 194,
+                    "h": 160,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-2_2",
+                "blockId": "navigation",
+                "m": {
+                    "x": 124,
+                    "y": 21,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 690,
+                    "y": 97,
+                    "w": 183,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "navigation_view-2_3",
+                "blockId": "navigation",
+                "m": {
+                    "x": 114,
+                    "y": 11,
+                    "w": 91.8,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 681,
+                    "y": 61,
+                    "w": 118,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "gallery",
+                "visible": "d",
+                "id": "gallery_0",
+                "blockId": "gallery",
+                "m": {
+                    "x": -26,
+                    "y": -1,
+                    "w": 373,
+                    "h": 756,
+                    "a": 0,
+                    "g": {
+                        "aa": 3,
+                        "dots": true
+                    }
+                },
+                "d": {
+                    "x": -4,
+                    "y": -2,
+                    "w": 1208,
+                    "h": 604,
+                    "a": 0,
+                    "lockH": "s",
+                    "g": {
+                        "aa": 3,
+                        "dots": true
+                    }
+                },
+                "imgs": [{
+                    "key": "aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg",
+                    "ar": 1.50037,
+                    "desc": "Aerial view of the Kendall Point gazebo set up for an outdoor ceremony."
+                }, {
+                    "key": "HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg",
+                    "ar": 1.49927,
+                    "desc": "View of Kendall Point San Antonio wedding venue."
+                }, {
+                    "key": "3eyDzelPuWVmRmX96C9Nkw/105740/sp-76_websize.jpg",
+                    "ar": 1.49953
+                }, {
+                    "key": "j_IM5HwYTKWNatfBOCGEhg/105740/akg-148_websize.jpg",
+                    "ar": 1.49953,
+                    "desc": "Kendall Point adorned with string lights for an evening wedding reception."
+                }, {
+                    "key": "o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg",
+                    "ar": 1.49953,
+                    "desc": "The outdoor gazebo at Kendall Point."
+                }, {
+                    "key": "im99cqRXTTCxaG1ID0q55A/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-32.jpg",
+                    "ar": 1.50037,
+                    "desc": "Reception tables set up in Kendall Point ballroom."
+                }, {
+                    "key": "PF9kR3NNRb-LrsU224uhRA/105740/haley_and_korey-receptiondetails-22.jpg",
+                    "ar": 1.50037,
+                    "desc": "Head table set up for a reception at Kendall Point"
+                }, {
+                    "key": "3OWqus9zTzS33vvWQw3xSw/105740/haley_and_korey-receptiondetails-10.jpg",
+                    "ar": 0.6665,
+                    "desc": "The Kendall Point grand staircase decorated with flowers."
+                }, {
+                    "key": "4d601kO0S-iQauzJdDaN4A/105740/courtney_and_nick-ceremony-3.jpg",
+                    "ar": 0.6665,
+                    "desc": "The wooden swing next to the Kendall Point lake."
+                }, {
+                    "key": "kBuy2gywRwGmyHiEpvUaWg/105740/20230610_3398_websize.jpg",
+                    "ar": 0.66688
+                }, {
+                    "key": "aKk5ZepKQ4C341Zhob8Fmw/105740/laurenkyle-slideshow-24.jpg",
+                    "ar": 0.6665
+                }, {
+                    "key": "_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg",
+                    "ar": 1.50037
+                }, {
+                    "key": "YNnIs3lnRoiNfYqaWcAafA/105740/kayleejamesphoto-1532_websize.jpg",
+                    "ar": 0.75
+                }, {
+                    "key": "NOK7H4T5SguOFnT6uSgU3g/105740/kayleejamesphoto-1076_websize.jpg",
+                    "ar": 0.7525
+                }],
+                "gal": "sliding",
+                "g": {},
+                "ch": 1
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "included-with-your-rental_0",
+                "blockId": "included-with-your-rental",
+                "m": {
+                    "x": 24,
+                    "y": 968,
+                    "w": 273,
+                    "h": 82,
+                    "a": 0
+                },
+                "d": {
+                    "x": 240,
+                    "y": 461,
+                    "w": 760,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "included-with-your-rental_1",
+                "blockId": "included-with-your-rental",
+                "m": {
+                    "x": 20,
+                    "y": 662,
+                    "w": 281,
+                    "h": 291,
+                    "a": 0
+                },
+                "d": {
+                    "x": 800,
+                    "y": 83,
+                    "w": 322,
+                    "h": 378,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "included-with-your-rental_2",
+                "blockId": "included-with-your-rental",
+                "m": {
+                    "x": 24,
+                    "y": 356,
+                    "w": 281,
+                    "h": 298,
+                    "a": 0
+                },
+                "d": {
+                    "x": 429,
+                    "y": 83,
+                    "w": 322,
+                    "h": 378,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "included-with-your-rental_3",
+                "blockId": "included-with-your-rental",
+                "m": {
+                    "x": 20,
+                    "y": 87,
+                    "w": 281,
+                    "h": 257,
+                    "a": 0
+                },
+                "d": {
+                    "x": 53,
+                    "y": 83,
+                    "w": 347,
+                    "h": 378,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "included-with-your-rental_4",
+                "blockId": "included-with-your-rental",
+                "m": {
+                    "x": 59,
+                    "y": 33,
+                    "w": 202,
+                    "h": 46,
+                    "a": 0
+                },
+                "d": {
+                    "x": 328,
+                    "y": 19,
+                    "w": 544,
+                    "h": 41,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "header-message_0",
+                "blockId": "header-message",
+                "m": {
+                    "x": -27,
+                    "y": 0,
+                    "w": 374,
+                    "h": 10,
+                    "a": 0
+                },
+                "d": {
+                    "x": -2,
+                    "y": -2,
+                    "w": 1203,
+                    "h": 6,
+                    "a": 0,
+                    "lockH": "s"
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "header-message_1",
+                "blockId": "header-message",
+                "m": {
+                    "x": 19,
+                    "y": 61,
+                    "w": 282,
+                    "h": 324,
+                    "a": 0
+                },
+                "d": {
+                    "x": 154,
+                    "y": 67,
+                    "w": 892,
+                    "h": 198,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "header-message_2",
+                "blockId": "header-message",
+                "m": {
+                    "x": 22,
+                    "y": 29,
+                    "w": 276,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 406,
+                    "y": 32,
+                    "w": 388,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "header-message_3",
+                "blockId": "header-message",
+                "m": {
+                    "x": 97,
+                    "y": 237,
+                    "w": 96,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 194,
+                    "y": 222,
+                    "w": 809,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "cta-amenities_0",
+                "blockId": "cta-amenities",
+                "m": {
+                    "x": 43,
+                    "y": 34,
+                    "w": 234,
+                    "h": 51,
+                    "a": 0
+                },
+                "d": {
+                    "x": 238,
+                    "y": 27,
+                    "w": 478,
+                    "h": 19,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "cta-amenities_1",
+                "blockId": "cta-amenities",
+                "m": {
+                    "x": 43,
+                    "y": 101,
+                    "w": 234,
+                    "h": 34,
+                    "a": 0
+                },
+                "d": {
+                    "x": 752,
+                    "y": 17,
+                    "w": 300,
+                    "h": 39,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "cta-amenities_2",
+                "blockId": "cta-amenities",
+                "m": {
+                    "x": 52,
+                    "y": 107,
+                    "w": 216,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 760,
+                    "y": 32,
+                    "w": 285,
+                    "h": 10,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "bridal-suite_0",
+                "blockId": "bridal-suite",
+                "m": {
+                    "x": 34,
+                    "y": 295,
+                    "w": 259,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 742,
+                    "y": 91,
+                    "w": 234,
+                    "h": 13,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "bridal-suite_1",
+                "blockId": "bridal-suite",
+                "m": {
+                    "x": 20,
+                    "y": 348,
+                    "w": 281,
+                    "h": 568,
+                    "a": 0
+                },
+                "d": {
+                    "x": 583,
+                    "y": 154,
+                    "w": 551,
+                    "h": 336,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "bridal-suite_2",
+                "blockId": "bridal-suite",
+                "m": {
+                    "x": 30,
+                    "y": 315,
+                    "w": 267,
+                    "h": 21,
+                    "a": 0
+                },
+                "d": {
+                    "x": 717,
+                    "y": 111,
+                    "w": 284,
+                    "h": 35,
+                    "a": 0
+                }
+            }, {
+                "type": "gallery",
+                "visible": "a",
+                "id": "bridal-suite_3",
+                "blockId": "bridal-suite",
+                "m": {
+                    "x": 17,
+                    "y": 31,
+                    "w": 286,
+                    "h": 245,
+                    "a": 0,
+                    "gs": {
+                        "t": "fit"
+                    }
+                },
+                "d": {
+                    "x": 172,
+                    "y": 56,
+                    "w": 380,
+                    "h": 434,
+                    "a": 0,
+                    "gs": {
+                        "t": "cover"
+                    }
+                },
+                "imgs": [{
+                    "key": "L1pdJ7rTTA2Kg4mMacBf9w/105740/libby_and_grant_sneakpeek-9.jpg",
+                    "ar": 0.6665,
+                    "desc": "A bride looks out the window."
+                }, {
+                    "key": "uuQUW-AqQouo7CWeouzpRg/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-49.jpg",
+                    "ar": 1.50037,
+                    "desc": "A bride celebrating in the clawfoot tub in the bridal suite."
+                }, {
+                    "key": "Ovm38udaTLq0vLKap4GLMg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg",
+                    "ar": 1.50037,
+                    "desc": "A bride sitting in the Kendall Point clawfoot tub and holding her shoes."
+                }, {
+                    "key": "VH5d2LFUT02GEPSXEdvYMA/105740/86451656_2987919944553449_6941888097869103104_o.jpg",
+                    "ar": 1.5,
+                    "desc": "The clawfoot tub in the Kendall Point bridal suite."
+                }, {
+                    "key": "cS0GcgPZQIGYmoz061n97Q/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-118.jpg",
+                    "ar": 1.50037,
+                    "desc": "A bride and two bridesmaids sit in the clawfoot tub in the bridal suite."
+                }, {
+                    "key": "6M0C-8bgRMSDTiOBskG5Ow/105740/kendall-point-texas-wedding-venue-snap-chic-3.jpg",
+                    "ar": 1.49953,
+                    "desc": "A bride sits in the tub in the Kendall Point bridal suite."
+                }, {
+                    "key": "sMwwLY96QTSEzJ7YeI0yCw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00056.jpg",
+                    "ar": 0.66667,
+                    "desc": "A wall of hangers with the wedding dress and bridesmaids' dresse sin the bridal suite."
+                }, {
+                    "key": "UIOJjqcRTnG5s6CX5CPbbw/105740/allisonjeffersphotography-15.jpg",
+                    "ar": 0.66667,
+                    "desc": "The wedding gown and accompanying bridesmaids dresses all hanging in the bridal suite."
+                }, {
+                    "key": "6yMErOZqQcuhoLg8apM5EA/105740/clawfoot-tub-kendall_point-texas-wedding-venue.jpg",
+                    "ar": 1.50037,
+                    "desc": "A bride in her dress in the bridal suite."
+                }, {
+                    "key": "c-tYEdY2SPKV0JHVDBLpQA/105740/admire-wedding-dawn-elizabeth-studios-0098.jpg",
+                    "ar": 1.50037,
+                    "desc": "The wedding gown hanging in the bridal suite."
+                }, {
+                    "key": "dYTfor_dQg2nWl0BJJ-KRQ/105740/weddingparty-holly-marie-photography-cg-129.jpg",
+                    "ar": 1.5,
+                    "desc": "Bride and her bridesmaids posing on the porch."
+                }],
+                "ch": 1,
+                "gal": "simple"
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "grooms-suite_0",
+                "blockId": "grooms-suite",
+                "m": {
+                    "x": 18,
+                    "y": 7,
+                    "w": 284,
+                    "h": 1,
+                    "a": 0
+                },
+                "d": {
+                    "x": -35.5,
+                    "y": 4,
+                    "w": 1271,
+                    "h": 1,
+                    "a": 0,
+                    "lockH": "s"
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "grooms-suite_1",
+                "blockId": "grooms-suite",
+                "m": {
+                    "x": 31,
+                    "y": 330,
+                    "w": 259,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 217,
+                    "y": 71,
+                    "w": 234,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "grooms-suite_2",
+                "blockId": "grooms-suite",
+                "m": {
+                    "x": 20,
+                    "y": 382,
+                    "w": 281,
+                    "h": 368,
+                    "a": 0
+                },
+                "d": {
+                    "x": 98,
+                    "y": 147,
+                    "w": 472,
+                    "h": 226,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "grooms-suite_3",
+                "blockId": "grooms-suite",
+                "m": {
+                    "x": 27,
+                    "y": 346,
+                    "w": 267,
+                    "h": 41,
+                    "a": 0
+                },
+                "d": {
+                    "x": 192,
+                    "y": 95,
+                    "w": 284,
+                    "h": 35,
+                    "a": 0
+                }
+            }, {
+                "type": "gallery",
+                "visible": "a",
+                "id": "grooms-suite_4",
+                "blockId": "grooms-suite",
+                "m": {
+                    "x": 18,
+                    "y": 55,
+                    "w": 286,
+                    "h": 245,
+                    "a": 0,
+                    "gs": {
+                        "t": "fit"
+                    }
+                },
+                "d": {
+                    "x": 600,
+                    "y": 29,
+                    "w": 529,
+                    "h": 380,
+                    "a": 0,
+                    "gs": {
+                        "t": "cover"
+                    }
+                },
+                "imgs": [{
+                    "key": "WzkcrXdKS5OZLENerXZJzA/105740/haley_and_korey-korey-44.jpg",
+                    "ar": 1.50037,
+                    "desc": "Groom and groomsmen cheers each other in the groom's suite."
+                }, {
+                    "key": "MRw7TPg_SAu4NH-mYM95AA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00114.jpg",
+                    "ar": 0.6665,
+                    "desc": "A groom and his groomsmen celebrate in the groom's suite."
+                }, {
+                    "key": "GBLyyrPAQOmrGzTsLy0BRg/105740/kendall-point-texas-wedding-venue-west-vita-1.jpg",
+                    "ar": 1.50037,
+                    "desc": "A groom and his groomsmen pose on the Kendall Point balcony"
+                }, {
+                    "key": "3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg",
+                    "ar": 1,
+                    "desc": "A groom and his groomsmen pose on the balcony outside the groom's suite."
+                }, {
+                    "key": "mJNVAbmJRMSzukUQaJNzgQ/105740/haley_and_korey-korey-4.jpg",
+                    "ar": 1.50037,
+                    "desc": "Black and white photo of groomsmen on the wrap around porch."
+                }, {
+                    "key": "wQU6ha-bR52ONQkweNGAMQ/105740/haley_and_korey-korey-22.jpg",
+                    "ar": 1.50037,
+                    "desc": "Groom and his groomsmen playing foosball in the groom's suite."
+                }],
+                "ch": 1,
+                "gal": "simple"
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "vendor-banner_0",
+                "blockId": "vendor-banner",
+                "m": {
+                    "x": 12,
+                    "y": 38,
+                    "w": 297,
+                    "h": 124,
+                    "a": 0
+                },
+                "d": {
+                    "x": 84,
+                    "y": 116,
+                    "w": 1033,
+                    "h": 80,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "vendor-banner_1",
+                "blockId": "vendor-banner",
+                "m": {
+                    "x": 56,
+                    "y": 203,
+                    "w": 209,
+                    "h": 52,
+                    "a": 0
+                },
+                "d": {
+                    "x": 482,
+                    "y": 240,
+                    "w": 236,
+                    "h": 44,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "vendor-banner_2",
+                "blockId": "vendor-banner",
+                "m": {
+                    "x": 69,
+                    "y": 221,
+                    "w": 183,
+                    "h": 17,
+                    "a": 0
+                },
+                "d": {
+                    "x": 509,
+                    "y": 255,
+                    "w": 183,
+                    "h": 14,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_0",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 34,
+                    "y": 527,
+                    "w": 255,
+                    "h": 133,
+                    "a": 0
+                },
+                "d": {
+                    "x": 849,
+                    "y": 140,
+                    "w": 300,
+                    "h": 222,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_1",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 33,
+                    "y": 275,
+                    "w": 255,
+                    "h": 204,
+                    "a": 0
+                },
+                "d": {
+                    "x": 451,
+                    "y": 140,
+                    "w": 300,
+                    "h": 222,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_2",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 33,
+                    "y": 140,
+                    "w": 255,
+                    "h": 56,
+                    "a": 0
+                },
+                "d": {
+                    "x": 52,
+                    "y": 140,
+                    "w": 300,
+                    "h": 222,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_3",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 61,
+                    "y": 231,
+                    "w": 200,
+                    "h": 32,
+                    "a": 0
+                },
+                "d": {
+                    "x": 451,
+                    "y": 75,
+                    "w": 300,
+                    "h": 50,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_4",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 22,
+                    "y": 29,
+                    "w": 276,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 406,
+                    "y": 32,
+                    "w": 388,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_5",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 46,
+                    "y": 479,
+                    "w": 228,
+                    "h": 32,
+                    "a": 0
+                },
+                "d": {
+                    "x": 849,
+                    "y": 75,
+                    "w": 300,
+                    "h": 50,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "local-accommodations_6",
+                "blockId": "local-accommodations",
+                "m": {
+                    "x": 61,
+                    "y": 90,
+                    "w": 200,
+                    "h": 32,
+                    "a": 0
+                },
+                "d": {
+                    "x": 52,
+                    "y": 75,
+                    "w": 300,
+                    "h": 50,
+                    "a": 0
+                }
+            }, {
+                "type": "iframe",
+                "visible": "a",
+                "id": "3d-tour_0",
+                "blockId": "3d-tour",
+                "m": {
+                    "x": 16,
+                    "y": 148,
+                    "w": 290,
+                    "h": 165,
+                    "a": 0
+                },
+                "d": {
+                    "x": 193,
+                    "y": 124,
+                    "w": 834,
+                    "h": 468,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "3d-tour_1",
+                "blockId": "3d-tour",
+                "m": {
+                    "x": 31,
+                    "y": 94,
+                    "w": 258,
+                    "h": 35,
+                    "a": 0
+                },
+                "d": {
+                    "x": 240,
+                    "y": 81,
+                    "w": 709,
+                    "h": 19,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "3d-tour_2",
+                "blockId": "3d-tour",
+                "m": {
+                    "x": 27,
+                    "y": 51,
+                    "w": 267,
+                    "h": 41,
+                    "a": 0
+                },
+                "d": {
+                    "x": 458,
+                    "y": 23,
+                    "w": 284,
+                    "h": 35,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "3d-tour_3",
+                "blockId": "3d-tour",
+                "m": {
+                    "x": 31,
+                    "y": 32,
+                    "w": 259,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 483,
+                    "y": 8,
+                    "w": 234,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "testimonials-1_0",
+                "blockId": "testimonials-1",
+                "m": {
+                    "x": 12,
+                    "y": 53,
+                    "w": 297,
+                    "h": 84,
+                    "a": 0
+                },
+                "d": {
+                    "x": 84,
+                    "y": 101,
+                    "w": 1033,
+                    "h": 80,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "testimonials-1_1",
+                "blockId": "testimonials-1",
+                "m": {
+                    "x": 66,
+                    "y": 218,
+                    "w": 189,
+                    "h": 52,
+                    "a": 0
+                },
+                "d": {
+                    "x": 482,
+                    "y": 255,
+                    "w": 236,
+                    "h": 44,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "testimonials-1_2",
+                "blockId": "testimonials-1",
+                "m": {
+                    "x": 86,
+                    "y": 238,
+                    "w": 150,
+                    "h": 12,
+                    "a": 0
+                },
+                "d": {
+                    "x": 516,
+                    "y": 263,
+                    "w": 169,
+                    "h": 28,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "testimonials-1_3",
+                "blockId": "testimonials-1",
+                "m": {
+                    "x": 112,
+                    "y": 154,
+                    "w": 96,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 547,
+                    "y": 199,
+                    "w": 108,
+                    "h": 14,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "book-tour_0",
+                "blockId": "book-tour",
+                "m": {
+                    "x": 43,
+                    "y": 34,
+                    "w": 234,
+                    "h": 51,
+                    "a": 0
+                },
+                "d": {
+                    "x": 238,
+                    "y": 27,
+                    "w": 478,
+                    "h": 19,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "book-tour_1",
+                "blockId": "book-tour",
+                "m": {
+                    "x": 68,
+                    "y": 95,
+                    "w": 186,
+                    "h": 40,
+                    "a": 0
+                },
+                "d": {
+                    "x": 779,
+                    "y": 22,
+                    "w": 189,
+                    "h": 29,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "book-tour_2",
+                "blockId": "book-tour",
+                "m": {
+                    "x": 65,
+                    "y": 110,
+                    "w": 192,
+                    "h": 11,
+                    "a": 0
+                },
+                "d": {
+                    "x": 800,
+                    "y": 32,
+                    "w": 147,
+                    "h": 9,
+                    "a": 0
+                }
+            }, {
+                "type": "social",
+                "visible": "a",
+                "id": "instagram_0",
+                "blockId": "instagram",
+                "m": {
+                    "x": -31,
+                    "y": 0,
+                    "w": 383,
+                    "h": 153,
+                    "a": 0
+                },
+                "d": {
+                    "x": -1079,
+                    "y": 14,
+                    "w": 3358,
+                    "h": 327,
+                    "a": 0,
+                    "lockH": "s"
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_0",
+                "blockId": "footer",
+                "m": {
+                    "x": 16,
+                    "y": 784,
+                    "w": 289,
+                    "h": 39,
+                    "a": 0
+                },
+                "d": {
+                    "x": 400,
+                    "y": 284,
+                    "w": 400,
+                    "h": 38,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "footer_1",
+                "blockId": "footer",
+                "m": {
+                    "x": 174,
+                    "y": 588,
+                    "w": 33,
+                    "h": 33,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1141,
+                    "y": 178,
+                    "w": 16,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "footer_2",
+                "blockId": "footer",
+                "m": {
+                    "x": 52,
+                    "y": 588,
+                    "w": 33,
+                    "h": 33,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1051,
+                    "y": 178,
+                    "w": 16,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "footer_3",
+                "blockId": "footer",
+                "m": {
+                    "x": 113,
+                    "y": 588,
+                    "w": 33,
+                    "h": 33,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1081,
+                    "y": 178,
+                    "w": 15,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "footer_4",
+                "blockId": "footer",
+                "m": {
+                    "x": 235,
+                    "y": 588,
+                    "w": 33,
+                    "h": 33,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1111,
+                    "y": 178,
+                    "w": 16,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_5",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 549,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 891,
+                    "y": 178,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "footer_6",
+                "blockId": "footer",
+                "m": {
+                    "x": 10,
+                    "y": 651,
+                    "w": 300,
+                    "h": 1,
+                    "a": 0
+                },
+                "d": {
+                    "x": -39,
+                    "y": 259,
+                    "w": 1279,
+                    "h": 1,
+                    "a": 0,
+                    "lockH": "s"
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "footer_7",
+                "blockId": "footer",
+                "m": {
+                    "x": 10,
+                    "y": 364,
+                    "w": 300,
+                    "h": 1,
+                    "a": 0
+                },
+                "d": {
+                    "x": 366,
+                    "y": 34,
+                    "w": 1,
+                    "h": 198,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "m",
+                "id": "footer_8",
+                "blockId": "footer",
+                "m": {
+                    "x": 10,
+                    "y": 531,
+                    "w": 300,
+                    "h": 1,
+                    "a": 0
+                },
+                "d": {
+                    "x": 376,
+                    "y": 44,
+                    "w": 1,
+                    "h": 198,
+                    "a": 0
+                }
+            }, {
+                "type": "simple",
+                "visible": "a",
+                "id": "footer_9",
+                "blockId": "footer",
+                "m": {
+                    "x": 10,
+                    "y": 259,
+                    "w": 300,
+                    "h": 1,
+                    "a": 0
+                },
+                "d": {
+                    "x": 833.5,
+                    "y": 34.25,
+                    "w": 1,
+                    "h": 198,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_10",
+                "blockId": "footer",
+                "m": {
+                    "x": 29,
+                    "y": 282,
+                    "w": 262,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 885,
+                    "y": 85,
+                    "w": 270,
+                    "h": 14,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_11",
+                "blockId": "footer",
+                "m": {
+                    "x": 5,
+                    "y": 315,
+                    "w": 311,
+                    "h": 32,
+                    "a": 0
+                },
+                "d": {
+                    "x": 863,
+                    "y": 102,
+                    "w": 314,
+                    "h": 40,
+                    "a": 0
+                }
+            }, {
+                "type": "graphic",
+                "visible": "a",
+                "id": "footer_12",
+                "blockId": "footer",
+                "m": {
+                    "x": 48,
+                    "y": 18,
+                    "w": 224,
+                    "h": 224,
+                    "a": 0
+                },
+                "d": {
+                    "x": 479,
+                    "y": 15,
+                    "w": 242,
+                    "h": 242,
+                    "a": 0
+                },
+                "c": {
+                    "key": "39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png",
+                    "aspect_ratio": 1
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_13",
+                "blockId": "footer",
+                "m": {
+                    "x": 16,
+                    "y": 729,
+                    "w": 289,
+                    "h": 39,
+                    "a": 0
+                },
+                "d": {
+                    "x": 800,
+                    "y": 281,
+                    "w": 400,
+                    "h": 38,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_14",
+                "blockId": "footer",
+                "m": {
+                    "x": 16,
+                    "y": 689,
+                    "w": 289,
+                    "h": 18,
+                    "a": 0
+                },
+                "d": {
+                    "x": -3,
+                    "y": 283,
+                    "w": 400,
+                    "h": 38,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "footer_15",
+                "blockId": "footer",
+                "m": {
+                    "x": 674,
+                    "y": 176,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 26,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_16",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 394,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 51,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_17",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 460,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 77,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_18",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 438,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 106,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "footer_19",
+                "blockId": "footer",
+                "m": {
+                    "x": 48,
+                    "y": 140,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 162,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_20",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 482,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 186,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_21",
+                "blockId": "footer",
+                "m": {
+                    "x": 16,
+                    "y": 667,
+                    "w": 289,
+                    "h": 18,
+                    "a": 0
+                },
+                "d": {
+                    "x": -3,
+                    "y": 303,
+                    "w": 400,
+                    "h": 17,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "footer_22",
+                "blockId": "footer",
+                "m": {
+                    "x": 89,
+                    "y": 162,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 210,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "d",
+                "id": "footer_23",
+                "blockId": "footer",
+                "m": {
+                    "x": 89,
+                    "y": 162,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 81,
+                    "y": 234,
+                    "w": 205,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "footer_24",
+                "blockId": "footer",
+                "m": {
+                    "x": 95,
+                    "y": 416,
+                    "w": 131,
+                    "h": 22,
+                    "a": 0
+                },
+                "d": {
+                    "x": 105,
+                    "y": 133,
+                    "w": 147,
+                    "h": 16,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "m",
+                "id": "mobile-nav_0",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 280,
+                    "y": 9,
+                    "w": 29,
+                    "h": 28,
+                    "a": 0,
+                    "lockV": "t"
+                },
+                "d": {
+                    "x": 575,
+                    "y": 175,
+                    "w": 100,
+                    "h": 100,
+                    "a": 0
+                },
+                "pc": [{
+                    "type": "hide",
+                    "block": "mobile-nav"
+                }]
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_1",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32.5,
+                    "y": 36,
+                    "w": 255,
+                    "h": 15,
+                    "a": 0
+                },
+                "d": {
+                    "x": 422.5,
+                    "y": 82.5,
+                    "w": 195,
+                    "h": 65,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "mobile-nav_2",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 73.896,
+                    "y": 407,
+                    "w": 35.217,
+                    "h": 35.644,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1090.77,
+                    "y": 35.5,
+                    "w": 16.065,
+                    "h": 16.575,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "mobile-nav_3",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 25,
+                    "y": 407,
+                    "w": 44.374,
+                    "h": 35.644,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1069,
+                    "y": 36.81,
+                    "w": 16.065,
+                    "h": 14.831,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "mobile-nav_4",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 119.748,
+                    "y": 407,
+                    "w": 33.809,
+                    "h": 34.218,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1113.81,
+                    "y": 35.937,
+                    "w": 15.219,
+                    "h": 15.702,
+                    "a": 0
+                }
+            }, {
+                "type": "icon",
+                "visible": "a",
+                "id": "mobile-nav_5",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 164.783,
+                    "y": 407,
+                    "w": 35.217,
+                    "h": 35.644,
+                    "a": 0
+                },
+                "d": {
+                    "x": 1134.946,
+                    "y": 35.937,
+                    "w": 16.065,
+                    "h": 16.575,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_6",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32.5,
+                    "y": 378,
+                    "w": 255,
+                    "h": 15,
+                    "a": 0
+                },
+                "d": {
+                    "x": 422.5,
+                    "y": 82.5,
+                    "w": 195,
+                    "h": 65,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_7",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 111,
+                    "w": 239.006,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 562,
+                    "y": 193,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_8",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 148,
+                    "w": 239.006,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 562,
+                    "y": 193,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_9",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 221,
+                    "w": 239.006,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 562,
+                    "y": 193,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_10",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 258,
+                    "w": 239.006,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 562,
+                    "y": 193,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_11",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 295,
+                    "w": 239,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 572,
+                    "y": 203,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "m",
+                "id": "mobile-nav_13",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 185,
+                    "w": 239,
+                    "h": 23,
+                    "a": 0
+                },
+                "d": {
+                    "x": 562,
+                    "y": 193,
+                    "w": 97.19999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "mobile-nav_14",
+                "blockId": "mobile-nav",
+                "m": {
+                    "x": 32,
+                    "y": 326,
+                    "w": 96,
+                    "h": 16,
+                    "a": 0
+                },
+                "d": {
+                    "x": 546,
+                    "y": 191,
+                    "w": 107.99999999999999,
+                    "h": 18,
+                    "a": 0
+                }
+            }, {
+                "type": "text",
+                "visible": "a",
+                "id": "contact-sticky_0",
+                "blockId": "contact-sticky",
+                "m": {
+                    "x": 18,
+                    "y": 16,
+                    "w": 285,
+                    "h": 18,
+                    "a": 0
+                },
+                "d": {
+                    "x": 143,
+                    "y": 14,
+                    "w": 915,
+                    "h": 15,
+                    "a": 0
+                }
+            }]
+        }
+
     </script>
     <link rel="stylesheet" type="text/css" href="../cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css" />
     <script id="si-jquery" src="../ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -67,6 +3377,8 @@
             style="display:none;visibility:hidden"></iframe></noscript>
 
     <link rel="stylesheet" type="text/css" href="../lib.showit.co/engine/2.2.6/showit.css" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('style.css') }}" />
+
     <style id="si-page-css">
         .d .sie-3d-tour_2-text,
         .d .sie-bridal-suite_2-text,
@@ -2938,390 +6250,132 @@
             font-weight: 800 !important;
             text-decoration: underline !important
         }
-               .d .sie-navigations_1 {
-   left: 400px; /* Default settings for large desktops */
-        top: 50px;
-        width: 150px;
-        height: 27px;
-        margin-left: 10px;
-        margin-top: 10px;
-}
 
-/* Large desktops (screen width >= 1367px) */
-@media (min-width: 1367px) {
-    .d .sie-navigations_1 {
-        left: 380px; /* Default settings for large desktops */
-        top: 30px;
-        width: 150px;
-        height: 27px;
-        margin-left: 10px;
-        margin-bottom: 30px;
-    }
-}
+        .d .sie-navigations_1 {
+            left: 400px;
+            /* Default settings for large desktops */
+            top: 50px;
+            width: 150px;
+            height: 27px;
+            margin-left: 10px;
+            margin-top: 10px;
+        }
 
-/* Laptops (screen widths between 1024px and 1366px) */
-@media (min-width: 1024px) and (max-width: 1366px) {
-    .d .sie-navigations_1 {
-        left: 370px; /* Further adjust positioning */
-        top: 30px; /* Adjust top position */
-        margin-right: 20px;
-        margin-bottom: 30px;
-    }
-    .d .sie-navigations_1-text {
-        color: rgba(4, 4, 4, 1);
-        text-transform: uppercase;
-        line-height: 2;
-        letter-spacing: 0.1em;
-        font-size: 8px; /* Reduced font size */
-        text-align: center;
-        font-family: 'Montserrat';
-        font-weight: 300;
-        font-style: normal;
-    }
-}
+        /* Large desktops (screen width >= 1367px) */
+        <blade media|%20(min-width%3A%201367px)%20%7B>.d .sie-navigations_1 {
+            left: 380px;
+            /* Default settings for large desktops */
+            top: 30px;
+            width: 150px;
+            height: 27px;
+            margin-left: 10px;
+            margin-bottom: 30px;
+        }
+        }
 
+        /* Laptops (screen widths between 1024px and 1366px) */
+        <blade media|%20(min-width%3A%201024px)%20and%20(max-width%3A%201366px)%20%7B>.d .sie-navigations_1 {
+            left: 370px;
+            /* Further adjust positioning */
+            top: 30px;
+            /* Adjust top position */
+            margin-right: 20px;
+            margin-bottom: 30px;
+        }
 
-/* Tablets and smaller laptops (screen widths between 768px and 1023px) */
-@media (min-width: 768px) and (max-width: 1023px) {
-    .d .sie-navigations_1 {
-         left: 220px; /* Adjust positioning */
-        top: 10px; /* Adjust top position */
-        width: 130px; /* Reduce width */
-        height: 25px; /* Adjust height */
-         margin-left: 10px;
-        margin-bottom: 30px;
-    }
-
-}
-@media screen and (max-width: 425px) {
-   .d .sie-navigations_1 {
-        display: none; /* Hide the entire navbar */
-    }
-}
+        .d .sie-navigations_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.1em;
+            font-size: 8px;
+            /* Reduced font size */
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 300;
+            font-style: normal;
+        }
+        }
 
 
-/* Mobile and smaller tablets (screen widths between 425px and 767px) */
+        /* Tablets and smaller laptops (screen widths between 768px and 1023px) */
+        <blade media|%20(min-width%3A%20768px)%20and%20(max-width%3A%201023px)%20%7B>.d .sie-navigations_1 {
+            left: 220px;
+            /* Adjust positioning */
+            top: 10px;
+            /* Adjust top position */
+            width: 130px;
+            /* Reduce width */
+            height: 25px;
+            /* Adjust height */
+            margin-left: 10px;
+            margin-bottom: 30px;
+        }
 
-.d .sie-navigations_1-text {
-    color: rgba(4, 4, 4, 1);
-    text-transform: uppercase;
-    line-height: 2;
-    letter-spacing: 0.2em;
-    font-size: 13px;
-    text-align: center;
-    font-family: 'Montserrat';
-    font-weight: 300;
-    font-style: normal;
-}
+        }
 
-
-/* Mobile devices (screen width <= 425px) */
-
-
-
-
-
-
-
-/* Large mobile devices (screen widths between 576px and 767px) */
+        <blade media|%20screen%20and%20(max-width%3A%20425px)%20%7B>.d .sie-navigations_1 {
+            display: none;
+            /* Hide the entire navbar */
+        }
+        }
 
 
-/* Small mobile devices (screen widths < 576px) */
-.m .sie-mobiles-nav_13 {
-    left: 32px;
-    top: 110px;
-    width: 239px;
-    height: 23px;
-    margin-left: 10px;
-}
-.m .sie-mobiles-nav_13-text {
-    color: rgba(4, 4, 4, 1);
-    text-transform: uppercase;
-    line-height: 1.4;
-    letter-spacing: 0.2em;
-    font-size: 13px;
-    text-align: left;
-    font-family: 'Montserrat';
-    font-weight: 400;
-    font-style: normal;
-}
+        /* Mobile and smaller tablets (screen widths between 425px and 767px) */
+
+        .d .sie-navigations_1-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 2;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: center;
+            font-family: 'Montserrat';
+            font-weight: 300;
+            font-style: normal;
+        }
+
+
+        /* Mobile devices (screen width <= 425px) */
+
+
+
+
+
+
+
+        /* Large mobile devices (screen widths between 576px and 767px) */
+
+
+        /* Small mobile devices (screen widths < 576px) */
+        .m .sie-mobiles-nav_13 {
+            left: 32px;
+            top: 110px;
+            width: 239px;
+            height: 23px;
+            margin-left: 10px;
+        }
+
+        .m .sie-mobiles-nav_13-text {
+            color: rgba(4, 4, 4, 1);
+            text-transform: uppercase;
+            line-height: 1.4;
+            letter-spacing: 0.2em;
+            font-size: 13px;
+            text-align: left;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            font-style: normal;
+        }
     </style>
 </head>
 
 <body>
 
     <div id="si-sp" class="sp">
-        <div id="announcement-header" data-bid="announcement-header" class="sb sib-announcement-header">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_self"
-                        class="sie-announcement-header_0 se" data-sid="announcement-header_0">
-                        <div class="se-simple"></div>
-                    </a><a href="open-house.html" target="_blank" class="sie-announcement-header_1 se"
-                        data-sid="announcement-header_1">
-                        <h1 class="se-t sie-announcement-header_1-text st-m-subheading st-d-subheading">open
-                            house<br>sunday,
-                            february 2nd 12:00-3:00<br></h1>
-                    </a><a href="https://forms.gle/VXMdyEYTWB2YAF3w5" target="_blank"
-                        class="sie-announcement-header_2 se" data-sid="announcement-header_2">
-                        <h1 class="se-t sie-announcement-header_2-text st-m-subheading st-d-subheading">rsvp&nbsp;</h1>
-                    </a></div>
-            </div>
-        </div>
-        <div id="drop-navigation" data-bid="drop-navigation" class="sb sib-drop-navigation sb-lm sb-ld">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-            <div id="drop-navigation_view-1" class="ss sis-drop-navigation_view-1 sactive">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1_0 se" data-sid="drop-navigation_view-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1_1 se"
-                        data-sid="drop-navigation_view-1_1">
-                        <p class="se-t sie-drop-navigation_view-1_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1_2 se se-stl"
-                        data-sid="drop-navigation_view-1_2" data-scrollto="#drop-navigation"
-                        data-state="drop-navigation|1|0|0">
-                        <p class="se-t sie-drop-navigation_view-1_2-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a><a href="contact/index.html" target="_self" class="sie-drop-navigation_view-1_3 se"
-                        data-sid="drop-navigation_view-1_3">
-                        <p class="se-t sie-drop-navigation_view-1_3-text st-m-paragraph st-d-paragraph">contact<br></p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1_4 se se-pc se-sl"
-                        data-sid="drop-navigation_view-1_4" data-scrollto="#mobile-nav">
-                        <h3 class="se-t sie-drop-navigation_view-1_4-text st-m-subheading st-d-subheading">MENU</h3>
-                    </a><a href="index.html" target="_self" class="sie-drop-navigation_view-1_5 se se-pc"
-                        data-sid="drop-navigation_view-1_5">
-                        <div style="width:100%;height:100%" data-img="drop-navigation_view-1_5"
-                            class="se-img se-gr slzy"></div>
-                        <noscript><img
-                                src="../static.showit.co/400/KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png"
-                                class="se-img" alt=""
-                                title="Kendall-Point-Square-Logo-No-Tag-White" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-drop-navigation_view-1_6 se"
-                        data-sid="drop-navigation_view-1_6">
-                        <p class="se-t sie-drop-navigation_view-1_6-text st-m-paragraph st-d-paragraph">Book A Tour<br>
-                        </p>
-                    </a></div>
-            </div>
-            <div id="drop-navigation_view-1-1" class="ss sis-drop-navigation_view-1-1">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1-1_0 se" data-sid="drop-navigation_view-1-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1-1_1 se"
-                        data-sid="drop-navigation_view-1-1_1">
-                        <p class="se-t sie-drop-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="gallery.html" target="_self" class="sie-drop-navigation_view-1-1_2 se"
-                        data-sid="drop-navigation_view-1-1_2">
-                        <p class="se-t sie-drop-navigation_view-1-1_2-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a><a href="contact/index.html" target="_self" class="sie-drop-navigation_view-1-1_3 se"
-                        data-sid="drop-navigation_view-1-1_3">
-                        <p class="se-t sie-drop-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">contact<br>
-                        </p>
-                    </a><a href="#/" target="_self" class="sie-drop-navigation_view-1-1_4 se se-pc se-sl"
-                        data-sid="drop-navigation_view-1-1_4" data-scrollto="#mobile-nav">
-                        <h3 class="se-t sie-drop-navigation_view-1-1_4-text st-m-subheading st-d-subheading">MENU</h3>
-                    </a><a href="index.html" target="_self" class="sie-drop-navigation_view-1-1_5 se se-pc"
-                        data-sid="drop-navigation_view-1-1_5">
-                        <div style="width:100%;height:100%" data-img="drop-navigation_view-1-1_5"
-                            class="se-img se-gr slzy"></div>
-                        <noscript><img
-                                src="../static.showit.co/400/KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png"
-                                class="se-img" alt=""
-                                title="Kendall-Point-Square-Logo-No-Tag-White" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-drop-navigation_view-1-1_6 se" data-sid="drop-navigation_view-1-1_6">
-                        <p class="se-t sie-drop-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">Book A
-                            Tour<br></p>
-                    </a>
-                    <div data-sid="drop-navigation_view-1-1_7" class="sie-drop-navigation_view-1-1_7 se">
-                        <div class="se-simple"></div>
-                    </div><a href="the-venue-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_8 se"
-                        data-sid="drop-navigation_view-1-1_8">
-                        <p class="se-t sie-drop-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="ceremonies-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_9 se"
-                        data-sid="drop-navigation_view-1-1_9">
-                        <p class="se-t sie-drop-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Ceremonies
-                        </p>
-                    </a><a href="receptions-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_10 se"
-                        data-sid="drop-navigation_view-1-1_10">
-                        <p class="se-t sie-drop-navigation_view-1-1_10-text st-m-paragraph st-d-paragraph">Receptions
-                        </p>
-                    </a><a href="portraits-gallery.html" target="_self" class="sie-drop-navigation_view-1-1_11 se"
-                        data-sid="drop-navigation_view-1-1_11">
-                        <p class="se-t sie-drop-navigation_view-1-1_11-text st-m-paragraph st-d-paragraph">portraits
-                        </p>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div id="header" data-bid="header" class="sb sib-header sb-ps">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-        </div>
-         <div id="mobile-nav" data-bid="mobile-nav" class="sb sib-mobile-nav sb-lm">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div data-sid="mobile-nav_0" class="sie-mobile-nav_0 se se-pc">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256" />
-                            </svg></div>
-                    </div>
-                    <div data-sid="mobile-nav_1" class="sie-mobile-nav_1 se">
-                        <div class="se-t sie-mobile-nav_1-text st-m-paragraph st-d-title se-rc">navigate&nbsp;</div>
-                    </div><a href="http://tiktok.com/@texasweddingvenue" target="_blank" class="sie-mobile-nav_2 se"
-                        data-sid="mobile-nav_2">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M433.29,150.28c-13.21-1.22-34.28-5.4-52.61-20.21a164.93,164.93,0,0,1-27.47-32.68l-.64-1-.62-1-.14-.21c-.69-1.12-1.35-2.23-2-3.32-2.62-4.5-4.75-8.68-5.29-9.73-1.91-3.82-3.48-7.31-4.76-10.37-.34-.93-.67-1.89-1-2.92A54.43,54.43,0,0,1,336.56,53l-70.32.4.84,277.68c0,14.9-12.19,40-34.61,50.87-16.22,7.88-38.32,7.19-50.67.72l-.09-.05-.06,0,0,0a74,74,0,0,1-8.89-5.62,62.36,62.36,0,0,1-9.41-8.8c-3.5-4-10.71-12.57-13.11-25.7-1.89-10.33.28-18.48,1.34-23.35.85-3.87,5.85-24.89,26.59-37.94,21.7-13.65,43.91-8.06,47.54-7.08.28-17.86,1.05-64.79,1.15-70.41-10.74-1.81-46-6.37-82.41,14-39.25,21.89-53.34,57.85-57.12,68a131,131,0,0,0-8.2,49.21,122.67,122.67,0,0,0,37.24,86.72,148.78,148.78,0,0,0,21,16.79q2.58,2,5.41,3.72a69.53,69.53,0,0,0,14.59,6.79c5.4,2.32,62.76,25.78,118.78-8.39,56.58-34.5,61.55-97.13,61.9-102.79V189.44A150.19,150.19,0,0,0,434.54,220C434.43,213.39,433.64,166.92,433.29,150.28Z" />
-                            </svg></div>
-                    </a><a href="https://www.instagram.com/kendallpointvenue/" target="_self"
-                        class="sie-mobile-nav_3 se" data-sid="mobile-nav_3">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M338,54.63H174c-62.72,0-114,51.32-114,114V343.33c0,62.72,51.32,114,114,114H338c62.72,0,114-51.32,114-114V168.67C452,105.94,400.68,54.63,338,54.63Zm83.91,288.71A84.24,84.24,0,0,1,338,427.24H174a84.24,84.24,0,0,1-83.91-83.91V168.67A84.24,84.24,0,0,1,174,84.76H338a84.24,84.24,0,0,1,83.91,83.91Z" />
-                                <path
-                                    d="M255.77,148.18A107.94,107.94,0,1,0,363.71,256.13,107.94,107.94,0,0,0,255.77,148.18Zm-.52,178.71a70.68,70.68,0,1,1,70.68-70.68A70.68,70.68,0,0,1,255.25,326.9Z" />
-                                <circle cx="365.44" cy="146.5" r="25.56" />
-                            </svg></div>
-                    </a><a href="https://www.facebook.com/kendallpointvenue" target="_blank"
-                        class="sie-mobile-nav_4 se" data-sid="mobile-nav_4">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64h-64z" />
-                            </svg></div>
-                    </a><a href="https://www.pinterest.com/kendallpointvenue/_created/" target="_blank"
-                        class="sie-mobile-nav_5 se" data-sid="mobile-nav_5">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M256 32C132.3 32 32 132.3 32 256c0 91.7 55.2 170.5 134.1 205.2-.6-15.6-.1-34.4 3.9-51.4 4.3-18.2 28.8-122.1 28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2 19.2-58 43.2-58 20.4 0 30.2 15.3 30.2 33.6 0 20.5-13.1 51.1-19.8 79.5-5.6 23.8 11.9 43.1 35.4 43.1 42.4 0 71-54.5 71-119.1 0-49.1-33.1-85.8-93.2-85.8-67.9 0-110.3 50.7-110.3 107.3 0 19.5 5.8 33.3 14.8 43.9 4.1 4.9 4.7 6.9 3.2 12.5-1.1 4.1-3.5 14-4.6 18-1.5 5.7-6.1 7.7-11.2 5.6-31.3-12.8-45.9-47-45.9-85.6 0-63.6 53.7-139.9 160.1-139.9 85.5 0 141.8 61.9 141.8 128.3 0 87.9-48.9 153.5-120.9 153.5-24.2 0-46.9-13.1-54.7-27.9 0 0-13 51.6-15.8 61.6-4.7 17.3-14 34.5-22.5 48 20.1 5.9 41.4 9.2 63.5 9.2 123.7 0 224-100.3 224-224C480 132.3 379.7 32 256 32z" />
-                            </svg></div>
-                    </a>
-                    <div data-sid="mobile-nav_6" class="sie-mobile-nav_6 se">
-                        <div class="se-t sie-mobile-nav_6-text st-m-paragraph st-d-title se-rc">Social stalk us!</div>
-                    </div><a href="about.html" target="_self" class="sie-mobile-nav_7 se" data-sid="mobile-nav_7">
-                        <p class="se-t sie-mobile-nav_7-text st-m-paragraph st-d-paragraph">about us<br></p>
-                    </a><a href="#/" target="_self" class="sie-mobile-nav_8 se" data-sid="mobile-nav_8">
-                        <p class="se-t sie-mobile-nav_8-text st-m-paragraph st-d-paragraph">Amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-mobile-nav_9 se" data-sid="mobile-nav_9">
-                        <p class="se-t sie-mobile-nav_9-text st-m-paragraph st-d-paragraph">gallery</p>
-                    </a><a href="contact.html" target="_self" class="sie-mobile-nav_10 se" data-sid="mobile-nav_10">
-                        <p class="se-t sie-mobile-nav_10-text st-m-paragraph st-d-paragraph">Contact</p>
-                    </a><a href="reviews.html" target="_self" class="sie-mobile-nav_11 se"
-                        data-sid="mobile-nav_11">
-                        <p class="se-t sie-mobile-nav_11-text st-m-paragraph st-d-paragraph">Reviews</p>
-                    </a><a href="vendors.html" target="_self" class="sie-mobile-nav_13 se"
-                        data-sid="mobile-nav_13">
-                        <p class="se-t sie-mobile-nav_13-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-mobile-nav_14 se"
-                        data-sid="mobile-nav_14">
-                        <p class="se-t sie-mobile-nav_14-text st-m-paragraph st-d-paragraph">PRICING</p>
-                    </a>
-                </div>
-            </div>
-        </div>
 
-        <div id="navigation" data-bid="navigation" class="sb sib-navigation sb-lm">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div data-sid="navigation_0" class="sie-navigation_0 se">
-                        <p class="se-t sie-navigation_0-text st-m-paragraph st-d-paragraph se-rc"></p>
-                    </div>
-                     <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
-                     data-sid="navigation_1">
-                     <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
-                 </a><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
-                        data-sid="navigation_1">
-                        <p class="se-t sie-navigation_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_2 se"
-                        data-sid="navigation_2">
-                        <p class="se-t sie-navigation_2-text st-m-paragraph st-d-paragraph">contact us<br></p>
-                    </a>
-                    <div data-sid="navigation_3" class="sie-navigation_3 se se-pc">
-                        <h3 class="se-t sie-navigation_3-text st-m-subheading st-d-subheading se-rc">MENU</h3>
-                    </div>
-                </div>
-            </div>
-            <div id="navigation_view-1" class="ss sis-navigation_view-1 sactive">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-navigation_view-1_0 se" data-sid="navigation_view-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
-                        data-sid="navigation_view-1_1">
-                        <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1_2 se"
-                        data-sid="navigation_view-1_2">
-                        <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
-                        </div>
-                        <noscript><img
-                                src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
-                                class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
-                        data-sid="navigation_view-1_3">
-                        <p class="se-t sie-navigation_view-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br></p>
-                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1_4 se se-stl"
-                        data-sid="navigation_view-1_4" data-scrollto="#navigation" data-state="navigation|1|0|0">
-                        <p class="se-t sie-navigation_view-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a></div>
-            </div>
-            <div id="navigation_view-1-1" class="ss sis-navigation_view-1-1">
-                <div class="sc"><a href="contact-book-your-tour.html" target="_self"
-                        class="sie-navigation_view-1-1_0 se" data-sid="navigation_view-1-1_0">
-                        <div class="se-simple"></div>
-                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1-1_1 se"
-                        data-sid="navigation_view-1-1_1">
-                        <p class="se-t sie-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1-1_2 se"
-                        data-sid="navigation_view-1-1_2">
-                        <div style="width:100%;height:100%" data-img="navigation_view-1-1_2"
-                            class="se-img se-gr slzy"></div>
-                        <noscript><img
-                                src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
-                                class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1-1_3 se"
-                        data-sid="navigation_view-1-1_3">
-                        <p class="se-t sie-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br>
-                        </p>
-                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1-1_4 se"
-                        data-sid="navigation_view-1-1_4">
-                        <p class="se-t sie-navigation_view-1-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
-                    </a>
-                    <div data-sid="navigation_view-1-1_5" class="sie-navigation_view-1-1_5 se">
-                        <div class="se-simple"></div>
-                    </div><a href="{{ route('venuegallery') }}" target="_self" class="sie-navigation_view-1-1_6 se"
-                        data-sid="navigation_view-1-1_6">
-                        <p class="se-t sie-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="{{ route('ceremonygallery') }}" target="_self" class="sie-navigation_view-1-1_7 se"
-                        data-sid="navigation_view-1-1_7">
-                        <p class="se-t sie-navigation_view-1-1_7-text st-m-paragraph st-d-paragraph">Ceremonies</p>
-                    </a><a href="{{ route('receptiongallery') }}" target="_self"
-                        class="sie-navigation_view-1-1_8 se" data-sid="navigation_view-1-1_8">
-                        <p class="se-t sie-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">Receptions</p>
-                    </a><a href="{{ route('portraitgallery') }}" target="_self" class="sie-navigation_view-1-1_9 se"
-                        data-sid="navigation_view-1-1_9">
-                        <p class="se-t sie-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Portraits</p>
-                    </a>
-                </div>
-            </div>
-            <div id="navigation_view-2" class="ss sis-navigation_view-2">
-                <div class="sc"><a href="#/" target="_self" class="sie-navigation_view-2_0 se se-stl"
-                        data-sid="navigation_view-2_0" data-scrollto="#navigation" data-state="navigation|0|0|0">
-                        <p class="se-t sie-navigation_view-2_0-text st-m-paragraph st-d-paragraph">About</p>
-                    </a>
-                    <div data-sid="navigation_view-2_1" class="sie-navigation_view-2_1 se">
-                        <div class="se-simple"></div>
-                    </div><a href="san-antonio-wedding-venue.html" target="_self" class="sie-navigation_view-2_2 se"
-                        data-sid="navigation_view-2_2">
-                        <p class="se-t sie-navigation_view-2_2-text st-m-paragraph st-d-paragraph">San Antonio Wedding
-                            Venue</p>
-                    </a><a href="about.html" target="_self" class="sie-navigation_view-2_3 se"
-                        data-sid="navigation_view-2_3">
-                        <p class="se-t sie-navigation_view-2_3-text st-m-paragraph st-d-paragraph">About Us</p>
-                    </a>
-                </div>
-            </div>
-        </div>
-         <div id="social-stalk-us" data-bid="social-stalk-us" class="sb sib-social-stalk-us sb-lm sb-ld">
+      @include('partials.updatedheader')
+        <div id="social-stalk-us" data-bid="social-stalk-us" class="sb sib-social-stalk-us sb-lm sb-ld">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
                     <div data-sid="social-stalk-us_0" class="sie-social-stalk-us_0 se">
@@ -3479,7 +6533,8 @@
                             elegant wedding
                             with timeless appeal and picturesque scenery, Kendall Point is the place to say “I Do.” Set
                             atop a hill,
-                            offering <a href="{{ route('gallery') }}" target="_self">breathtaking views of Texas Hill
+                            offering <a href="{{ route('gallery') }}" target="_self">breathtaking
+                                views of Texas Hill
                                 Country</a> and a cool
                             breeze year-round, Kendall Point highlights some of the most desirable features for today’s
                             bride.<br><br>Celebrate your nuptials in unforgettable elegance with an outdoor ceremony on
@@ -3488,7 +6543,8 @@
                             it overlooks a
                             natural spring pond.<br><br>Whether you are planning a gorgeous daytime wedding or a
                             spectacular nighttime
-                            event, we want to <a href="{{ route('book') }}" target="_self">make your wedding
+                            event, we want to <a href="{{ route('book') }}" target="_self">make your
+                                wedding
                                 vision come
                                 true</a>!&nbsp;<br><br><br><br><br><br><br></p>
                     </div>
@@ -3508,7 +6564,7 @@
                     <div data-sid="cta-amenities_0" class="sie-cta-amenities_0 se">
                         <h3 class="se-t sie-cta-amenities_0-text st-m-heading st-d-heading se-rc">Ready to take the
                             next step?</h3>
-                    </div><a href="contact-book-your-tour.html" target="_self" class="sie-cta-amenities_1 se"
+                    </div><a href="{{ route('book') }}" target="_self" class="sie-cta-amenities_1 se"
                         data-sid="cta-amenities_1">
                         <div class="se-simple"></div>
                     </a><a href="{{ route('book') }}" target="_self" class="sie-cta-amenities_2 se"
@@ -3916,17 +6972,22 @@
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se"
+                        data-sid="footer_15">
                         <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="#/" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se"
+                        data-sid="footer_16">
                         <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se"
+                        data-sid="footer_17">
                         <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se"
+                        data-sid="footer_18">
                         <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se"
+                        data-sid="footer_19">
                         <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
                         <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
@@ -3936,7 +6997,8 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se"
+                        data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
                 </div>
@@ -3953,7 +7015,6 @@
             </div>
         </div>
     </div>
-
     <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/-mn0Hiagf -->
 </body>
 

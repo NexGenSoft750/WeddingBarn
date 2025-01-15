@@ -3220,17 +3220,17 @@
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se" data-sid="footer_15">
                         <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se" data-sid="footer_16">
                         <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="#/" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se" data-sid="footer_17">
                         <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se" data-sid="footer_18">
                         <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se" data-sid="footer_19">
                         <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
                         <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
@@ -3240,7 +3240,7 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se" data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
                 </div>
@@ -3287,19 +3287,19 @@
                     </a>
                     <div data-sid="mobile-nav_6" class="sie-mobile-nav_6 se">
                         <div class="se-t sie-mobile-nav_6-text st-m-paragraph st-d-title se-rc">Social stalk us!</div>
-                    </div><a href="about.html" target="_self" class="sie-mobile-nav_7 se" data-sid="mobile-nav_7">
+                    </div><a href="{{ route('about') }}" target="_self" class="sie-mobile-nav_7 se" data-sid="mobile-nav_7">
                         <p class="se-t sie-mobile-nav_7-text st-m-paragraph st-d-paragraph">about us<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-mobile-nav_8 se" data-sid="mobile-nav_8">
+                    </a><a href="{{ route('amenities') }}" target="_self" class="sie-mobile-nav_8 se" data-sid="mobile-nav_8">
                         <p class="se-t sie-mobile-nav_8-text st-m-paragraph st-d-paragraph">Amenities<br></p>
-                    </a><a href="#/" target="_self" class="sie-mobile-nav_9 se" data-sid="mobile-nav_9">
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-mobile-nav_9 se" data-sid="mobile-nav_9">
                         <p class="se-t sie-mobile-nav_9-text st-m-paragraph st-d-paragraph">gallery</p>
-                    </a><a href="contact.html" target="_self" class="sie-mobile-nav_10 se" data-sid="mobile-nav_10">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-mobile-nav_10 se" data-sid="mobile-nav_10">
                         <p class="se-t sie-mobile-nav_10-text st-m-paragraph st-d-paragraph">Contact</p>
-                    </a><a href="reviews.html" target="_self" class="sie-mobile-nav_11 se" data-sid="mobile-nav_11">
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-mobile-nav_11 se" data-sid="mobile-nav_11">
                         <p class="se-t sie-mobile-nav_11-text st-m-paragraph st-d-paragraph">Reviews</p>
-                    </a><a href="vendors.html" target="_self" class="sie-mobile-nav_13 se" data-sid="mobile-nav_13">
+                    </a><a href="{{ route('vendor') }}" target="_self" class="sie-mobile-nav_13 se" data-sid="mobile-nav_13">
                         <p class="se-t sie-mobile-nav_13-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-mobile-nav_14 se"
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-mobile-nav_14 se"
                         data-sid="mobile-nav_14">
                         <p class="se-t sie-mobile-nav_14-text st-m-paragraph st-d-paragraph">PRICING</p>
                     </a>
@@ -3308,7 +3308,7 @@
         </div>
         <div id="contact-sticky" data-bid="contact-sticky" class="sb sib-contact-sticky sb-lm">
             <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"><a href="contact-book-your-tour.html" target="_self"
+                <div class="sc" style="width:1200px"><a href="{{ route('book') }}" target="_self"
                         class="sie-contact-sticky_0 se" data-sid="contact-sticky_0">
                         <h2 class="se-t sie-contact-sticky_0-text st-m-subheading st-d-subheading">Book Your Tour<br>
                         </h2>

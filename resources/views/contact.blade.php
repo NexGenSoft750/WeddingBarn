@@ -140,7 +140,7 @@
             <div class="testimonial">
                 "This venue made for the best wedding<br> I could have dreamed of!"<br>Nicolette C.
             </div>
-            <a href="#" class="read-more" onclick="window.location.href='{{ route('review') }}';">
+            <a href="{{ route('review') }}" class="read-more" onclick="window.location.href='{{ route('review') }}';">
                 READ MORE REVIEWS
             </a>
         </div>
@@ -168,13 +168,13 @@
                 <!-- Left Column -->
                 <div class="col-md-4">
                     <ul class="footer-link list-unstyled">
-                        <li><a href="#">ABOUT</a></li>
-                        <li><a href="#">AMENITIES</a></li>
-                        <li><a href="#">GALLERY</a></li>
-                        <li><a href="#">PRICING</a></li>
-                        <li><a href="#">VENDORS</a></li>
-                        <li><a href="#">CONTACT US</a></li>
-                        <li><a href="#">BLOG</a></li>
+                        <li><a href="{{ route('about') }}">ABOUT</a></li>
+                        <li><a href="{{ route('amenities') }}">AMENITIES</a></li>
+                        <li><a href="{{ route('gallery') }}">GALLERY</a></li>
+                        <li><a href="{{ route('price') }}">PRICING</a></li>
+                        <li><a href="{{ route('vendor') }}">VENDORS</a></li>
+                        <li><a href="{{ route('contact') }}">CONTACT US</a></li>
+                        <li><a href="{{ route('blog') }}">BLOG</a></li>
                         <li><a href="#">RESOURCES</a></li>
 
                     </ul>

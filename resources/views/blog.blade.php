@@ -4550,19 +4550,19 @@
                 <div class="sc"><a href="/contact-book-your-tour" target="_self"
                         class="sie-navigation_view-1_0 se" data-sid="navigation_view-1_0">
                         <div class="se-simple"></div>
-                    </a><a href="/reviews" target="_self" class="sie-navigation_view-1_1 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
                         data-sid="navigation_view-1_1">
                         <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="/" target="_self" class="sie-navigation_view-1_2 se"
+                    </a><a href="{{ route('home') }}" target="_self" class="sie-navigation_view-1_2 se"
                         data-sid="navigation_view-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
                         </div><noscript><img
                                 src="//static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
                                 class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="/contact-book-your-tour" target="_self" class="sie-navigation_view-1_3 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
                         data-sid="navigation_view-1_3">
                         <p class="se-t sie-navigation_view-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br></p>
-                    </a><a href="#/" target="_self" class="sie-navigation_view-1_4 se se-stl"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1_4 se se-stl"
                         data-sid="navigation_view-1_4" data-scrollto="#navigation" data-state="navigation|1|0|0">
                         <p class="se-t sie-navigation_view-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
                     </a></div>
@@ -4571,35 +4571,35 @@
                 <div class="sc"><a href="/contact-book-your-tour" target="_self"
                         class="sie-navigation_view-1-1_0 se" data-sid="navigation_view-1-1_0">
                         <div class="se-simple"></div>
-                    </a><a href="/reviews" target="_self" class="sie-navigation_view-1-1_1 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1-1_1 se"
                         data-sid="navigation_view-1-1_1">
                         <p class="se-t sie-navigation_view-1-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="/" target="_self" class="sie-navigation_view-1-1_2 se"
+                    </a><a href="{{ route('home') }}" target="_self" class="sie-navigation_view-1-1_2 se"
                         data-sid="navigation_view-1-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1-1_2"
                             class="se-img se-gr slzy"></div><noscript><img
                                 src="//static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
                                 class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="/contact-book-your-tour" target="_self" class="sie-navigation_view-1-1_3 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1-1_3 se"
                         data-sid="navigation_view-1-1_3">
                         <p class="se-t sie-navigation_view-1-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br>
                         </p>
-                    </a><a href="/gallery" target="_self" class="sie-navigation_view-1-1_4 se"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1-1_4 se"
                         data-sid="navigation_view-1-1_4">
                         <p class="se-t sie-navigation_view-1-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
                     </a>
                     <div data-sid="navigation_view-1-1_5" class="sie-navigation_view-1-1_5 se">
                         <div class="se-simple"></div>
-                    </div><a href="/the-venue-gallery" target="_self" class="sie-navigation_view-1-1_6 se"
+                    </div><a href="{{ route('venuegallery') }}" target="_self" class="sie-navigation_view-1-1_6 se"
                         data-sid="navigation_view-1-1_6">
                         <p class="se-t sie-navigation_view-1-1_6-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="/ceremonies-gallery" target="_self" class="sie-navigation_view-1-1_7 se"
+                    </a><a href="{{ route('ceremonygallery') }}" target="_self" class="sie-navigation_view-1-1_7 se"
                         data-sid="navigation_view-1-1_7">
                         <p class="se-t sie-navigation_view-1-1_7-text st-m-paragraph st-d-paragraph">Ceremonies</p>
-                    </a><a href="/receptions-gallery" target="_self" class="sie-navigation_view-1-1_8 se"
+                    </a><a href="{{ route('receptiongallery') }}" target="_self" class="sie-navigation_view-1-1_8 se"
                         data-sid="navigation_view-1-1_8">
                         <p class="se-t sie-navigation_view-1-1_8-text st-m-paragraph st-d-paragraph">Receptions</p>
-                    </a><a href="/portraits-gallery" target="_self" class="sie-navigation_view-1-1_9 se"
+                    </a><a href="{{ route('portraitgallery') }}" target="_self" class="sie-navigation_view-1-1_9 se"
                         data-sid="navigation_view-1-1_9">
                         <p class="se-t sie-navigation_view-1-1_9-text st-m-paragraph st-d-paragraph">Portraits</p>
                     </a>

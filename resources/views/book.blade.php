@@ -3636,7 +3636,7 @@
                     </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
                         data-sid="navigation_view-1_1">
                         <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="#/" target="_self" class="sie-navigation_view-1_2 se"
+                    </a><a href="{{ route('home') }}" target="_self" class="sie-navigation_view-1_2 se"
                         data-sid="navigation_view-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
                         </div><noscript><img
@@ -4535,12 +4535,12 @@
                         target="_blank" class="sie-book-your-tour-1_2 se" data-sid="book-your-tour-1_2">
                         <div class="se-simple"></div>
                     </a><a
-                        href="https://clients.kendallpoint.com/public/appointment-scheduler/6643bd2225567c2e716940e7/schedule"
+                        href="{{ route('inpersontour') }}"
                         target="_blank" class="sie-book-your-tour-1_3 se" data-sid="book-your-tour-1_3">
                         <h3 class="se-t sie-book-your-tour-1_3-text st-m-subheading st-d-subheading">schedule Your
                             In-person Tour</h3>
                     </a><a
-                        href="https://clients.kendallpoint.com/public/appointment-scheduler/6643bc519b78d42fbd52e89e/schedule"
+                        href="{{ route('virtualtour') }}"
                         target="_blank" class="sie-book-your-tour-1_4 se" data-sid="book-your-tour-1_4">
                         <h3 class="se-t sie-book-your-tour-1_4-text st-m-subheading st-d-subheading">schedule your
                             virtual tour</h3>
@@ -4676,18 +4676,18 @@
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
-                        <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
-                        <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
-                        <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
-                        <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
-                        <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
-                        <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
+                    </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
+                </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
+                </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
+                </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
+                </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
+                </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
                     </a><a href="resources.html" target="_self" class="sie-footer_22 se" data-sid="footer_22">
@@ -4696,7 +4696,7 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se"
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se"
                         data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>

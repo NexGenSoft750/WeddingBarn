@@ -44,9 +44,24 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('amenities') }}">THE VENUE</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ route('gallery') }}">GALLERY</a>
-                    </li>
+                   <li class="nav-item dropdown">
+    <a
+        class="nav-link dropdown-toggle"
+        href="{{ route('gallery') }}"
+        id="galleryDropdown"
+        role="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        GALLERY
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
+        <li><a class="dropdown-item" href="{{ route('venuegallery') }}">The Venue</a></li>
+        <li><a class="dropdown-item" href="{{ route('ceremonygallery') }}">Ceremonies</a></li>
+        <li><a class="dropdown-item" href="{{ route('receptiongallery') }}">Receptions</a></li>
+        <li><a class="dropdown-item" href="{{ route('portraitgallery') }}">Portraits</a></li>
+    </ul>
+</li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('review') }}">REVIEWS</a>
                     </li>

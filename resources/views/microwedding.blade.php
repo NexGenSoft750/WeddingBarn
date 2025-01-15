@@ -343,7 +343,7 @@
                             </p>
                         </div>
                         <div class="button-container text-center">
-                            <a href="#" class="btn btn-secondary mt-2">Book Your Tour</a>
+                            <a href="{{route('book')}}" class="btn btn-secondary mt-2">Book Your Tour</a>
                         </div>
 
                         <!-- Image Example -->
@@ -370,7 +370,7 @@
 
                     <!-- Button to Book a Tour -->
                     <div class="button-container">
-                        <a href="#" class="btn btn-secondary">Book A Tour</a>
+                        <a href="{{route('book')}}" class="btn btn-secondary">Book A Tour</a>
                     </div>
                 </div>
             </div>
@@ -401,10 +401,10 @@
                 <div class="right-column">
                     <p>Find your way around:</p>
                     <ul>
-                        <li><a href="#">About</a></li>
+                        <li><a href="{{route('about')}}">About</a></li>
                         <li><a href="#">Weddings</a></li>
-                        <li><a href="#">Micro Weddings</a></li>
-                        <li><a href="#">Galleries</a></li>
+                        <li><a href="{{route('microwedding')}}">Micro Weddings</a></li>
+                        <li><a href="{{route('gallery')}}">Galleries</a></li>
                     </ul>
 
                     <hr>

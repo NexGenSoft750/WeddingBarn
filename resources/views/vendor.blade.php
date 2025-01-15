@@ -6495,10 +6495,10 @@
                      <a href="{{ route('microwedding') }}" target="_self" class="sie-navigations_1 se"
                      data-sid="navigation_1">
                      <p class="se-t sie-navigations_1-text st-m-paragraph st-d-paragraph">Micro Wedding</p>
-                 </a><a href="amenities.html" target="_self" class="sie-navigation_1 se"
+                 </a><a href="{{ route('amenities') }}" target="_self" class="sie-navigation_1 se"
                         data-sid="navigation_1">
                         <p class="se-t sie-navigation_1-text st-m-paragraph st-d-paragraph">The Venue</p>
-                    </a><a href="contact.html" target="_self" class="sie-navigation_2 se" data-sid="navigation_2">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-navigation_2 se" data-sid="navigation_2">
                         <p class="se-t sie-navigation_2-text st-m-paragraph st-d-paragraph">contact us<br></p>
                     </a>
                     <div data-sid="navigation_3" class="sie-navigation_3 se se-pc">
@@ -6510,19 +6510,19 @@
                 <div class="sc"><a href="contact-book-your-tour.html" target="_self"
                         class="sie-navigation_view-1_0 se" data-sid="navigation_view-1_0">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-navigation_view-1_1 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-navigation_view-1_1 se"
                         data-sid="navigation_view-1_1">
                         <p class="se-t sie-navigation_view-1_1-text st-m-paragraph st-d-paragraph">Reviews<br></p>
-                    </a><a href="index.html" target="_self" class="sie-navigation_view-1_2 se"
+                    </a><a href="{{ route('home') }}" target="_self" class="sie-navigation_view-1_2 se"
                         data-sid="navigation_view-1_2">
                         <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
                         </div><noscript><img
                                 src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
                                 class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-navigation_view-1_3 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
                         data-sid="navigation_view-1_3">
                         <p class="se-t sie-navigation_view-1_3-text st-m-paragraph st-d-paragraph">Book A Tour<br></p>
-                    </a><a href="#/" target="_self" class="sie-navigation_view-1_4 se se-stl"
+                    </a><a href="{{ route('gallery') }}" target="_self" class="sie-navigation_view-1_4 se se-stl"
                         data-sid="navigation_view-1_4" data-scrollto="#navigation" data-state="navigation|1|0|0">
                         <p class="se-t sie-navigation_view-1_4-text st-m-paragraph st-d-paragraph">Gallery</p>
                     </a></div>
@@ -6914,10 +6914,10 @@
                     <div data-sid="cta-vendors_0" class="sie-cta-vendors_0 se">
                         <h3 class="se-t sie-cta-vendors_0-text st-m-heading st-d-heading se-rc">Found what you're
                             looking for?</h3>
-                    </div><a href="contact.html" target="_self" class="sie-cta-vendors_1 se"
+                    </div><a href="{{ route('contact') }}" target="_self" class="sie-cta-vendors_1 se"
                         data-sid="cta-vendors_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact.html" target="_self" class="sie-cta-vendors_2 se" data-sid="cta-vendors_2">
+                    </a><a href="{{ route('contact') }}" target="_self" class="sie-cta-vendors_2 se" data-sid="cta-vendors_2">
                         <h3 class="se-t sie-cta-vendors_2-text st-m-subheading st-d-subheading">Let's Plan Your Dream
                             Wedding!</h3>
                     </a>
@@ -7268,10 +7268,10 @@
                     <div data-sid="book-tour_0" class="sie-book-tour_0 se">
                         <h3 class="se-t sie-book-tour_0-text st-m-heading st-d-heading se-rc">Ready to book a tour?
                             Let's get you on the calendar!</h3>
-                    </div><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_1 se"
+                    </div><a href="{{ route('book') }}" target="_self" class="sie-book-tour_1 se"
                         data-sid="book-tour_1">
                         <div class="se-simple"></div>
-                    </a><a href="contact-book-your-tour.html" target="_self" class="sie-book-tour_2 se"
+                    </a><a href="{{ route('book') }}" target="_self" class="sie-book-tour_2 se"
                         data-sid="book-tour_2">
                         <h3 class="se-t sie-book-tour_2-text st-m-subheading st-d-subheading">Book your tour</h3>
                     </a>
@@ -7285,10 +7285,10 @@
                     <div data-sid="testimonials_0" class="sie-testimonials_0 se">
                         <h2 class="se-t sie-testimonials_0-text st-m-heading st-d-title se-rc"><b>"This venue made for
                                 the best wedding<br></b>I could have dreamed of!"<br></h2>
-                    </div><a href="reviews.html" target="_self" class="sie-testimonials_1 se"
+                    </div><a href="{{ route('review') }}" target="_self" class="sie-testimonials_1 se"
                         data-sid="testimonials_1">
                         <div class="se-simple"></div>
-                    </a><a href="reviews.html" target="_self" class="sie-testimonials_2 se"
+                    </a><a href="{{ route('review') }}" target="_self" class="sie-testimonials_2 se"
                         data-sid="testimonials_2">
                         <h3 class="se-t sie-testimonials_2-text st-m-subheading st-d-subheading">Read more reviews
                         </h3>
@@ -7405,18 +7405,18 @@
                         data-sid="footer_14">
                         <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                             kristin@kendallpoint.com<br><br></p>
-                    </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
-                        <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-                    </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
-                        <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-                    </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
-                        <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-                    </a><a href="#/" target="_self" class="sie-footer_18 se" data-sid="footer_18">
-                        <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-                    </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
-                        <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-                    </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
-                        <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
+                   </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+                    <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
+                </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+                    <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
+                </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+                    <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
+                </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+                    <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
+                </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+                    <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
+                </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+                    <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
                     </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                         <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
                     </a><a href="resources.html" target="_self" class="sie-footer_22 se" data-sid="footer_22">
@@ -7425,7 +7425,7 @@
                         data-sid="footer_23">
                         <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
                         </p>
-                    </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se"
+                    </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se"
                         data-sid="footer_24">
                         <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
                     </a>
