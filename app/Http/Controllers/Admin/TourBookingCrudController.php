@@ -36,7 +36,10 @@ class TourBookingCrudController extends CrudController
      */
     protected function setupListOperation()
     {
-        CRUD::setFromDb(); // set columns from db columns.
+        CRUD::setFromDb(); // Set columns from db columns.
+
+        // Manually format the 'tour_time' column to display AM/PM
+
     }
 
     /**

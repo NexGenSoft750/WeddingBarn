@@ -39,7 +39,7 @@
         <div class="tab-content" id="myTabContent">
             <!-- Availability Tab Content -->
             <div class="tab-pane fade show active" id="availability" role="tabpanel" aria-labelledby="availability-tab">
-                <div class="content-container">
+                <div class="content-container" data-tour-type="in_person">
                     <div class="left-column">
                         <h3>1st Step Venue Tour - Virtual
                         </h3>
@@ -82,6 +82,7 @@
                         @csrf
                         <input type="hidden" id="selectedDate" name="tour_date">
                         <input type="hidden" id="selectedTime" name="tour_time">
+                        <input type="hidden" id="tourType" name="tour_type">
                         <div class="form-group">
                             <label for="firstName">First Name</label>
                             <input type="text" class="form-control" id="firstName" name="first_name"
@@ -181,6 +182,22 @@
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Automatically determine and set the tour type
+            const activeContainer = document.querySelector(
+                '.content-container'); // Assuming only one container is relevant
+            const tourType = activeContainer.getAttribute('data-tour-type');
+
+            // Set the value in the hidden input
+            const tourTypeInput = document.getElementById('tourType');
+            tourTypeInput.value = tourType;
+            console.log("Tour Type Automatically Set:", tourType);
+        });
+
+
+
+
+
         let selectedDate = null; // Store the selected date
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -325,10 +342,10 @@
 
                 const timeDropdown = `
             <select id="timeDropdown" class="form-select">
-                <option value="09:00">09:00 AM</option>
-                <option value="11:00">11:00 AM</option>
-                <option value="02:00">02:00 PM</option>
-                <option value="04:00">04:00 PM</option>
+                <option value="09:00 AM">09:00 AM</option>
+                <option value="11:00 AM">11:00 AM</option>
+                <option value="02:00 PM">02:00 PM</option>
+                <option value="04:00 PM">04:00 PM</option>
             </select>
             <button class="btn btn-primary" id="nextForm">Next</button>
         `;
@@ -355,6 +372,7 @@
                 });
             }
         }
+
 
         function goToFormTab() {
             // Hide Swiper when switching to the form tab

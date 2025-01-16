@@ -19,5 +19,7 @@ class TourBooking extends Model
         'message',
         'tour_date',
         'tour_time',
+        'tour_type',
+
     ];
 }

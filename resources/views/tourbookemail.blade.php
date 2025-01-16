@@ -21,7 +21,9 @@
     <p><strong>Wedding Date:</strong> {{ $booking['wedding_date'] }}</p>
     <p><strong>Message:</strong> {{ $booking['message'] ?? 'No message provided.' }}</p>
     <p><strong>Tour Date:</strong> {{ $booking['tour_date'] }}</p>
-    <p><strong>Tour Time:</strong> {{ $booking['tour_time'] }}</p>
+    <p><strong>Tour Type:</strong> {{ $booking['tour_type'] }}</p>
+    <p><strong>Tour Time:</strong> {{ \Carbon\Carbon::parse($booking['tour_time'])->format('h:i A') }}</p>
+
 
 </body>
 

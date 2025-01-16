@@ -23,13 +23,15 @@ class TourBookingController extends Controller
             'wedding_date' => 'required|date', // Validate the wedding date
             'message' => 'nullable|string',
             'tour_date' => 'required|date', // Validate the tour date
-            'tour_time' => 'required|string', // Validate the tour time (it's a string, e.g., "09:00")
+            'tour_time' => 'required',
+            'tour_type' => 'required|string',
         ]);
 
         // Convert dates to Y-m-d format using Carbon
         try {
             $weddingDate = Carbon::parse($validatedData['wedding_date'])->format('Y-m-d');
             $tourDate = Carbon::parse($validatedData['tour_date'])->format('Y-m-d');
+            $tourTime = Carbon::createFromFormat('h:i A', $validatedData['tour_time'])->format('H:i:s');
         } catch (\Exception $e) {
             return redirect()->back()->withErrors(['date_error' => 'There was an issue with the date format.']);
         }
@@ -44,8 +46,10 @@ class TourBookingController extends Controller
             'fiance_last_name' => $validatedData['fiance_last_name'],
             'wedding_date' => $weddingDate, // Store the formatted wedding date
             'message' => $validatedData['message'],
-            'tour_date' => $tourDate, // Store the formatted tour date
-            'tour_time' => $validatedData['tour_time'],
+            'tour_date' => $tourDate,
+            'tour_time' => $tourTime,
+            'tour_type' => $validatedData['tour_type'],
+
         ]);
 
         // Send the confirmation email
