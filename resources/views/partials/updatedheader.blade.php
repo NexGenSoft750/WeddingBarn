@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('download.png') }}" alt="Kendall Point Logo" class="logo">
+                <img src="{{ asset('newlogo.jpg') }}" alt="Kendall Point Logo" class="logo">
             </a>
             <button class="navbar-toggler" type="button" onclick="toggleNavbar()">
                 <span class="navbar-toggler-icon"></span>

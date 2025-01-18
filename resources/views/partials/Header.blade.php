@@ -202,7 +202,7 @@
                  data-sid="navigation_view-1_2">
                  <div style="width:100%;height:100%" data-img="navigation_view-1_2" class="se-img se-gr slzy">
                  </div><noscript><img
-                         src="../static.showit.co/400/785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png"
+                         src=""
                          class="se-img" alt="" title="Kendall-Point-Logo" /></noscript>
              </a><a href="{{ route('book') }}" target="_self" class="sie-navigation_view-1_3 se"
                  data-sid="navigation_view-1_3">

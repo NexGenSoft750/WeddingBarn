@@ -79,7 +79,7 @@
         }
 
         .d .st-d-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             letter-spacing: 0.1em;
             font-size: 35px;
@@ -90,17 +90,17 @@
         }
 
         .d .st-d-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             font-size: 30px;
             text-align: center;
@@ -110,12 +110,12 @@
         }
 
         .m .st-m-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -164,7 +164,7 @@
         }
 
         .d .st-d-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 13px;
@@ -175,17 +175,17 @@
         }
 
         .d .st-d-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 11px;
@@ -196,17 +196,17 @@
         }
 
         .m .st-m-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .d .st-d-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -217,17 +217,17 @@
         }
 
         .d .st-d-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -237,12 +237,12 @@
         }
 
         .m .st-m-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -255,11 +255,11 @@
         }
 
         .m .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-announcement-header_0 {
@@ -365,7 +365,7 @@
         }
 
         .d .sib-drop-navigation .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sib-drop-navigation .sis-drop-navigation_view-1 {
@@ -596,7 +596,7 @@
         }
 
         .d .sie-drop-navigation_view-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -845,7 +845,7 @@
         }
 
         .d .sie-drop-navigation_view-1-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -886,7 +886,7 @@
         .m .sie-drop-navigation_view-1-1_7 .se-simple:hover {}
 
         .d .sie-drop-navigation_view-1-1_7 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-drop-navigation_view-1-1_7 .se-simple {
@@ -1063,7 +1063,7 @@
         }
 
         .m .sib-social-stalk-us .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-social-stalk-us .ss-bg {
@@ -1090,7 +1090,7 @@
         .m .sie-social-stalk-us_0 .se-simple:hover {}
 
         .d .sie-social-stalk-us_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-social-stalk-us_0 .se-simple {
@@ -1220,7 +1220,7 @@
         }
 
         .m .sib-navigation .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-navigation .ss-bg {
@@ -1403,11 +1403,11 @@
         .m .sie-navigation_view-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1_1 {
@@ -1578,11 +1578,11 @@
         .m .sie-navigation_view-1-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1-1_1 {
@@ -2050,11 +2050,11 @@
         }
 
         .m .sib-pricing-navigation .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-pricing-navigation .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-pricing-navigation_0 {
@@ -2315,11 +2315,11 @@
         .m .sie-pricing-intro_0 .se-simple:hover {}
 
         .d .sie-pricing-intro_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-pricing-intro_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-pricing-intro_1 {
@@ -2430,11 +2430,11 @@
         .m .sie-pricing_0 .se-simple:hover {}
 
         .d .sie-pricing_0 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .m .sie-pricing_0 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-pricing_1 {
@@ -2456,11 +2456,11 @@
         .m .sie-pricing_1 .se-simple:hover {}
 
         .d .sie-pricing_1 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .m .sie-pricing_1 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-pricing_2 {
@@ -2482,11 +2482,11 @@
         .m .sie-pricing_2 .se-simple:hover {}
 
         .d .sie-pricing_2 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .m .sie-pricing_2 .se-simple {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-pricing_3 {
@@ -2993,11 +2993,11 @@
         }
 
         .m .sib-cta-pricing .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-cta-pricing .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-cta-pricing_0:hover {
@@ -3107,7 +3107,7 @@
         }
 
         .d .sie-cta-pricing_2-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.3em;
             font-size: 10px;
@@ -3132,11 +3132,11 @@
         }
 
         .m .sib-included-with-your-rental-1 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-included-with-your-rental-1 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-included-with-your-rental-1_0 {
@@ -3331,11 +3331,11 @@
         }
 
         .m .sib-payment-schedule-1 .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-payment-schedule-1 .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-payment-schedule-1_0 {
@@ -3480,7 +3480,7 @@
         }
 
         .m .sie-look-around-1_2-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1;
             letter-spacing: 0.1em;
@@ -3544,7 +3544,7 @@
         }
 
         .m .sie-look-around-1_3-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 1;
             letter-spacing: 0.2em;
@@ -3576,11 +3576,11 @@
         .m .sie-look-around-1_4 .se-simple:hover {}
 
         .d .sie-look-around-1_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-look-around-1_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-look-around-1_5 {
@@ -3726,7 +3726,7 @@
         }
 
         .m .sie-look-around-1_8-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1;
             letter-spacing: 0.1em;
@@ -3790,7 +3790,7 @@
         }
 
         .m .sie-look-around-1_9-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 1;
             letter-spacing: 0.2em;
@@ -3902,7 +3902,7 @@
         }
 
         .m .sie-look-around-1_12-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1;
             letter-spacing: 0.1em;
@@ -3966,7 +3966,7 @@
         }
 
         .m .sie-look-around-1_13-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 1;
             letter-spacing: 0.2em;
@@ -4032,7 +4032,7 @@
         }
 
         .m .sie-look-around-1_14-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 1;
             letter-spacing: 0.2em;
@@ -4160,7 +4160,7 @@
         }
 
         .m .sie-look-around-1_17-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1;
             letter-spacing: 0.1em;
@@ -4220,11 +4220,11 @@
         }
 
         .m .sib-book-tour-1 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-book-tour-1 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-book-tour-1_0:hover {
@@ -4393,11 +4393,11 @@
         .m .sie-pricing-intro-2_0 .se-simple:hover {}
 
         .d .sie-pricing-intro-2_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-pricing-intro-2_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-pricing-intro-2_1 {
@@ -4484,11 +4484,11 @@
         }
 
         .m .sib-book-tour-3 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-book-tour-3 .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-book-tour-3_0:hover {
@@ -4657,11 +4657,11 @@
         .m .sie-important-notes_0 .se-simple:hover {}
 
         .d .sie-important-notes_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-important-notes_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-important-notes_1 {
@@ -4766,7 +4766,7 @@
         }
 
         .d .sie-vendor-banner_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             line-height: 1.2;
             letter-spacing: 0.1em;
@@ -4778,7 +4778,7 @@
         }
 
         .m .sie-vendor-banner_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             line-height: 1.5;
             letter-spacing: 0.1em;
@@ -4808,11 +4808,11 @@
         .m .sie-vendor-banner_1 .se-simple:hover {}
 
         .d .sie-vendor-banner_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-vendor-banner_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-vendor-banner_2 {
@@ -5564,7 +5564,7 @@
         }
 
         .m .sie-faq_22-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .sie-faq_23 {
@@ -5689,7 +5689,7 @@
         }
 
         .d .sie-in-house-upgrades_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1.2;
             letter-spacing: 0.1em;
@@ -5701,7 +5701,7 @@
         }
 
         .m .sie-in-house-upgrades_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1.2;
             letter-spacing: 0.1em;
@@ -6469,7 +6469,7 @@
         }
 
         .d .sie-testimonials-1_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             line-height: 1.2;
             letter-spacing: 0.1em;
@@ -6481,7 +6481,7 @@
         }
 
         .m .sie-testimonials-1_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1.5;
             letter-spacing: 0.1em;
@@ -6511,11 +6511,11 @@
         .m .sie-testimonials-1_1 .se-simple:hover {}
 
         .d .sie-testimonials-1_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-testimonials-1_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-testimonials-1_2 {
@@ -6655,11 +6655,11 @@
         }
 
         .m .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-footer_0 {
@@ -7654,7 +7654,7 @@
         }
 
         .m .sie-mobile-nav_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0.3em;
             font-size: 11px;
@@ -7683,7 +7683,7 @@
         }
 
         .m .sie-mobile-nav_2 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_3 {
@@ -7705,7 +7705,7 @@
         }
 
         .m .sie-mobile-nav_3 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_4 {
@@ -7727,7 +7727,7 @@
         }
 
         .m .sie-mobile-nav_4 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_5 {
@@ -7749,7 +7749,7 @@
         }
 
         .m .sie-mobile-nav_5 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_6 {
@@ -7780,7 +7780,7 @@
         }
 
         .m .sie-mobile-nav_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0.3em;
             font-size: 11px;
@@ -8066,11 +8066,11 @@
         }
 
         .m .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-contact-sticky_0 {
@@ -8554,8 +8554,8 @@
                         <p class="se-t sie-pricing-intro_1-text st-m-paragraph st-d-paragraph se-rc"><br></p>
                     </div>
                     <div data-sid="pricing-intro_2" class="sie-pricing-intro_2 se">
-                        <h1 class="se-t sie-pricing-intro_2-text st-m-subheading st-d-subheading se-rc">2025 pricing
-                            guide<br>$1000 off all remaining saturdays 2025<br><br><a
+                        <h1 class="se-t sie-pricing-intro_2-text st-m-subheading st-d-subheading se-rc">2025  Multi Day Pakaging pricing Guide
+                            <br><br><a
                                 href="https://www.canva.com/design/DAGayHWrj44/xv8XT4ZFMxyJ8uR6dglfqA/view?utm_content=DAGayHWrj44&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h2248b5d159"
                                 target="_blank">available 2025 dates&nbsp;</a><br></h1>
                     </div>
@@ -8601,25 +8601,25 @@
                         <h2 class="se-t sie-pricing_10-text st-m-heading st-d-subheading se-rc">SATURDAY<br></h2>
                     </div>
                     <div data-sid="pricing_11" class="sie-pricing_11 se">
-                        <h2 class="se-t sie-pricing_11-text st-m-heading st-d-heading se-rc">{{ $prices->friday_peak }}</h2>
+                        <h2 class="se-t sie-pricing_11-text st-m-heading st-d-heading se-rc">${{ $prices->friday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_12" class="sie-pricing_12 se">
-                        <h2 class="se-t sie-pricing_12-text st-m-heading st-d-heading se-rc">{{ $prices->monday_thursday_price }}</h2>
+                        <h2 class="se-t sie-pricing_12-text st-m-heading st-d-heading se-rc">${{ $prices->monday_thursday_price }}</h2>
                     </div>
                     <div data-sid="pricing_13" class="sie-pricing_13 se">
-                        <h2 class="se-t sie-pricing_13-text st-m-heading st-d-heading se-rc">{{ $prices->saturday_peak }}</h2>
+                        <h2 class="se-t sie-pricing_13-text st-m-heading st-d-heading se-rc">${{ $prices->saturday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_14" class="sie-pricing_14 se">
-                        <h2 class="se-t sie-pricing_14-text st-m-heading st-d-heading se-rc">{{ $prices->sunday_peak }}</h2>
+                        <h2 class="se-t sie-pricing_14-text st-m-heading st-d-heading se-rc">${{ $prices->sunday_peak }}</h2>
                     </div>
                     <div data-sid="pricing_15" class="sie-pricing_15 se">
-                        <h2 class="se-t sie-pricing_15-text st-m-heading st-d-heading se-rc">{{ $prices->saturday_non_peak }}</h2>
+                        <h2 class="se-t sie-pricing_15-text st-m-heading st-d-heading se-rc">${{ $prices->saturday_non_peak }}</h2>
                     </div>
                     <div data-sid="pricing_16" class="sie-pricing_16 se">
-                        <h3 class="se-t sie-pricing_16-text st-m-heading st-d-subheading se-rc">{{ $prices->sunday_non_peak }}</h3>
+                        <h3 class="se-t sie-pricing_16-text st-m-heading st-d-subheading se-rc">${{ $prices->sunday_non_peak }}</h3>
                     </div>
                     <div data-sid="pricing_17" class="sie-pricing_17 se">
-                        <h3 class="se-t sie-pricing_17-text st-m-heading st-d-subheading se-rc">{{ $prices->friday_non_peak }}</h3>
+                        <h3 class="se-t sie-pricing_17-text st-m-heading st-d-subheading se-rc">${{ $prices->friday_non_peak }}</h3>
                     </div>
                     <div data-sid="pricing_18" class="sie-pricing_18 se">
                         <h3 class="se-t sie-pricing_18-text st-m-subheading st-d-subheading se-rc">peak
@@ -8655,27 +8655,27 @@
                     </a>
                     <div data-sid="included-with-your-rental-1_1" class="sie-included-with-your-rental-1_1 se">
                         <p class="se-t sie-included-with-your-rental-1_1-text st-m-paragraph st-d-paragraph se-rc">•
-                            Classic white wedding chairs for ceremony<br><br>• Forever green turf grass at
-                            ceremony<br><br>• Golf cart for guest transportation to ceremony area<br><br>• Bridal
-                            portraits location<br><br>• Choice of Vendors *<br><br>• Stunning inside ceremony location
-                            on grand staircase<br><br><br></p>
+                           Clear chiavari chairs<br><br>
+                           • 60" round tables to seat 8-10<br><br>
+                           • 4 farm style tables (2 8ft and 2 4ft)<br><br>
+                           • Sign-In table, gift table and buffet tables provided<br><br>•
+                           No set vendors list*<br><br><br></p>
                     </div>
                     <div data-sid="included-with-your-rental-1_2" class="sie-included-with-your-rental-1_2 se">
                         <p class="se-t sie-included-with-your-rental-1_2-text st-m-paragraph st-d-paragraph se-rc">•
-                            Large Grooms Suite with flat screen tv,&nbsp; &nbsp; &nbsp; &nbsp;foosball table, balcony
-                            &amp; private bathroom<br><br>• Gazebo draping and sparkling chandelier<br><br>• 10 Cocktail
-                            tables for veranda<br><br>• Gift and sign/specialty and tables<br><br>• Built in bars to
-                            enjoy the Texas Hill Country<br>&nbsp;<br>• Black Diamond back chairs for reception<br><br>•
-                            Ice Machine<br><br>• Southern style veranda furniture<br></p>
+                            Groom's Suite&nbsp;Separate catering kitchen
+                            &amp;Gorgeous outdoor portraits area with cedar altar facing our pond
+                            <br><br>• Gazebo draping and sparkling chandelier<br><br>• BYOB (TABC Bartenders are mandatory and security will be provided and scheduled by our staff for an added fee)
+                            <br><br>• Gift and sign/specialty and tables<br><br>• Free parking
+                            <br>&nbsp;<br>• Set up and breakdown of chairs and tables<br></p>
                     </div>
                     <div data-sid="included-with-your-rental-1_3" class="sie-included-with-your-rental-1_3 se">
                         <p class="se-t sie-included-with-your-rental-1_3-text st-m-paragraph st-d-paragraph se-rc">
                             &nbsp;• Exclusive Rental | 10:00 am- midnight (11pm end time) Mon-Thur &amp; Sunday
-                            10am-10pm<br><br>&nbsp;• 72” round tables to seat 10-12<br><br>&nbsp;• Full use of venue for
-                            ceremony and reception<br><br>&nbsp;• All set up and clean up of venue
-                            amenities<br><br>&nbsp;• BYOB * Client provides all alcohol<br><br>&nbsp;• State of the art
-                            Bridal Suite with live video&nbsp; &nbsp; &nbsp; &nbsp;feeds of set up and guest
-                            arrival<br><br>&nbsp;• Custom floor plan<br><br>&nbsp;<br></p>
+                            10am-10pm<br><br>&nbsp;• Up to 4 hours rehearsal time if needed (schedule with us) / overnight storage for next day
+                            <br><br>&nbsp;• 2400 Sq Ft Patio with Pergola for outdoor ceremony with pond view
+                            <br><br>&nbsp;• All set up and clean up of venue amenities<br><br>&nbsp;• Outside unlimited space for seating/dining/we can assist in renting more chairs/tables/tents etc
+                            <br><br>&nbsp;• Outdoor gravel patio/bar area for Cocktail Hour and for lawn games<br><br>&nbsp;<br></p>
                     </div>
                     <div data-sid="included-with-your-rental-1_4" class="sie-included-with-your-rental-1_4 se">
                         <h2 class="se-t sie-included-with-your-rental-1_4-text st-m-heading st-d-heading se-rc">
@@ -8811,40 +8811,8 @@
                 </div>
             </div>
         </div>
-        <div id="pricing-intro-2" data-bid="pricing-intro-2" class="sb sib-pricing-intro-2 sb-nd-dH">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div data-sid="pricing-intro-2_0" class="sie-pricing-intro-2_0 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <div data-sid="pricing-intro-2_1" class="sie-pricing-intro-2_1 se">
-                        <p class="se-t sie-pricing-intro-2_1-text st-m-paragraph st-d-paragraph se-rc">We want your
-                            wedding day to be truly magical! That’s why we offer amenities you might not even think of
-                            when touring venues.
-                            <br>
-                            <br>Having full, exclusive access to the venue on your wedding day means we can easily fit
-                            your wedding rehearsal on the morning of, but if you’d prefer to do it the day before, just
-                            ask!
-                            <br>
-                            <br>Plus, every inch of our property is excellently maintained year-round, allowing you to
-                            have gorgeous photo backdrops everywhere you turn. We even invite you to take engagement or
-                            bridal photos at Kendall Point before your wedding day—at no added cost! Just give us a call
-                            to schedule.
-                            <br>
-                            <br>We also let you decorate to your heart’s content.
-                            <br>
-                            <br>Finally, we know how unpredictable weather can be, which is why we offer equally
-                            stunning indoor and outdoor ceremony options. And if the weather takes a sudden turn, we’ll
-                            move the ceremony indoors at no extra cost.<br>
-                        </p>
-                    </div>
-                    <div data-sid="pricing-intro-2_2" class="sie-pricing-intro-2_2 se">
-                        <h3 class="se-t sie-pricing-intro-2_2-text st-m-subheading st-d-subheading se-rc">bonus
-                            amenities!<br></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <br>
+        <br>
         <div id="book-tour-3" data-bid="book-tour-3" class="sb sib-book-tour-3">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
@@ -9037,7 +9005,7 @@
                         </h3>
                     </div>
                     <div data-sid="in-house-upgrades_1" class="sie-in-house-upgrades_1 se">
-                        <h2 class="se-t sie-in-house-upgrades_1-text st-m-heading st-d-heading se-rc">in house upgrades
+                        <h2 class="se-t sie-in-house-upgrades_1-text st-m-heading st-d-heading se-rc">A La Carte Extras
                         </h2>
                     </div>
                     <div data-sid="in-house-upgrades_2" class="sie-in-house-upgrades_2 se">

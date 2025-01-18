@@ -62,7 +62,6 @@
 
                         <div class="time-select" id="timeSelect">
                             <h3>Select Time</h3>
-                            <input type="time" id="timeInput" />
                             <button class="btn btn-primary " id="nextForm">Next</button>
                         </div>
                     </div>
@@ -320,6 +319,9 @@
             selectedDate = dateStr;
             swiperSlide.classList.add('active');
 
+            // Update the hidden tour_date input with the selected date
+            document.getElementById('selectedDate').value = selectedDate;
+
             // Get the position of the selected swiper slide
             const slideRect = swiperSlide.getBoundingClientRect();
             const timeSelect = document.getElementById('timeSelect');
@@ -334,43 +336,98 @@
 
 
 
+
+
+
         function showTimeSelect() {
             const timeSelect = document.getElementById('timeSelect');
-            if (timeSelect) {
-                timeSelect.style.display = 'block';
 
-                const timeDropdown = `
-            <select id="timeDropdown" class="form-select">
-                <option value="09:00 AM">09:00 AM</option>
-                <option value="11:00 AM">11:00 AM</option>
-                <option value="02:00 PM">02:00 PM</option>
-                <option value="04:00 PM">04:00 PM</option>
-            </select>
-            <button class="btn btn-primary" id="nextForm">Next</button>
+            if (!timeSelect) {
+                console.error('timeSelect element not found');
+                return;
+            }
+
+            timeSelect.style.display = 'block';
+
+            // Get time slots and booked times dynamically from the controller
+            const timeSlots = @json($timeSlots); // Time slots in 12-hour format
+            const bookedTimes = @json($bookedTimes); // Booked times in 12-hour format
+
+            console.log('Time Slots:', timeSlots);
+            console.log('Booked Times:', bookedTimes);
+
+            // Ensure valid data
+            if (!Array.isArray(timeSlots) || typeof bookedTimes !== 'object') {
+                console.error('Invalid timeSlots or bookedTimes data');
+                return;
+            }
+
+            // Get the selected date (for example: '2025-01-19')
+            const selectedDate = document.getElementById('selectedDate').value;
+
+            // Extract the list of booked times for the selected date
+            const bookedForSelectedDate = bookedTimes[selectedDate] || [];
+            console.log('Booked Times for Selected Date:', bookedForSelectedDate);
+
+            // Filter out the booked times from the available time slots
+            const availableTimeSlots = timeSlots.filter(slot => {
+                // Check if this time is in the booked times for the selected date
+                const isBooked = bookedForSelectedDate.includes(slot.time);
+                return !isBooked;
+            });
+
+            console.log('Available Time Slots:', availableTimeSlots);
+
+            // If no time slots are available, show a message instead of a dropdown
+            if (availableTimeSlots.length === 0) {
+                timeSelect.innerHTML = `<p>No available times left. Please try another day.</p>`;
+                return;
+            }
+
+            // Create the time dropdown for available times
+            let timeDropdown = '<select id="timeDropdown" class="form-select">';
+            timeSlots.forEach(slot => {
+                // Check if this time is booked for any date
+                const isBooked = Object.values(bookedTimes).flat().includes(slot.time);
+
+                // Disable the option if it is booked
+                timeDropdown += `<option value="${slot.time}" ${isBooked ? 'disabled' : ''}>${slot.time}</option>`;
+            });
+            timeDropdown += '</select><button class="btn btn-primary" id="nextForm">Next</button>';
+
+            // Update the timeSelect div with the newly created dropdown
+            timeSelect.innerHTML = timeDropdown;
+
+            // Handle "Next" button click to store the selected time
+            document.getElementById('nextForm').addEventListener('click', function() {
+                const selectedTime = document.getElementById('timeDropdown').value;
+
+                if (!selectedTime) {
+                    alert('Please select a time');
+                    return;
+                }
+
+                // Set the selected time in a hidden input or another element
+                document.getElementById('selectedTime').value = selectedTime;
+
+                // Replace dropdown with selected time message
+                timeSelect.innerHTML = `
+            <p class="selected-time">Selected Time: <strong>${selectedTime}</strong></p>
+            <button class="btn btn-secondary" id="editTime">Edit</button>
         `;
 
-                timeSelect.innerHTML = timeDropdown;
-
-                // Handle 'Next' button click
-                document.getElementById('nextForm').addEventListener('click', function() {
-                    const selectedTime = document.getElementById('timeDropdown').value;
-                    if (!selectedTime) {
-                        alert('Please select a time');
-                        return;
-                    }
-
-                    // Set the selected date and time to the hidden inputs
-                    document.getElementById('selectedDate').value = selectedDate;
-                    document.getElementById('selectedTime').value = selectedTime;
-
-                    // Pass the selected date and time for further processing
-                    console.log("Selected date and time:", selectedDate, selectedTime);
-
-                    // Proceed to the form tab
-                    goToFormTab();
+                // Add edit functionality to allow re-selection
+                document.getElementById('editTime').addEventListener('click', function() {
+                    showTimeSelect(); // Re-render the time selection dropdown
                 });
-            }
+
+                console.log("Selected time:", selectedTime);
+                goToFormTab();
+            });
         }
+
+
+
 
 
         function goToFormTab() {

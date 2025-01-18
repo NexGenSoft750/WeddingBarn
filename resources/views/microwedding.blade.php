@@ -137,9 +137,6 @@
                         Colorado
                         River valley at Red Ridge Receptions. </p>
                 </div>
-                <div class="button learn-more">
-                    <button>Lear More</button>
-                </div>
             </div>
         </div>
     </div>
@@ -383,7 +380,7 @@
             <div class="col-lg-6 col-md-12 d-flex flex-row  align-items-center ">
                 <!-- Image container -->
                 <div class="image-container mb-4">
-                    <img src="{{ asset('download8.jpg') }}" alt="Red Ridge Receptions" class="contact-image">
+                    <img src="{{ asset('wedding-color.jpg') }}" alt="Red Ridge Receptions" class="contact-image">
                 </div>
 
                 <!-- Text Content after Image -->

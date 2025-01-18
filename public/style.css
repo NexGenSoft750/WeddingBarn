@@ -4,16 +4,18 @@
         }
 
         .custom-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
             padding: 15px 0;
             height: 76px;
             width: 100%;
         }
-@media (max-width: 768px) {
-    .sie-navigations_1 {
-        display: none;
-    }
-}
+
+        @media (max-width: 768px) {
+            .sie-navigations_1 {
+                display: none;
+            }
+        }
+
         .announcement-header {
             display: flex;
             justify-content: center;
@@ -51,14 +53,14 @@
             font-style: normal;
             background-color: rgba(255, 255, 255, 1);
             border: 0px;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .rsvp button {
             background-color: rgba(255, 255, 255, 1);
             padding: 10px 20px;
             font-size: 16px;
-            color: rgba(108, 139, 187, 1);
+            color: #b57059;
             border-radius: 5px;
             cursor: pointer;
         }
@@ -101,7 +103,7 @@
         }
 
         .nav-link:hover {
-            color: rgba(108, 139, 187, 1);
+            color: #b57059;
             /* Change color on hover */
             font-size: 14px;
             /* Slightly increase font size on hover */
@@ -117,13 +119,13 @@
         }
 
         .btn-primary {
-            background-color: rgba(56, 79, 114, 1);
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
+            background-color: #667462;
         }
 
         .btn-primary:hover {
-            background-color: rgba(56, 79, 114, 1);
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
+            background-color: #667462;
         }
 
         .info {
@@ -137,7 +139,7 @@
         }
 
         .lets-marry {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-align: left;
             font-family: 'Libre Baskerville';
             text-transform: lowercase;
@@ -155,7 +157,7 @@
         }
 
         .love {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 13px;
@@ -184,7 +186,7 @@
             /* Centers text horizontally */
             align-items: center;
             /* Centers text vertically */
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
             color: white;
             /* Optional: Set text color for better contrast */
             padding: 10px;
@@ -265,10 +267,10 @@
         }
 
         .read-more {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             padding: 10px 20px;
             border-radius: 5px;
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
             text-decoration: none;
             color: white;
             font-weight: bold;

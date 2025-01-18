@@ -1165,7 +1165,7 @@
 
         .d .st-d-title,
         .d .se-wpt h1 {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             letter-spacing: 0.1em;
             font-size: 35px;
@@ -1180,18 +1180,18 @@
         }
 
         .d .st-d-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-title,
         .m .se-wpt h1 {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             font-size: 30px;
             text-align: center;
@@ -1205,12 +1205,12 @@
         }
 
         .m .st-m-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -1270,7 +1270,7 @@
 
         .d .st-d-subheading,
         .d .se-wpt h3 {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 13px;
@@ -1285,18 +1285,18 @@
         }
 
         .d .st-d-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-subheading,
         .m .se-wpt h3 {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 11px;
@@ -1311,17 +1311,17 @@
         }
 
         .m .st-m-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .d .st-d-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -1336,17 +1336,17 @@
         }
 
         .d .st-d-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -1360,12 +1360,12 @@
         }
 
         .m .st-m-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -1378,11 +1378,11 @@
         }
 
         .m .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-announcement-header_0 {
@@ -1498,7 +1498,7 @@
         }
 
         .m .sib-navigation .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-navigation .ss-bg {
@@ -1681,11 +1681,11 @@
         .m .sie-navigation_view-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1_1 {
@@ -1856,11 +1856,11 @@
         .m .sie-navigation_view-1-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1-1_1 {
@@ -2278,7 +2278,7 @@
         }
 
         .m .sib-social-stalk-us .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-social-stalk-us .ss-bg {
@@ -2305,7 +2305,7 @@
         .m .sie-social-stalk-us_0 .se-simple:hover {}
 
         .d .sie-social-stalk-us_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-social-stalk-us_0 .se-simple {
@@ -2453,12 +2453,12 @@
         }
 
         .d .sie-featured-post_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-featured-post_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2688,12 +2688,12 @@
         }
 
         .d .sie-category_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2714,12 +2714,12 @@
         }
 
         .d .sie-category_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2740,12 +2740,12 @@
         }
 
         .d .sie-category_2-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_2-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2766,12 +2766,12 @@
         }
 
         .d .sie-category_3-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_3-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2792,12 +2792,12 @@
         }
 
         .d .sie-category_4-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_4-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2818,12 +2818,12 @@
         }
 
         .d .sie-category_5-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_5-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2844,12 +2844,12 @@
         }
 
         .d .sie-category_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -2870,12 +2870,12 @@
         }
 
         .d .sie-category_7-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             overflow: hidden;
         }
 
         .m .sie-category_7-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 1.2;
             font-size: 18px;
             overflow: hidden;
@@ -3456,11 +3456,11 @@
         }
 
         .m .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-footer_0 {

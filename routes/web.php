@@ -6,6 +6,7 @@ use App\Models\TourAvailability;
 use App\Models\TourBooking;
 use App\Models\DefaultImage;
 use App\Http\Controllers\ContactController;
+use App\Models\TimeSlot;
 use App\Http\Controllers\TourBookingController;
 use Carbon\Carbon;
 
@@ -72,7 +73,13 @@ Route::prefix('home')->group(function () {
         $bookedDates = TourBooking::pluck('tour_date')->map(function ($date) {
             return Carbon::parse($date)->format('Y-m-d');
         });
-        return view('inpersontour', compact('tourAvailability', 'bookedDates'));
+        $bookedTimes = TourBooking::all()->groupBy('tour_date')->map(function ($bookings) {
+            return $bookings->pluck('tour_time')->map(function ($time) {
+                return Carbon::parse($time)->format('h:i A');  // Convert to 12-hour format (AM/PM)
+            });
+        });
+        $timeSlots = TimeSlot::all();
+        return view('inpersontour', compact('tourAvailability', 'bookedDates', 'timeSlots', 'bookedTimes'));
     })->name('inpersontour');
 
     Route::get('/virtualtour', function () {
@@ -80,14 +87,23 @@ Route::prefix('home')->group(function () {
         $bookedDates = TourBooking::pluck('tour_date')->map(function ($date) {
             return Carbon::parse($date)->format('Y-m-d');
         });
-        return view('virtualtour', compact('tourAvailability', 'bookedDates'));
+        $bookedTimes = TourBooking::all()->groupBy('tour_date')->map(function ($bookings) {
+            return $bookings->pluck('tour_time')->map(function ($time) {
+                return Carbon::parse($time)->format('h:i A');  // Convert to 12-hour format (AM/PM)
+            });
+        });
+        $timeSlots = TimeSlot::all();
+
+        return view('virtualtour', compact('tourAvailability', 'bookedDates', 'timeSlots', 'bookedTimes'));
     })->name('virtualtour');
 
     Route::get('/micro-wedding', function () {
         $images = DefaultImage::all();
         return view('microwedding', compact('images'));
     })->name('microwedding');
-
+    Route::get('/faq', function () {
+        return view('faq');
+    })->name('FAQ');
     Route::post('/submit-contact-form', [ContactController::class, 'submitForm'])->name('contactemail');
 
     Route::post('/tour-booking', [TourBookingController::class, 'store'])->name('touremail');

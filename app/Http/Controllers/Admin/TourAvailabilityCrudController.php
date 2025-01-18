@@ -108,6 +108,16 @@ class TourAvailabilityCrudController extends CrudController
      */
     protected function setupCreateOperation()
     {
+
+        $this->crud->setValidation([
+            'is_virtual' => 'required|in:1',  // Checkbox must be checked (1)
+            'is_in_person' => 'required|in:1', // Checkbox must be checked (1)
+        ]);
+
+
+
+
+
         $this->crud->addFields([
             [
                 'name'  => 'monday',
@@ -165,6 +175,10 @@ class TourAvailabilityCrudController extends CrudController
      */
     protected function setupUpdateOperation()
     {
+        $this->crud->setValidation([
+            'is_virtual' => 'required|in:1',  // Checkbox must be checked (1)
+            'is_in_person' => 'required|in:1', // Checkbox must be checked (1)
+        ]);
         $this->setupCreateOperation();
     }
 }

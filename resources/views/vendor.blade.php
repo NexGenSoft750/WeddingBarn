@@ -79,7 +79,7 @@
         }
 
         .d .st-d-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             letter-spacing: 0.1em;
             font-size: 35px;
@@ -90,17 +90,17 @@
         }
 
         .d .st-d-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             font-size: 30px;
             text-align: center;
@@ -110,12 +110,12 @@
         }
 
         .m .st-m-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -164,7 +164,7 @@
         }
 
         .d .st-d-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 13px;
@@ -175,17 +175,17 @@
         }
 
         .d .st-d-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 11px;
@@ -196,17 +196,17 @@
         }
 
         .m .st-m-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .d .st-d-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -217,17 +217,17 @@
         }
 
         .d .st-d-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -237,12 +237,12 @@
         }
 
         .m .st-m-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -255,11 +255,11 @@
         }
 
         .m .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-announcement-header_0 {
@@ -365,7 +365,7 @@
         }
 
         .d .sib-drop-navigation .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sib-drop-navigation .sis-drop-navigation_view-1 {
@@ -596,7 +596,7 @@
         }
 
         .d .sie-drop-navigation_view-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -845,7 +845,7 @@
         }
 
         .d .sie-drop-navigation_view-1-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -886,7 +886,7 @@
         .m .sie-drop-navigation_view-1-1_7 .se-simple:hover {}
 
         .d .sie-drop-navigation_view-1-1_7 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-drop-navigation_view-1-1_7 .se-simple {
@@ -1062,7 +1062,7 @@
         }
 
         .m .sib-navigation .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-navigation .ss-bg {
@@ -1245,11 +1245,11 @@
         .m .sie-navigation_view-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1_1 {
@@ -1420,11 +1420,11 @@
         .m .sie-navigation_view-1-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1-1_1 {
@@ -1842,7 +1842,7 @@
         }
 
         .m .sib-social-stalk-us .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-social-stalk-us .ss-bg {
@@ -1869,7 +1869,7 @@
         .m .sie-social-stalk-us_0 .se-simple:hover {}
 
         .d .sie-social-stalk-us_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-social-stalk-us_0 .se-simple {
@@ -2084,11 +2084,11 @@
         .m .sie-header-message_0 .se-simple:hover {}
 
         .d .sie-header-message_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-header-message_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-header-message_1 {
@@ -2171,11 +2171,11 @@
         }
 
         .m .sib-vendor-shortcuts .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-vendor-shortcuts .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-vendor-shortcuts_0 {
@@ -2888,12 +2888,12 @@
         }
 
         .d .sie-catering_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-catering_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3010,13 +3010,13 @@
         }
 
         .d .sie-planners_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 30px;
         }
 
         .m .sie-planners_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 22px;
         }
@@ -3091,11 +3091,11 @@
         }
 
         .m .sib-cta-vendors .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-cta-vendors .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-cta-vendors_0:hover {
@@ -3205,7 +3205,7 @@
         }
 
         .d .sie-cta-vendors_2-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.3em;
             font-size: 10px;
@@ -3280,12 +3280,12 @@
         }
 
         .d .sie-florists_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-florists_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3379,12 +3379,12 @@
         }
 
         .d .sie-entertainment_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-entertainment_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3479,12 +3479,12 @@
         }
 
         .d .sie-invitations_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-invitations_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3577,12 +3577,12 @@
         }
 
         .d .sie-photographers_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-photographers_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3675,12 +3675,12 @@
         }
 
         .d .sie-video_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-video_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3767,12 +3767,12 @@
         }
 
         .d .sie-hair-and-makeup_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-hair-and-makeup_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3859,12 +3859,12 @@
         }
 
         .d .sie-bar_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-bar_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -3977,12 +3977,12 @@
         }
 
         .d .sie-sweets-and-treats_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-sweets-and-treats_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -4069,12 +4069,12 @@
         }
 
         .d .sie-officiants_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-officiants_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -4163,12 +4163,12 @@
         }
 
         .d .sie-decor-and-rentals_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-decor-and-rentals_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             font-size: 19px;
         }
@@ -4205,11 +4205,11 @@
         }
 
         .m .sib-local-accommodations .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-local-accommodations .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-local-accommodations_0 {
@@ -4469,11 +4469,11 @@
         }
 
         .m .sib-book-tour .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-book-tour .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-book-tour_0:hover {
@@ -4630,7 +4630,7 @@
         }
 
         .d .sie-testimonials_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             line-height: 1.2;
             letter-spacing: 0.1em;
@@ -4642,7 +4642,7 @@
         }
 
         .m .sie-testimonials_0-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             line-height: 1.5;
             letter-spacing: 0.1em;
@@ -4672,11 +4672,11 @@
         .m .sie-testimonials_1 .se-simple:hover {}
 
         .d .sie-testimonials_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-testimonials_1 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-testimonials_2 {
@@ -4816,11 +4816,11 @@
         }
 
         .m .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-footer_0 {
@@ -5815,7 +5815,7 @@
         }
 
         .m .sie-mobile-nav_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0.3em;
             font-size: 11px;
@@ -5844,7 +5844,7 @@
         }
 
         .m .sie-mobile-nav_2 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_3 {
@@ -5866,7 +5866,7 @@
         }
 
         .m .sie-mobile-nav_3 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_4 {
@@ -5888,7 +5888,7 @@
         }
 
         .m .sie-mobile-nav_4 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_5 {
@@ -5910,7 +5910,7 @@
         }
 
         .m .sie-mobile-nav_5 svg {
-            fill: rgba(56, 79, 114, 1);
+            fill: #667462;
         }
 
         .d .sie-mobile-nav_6 {
@@ -5941,7 +5941,7 @@
         }
 
         .m .sie-mobile-nav_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0.3em;
             font-size: 11px;
@@ -6227,11 +6227,11 @@
         }
 
         .m .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-contact-sticky_0 {

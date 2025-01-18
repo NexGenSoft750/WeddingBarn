@@ -3720,11 +3720,11 @@
                             say “I Do.” Grab a time on our calendar to see it for yourself with a private tour!<br><br>
                         </p>
                     </div><a
-                        href="https://clients.kendallpoint.com/public/appointment-scheduler/6643bc519b78d42fbd52e89e/schedule"
+                        href="{{ route('inpersontour') }}"
                         target="_blank" class="sie-book-your-tour_2 se" data-sid="book-your-tour_2">
                         <div class="se-simple"></div>
                     </a><a
-                        href="https://clients.kendallpoint.com/public/appointment-scheduler/6643bd2225567c2e716940e7/schedule"
+                        href="{{ route('virtualtour') }}"
                         target="_blank" class="sie-book-your-tour_3 se" data-sid="book-your-tour_3">
                         <div class="se-simple"></div>
                     </a><a href="{{ route('inpersontour') }}" target="_blank" class="sie-book-your-tour_4 se"

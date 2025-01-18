@@ -85,13 +85,13 @@ class PriceCrudController extends CrudController
     protected function setupCreateOperation()
     {
         CRUD::setValidation([
-            'monday_thursday_price' => 'required|numeric',
-            'friday_non_peak' => 'required|numeric',
-            'friday_peak' => 'required|numeric',
-            'saturday_non_peak' => 'required|numeric',
-            'saturday_peak' => 'required|numeric',
-            'sunday_non_peak' => 'required|numeric',
-            'sunday_peak' => 'required|numeric',
+            'monday_thursday_price' => 'required',
+            'friday_non_peak' => 'required',
+            'friday_peak' => 'required',
+            'saturday_non_peak' => 'required',
+            'saturday_peak' => 'required',
+            'sunday_non_peak' => 'required',
+            'sunday_peak' => 'required',
         ]);
 
         CRUD::field('monday_thursday_price');

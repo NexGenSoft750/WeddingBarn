@@ -76,7 +76,7 @@
         }
 
         .d .st-d-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             letter-spacing: 0.1em;
             font-size: 35px;
@@ -87,17 +87,17 @@
         }
 
         .d .st-d-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-title {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: lowercase;
             font-size: 30px;
             text-align: center;
@@ -107,12 +107,12 @@
         }
 
         .m .st-m-title.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-title.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -161,7 +161,7 @@
         }
 
         .d .st-d-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 13px;
@@ -172,17 +172,17 @@
         }
 
         .d .st-d-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-subheading {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 11px;
@@ -193,17 +193,17 @@
         }
 
         .m .st-m-subheading.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-subheading.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .d .st-d-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -214,17 +214,17 @@
         }
 
         .d .st-d-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .st-d-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
         .m .st-m-paragraph {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             line-height: 2;
             letter-spacing: 0em;
             font-size: 12px;
@@ -234,12 +234,12 @@
         }
 
         .m .st-m-paragraph.se-rc a {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .st-m-paragraph.se-rc a:hover {
             text-decoration: underline;
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             opacity: 0.8;
         }
 
@@ -262,7 +262,7 @@
         }
 
         .d .sib-drop-navigation .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sib-drop-navigation .sis-drop-navigation_view-1 {
@@ -493,7 +493,7 @@
         }
 
         .d .sie-drop-navigation_view-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -742,7 +742,7 @@
         }
 
         .d .sie-drop-navigation_view-1-1_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: uppercase;
             line-height: 2;
             letter-spacing: 0.2em;
@@ -783,7 +783,7 @@
         .m .sie-drop-navigation_view-1-1_7 .se-simple:hover {}
 
         .d .sie-drop-navigation_view-1-1_7 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-drop-navigation_view-1-1_7 .se-simple {
@@ -939,11 +939,11 @@
         }
 
         .m .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-announcement-header .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-announcement-header_0 {
@@ -1060,7 +1060,7 @@
         }
 
         .m .sib-social-stalk-us .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-social-stalk-us .ss-bg {
@@ -1087,7 +1087,7 @@
         .m .sie-social-stalk-us_0 .se-simple:hover {}
 
         .d .sie-social-stalk-us_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-social-stalk-us_0 .se-simple {
@@ -1217,7 +1217,7 @@
         }
 
         .m .sib-navigation .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-navigation .ss-bg {
@@ -1400,11 +1400,11 @@
         .m .sie-navigation_view-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1_1 {
@@ -1575,11 +1575,11 @@
         .m .sie-navigation_view-1-1_0 .se-simple:hover {}
 
         .d .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-navigation_view-1-1_0 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-navigation_view-1-1_1 {
@@ -2008,11 +2008,11 @@
         }
 
         .m .sib-verse .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sib-verse .ss-bg {
-            background-color: rgba(108, 139, 187, 1);
+            background-color: #b57059;
         }
 
         .d .sie-verse_0 {
@@ -2112,13 +2112,13 @@
         }
 
         .d .sie-about_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
             text-align: center;
         }
 
         .m .sie-about_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .m .sib-building-kp-gallery {
@@ -2180,11 +2180,11 @@
         }
 
         .m .sib-book-tour .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-book-tour .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-book-tour_0:hover {
@@ -2373,7 +2373,7 @@
         }
 
         .m .sie-meet-the-team_1-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
@@ -2419,12 +2419,12 @@
         }
 
         .d .sie-meet-the-team_4-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
         .m .sie-meet-the-team_4-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
         }
 
         .d .sie-meet-the-team_5 {
@@ -2475,7 +2475,7 @@
         }
 
         .m .sie-meet-the-team_6-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
@@ -2554,7 +2554,7 @@
         }
 
         .m .sie-meet-the-team_9-text {
-            color: rgba(56, 79, 114, 1);
+            color: #667462;
             text-transform: none;
         }
 
@@ -2780,11 +2780,11 @@
         .m .sie-every-season_stunning-in-every-season_5 .se-simple:hover {}
 
         .d .sie-every-season_stunning-in-every-season_5 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-every-season_stunning-in-every-season_5 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-every-season_stunning-in-every-season_6 {
@@ -2949,11 +2949,11 @@
         .m .sie-every-season_spring_4 .se-simple:hover {}
 
         .d .sie-every-season_spring_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-every-season_spring_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-every-season_spring_5 {
@@ -3140,11 +3140,11 @@
         .m .sie-every-season_summer_4 .se-simple:hover {}
 
         .d .sie-every-season_summer_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-every-season_summer_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-every-season_summer_5 {
@@ -3331,11 +3331,11 @@
         .m .sie-every-season_fall_4 .se-simple:hover {}
 
         .d .sie-every-season_fall_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-every-season_fall_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-every-season_fall_5 {
@@ -3518,11 +3518,11 @@
         .m .sie-every-season_winter_4 .se-simple:hover {}
 
         .d .sie-every-season_winter_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .m .sie-every-season_winter_4 .se-simple {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-every-season_winter_5 {
@@ -3642,11 +3642,11 @@
         }
 
         .m .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-footer .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-footer_0 {
@@ -4582,11 +4582,11 @@
         }
 
         .m .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sib-contact-sticky .ss-bg {
-            background-color: rgba(56, 79, 114, 1);
+            background-color: #667462;
         }
 
         .d .sie-contact-sticky_0 {

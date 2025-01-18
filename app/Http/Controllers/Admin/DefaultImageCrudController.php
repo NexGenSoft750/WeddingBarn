@@ -53,6 +53,9 @@ class DefaultImageCrudController extends CrudController
      */
     protected function setupUpdateOperation()
     {
+        $this->crud->setValidation([
+            'image_path' => 'required', // Ensure the file is an image and max 10MB
+        ]);
         CRUD::field([   // Upload
             'name'      => 'image_path',
             'label'     => 'Image',

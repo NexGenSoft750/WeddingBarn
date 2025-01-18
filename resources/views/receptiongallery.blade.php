@@ -2362,7 +2362,7 @@
         .m .sie-mobile-nav_3 svg,
         .m .sie-mobile-nav_4 svg,
         .m .sie-mobile-nav_5 svg {
-            fill: rgba(56, 79, 114, 1)
+            fill: #667462
         }
 
         .d .sie-mobile-nav_3 {
