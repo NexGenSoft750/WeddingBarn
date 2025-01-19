@@ -16,5 +16,12 @@ class Price extends Model
         'saturday_peak',
         'sunday_non_peak',
         'sunday_peak',
+        'multi_day_friday_saturday_peak',
+        'multi_day_friday_saturday_non_peak',
+        'multi_day_saturday_sunday_peak',
+        'multi_day_saturday_sunday_non_peak',
+        'full_weekend_peak',
+        'full_weekend_non_peak',
+        'full_weekend_only', // Include all columns here
     ];
 }

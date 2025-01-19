@@ -14,10 +14,12 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Meddon&family=Pacifico&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
         rel="stylesheet">
+
 </head>
 
 <body>
     @include('partials.updatedheader')
+    @include('partials.social')
     <div class="hero-section d-flex " style="height: 100vh; ">
     </div>
     <div class="container">
@@ -374,49 +376,7 @@
         </div>
     </div>
     <hr class="styled-line">
-    <div class="container my-5">
-        <div class="row">
-            <!-- Left Column: Contact Image and Content -->
-            <div class="col-lg-6 col-md-12 d-flex flex-row  align-items-center ">
-                <!-- Image container -->
-                <div class="image-container mb-4">
-                    <img src="{{ asset('wedding-color.jpg') }}" alt="Red Ridge Receptions" class="contact-image">
-                </div>
-
-                <!-- Text Content after Image -->
-                <div class="left-content ml-5">
-                    <h2>Contact Us</h2>
-                    <p>Red Ridge Receptions is an indoor-outdoor Texas Hill Country wedding venue, located less than
-                        an
-                        hour from Austin. Schedule a property tour, inquire about a date, or say hello.</p>
-                    <h3>Get in Touch</h3>
-                </div>
-            </div>
-
-            <!-- Right Column: Contact Information -->
-            <div class="col-lg-6 col-md-12">
-                <div class="right-column">
-                    <p>Find your way around:</p>
-                    <ul>
-                        <li><a href="{{route('about')}}">About</a></li>
-                        <li><a href="#">Weddings</a></li>
-                        <li><a href="{{route('microwedding')}}">Micro Weddings</a></li>
-                        <li><a href="{{route('gallery')}}">Galleries</a></li>
-                    </ul>
-
-                    <hr>
-
-                    <h3>Share the Love</h3>
-                    <p>Follow us on social media!</p>
-                    <ul>
-                        <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Pinterest</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+  @include('partials.customfooter')
     <hr class="styled-line">
     <p class="text-center">© 2022-2024 Red Ridge Receptions. web design: hawthorn creative.</p>
 

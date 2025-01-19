@@ -1,3 +1,40 @@
+ <head>
+    <style>/* Custom CSS for the footer link */
+.sie-footer_22 {
+    text-decoration: none; /* Removes the underline from the link */
+    color: #333;
+
+}
+
+.sie-footer_22:hover {
+    color: #0056b3; /* Change text color on hover */
+}
+
+.sie-footer_22-text {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 18px; /* Adjust the font size */
+    text-align: center;
+    margin-bottom: 5px; /* Set the color of the text */
+}
+
+.st-m-paragraph {
+    margin: 10px 0; /* Add some margin to the paragraph */
+}
+
+.st-d-paragraph {
+    font-family: Arial, sans-serif; /* Set the font family */
+}
+
+/* Optionally style the container */
+
+
+/* For larger text sizes */
+.fs-1 {
+    font-size: 3rem; /* Example for large text */
+}
+</style>
+ </head>
+
  <div id="footer" data-bid="footer" class="sb sib-footer">
      <div class="ss-s ss-bg">
          <div class="sc" style="width:1200px">
@@ -88,27 +125,30 @@
                  data-sid="footer_14">
                  <p class="se-t sie-footer_14-text st-m-paragraph st-d-paragraph">
                      kristin@kendallpoint.com<br><br></p>
-             </a><a href="about.html" target="_self" class="sie-footer_15 se" data-sid="footer_15">
+             </a><a href="{{ route('about') }}" target="_self" class="sie-footer_15 se" data-sid="footer_15">
                  <p class="se-t sie-footer_15-text st-m-paragraph st-d-paragraph">about<br></p>
-             </a><a href="amenities.html" target="_self" class="sie-footer_16 se" data-sid="footer_16">
+             </a><a href="{{ route('amenities') }}" target="_self" class="sie-footer_16 se" data-sid="footer_16">
                  <p class="se-t sie-footer_16-text st-m-paragraph st-d-paragraph">amenities<br></p>
-             </a><a href="gallery.html" target="_self" class="sie-footer_17 se" data-sid="footer_17">
+             </a><a href="{{ route('gallery') }}" target="_self" class="sie-footer_17 se" data-sid="footer_17">
                  <p class="se-t sie-footer_17-text st-m-paragraph st-d-paragraph">Gallery<br></p>
-             </a><a href="vendors.html" target="_self" class="sie-footer_18 se" data-sid="footer_18">
+             </a><a href="{{ route('vendor') }}" target="_self" class="sie-footer_18 se" data-sid="footer_18">
                  <p class="se-t sie-footer_18-text st-m-paragraph st-d-paragraph">Vendors<br></p>
-             </a><a href="contact.html" target="_self" class="sie-footer_19 se" data-sid="footer_19">
+             </a><a href="{{ route('contact') }}" target="_self" class="sie-footer_19 se" data-sid="footer_19">
                  <p class="se-t sie-footer_19-text st-m-paragraph st-d-paragraph">Contact us<br></p>
-             </a><a href="blog/index.html" target="_self" class="sie-footer_20 se" data-sid="footer_20">
+             </a><a href="{{ route('blog') }}" target="_self" class="sie-footer_20 se" data-sid="footer_20">
                  <p class="se-t sie-footer_20-text st-m-paragraph st-d-paragraph">Blog<br></p>
              </a><a href="tel:8302295090" target="_self" class="sie-footer_21 se" data-sid="footer_21">
                  <p class="se-t sie-footer_21-text st-m-paragraph st-d-paragraph">&nbsp;(830) 229-5090<br></p>
              </a><a href="resources.html" target="_self" class="sie-footer_22 se" data-sid="footer_22">
                  <p class="se-t sie-footer_22-text st-m-paragraph st-d-paragraph">Resources<br></p>
-             </a><a href="san-antonio-wedding-venue.html" target="_self" class="sie-footer_23 se"
+             </a><a href="{{ route('FAQ') }}" target="_self" class="sie-footer_22 se mt-4 fs-1" data-sid="footer_22">
+    <p class="se-t sie-footer_22-text st-m-paragraph st-d-paragraph">FAQ'S<br></p>
+</a>
+<a href="san-antonio-wedding-venue.html" target="_self" class="sie-footer_23 se"
                  data-sid="footer_23">
-                 <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph">San Antonio wedding venue<br>
+                 <p class="se-t sie-footer_23-text st-m-paragraph st-d-paragraph mt-4">San Antonio wedding venue<br>
                  </p>
-             </a><a href="pricing-guide.html" target="_self" class="sie-footer_24 se" data-sid="footer_24">
+             </a><a href="{{ route('price') }}" target="_self" class="sie-footer_24 se" data-sid="footer_24">
                  <p class="se-t sie-footer_24-text st-m-paragraph st-d-paragraph">Pricing<br></p>
              </a>
          </div>

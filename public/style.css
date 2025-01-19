@@ -1,397 +1,434 @@
-        body {
-            margin: 0;
-            padding: 0;
-        }
+body {
+    margin: 0;
+    padding: 0;
+}
 
-        .custom-bg {
-            background-color: #b57059;
-            padding: 15px 0;
-            height: 76px;
-            width: 100%;
-        }
+.custom-bg {
+    background-color: #b57059;
+    padding: 15px 0;
+    height: 76px;
+    width: 100%;
+}
 
-        @media (max-width: 768px) {
-            .sie-navigations_1 {
-                display: none;
-            }
-        }
+@media (max-width: 768px) {
+    .sie-navigations_1 {
+        display: none;
+    }
+}
 
-        .announcement-header {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
+.announcement-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
-        .announcement-header h1 {
-            color: rgba(255, 255, 255, 1);
-            line-height: 1.3;
-            letter-spacing: 0.35em;
-            font-size: 18px;
-            text-transform: uppercase;
-        }
+.announcement-header h1 {
+    color: rgba(255, 255, 255, 1);
+    line-height: 1.3;
+    letter-spacing: 0.35em;
+    font-size: 18px;
+    text-transform: uppercase;
+}
 
-        .logo {
-            vertical-align: middle;
-            border-style: none;
-            width: 356px;
-            height: 75px;
-        }
+.logo {
+    vertical-align: middle;
+    border-style: none;
+    width: 356px;
+    height: 75px;
+}
 
-        .rsvp {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-top: 5px;
-            margin-left: 30px;
-            width: 158px;
-            height: 36px;
-            letter-spacing: 0.48em;
-            font-size: 16px;
-            font-family: 'Montserrat';
-            font-weight: 700;
-            font-style: normal;
-            background-color: rgba(255, 255, 255, 1);
-            border: 0px;
-            color: #667462;
-        }
+.rsvp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 158px;
+    height: 36px;
+    letter-spacing: 0.48em;
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-style: normal;
+    background-color: rgba(255, 255, 255, 1);
+    border: 0px;
+    color: #667462;
+}
+.button-link {
+    text-decoration: none; /* Removes underline */
+}
 
-        .rsvp button {
-            background-color: rgba(255, 255, 255, 1);
-            padding: 10px 20px;
-            font-size: 16px;
-            color: #b57059;
-            border-radius: 5px;
-            cursor: pointer;
-        }
+.button-link:hover {
+    text-decoration: none; /* Ensures no underline on hover */
+}
 
-        .rsvp button:hover {
-            background-color: rgba(255, 255, 255, 0.9);
-        }
+.rsvp button {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #b57059;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+a.rsvp button {
+    text-decoration: none;
+}
 
-        @media (max-width: 576px) {
-            .announcement-header h1 {
-                font-size: 14px;
-                letter-spacing: 0.2em;
-            }
+.rsvp button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
 
-            .rsvp button {
-                font-size: 14px;
-                padding: 8px 16px;
-            }
-        }
+@media (max-width: 576px) {
+    .announcement-header h1 {
+        font-size: 14px;
+        letter-spacing: 0.2em;
+    }
 
-        .navbar {
-            background-color: white;
-            padding: 20px;
-            margin-top: 20px;
+    .rsvp button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+}
 
-        }
+.navbar {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
 
-        .navbar-brand {
-            font-size: 2.5rem;
-            font-weight: bold;
-        }
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
 
-        .navbar-text {
-            font-size: 1rem;
-            color: black;
-        }
+.navbar-text {
+    font-size: 1rem;
+    color: black;
+}
 
-        .nav-link {
-            margin: 5px;
-        }
+.nav-link {
+    margin: 5px;
+}
 
-        .nav-link:hover {
-            color: #b57059;
-            /* Change color on hover */
-            font-size: 14px;
-            /* Slightly increase font size on hover */
-            text-decoration: underline;
-            /* Optional: Add underline on hover */
-        }
+.nav-link:hover {
+    color: #b57059;
+    /* Change color on hover */
 
+    /* Slightly increase font size on hover */
+    text-decoration: underline;
+    /* Optional: Add underline on hover */
+}
 
-        .nav-link.active,
-        .nav-link:hover {
-            color: #007bff;
+.btn-primary {
+    background-color: #667462;
+    background-color: #667462;
+}
 
-        }
+.btn-primary:hover {
+    background-color: #667462;
+    background-color: #667462;
+}
 
-        .btn-primary {
-            background-color: #667462;
-            background-color: #667462;
-        }
+.info {
+    color: rgba(4, 4, 4, 1);
+    line-height: 2;
+    font-size: 14px;
+    text-align: left;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+}
+/* Make the dropdown open on hover */
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
 
-        .btn-primary:hover {
-            background-color: #667462;
-            background-color: #667462;
-        }
+/* Ensure the dropdown only appears when hovering over the parent */
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
 
-        .info {
-            color: rgba(4, 4, 4, 1);
-            line-height: 2;
-            font-size: 14px;
-            text-align: left;
-            font-family: 'Montserrat';
-            font-weight: 400;
-            font-style: normal;
-        }
+.lets-marry {
+    color: #667462;
+    text-align: left;
+    font-family: "Libre Baskerville";
+    text-transform: lowercase;
+    line-height: 1.2;
+    text-transform: lowercase;
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Libre Baskerville";
+    font-weight: 400;
+    font-style: italic;
+    text-align: left;
+    margin-top: 5px;
+}
 
-        .lets-marry {
-            color: #667462;
-            text-align: left;
-            font-family: 'Libre Baskerville';
-            text-transform: lowercase;
-            line-height: 1.2;
-            text-transform: lowercase;
-            line-height: 1.2;
-            letter-spacing: 0.1em;
-            font-size: 30px;
-            text-align: center;
-            font-family: 'Libre Baskerville';
-            font-weight: 400;
-            font-style: italic;
-            text-align: left;
-            margin-top: 5px;
-        }
+.love {
+    color: #667462;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 13px;
+    text-align: left;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+}
 
-        .love {
-            color: #667462;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            font-size: 13px;
-            text-align: left;
-            font-family: 'Montserrat';
-            font-weight: 400;
-            font-style: normal;
-        }
+.office {
+    color: rgba(4, 4, 4, 1);
+    font-size: 15px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: normal;
+}
 
-        .office {
-            color: rgba(4, 4, 4, 1);
-            font-size: 15px;
-            font-family: 'Montserrat';
-            font-weight: 600;
-            font-style: normal;
-        }
+.want,
+.view {
+    display: flex;
+    /* Ensures they can align content inside */
+    justify-content: center;
+    /* Centers text horizontally */
+    align-items: center;
+    /* Centers text vertically */
+    background-color: #667462;
+    color: white;
+    /* Optional: Set text color for better contrast */
+    padding: 10px;
+    /* Adds internal spacing */
+    flex: 1;
+    /* Ensures they take equal width */
+    box-sizing: border-box;
+    /* Ensures padding doesn't affect width */
+    cursor: pointer;
+    /* Optional: Adds a pointer cursor on hover */
+}
 
+.want:hover,
+.view:hover {
+    background-color: rgba(34, 56, 89, 1);
+    /* Optional: Add hover effect */
+}
 
+.flex-container {
+    display: flex;
+    /* Enables flexbox for the parent */
+    gap: 10px;
+    /* Adds spacing between .want and .view */
+    margin-top: 20px;
+    /* Adds spacing from elements above */
+}
 
+.image {
+    width: 540px;
+    /* Specify the width with a unit */
+    height: 540px;
+    /* Specify the height with a unit */
+    overflow: hidden;
+    /* Ensures any part of the image outside the div is hidden */
+    border-radius: inherit;
+    /* Inherits the border-radius from parent */
+    display: flex;
+    /* Ensures centering works properly */
+    justify-content: center;
+    /* Centers the image horizontally */
+    align-items: center;
+    /* Centers the image vertically */
+    margin-top: 20px;
+}
 
-        .want,
-        .view {
-            display: flex;
-            /* Ensures they can align content inside */
-            justify-content: center;
-            /* Centers text horizontally */
-            align-items: center;
-            /* Centers text vertically */
-            background-color: #667462;
-            color: white;
-            /* Optional: Set text color for better contrast */
-            padding: 10px;
-            /* Adds internal spacing */
-            flex: 1;
-            /* Ensures they take equal width */
-            box-sizing: border-box;
-            /* Ensures padding doesn't affect width */
-            cursor: pointer;
-            /* Optional: Adds a pointer cursor on hover */
-        }
+.image img {
+    width: 100%;
+    /* Makes the image responsive to the div's width */
+    height: 100%;
+    /* Makes the image responsive to the div's height */
+    object-fit: cover;
+    /* Ensures the image covers the entire div without distortion */
+    border-radius: inherit;
+    /* Ensures the image inherits the div's rounded corners */
+}
 
-        .want:hover,
-        .view:hover {
-            background-color: rgba(34, 56, 89, 1);
-            /* Optional: Add hover effect */
-        }
+.background-image {
+    background-image: url("download.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    height: 80vh;
+    /* Ensures the background covers the full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+}
 
-        .flex-container {
-            display: flex;
-            /* Enables flexbox for the parent */
-            gap: 10px;
-            /* Adds spacing between .want and .view */
-            margin-top: 20px;
-            /* Adds spacing from elements above */
-        }
+.testimonial {
+    font-size: 2rem;
+    font-style: italic;
+    color: #384f72;
+    margin-bottom: 20px;
+}
 
-        .image {
-            width: 540px;
-            /* Specify the width with a unit */
-            height: 540px;
-            /* Specify the height with a unit */
-            overflow: hidden;
-            /* Ensures any part of the image outside the div is hidden */
-            border-radius: inherit;
-            /* Inherits the border-radius from parent */
-            display: flex;
-            /* Ensures centering works properly */
-            justify-content: center;
-            /* Centers the image horizontally */
-            align-items: center;
-            /* Centers the image vertically */
-            margin-top: 20px;
-        }
+.read-more {
+    color: #667462;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #667462;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
 
-        .image img {
-            width: 100%;
-            /* Makes the image responsive to the div's width */
-            height: 100%;
-            /* Makes the image responsive to the div's height */
-            object-fit: cover;
-            /* Ensures the image covers the entire div without distortion */
-            border-radius: inherit;
-            /* Ensures the image inherits the div's rounded corners */
-        }
+.read-more:hover {
+    color: white;
+}
 
-        .background-image {
-            background-image: url('download.jpg');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            position: relative;
-            height: 80vh;
-            /* Ensures the background covers the full viewport height */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            color: white;
-            text-align: center;
-        }
+.image-grid {
+    display: grid;
+    /* Enables grid layout */
+    grid-template-columns: repeat(4, 1fr);
+    /* Creates 4 equal columns */
+    gap: 10px;
+    /* Adds spacing between the images */
+    width: 100%;
+    margin-top: 20px;
+    /* Ensures the grid takes up full width */
+}
 
-        .testimonial {
-            font-size: 2rem;
-            font-style: italic;
-            color: #384F72;
-            margin-bottom: 20px;
-        }
+.image-item img {
+    width: 100%;
+    /* Ensures images fill the grid cell */
+    height: auto;
+    /* Maintains image aspect ratio */
+    border-radius: 8px;
+    /* Optional: Adds rounded corners to the images */
+}
 
-        .read-more {
-            color: #667462;
-            padding: 10px 20px;
-            border-radius: 5px;
-            background-color: #667462;
-            text-decoration: none;
-            color: white;
-            font-weight: bold;
-        }
+footer {
+    height: 60vh;
+    padding: 20px 0;
+    /* Add some padding to the footer */
+    background-color: #6e7158;
+    margin-top: 40px;
+    /* Optional: Light background color for the footer */
+}
 
-        .read-more:hover {
-            color: white;
-        }
+.row {
+    display: flex;
+    /* Use flexbox for the row layout */
+    justify-content: space-between;
 
-        .image-grid {
-            display: grid;
-            /* Enables grid layout */
-            grid-template-columns: repeat(4, 1fr);
-            /* Creates 4 equal columns */
-            gap: 10px;
-            /* Adds spacing between the images */
-            width: 100%;
-            margin-top: 20px;
-            /* Ensures the grid takes up full width */
-        }
+    /* Distribute the columns evenly */
+}
 
-        .image-item img {
-            width: 100%;
-            /* Ensures images fill the grid cell */
-            height: auto;
-            /* Maintains image aspect ratio */
-            border-radius: 8px;
-            /* Optional: Adds rounded corners to the images */
-        }
+.col-md-4 {
+    padding: 10px;
+    /* Adds padding around the columns */
+    border-right: 1px solid #ddd;
+    color: white;
 
-        footer {
-            height: 60vh;
-            padding: 20px 0;
-            /* Add some padding to the footer */
-            background-color: #384F72;
-            margin-top: 40px;
-            /* Optional: Light background color for the footer */
-        }
+    /* Adds a right border to each column */
+}
 
+.col-md-4:last-child {
+    border-right: none;
+    /* Remove the right border from the last column */
+}
 
+footer img {
+    width: 100%;
+    /* Make the image fill the column */
+    max-width: 300px;
+    /* Optional: Set a maximum width for the image to prevent it from growing too large */
+    height: auto;
+    /* Maintain the aspect ratio of the image */
+    border-radius: 8px;
+    /* Optional: Add rounded corners to the image */
+    object-fit: contain;
+    margin-top: 100px;
+    /* Ensures the image fits within its container without stretching */
+}
 
-        .row {
-            display: flex;
-            /* Use flexbox for the row layout */
-            justify-content: space-between;
+.footer-link {
+    list-style-type: none;
+    /* Removes default list styling */
+    padding: 0;
+    margin-top: 15px;
+    line-height: 2;
+}
 
-            /* Distribute the columns evenly */
-        }
+.footer-link li {
+    margin-bottom: 10px;
+    /* Adds space between links */
+}
 
-        .col-md-4 {
-            padding: 10px;
-            /* Adds padding around the columns */
-            border-right: 1px solid #ddd;
-            color: white;
+.footer-link a {
+    text-decoration: none;
+    color: white;
+    /* Sets the link color */
+    transition: color 0.3s ease;
+}
 
-            /* Adds a right border to each column */
-        }
+.footer-link a:hover {
+    color: #007bff;
+    /* Changes link color on hover */
+}
 
-        .col-md-4:last-child {
-            border-right: none;
-            /* Remove the right border from the last column */
-        }
+/* Ensure the form and image containers take full width on smaller screens */
+/* Ensure the form and image containers take full width on smaller screens */
 
-        footer img {
-            width: 100%;
-            /* Make the image fill the column */
-            max-width: 300px;
-            /* Optional: Set a maximum width for the image to prevent it from growing too large */
-            height: auto;
-            /* Maintain the aspect ratio of the image */
-            border-radius: 8px;
-            /* Optional: Add rounded corners to the image */
-            object-fit: contain;
-            margin-top: 100px;
-            /* Ensures the image fits within its container without stretching */
-        }
+.image {
+    display: flex;
+    justify-content: center;
+    /* Centers the image horizontally */
+    align-items: center;
+    /* Centers the image vertically */
+    width: 100%;
+    /* Make sure the container takes up full width */
+    height: auto;
+    /* Allow height to adjust based on content */
+}
 
-        .footer-link {
-            list-style-type: none;
-            /* Removes default list styling */
-            padding: 0;
-            margin-top: 15px;
-            line-height: 2;
-        }
+.image img {
+    margin-top: 20px;
+    max-width: 100%;
+    /* Ensure the image is responsive */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+.btn-primary {
+    background-color: #6e7158; /* Default background color */
+    border-color: #6e7158; /* Ensure border matches */
+    color: white; /* Optional: Set text color */
+}
 
-        .footer-link li {
-            margin-bottom: 10px;
-            /* Adds space between links */
-        }
+.btn-primary:hover {
+    background-color: #5e654a; /* Slightly darker color on hover */
+    border-color: #5e654a; /* Ensure border matches hover color */
+}
 
-        .footer-link a {
-            text-decoration: none;
-            color: white;
-            /* Sets the link color */
-            transition: color 0.3s ease;
-        }
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #5e654a; /* Color on click */
+    border-color: #5e654a; /* Ensure border remains consistent */
+    color: white; /* Optional: Maintain text color */
+    box-shadow: none; /* Remove default focus outline */
+    outline: none; /* Remove outline */
+}
 
-        .footer-link a:hover {
-            color: #007bff;
-            /* Changes link color on hover */
-        }
-
-        /* Ensure the form and image containers take full width on smaller screens */
-        /* Ensure the form and image containers take full width on smaller screens */
-
-        .image {
-            display: flex;
-            justify-content: center;
-            /* Centers the image horizontally */
-            align-items: center;
-            /* Centers the image vertically */
-            width: 100%;
-            /* Make sure the container takes up full width */
-            height: auto;
-            /* Allow height to adjust based on content */
-        }
-
-        .image img {
-            margin-top: 20px;
-            max-width: 100%;
-            /* Ensure the image is responsive */
-            height: auto;
-            /* Maintain aspect ratio */
-        }
+.btn-primary:focus:not(:active),
+.btn-primary:focus:active {
+    background-color: #5e654a; /* Same as hover */
+    border-color: #5e654a;
+}

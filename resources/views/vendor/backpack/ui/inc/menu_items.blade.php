@@ -7,3 +7,4 @@
 <x-backpack::menu-item title="Tour availabilities" icon="la la-question" :link="backpack_url('tour-availability')" />
 <x-backpack::menu-item title="Tour bookings" icon="la la-question" :link="backpack_url('tour-booking')" />
 <x-backpack::menu-item title="Time slots" icon="la la-question" :link="backpack_url('time-slot')" />
+<x-backpack::menu-item title="Price images" icon="la la-question" :link="backpack_url('price-image')" />

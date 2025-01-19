@@ -8,6 +8,7 @@ use App\Models\DefaultImage;
 use App\Http\Controllers\ContactController;
 use App\Models\TimeSlot;
 use App\Http\Controllers\TourBookingController;
+use App\Models\PriceImage;
 use Carbon\Carbon;
 
 Route::prefix('home')->group(function () {
@@ -57,7 +58,8 @@ Route::prefix('home')->group(function () {
 
     Route::get('/price', function () {
         $prices = Price::first();
-        return view('price', compact('prices'));
+        $priceimages = PriceImage::all();
+        return view('price', compact('prices', 'priceimages'));
     })->name('price');
 
     Route::get('/blog', function () {

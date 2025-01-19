@@ -9,7 +9,7 @@
     <script type="text/javascript">
         document.documentElement.className = 'js';
     </script>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style id="et-divi-userfonts">
         @font-face {
             font-family: "Adobe Carlson Pro";
@@ -5308,8 +5308,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                 word-wrap: break-word
             }
 
-            .et_pb_toggle {
-            }
+            .et_pb_toggle {}
 
             .et_pb_toggle_close {
                 padding: 20px
@@ -6340,223 +6339,92 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
             margin-top: 0px !important;
             margin-bottom: 20px !important
         }
+.et_pb_toggle_0.et_pb_toggle h5::before,
+.et_pb_toggle_1.et_pb_toggle h5::before,
+.et_pb_toggle_2.et_pb_toggle h5::before,
+.et_pb_toggle_3.et_pb_toggle h5::before,
+.et_pb_toggle_4.et_pb_toggle h5::before,
+.et_pb_toggle_5.et_pb_toggle h5::before,
+.et_pb_toggle_6.et_pb_toggle h5::before,
+.et_pb_toggle_7.et_pb_toggle h5::before,
+.et_pb_toggle_8.et_pb_toggle h5::before,
+.et_pb_toggle_9.et_pb_toggle h5::before,
+.et_pb_toggle_10.et_pb_toggle h5::before,
+.et_pb_toggle_11.et_pb_toggle h5::before,
+.et_pb_toggle_12.et_pb_toggle h5::before,
+.et_pb_toggle_13.et_pb_toggle h5::before,
+.et_pb_toggle_14.et_pb_toggle h5::before,
+.et_pb_toggle_15.et_pb_toggle h5::before,
+.et_pb_toggle_16.et_pb_toggle h5::before,
+.et_pb_toggle_17.et_pb_toggle h5::before,
+.et_pb_toggle_18.et_pb_toggle h5::before,
+.et_pb_toggle_19.et_pb_toggle h5::before,
+.et_pb_toggle_20.et_pb_toggle h5::before,
+.et_pb_toggle_21.et_pb_toggle h5::before,
+.et_pb_toggle_22.et_pb_toggle h5::before,
+.et_pb_toggle_23.et_pb_toggle h5::before,
+.et_pb_toggle_24.et_pb_toggle h5::before,
+.et_pb_toggle_25.et_pb_toggle h5::before,
+.et_pb_toggle_26.et_pb_toggle h5::before,
+.et_pb_toggle_27.et_pb_toggle h5::before,
+.et_pb_toggle_28.et_pb_toggle h5::before,
+.et_pb_toggle_29.et_pb_toggle h5::before,
+.et_pb_toggle_30.et_pb_toggle h5::before,
+.et_pb_toggle_31.et_pb_toggle h5::before,
+.et_pb_toggle_32.et_pb_toggle h5::before,
+.et_pb_toggle_33.et_pb_toggle h5::before,
+.et_pb_toggle_34.et_pb_toggle h5::before {
+    content: '+';
+    font-size: 20px; /* Adjust the size of the + sign */
+    margin-right: 10px; /* Spacing between the + and the title */
+    color: #000; /* Color for the + sign */
+    font-weight: bold; /* Make it bold if you want */
+}
 
-        .et_pb_toggle_0.et_pb_toggle h5,
-        .et_pb_toggle_0.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_0.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_0.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_0.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_0.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_1.et_pb_toggle h5,
-        .et_pb_toggle_1.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_1.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_1.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_1.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_1.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_2.et_pb_toggle h5,
-        .et_pb_toggle_2.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_2.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_2.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_2.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_2.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_3.et_pb_toggle h5,
-        .et_pb_toggle_3.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_3.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_3.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_3.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_3.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_4.et_pb_toggle h5,
-        .et_pb_toggle_4.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_4.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_4.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_4.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_4.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_5.et_pb_toggle h5,
-        .et_pb_toggle_5.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_5.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_5.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_5.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_5.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_6.et_pb_toggle h5,
-        .et_pb_toggle_6.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_6.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_6.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_6.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_6.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_7.et_pb_toggle h5,
-        .et_pb_toggle_7.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_7.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_7.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_7.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_7.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_8.et_pb_toggle h5,
-        .et_pb_toggle_8.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_8.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_8.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_8.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_8.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_9.et_pb_toggle h5,
-        .et_pb_toggle_9.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_9.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_9.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_9.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_9.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_10.et_pb_toggle h5,
-        .et_pb_toggle_10.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_10.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_10.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_10.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_10.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_11.et_pb_toggle h5,
-        .et_pb_toggle_11.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_11.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_11.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_11.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_11.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_12.et_pb_toggle h5,
-        .et_pb_toggle_12.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_12.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_12.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_12.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_12.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_13.et_pb_toggle h5,
-        .et_pb_toggle_13.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_13.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_13.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_13.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_13.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_14.et_pb_toggle h5,
-        .et_pb_toggle_14.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_14.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_14.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_14.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_14.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_15.et_pb_toggle h5,
-        .et_pb_toggle_15.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_15.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_15.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_15.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_15.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_16.et_pb_toggle h5,
-        .et_pb_toggle_16.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_16.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_16.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_16.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_16.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_17.et_pb_toggle h5,
-        .et_pb_toggle_17.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_17.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_17.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_17.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_17.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_18.et_pb_toggle h5,
-        .et_pb_toggle_18.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_18.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_18.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_18.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_18.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_19.et_pb_toggle h5,
-        .et_pb_toggle_19.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_19.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_19.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_19.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_19.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_20.et_pb_toggle h5,
-        .et_pb_toggle_20.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_20.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_20.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_20.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_20.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_21.et_pb_toggle h5,
-        .et_pb_toggle_21.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_21.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_21.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_21.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_21.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_22.et_pb_toggle h5,
-        .et_pb_toggle_22.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_22.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_22.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_22.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_22.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_23.et_pb_toggle h5,
-        .et_pb_toggle_23.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_23.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_23.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_23.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_23.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_24.et_pb_toggle h5,
-        .et_pb_toggle_24.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_24.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_24.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_24.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_24.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_25.et_pb_toggle h5,
-        .et_pb_toggle_25.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_25.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_25.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_25.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_25.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_26.et_pb_toggle h5,
-        .et_pb_toggle_26.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_26.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_26.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_26.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_26.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_27.et_pb_toggle h5,
-        .et_pb_toggle_27.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_27.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_27.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_27.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_27.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_28.et_pb_toggle h5,
-        .et_pb_toggle_28.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_28.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_28.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_28.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_28.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_29.et_pb_toggle h5,
-        .et_pb_toggle_29.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_29.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_29.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_29.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_29.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_30.et_pb_toggle h5,
-        .et_pb_toggle_30.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_30.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_30.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_30.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_30.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_31.et_pb_toggle h5,
-        .et_pb_toggle_31.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_31.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_31.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_31.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_31.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_32.et_pb_toggle h5,
-        .et_pb_toggle_32.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_32.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_32.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_32.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_32.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_33.et_pb_toggle h5,
-        .et_pb_toggle_33.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_33.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_33.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_33.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_33.et_pb_toggle h6.et_pb_toggle_title,
-        .et_pb_toggle_34.et_pb_toggle h5,
-        .et_pb_toggle_34.et_pb_toggle h1.et_pb_toggle_title,
-        .et_pb_toggle_34.et_pb_toggle h2.et_pb_toggle_title,
-        .et_pb_toggle_34.et_pb_toggle h3.et_pb_toggle_title,
-        .et_pb_toggle_34.et_pb_toggle h4.et_pb_toggle_title,
-        .et_pb_toggle_34.et_pb_toggle h6.et_pb_toggle_title {
-            font-family: 'Adobe Carlson Pro', Helvetica, Arial, Lucida, sans-serif;
-            font-size: 22px;
-            color: #000000 !important;
-            letter-spacing: 2px;
-            line-height: 1.5em
-        }
+.et_pb_toggle_0.et_pb_toggle h5,
+.et_pb_toggle_1.et_pb_toggle h5,
+.et_pb_toggle_2.et_pb_toggle h5,
+.et_pb_toggle_3.et_pb_toggle h5,
+.et_pb_toggle_4.et_pb_toggle h5,
+.et_pb_toggle_5.et_pb_toggle h5,
+.et_pb_toggle_6.et_pb_toggle h5,
+.et_pb_toggle_7.et_pb_toggle h5,
+.et_pb_toggle_8.et_pb_toggle h5,
+.et_pb_toggle_9.et_pb_toggle h5,
+.et_pb_toggle_10.et_pb_toggle h5,
+.et_pb_toggle_11.et_pb_toggle h5,
+.et_pb_toggle_12.et_pb_toggle h5,
+.et_pb_toggle_13.et_pb_toggle h5,
+.et_pb_toggle_14.et_pb_toggle h5,
+.et_pb_toggle_15.et_pb_toggle h5,
+.et_pb_toggle_16.et_pb_toggle h5,
+.et_pb_toggle_17.et_pb_toggle h5,
+.et_pb_toggle_18.et_pb_toggle h5,
+.et_pb_toggle_19.et_pb_toggle h5,
+.et_pb_toggle_20.et_pb_toggle h5,
+.et_pb_toggle_21.et_pb_toggle h5,
+.et_pb_toggle_22.et_pb_toggle h5,
+.et_pb_toggle_23.et_pb_toggle h5,
+.et_pb_toggle_24.et_pb_toggle h5,
+.et_pb_toggle_25.et_pb_toggle h5,
+.et_pb_toggle_26.et_pb_toggle h5,
+.et_pb_toggle_27.et_pb_toggle h5,
+.et_pb_toggle_28.et_pb_toggle h5,
+.et_pb_toggle_29.et_pb_toggle h5,
+.et_pb_toggle_30.et_pb_toggle h5,
+.et_pb_toggle_31.et_pb_toggle h5,
+.et_pb_toggle_32.et_pb_toggle h5,
+.et_pb_toggle_33.et_pb_toggle h5,
+.et_pb_toggle_34.et_pb_toggle h5 {
+    font-family: 'Adobe Carlson Pro', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 22px;
+    color: #000000 !important;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    display: flex;
+    align-items: center;
+}
+
 
         .et_pb_toggle_0.et_pb_toggle p,
         .et_pb_toggle_1.et_pb_toggle p,
@@ -6889,6 +6757,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
             @include('partials.updatedheader')
+            @include('partials.social')
+
             <div id="et-main-area">
 
                 <div id="main-content">
@@ -7011,6 +6881,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                         venue?
 
                                                     </h5>
+
                                                     <div class="et_pb_toggle_content clearfix">
                                                         <div dir="auto">Acre 31 presents a breathtaking and
                                                             tranquil countryside setting, ideal for a romantic and
@@ -7856,8 +7727,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                             </div>
                                             <div
                                                 class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
-                                               
-                                               
+
+
                                                 <!-- Reservation Details Section -->
                                                 <div
                                                     class="et_pb_module et_pb_toggle et_pb_toggle_35 et_pb_toggle_item et_pb_toggle_close">
@@ -8066,51 +7937,80 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                 </div>
                                             </div>
                                         </div>
-<div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
-    <div class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
-        <div class="et_pb_module et_pb_text et_pb_text_9 et_pb_text_align_left ">
-            <div class="et_pb_text_inner">
-                <h3 style="text-align: left;">Vendors & Rentals</h3>
-            </div>
-        </div>
-    </div>
-    <div class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
-        <div class="et_pb_module et_pb_toggle et_pb_toggle_39 et_pb_toggle_item et_pb_toggle_close">
-            <h5 class="et_pb_toggle_title">Do you have exclusive contracts for any vendors?</h5>
-            <div class="et_pb_toggle_content clearfix">
-                <p><span style="font-weight: 400;">We do not have exclusive contracts for any vendors. We want your special day to be exactly what you want. If you need help finding a quality vendor, please check out our <a href="{{ route('vendor') }}">Preferred Vendors</a> page. That page shares vendors that we have worked with that we believe do a fabulous job!</span></p>
-            </div>
-        </div>
-        <div class="et_pb_module et_pb_toggle et_pb_toggle_40 et_pb_toggle_item et_pb_toggle_close">
-            <h5 class="et_pb_toggle_title">Do you offer catering services?</h5>
-            <div class="et_pb_toggle_content clearfix">
-                <p><span style="font-weight: 400;">While we do not provide in-house catering, we work with a list of preferred local caterers who offer a variety of menu options to suit your tastes and dietary needs. You are also welcome to bring in your own licensed caterer.</span></p>
-            </div>
-        </div>
-        <div class="et_pb_module et_pb_toggle et_pb_toggle_41 et_pb_toggle_item et_pb_toggle_close">
-            <h5 class="et_pb_toggle_title">Can we have a food truck on the premises?</h5>
-            <div class="et_pb_toggle_content clearfix">
-                <p><span style="font-weight: 400;">Yes! Food trucks are allowed on our property. All food trucks must adhere to our vendor policies and are required to provide proof of insurance.</span></p>
-            </div>
-        </div>
-    </div>
-</div>
-<div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
-    <div class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
-        <div class="et_pb_module et_pb_text et_pb_text_9 et_pb_text_align_left ">
-            <div class="et_pb_text_inner">
-                <h3 style="text-align: left;">Still have questions?</h3>
-            </div>
-        </div>
-    </div>
-    <div class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
-        <div class="et_pb_module et_pb_text et_pb_text_10 et_pb_text_align_left ">
-            <div class="et_pb_text_inner">
-                <p><span style="font-weight: 400;">If you still have additional questions, feel free to fill out the <a href="{{ route('contact') }}">Contact Us</a> form and a member of our team will be happy to assist.</span></p>
-            </div>
-        </div>
-    </div>
-</div>
+                                        <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
+                                            <div
+                                                class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
+                                                <div
+                                                    class="et_pb_module et_pb_text et_pb_text_9 et_pb_text_align_left ">
+                                                    <div class="et_pb_text_inner">
+                                                        <h3 style="text-align: left;">Vendors & Rentals</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div
+                                                class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
+                                                <div
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_39 et_pb_toggle_item et_pb_toggle_close">
+                                                    <h5 class="et_pb_toggle_title">Do you have exclusive contracts for
+                                                        any vendors?</h5>
+                                                    <div class="et_pb_toggle_content clearfix">
+                                                        <p><span style="font-weight: 400;">We do not have exclusive
+                                                                contracts for any vendors. We want your special day to
+                                                                be exactly what you want. If you need help finding a
+                                                                quality vendor, please check out our <a
+                                                                    href="{{ route('vendor') }}">Preferred Vendors</a>
+                                                                page. That page shares vendors that we have worked with
+                                                                that we believe do a fabulous job!</span></p>
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_40 et_pb_toggle_item et_pb_toggle_close">
+                                                    <h5 class="et_pb_toggle_title">Do you offer catering services?</h5>
+                                                    <div class="et_pb_toggle_content clearfix">
+                                                        <p><span style="font-weight: 400;">While we do not provide
+                                                                in-house catering, we work with a list of preferred
+                                                                local caterers who offer a variety of menu options to
+                                                                suit your tastes and dietary needs. You are also welcome
+                                                                to bring in your own licensed caterer.</span></p>
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_41 et_pb_toggle_item et_pb_toggle_close">
+                                                    <h5 class="et_pb_toggle_title">Can we have a food truck on the
+                                                        premises?</h5>
+                                                    <div class="et_pb_toggle_content clearfix">
+                                                        <p><span style="font-weight: 400;">Yes! Food trucks are allowed
+                                                                on our property. All food trucks must adhere to our
+                                                                vendor policies and are required to provide proof of
+                                                                insurance.</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
+                                            <div
+                                                class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
+                                                <div
+                                                    class="et_pb_module et_pb_text et_pb_text_9 et_pb_text_align_left ">
+                                                    <div class="et_pb_text_inner">
+                                                        <h3 style="text-align: left;">Still have questions?</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div
+                                                class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
+                                                <div
+                                                    class="et_pb_module et_pb_text et_pb_text_10 et_pb_text_align_left ">
+                                                    <div class="et_pb_text_inner">
+                                                        <p><span style="font-weight: 400;">If you still have additional
+                                                                questions, feel free to fill out the <a
+                                                                    href="{{ route('contact') }}">Contact Us</a> form
+                                                                and a member of our team will be happy to assist.</span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
 
 
 
@@ -8132,8 +8032,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 
-                                            <div
-                                                class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left ">
+                                            <div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left ">
 
 
 
@@ -8159,7 +8058,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                             <div
                                                 class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
                                                 <a class="et_pb_button et_pb_button_0 "
-                                                    href="https://twowishesranchevents.com/contact-us">Book A
+                                                    href="{{ route('contact') }}">Book A
                                                     Tour</a>
                                             </div>
                                         </div>
@@ -8182,260 +8081,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
             </div>
 
-            <footer class="et-l et-l--footer">
-                <div class="et_builder_inner_content et_pb_gutters3">
-                    <div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
-
-
-
-
-
-
-                        <div class="et_pb_row et_pb_row_0_tb_footer et_pb_gutters4">
-                            <div
-                                class="et_pb_column et_pb_column_1_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_0_tb_footer et_clickable  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner"><img loading="lazy" decoding="async"
-                                            src="https://twowishesranchevents.com/wp-content/uploads/2020/10/TwoWishes_WhiteSymbol_Vector.png"
-                                            width="130" height="130" alt=""
-                                            class="wp-image-17402 alignnone size-full" /></div>
-                                </div>
-                                <ul
-                                    class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  ">
-
-
-
-
-                                    <li
-                                        class='et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook'>
-                                        <a href='https://www.facebook.com/TwoWishesRanchEvents/'
-                                            class='icon et_pb_with_border' title='Follow on Facebook'
-                                            target="_blank"><span class='et_pb_social_media_follow_network_name'
-                                                aria-hidden='true'>Follow</span></a>
-                                    </li>
-                                    <li
-                                        class='et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram'>
-                                        <a href='https://www.instagram.com/twowishesranchevents/'
-                                            class='icon et_pb_with_border' title='Follow on Instagram'
-                                            target="_blank"><span class='et_pb_social_media_follow_network_name'
-                                                aria-hidden='true'>Follow</span></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div
-                                class="et_pb_column et_pb_column_1_4 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p>BROWSE</p>
-                                    </div>
-                                </div>
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_2_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p><a href="https://twowishesranchevents.com/">Home</a><br /> <a
-                                                href="https://twowishesranchevents.com/our-venue/">About Our
-                                                Venue</a><br /> <a href="https://twowishesranchevents.com/about">About
-                                                Our
-                                                Team</a><br /> <a
-                                                href="https://www.twowishesranchevents.com/frequently-asked-questions/">FAQs</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div
-                                class="et_pb_column et_pb_column_1_4 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_3_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p><span style="color: #ffffff;"></span><a
-                                                href="https://twowishesranchevents.com/gallery/#photos">Photos</a><br /><a
-                                                href="https://twowishesranchevents.com/gallery/#videos">Videos</a><br /><a
-                                                href="https://twowishesranchevents.com/gallery/#virtualtour">Virtual
-                                                Tour</a><br /><a
-                                                href="https://twowishesranchevents.com/vendors/">Vendors</a> </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div
-                                class="et_pb_column et_pb_column_1_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_4_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p><a
-                                                href="https://twowishesranchevents.com/accommodations/">Accommodations</a><br /><a
-                                                href="https://twowishesranchevents.com/contact-us/">Contact Us</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                        </div>
-
-
-                    </div>
-                    <div class="et_pb_section et_pb_section_1_tb_footer et_pb_with_background et_section_regular">
-
-
-
-
-
-
-                        <div class="et_pb_row et_pb_row_1_tb_footer et_pb_gutters4">
-                            <div
-                                class="et_pb_column et_pb_column_4_4 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_5_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p style="text-align: center;"><img loading="lazy" decoding="async"
-                                                src="https://twowishesranchevents.com/wp-content/uploads/2020/10/TwoWishes_WhiteSymbol_Vector.png"
-                                                width="130" height="130" alt=""
-                                                class="wp-image-17402 alignnone size-full" /></p>
-                                    </div>
-                                </div>
-                                <ul
-                                    class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_1_tb_footer clearfix  et_pb_text_align_center ">
-
-
-
-
-                                    <li
-                                        class='et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook'>
-                                        <a href='https://www.facebook.com/TwoWishesRanchEvents/'
-                                            class='icon et_pb_with_border' title='Follow on Facebook'
-                                            target="_blank"><span class='et_pb_social_media_follow_network_name'
-                                                aria-hidden='true'>Follow</span></a>
-                                    </li>
-                                    <li
-                                        class='et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram'>
-                                        <a href='https://www.instagram.com/twowishesranchevents/'
-                                            class='icon et_pb_with_border' title='Follow on Instagram'
-                                            target="_blank"><span class='et_pb_social_media_follow_network_name'
-                                                aria-hidden='true'>Follow</span></a>
-                                    </li>
-                                </ul>
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_6_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p style="text-align: center;">QUICK LINKS</p>
-                                    </div>
-                                </div>
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_7_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <p style="text-align: center;"><a
-                                                href="https://twowishesranchevents.com/our-venue/">Our
-                                                Venue</a><br /><a
-                                                href="https://twowishesranchevents.com/gallery/">Gallery</a><br /><a
-                                                href="https://www.twowishesranchevents.com/frequently-asked-questions/">FAQs</a><br /><a
-                                                href="https://twowishesranchevents.com/vendors/">Vendors</a><br /><a
-                                                href="http://www.wishfuldrinking.org">Wishful Drinking</a><br /><a
-                                                href="https://twowishesranchevents.com/accommodations/">Accommodations</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                        </div>
-
-
-                    </div>
-                    <div class="et_pb_section et_pb_section_2_tb_footer et_pb_with_background et_section_regular">
-
-
-
-
-
-
-                        <div class="et_pb_row et_pb_row_2_tb_footer et_pb_row_fullwidth">
-                            <div
-                                class="et_pb_column et_pb_column_4_4 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-
-
-                                <div
-                                    class="et_pb_module et_pb_text et_pb_text_8_tb_footer  et_pb_text_align_left ">
-
-
-
-
-                                    <div class="et_pb_text_inner">
-                                        <h3 style="text-align: center;">© 2024 Two Wishes Ranch Venue and Events.
-                                            All Rights Reserved.</h3>
-                                        <p>&nbsp;</p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                        </div>
-
-
-                    </div>
-                </div>
-            </footer>
+            @include('partials.customfooter')
         </div>
 
 

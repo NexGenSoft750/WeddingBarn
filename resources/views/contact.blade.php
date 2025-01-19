@@ -14,6 +14,8 @@
 <body>
 
     @include('partials.updatedheader')
+          @include('partials.social')
+
     <div class="container py-5">
         <div class="row">
             <!-- Left Column (Text and Image) -->
@@ -162,48 +164,7 @@
         </div>
 
     </div>
-    <footer>
-        <div class="container">
-            <div class="row">
-                <!-- Left Column -->
-                <div class="col-md-4">
-                    <ul class="footer-link list-unstyled">
-                        <li><a href="{{ route('about') }}">ABOUT</a></li>
-                        <li><a href="{{ route('amenities') }}">AMENITIES</a></li>
-                        <li><a href="{{ route('gallery') }}">GALLERY</a></li>
-                        <li><a href="{{ route('price') }}">PRICING</a></li>
-                        <li><a href="{{ route('vendor') }}">VENDORS</a></li>
-                        <li><a href="{{ route('contact') }}">CONTACT US</a></li>
-                        <li><a href="{{ route('blog') }}">BLOG</a></li>
-                        <li><a href="#">RESOURCES</a></li>
-
-                    </ul>
-                </div>
-                <!-- Middle Column -->
-                <div class="col-md-4">
-                    <img src="{{ asset('download.png') }}">
-                </div>
-                <!-- Right Column -->
-                <div class="col-md-4">
-
-                    <p>Like what you see?</p>
-                    <p>reach out to us!</p>
-                    <!-- Contact Information -->
-                    <div class="address">
-                        <p>Email: <a href="mailto:twitter@kradallysitu.com">twitter@kradallysitu.com</a></p>
-                        <p>Phone: <a href="tel:+13202256890">(320)225-6890</a></p>
-                        <p>Address: 2024 Kradall Point, 20 CUTTRILE ROAD, BOZENE, TEXAS 710000</p>
-                    </div>
-                    <!-- Photo Credit -->
-                    <p><a href="#">Click Here for Photo Credit</a></p>
-                    <!-- Instagram Link -->
-                    <p><a
-                            href="https://www.instagram.com/rest_02569883052/">http://www.instagram.com/rest/02569883052</a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </footer>
+   @include('partials.customfooter')
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
 

@@ -39,41 +39,20 @@ class PriceCrudController extends CrudController
      */
     protected function setupListOperation()
     {
-        $this->crud->addColumn([
-            'name' => 'monday_thursday_price',
-            'label' => 'Monday to Thursday Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'friday_non_peak',
-            'label' => 'Friday Non-Peak Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'friday_peak',
-            'label' => 'Friday Peak Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'saturday_non_peak',
-            'label' => 'Saturday Non-Peak Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'saturday_peak',
-            'label' => 'Saturday Peak Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'sunday_non_peak',
-            'label' => 'Sunday Non-Peak Price',
-            'type' => 'number',
-        ]);
-        $this->crud->addColumn([
-            'name' => 'sunday_peak',
-            'label' => 'Sunday Peak Price',
-            'type' => 'number',
-        ]);
+        $this->crud->addColumn(['name' => 'monday_thursday_price', 'label' => 'Monday to Thursday Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'friday_non_peak', 'label' => 'Friday Non-Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'friday_peak', 'label' => 'Friday Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'saturday_non_peak', 'label' => 'Saturday Non-Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'saturday_peak', 'label' => 'Saturday Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'sunday_non_peak', 'label' => 'Sunday Non-Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'sunday_peak', 'label' => 'Sunday Peak Price', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'multi_day_friday_saturday_peak', 'label' => 'Multi-Day (Fri & Sat) Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'multi_day_friday_saturday_non_peak', 'label' => 'Multi-Day (Fri & Sat) Non-Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'multi_day_saturday_sunday_peak', 'label' => 'Multi-Day (Sat & Sun) Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'multi_day_saturday_sunday_non_peak', 'label' => 'Multi-Day (Sat & Sun) Non-Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'full_weekend_peak', 'label' => 'Full Weekend Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'full_weekend_non_peak', 'label' => 'Full Weekend Non-Peak', 'type' => 'number']);
+        $this->crud->addColumn(['name' => 'full_weekend_only', 'label' => 'Full Weekend Only', 'type' => 'number']);
     }
 
     /**
@@ -85,13 +64,20 @@ class PriceCrudController extends CrudController
     protected function setupCreateOperation()
     {
         CRUD::setValidation([
-            'monday_thursday_price' => 'required',
-            'friday_non_peak' => 'required',
-            'friday_peak' => 'required',
-            'saturday_non_peak' => 'required',
-            'saturday_peak' => 'required',
-            'sunday_non_peak' => 'required',
-            'sunday_peak' => 'required',
+            'monday_thursday_price' => 'required|numeric',
+            'friday_non_peak' => 'required|numeric',
+            'friday_peak' => 'required|numeric',
+            'saturday_non_peak' => 'required|numeric',
+            'saturday_peak' => 'required|numeric',
+            'sunday_non_peak' => 'required|numeric',
+            'sunday_peak' => 'required|numeric',
+            'multi_day_friday_saturday_peak' => 'required|numeric',
+            'multi_day_friday_saturday_non_peak' => 'required|numeric',
+            'multi_day_saturday_sunday_peak' => 'required|numeric',
+            'multi_day_saturday_sunday_non_peak' => 'required|numeric',
+            'full_weekend_peak' => 'required|numeric',
+            'full_weekend_non_peak' => 'required|numeric',
+            'full_weekend_only' => 'required|numeric',
         ]);
 
         CRUD::field('monday_thursday_price');
@@ -101,6 +87,13 @@ class PriceCrudController extends CrudController
         CRUD::field('saturday_peak');
         CRUD::field('sunday_non_peak');
         CRUD::field('sunday_peak');
+        CRUD::field('multi_day_friday_saturday_peak');
+        CRUD::field('multi_day_friday_saturday_non_peak');
+        CRUD::field('multi_day_saturday_sunday_peak');
+        CRUD::field('multi_day_saturday_sunday_non_peak');
+        CRUD::field('full_weekend_peak');
+        CRUD::field('full_weekend_non_peak');
+        CRUD::field('full_weekend_only');
     }
 
     /**

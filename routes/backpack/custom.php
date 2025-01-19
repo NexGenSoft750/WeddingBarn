@@ -22,6 +22,7 @@ Route::group([
     Route::crud('tour-availability', 'TourAvailabilityCrudController');
     Route::crud('tour-booking', 'TourBookingCrudController');
     Route::crud('time-slot', 'TimeSlotCrudController');
+    Route::crud('price-image', 'PriceImageCrudController');
 }); // this should be the absolute last line of this file
 
 /**

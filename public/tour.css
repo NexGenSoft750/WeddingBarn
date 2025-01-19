@@ -189,7 +189,7 @@
  }
 
  .swiper-slide.active {
-     background-color: #384F72;
+     background-color:#6e7158
      color: white;
      border-color: #384F72;
  }
@@ -235,7 +235,7 @@
  }
 
  .full-width-swiper .swiper-slide.active {
-     background-color: #384F72;
+     background-color:#6e7158
      color: white;
  }
 
