@@ -32,10 +32,11 @@ body {
 }
 
 .logo {
-    vertical-align: middle;
     border-style: none;
-    width: 356px;
-    height: 75px;
+    width: 120px; /* Increase the width for a bigger logo */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure proper alignment */
+    margin: 10px auto; /* Center the logo and add spacing */
 }
 
 .rsvp {
@@ -95,7 +96,6 @@ a.rsvp button {
 .navbar {
     background-color: white;
     padding: 20px;
-    margin-top: 20px;
 }
 
 .navbar-brand {
