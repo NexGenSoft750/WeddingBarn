@@ -1,334 +1,328 @@
- .display-5 {
-     font-size: 15px;
-     color: #7a8086;
-     text-align: center;
-     margin-top: 15px;
-     font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
- }
+.display-5 {
+    font-size: 15px;
+    color: #7a8086;
+    text-align: center;
+    margin-top: 15px;
+    font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+}
 
- .d-flex {
-     background-color: #f0f4f7;
-     min-height: 105px;
- }
+.d-flex {
+    background-color: #f0f4f7;
+    min-height: 105px;
+}
 
- .tabs {
-     display: flex;
-     justify-content: center;
-     margin-top: 50px;
-     border: none;
- }
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: none;
+}
 
- .nav-tabs .nav-link {
-     position: relative;
-     font-size: 1.2rem;
-     color: #000;
-     margin-right: 150px;
-     margin-left: 150px;
-     border: none;
-     display: block;
-     font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
-     font-size: 18px;
-     font-weight: bold;
-     text-align: center;
-     color: #3b3b3b;
- }
+.nav-tabs .nav-link {
+    position: relative;
+    font-size: 1.2rem;
+    color: #000;
+    margin-right: 150px;
+    margin-left: 150px;
+    border: none;
+    display: block;
+    font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #3b3b3b;
+}
 
- .nav-tabs .nav-link::after {
-     content: "";
-     position: absolute;
-     left: 0;
-     right: 0;
-     bottom: 0;
-     height: 2px;
-     background-color: transparent;
-     transition: background-color 0.3s ease;
-     border: none;
- }
+.nav-tabs .nav-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+    border: none;
+}
 
- .nav-tabs .nav-link:hover::after,
- .nav-tabs .nav-link.active::after {
-     background: #384F72;
-     border: none;
- }
+.nav-tabs .nav-link:hover::after,
+.nav-tabs .nav-link.active::after {
+    background: #384f72;
+    border: none;
+}
 
- .tab-content {
-     display: flex;
-     justify-content: space-between;
-     width: 100%;
-     height: auto;
-     /* Ensure both tabs don't push each other down */
- }
+.tab-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    /* Ensure both tabs don't push each other down */
+}
 
- .tab-pane {
-     flex: 1;
-     display: none;
-     /* Hide inactive tab content */
-     transition: all 0.3s ease;
- }
+.tab-pane {
+    flex: 1;
+    display: none;
+    /* Hide inactive tab content */
+    transition: all 0.3s ease;
+}
 
- .tab-pane.active {
-     display: block;
-     /* Only the active tab is displayed */
- }
+.tab-pane.active {
+    display: block;
+    /* Only the active tab is displayed */
+}
 
- .full-width-swiper {
-     margin-top: 20px;
-     padding: 10px 0;
-     background-color: #f8f9fa;
-     border-radius: 8px;
-     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-     position: relative;
- }
+.full-width-swiper {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
 
+.tab-pane h3 {
+    margin-bottom: 20px;
+    border: none;
+}
 
- .tab-pane h3 {
-     margin-bottom: 20px;
-     border: none;
- }
+.left-column,
+.right-column {
+    flex: 1;
+}
 
- .left-column,
- .right-column {
-     flex: 1;
- }
+i {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
 
- i {
-     display: flex;
-     align-items: center;
-     margin-bottom: 15px;
- }
+i p {
+    margin-left: 20px;
+    font-size: 14px;
+}
 
- i p {
-     margin-left: 20px;
-     font-size: 14px;
- }
+.bi {
+    font-size: 24px;
+    color: #333;
+}
 
- .bi {
-     font-size: 24px;
-     color: #333;
- }
+i p {
+    margin: 5px;
+    color: #555;
+}
 
- i p {
-     margin: 5px;
-     color: #555;
+.calendar {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
- }
+/* Style input field */
+.flatpickr-input {
+    width: 100%;
+    padding-left: 35px;
+    /* Adds space for the calendar icon */
+}
 
- .calendar {
-     margin-top: 20px;
-     width: 200px;
-     height: 200px;
-     margin-left: auto;
-     margin-right: auto;
- }
+/* Position the calendar icon inside the input field */
+.calendar-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #333;
+}
 
- /* Style input field */
- .flatpickr-input {
-     width: 100%;
-     padding-left: 35px;
-     /* Adds space for the calendar icon */
- }
+.right-column {
+    padding-left: 40px;
+}
 
- /* Position the calendar icon inside the input field */
- .calendar-icon {
-     position: absolute;
-     left: 10px;
-     top: 50%;
-     transform: translateY(-50%);
-     font-size: 20px;
-     color: #333;
- }
+/* Make the input container relative so the icon can be positioned absolutely inside */
+.calendar-container {
+    position: relative;
+    width: 200px;
+}
 
- .right-column {
-     padding-left: 40px;
- }
+/* Swiper Styles */
+.swiper-container {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
 
- /* Make the input container relative so the icon can be positioned absolutely inside */
- .calendar-container {
-     position: relative;
-     width: 200px;
- }
+.swiper-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
 
- /* Swiper Styles */
- .swiper-container {
-     width: 100%;
-     height: auto;
-     padding: 10px;
-     margin-top: 20px;
-     margin-bottom: 50px;
-     overflow: hidden;
- }
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9%;
+    height: 100px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 3px solid #384f72;
+    display: inline-block;
+}
 
- .swiper-wrapper {
-     display: flex;
-     flex-wrap: nowrap;
-     align-items: center;
- }
+.swiper-slide:hover {
+    color: #384f72;
+    transform: scale(1.1);
+    border-color: #384f72;
+}
 
- .swiper-slide {
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     width: 9%;
-     height: 100px;
-     background-color: white;
-     border-radius: 5px;
-     margin-right: 10px;
-     cursor: pointer;
-     font-size: 20px;
-     text-align: center;
-     transition: all 0.3s ease;
-     border: 3px solid #384F72;
-     ;
-     display: inline-block;
- }
+.swiper-slide.active {
+    background-color: #6e7158;
+}
 
- .swiper-slide:hover {
-     color: #384F72;
-     transform: scale(1.1);
-     border-color: #384F72;
- }
+.time-select {
+    margin-top: 20px;
+    display: none;
+}
 
- .swiper-slide.active {
-     background-color:#6e7158
-     color: white;
-     border-color: #384F72;
- }
+.time-select input {
+    margin-right: 10px;
+}
 
- .time-select {
-     margin-top: 20px;
-     display: none;
- }
+.full-width-swiper {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-bottom: 20px;
+}
 
- .time-select input {
-     margin-right: 10px;
- }
+.full-width-swiper .swiper-container {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-bottom: 20px;
+}
 
- .full-width-swiper {
-     margin-top: 20px;
-     padding: 10px 0;
-     background-color: white;
-     border-radius: 8px;
-     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-     position: relative;
-     margin-bottom: 20px;
- }
+.full-width-swiper .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
 
- .full-width-swiper .swiper-container {
-     width: 100%;
-     height: auto;
-     background-color: white;
-     margin-bottom: 20px;
- }
+.full-width-swiper .swiper-slide.active {
+    background-color: #6e7158;
+}
 
- .full-width-swiper .swiper-slide {
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     width: auto;
-     padding: 15px;
-     background-color: white;
-     border-radius: 5px;
-     font-size: 14px;
-     text-align: center;
-     cursor: pointer;
-     transition: all 0.3s ease;
- }
+.full-width-swiper .swiper-button-prev,
+.full-width-swiper .swiper-button-next {
+    position: absolute;
+    /* Ensure proper positioning */
+    top: 50%;
+    /* Vertically center the arrows */
+    transform: translateY(50%, -50%);
+    color: #384f72;
+    font-size: 24px;
+    z-index: 4;
+    /* Ensure arrows appear above Swiper slides but not over unrelated content */
+}
 
- .full-width-swiper .swiper-slide.active {
-     background-color:#6e7158
-     color: white;
- }
+.full-width-swiper .swiper-button-prev {
+    left: 5px;
+    /* Position the left arrow */
+}
 
- .full-width-swiper .swiper-button-prev,
- .full-width-swiper .swiper-button-next {
-     position: absolute;
-     /* Ensure proper positioning */
-     top: 50%;
-     /* Vertically center the arrows */
-     transform: translateY(50%, -50%);
-     color: #384F72;
-     font-size: 24px;
-     z-index: 4;
-     /* Ensure arrows appear above Swiper slides but not over unrelated content */
- }
+.full-width-swiper .swiper-button-next {
+    right: 5px;
 
- .full-width-swiper .swiper-button-prev {
-     left: 5px;
-     /* Position the left arrow */
- }
+    /* Position the right arrow */
+}
 
- .full-width-swiper .swiper-button-next {
-     right: 5px;
+.content-container {
+    display: flex;
+    /* Use flexbox for layout */
+    flex-wrap: wrap;
+    /* Allow wrapping for smaller screens */
+    justify-content: space-between;
+    gap: 400px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    /* Add space between columns */
+}
 
-     /* Position the right arrow */
- }
+.left-column {
+    flex: 1;
+    /* Allow left column to take available space */
+    min-width: 300px;
+    /* Ensure it doesn't shrink too much on smaller screens */
+}
 
- .content-container {
-     display: flex;
-     /* Use flexbox for layout */
-     flex-wrap: wrap;
-     /* Allow wrapping for smaller screens */
-     justify-content: space-between;
-     gap: 400px;
-     margin-top: 50px;
-     margin-left: 10px;
-     margin-bottom: 10px;
-     /* Add space between columns */
- }
+.right-column {
+    flex: 1;
+    /* Allow right column to take available space */
+    min-width: 300px;
+    /* Ensure it doesn't shrink too much on smaller screens */
+    padding-left: 40px;
+    margin-top: 100px;
 
- .left-column {
-     flex: 1;
-     /* Allow left column to take available space */
-     min-width: 300px;
-     /* Ensure it doesn't shrink too much on smaller screens */
- }
+    p {
+        margin-left: 60px;
+    }
 
- .right-column {
-     flex: 1;
-     /* Allow right column to take available space */
-     min-width: 300px;
-     /* Ensure it doesn't shrink too much on smaller screens */
-     padding-left: 40px;
-     margin-top: 100px;
+    /* Maintain some padding */
+}
 
-     p {
-         margin-left: 60px;
-     }
+.swiper-slide.disabled {
+    opacity: 0.5;
+    /* Make it look faded */
+    background-color: #f8f9fa;
+    /* Optional: different background */
+}
 
-     /* Maintain some padding */
- }
+/* Ensure swiper slide is positioned relative */
+.swiper-slide {
+    position: relative;
+    padding: 10px;
+    cursor: pointer;
+}
 
- .swiper-slide.disabled {
-     opacity: 0.5;
-     /* Make it look faded */
-     background-color: #f8f9fa;
-     /* Optional: different background */
- }
+/* Time select dropdown hidden by default */
+#timeSelect {
+    display: none;
+    /* Keep hidden initially */
+    position: absolute;
+    bottom: 100%;
+    /* Place it right above the selected date */
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    margin: 20px;
+    /* Ensure it is on top of other content */
+}
 
- /* Ensure swiper slide is positioned relative */
- .swiper-slide {
-     position: relative;
-     padding: 10px;
-     cursor: pointer;
- }
-
- /* Time select dropdown hidden by default */
- #timeSelect {
-     display: none;
-     /* Keep hidden initially */
-     position: absolute;
-     bottom: 100%;
-     /* Place it right above the selected date */
-     left: 0;
-     width: 100%;
-     z-index: 10;
-     margin: 20px;
-     /* Ensure it is on top of other content */
- }
-
- /* Style for the time dropdown */
- #timeDropdown {
-     width: 20%;
-     margin-top: 10px;
-     margin-bottom: 10px;
- }
+/* Style for the time dropdown */
+#timeDropdown {
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -6381,6 +6381,25 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     font-weight: bold; /* Make it bold if you want */
 }
 
+.et_pb_toggle_title {
+    position: relative;
+    cursor: pointer;
+    padding-right: 25px; /* Space for the icon */
+}
+
+.et_pb_toggle_title:before {
+   content: '+';
+    font-size: 20px; /* Adjust the size of the + sign */
+    margin-right: 10px; /* Spacing between the + and the title */
+    color: #000; /* Color for the + sign */
+    font-weight: bold; /* Make it bold if you want */
+}
+
+.et_pb_toggle.et_pb_toggle_open .et_pb_toggle_title:before {
+    content: "-";
+    transform: rotate(0deg); /* Rotate to match the minus icon */
+}
+
 .et_pb_toggle_0.et_pb_toggle h5,
 .et_pb_toggle_1.et_pb_toggle h5,
 .et_pb_toggle_2.et_pb_toggle h5,
@@ -7057,9 +7076,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 
-                                                    <div class="et_pb_text_inner">
-                                                        <h3 style="text-align: left;">Reservation Details</h3>
-                                                    </div>
+
                                                 </div>
                                             </div>
                                             <div
@@ -7181,336 +7198,49 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                             <strong>
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_14 et_pb_toggle_item  et_pb_toggle_close">
 
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Is there Wifi at the venue?
-                                                        <h5>
-                                                            <div class="et_pb_toggle_content clearfix">
-                                                                <p><span style="font-weight: 400;">We do not have wifi
-                                                                        so please make sure all music is downloaded
-                                                                        prior to the big event.
-
-                                                                    </span></p>
-
-                                                            </div>
-                                                </div>
                                             </div>
 
 
 
 
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_4 et_pb_gutters2">
+                                         <div id="venuedetails" class="et_pb_row et_pb_row_7 et_pb_gutters2">
                                             <div
-                                                class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+                                                class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
 
 
 
 
                                                 <div
-                                                    class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left ">
-
-
-
-
-
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="et_pb_column et_pb_column_2_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-
-
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_15 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Is there a sound system at the barn?
-
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">While we do not have a sound
-                                                                system, professional DJs and bands have all of the sound
-                                                                system capabilities available to make your event the
-                                                                perfect party you desire. Please visit our Preferred
-                                                                Vendors page for a list of preferred DJs or bands.
-
-                                                            </span>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_16 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Is parking available for guests?
-
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes, we have ample parking
-                                                                space available for your guests. Our staff will assist
-                                                                with parking arrangements to ensure a smooth and
-                                                                organized experience. We do not allow parking outside of
-                                                                designated parking area and this rule will be strictly
-                                                                enforced. Acre 31 reserves the right to utilize the
-                                                                security deposit to repair any damage caused by cars
-                                                                parked outside of the designated parking area.
-
-                                                                <em>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_17 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Can we leave vehicles in the parking
-                                                        lot overnight?
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes, you may leave vehicles
-                                                                in the parking lot overnight. We want you and your
-                                                                guests to be safe. Vehicles left overnight must be
-                                                                picked up by 12:00 pm the following day. If cars are
-                                                                left beyond that time, they will be towed at the vehicle
-                                                                owner’s expense.
-
-                                                            </span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_18 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Is the venue child-friendly?
-
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes! Due to the nature of
-                                                                being a ranch, children must be accompanied by an adult
-                                                                at all times and may not venture from the designated
-                                                                event area to the pond, etc. If five or more children
-                                                                are under the age of 13, clients must provide a
-                                                                caregiver solely responsible for their safety.
-
-                                                            </span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_19 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Are pets allowed?
-
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes! Acre 31 is a
-                                                                pet-friendly property but we ask the following:
-
-                                                            </span><a href="http://www.bykatcav.com/preferred-vendors"
-                                                                target="_blank" rel="noopener noreferrer"><i><span
-                                                                        style="font-weight: 400;">Preferred
-                                                                        Vendors</span></i></a><span
-                                                                style="font-weight: 400;"> list includes a number of
-                                                                vendors who do.</span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_20 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Do you provide ceremony chairs for
-                                                        the ceremony garden?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">We include 400 antique
-                                                                folding chairs for use during your ceremony and/or
-                                                                reception.</span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_21 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Who sets up the ceremony chairs and
-                                                        table layout?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">The Two Wishes Ranch team
-                                                                will set up your ceremony chairs and your table layout.
-                                                                We will also accommodate a rain flip should your
-                                                                ceremony need to unexpectedly be moved inside the
-                                                                barn.</span></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-
-
-                                        </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_5 et_pb_gutters2">
-                                            <div
-                                                class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
-
-
-
-
-                                                <div
-                                                    class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left ">
+                                                    class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left ">
 
 
 
 
                                                     <div class="et_pb_text_inner">
-                                                        <h3 style="text-align: left;">Food &amp; Beverages</h3>
+                                                        <h3 style="text-align: left;">A/V &amp; Technology </h3>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div
-                                                class="et_pb_column et_pb_column_2_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+                                                class="et_pb_column et_pb_column_2_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
 
 
 
 
                                                 <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_22 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Do you have a liquor license?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p dir="ltr"><span>Our partner, Wishful Drinking, LLC.,
-                                                                has a liquor license and will accommodate all your bar
-                                                                needs.</span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_23 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Are there food and drink minimums?
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <div class="ufaq-faq-title ufaq-faq-toggle"
-                                                            id="ufaq-title-500" data-postid="HAX-500-3"
-                                                            aria-expanded="true">
-                                                            <div class="ufaq-faq-title-text">
-                                                                <p dir="ltr"><span>Your drink minimum will be
-                                                                        determined by Wishful Drinking, LLC., as you
-                                                                        work together to customize your bar
-                                                                        package.</span></p>
-                                                                <p dir="ltr"><span>Food minimums are determined by
-                                                                        the vendors you select, not Two Wishes Ranch
-                                                                        Events. Your wedding planner should confirm with
-                                                                        your caterer to ensure you meet all minimum
-                                                                        requirements regarding food.</span></p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_24 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Are kitchen facilities available to
-                                                        my caterer?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes! Our 475 sq ft
-                                                                professional-grade catering kitchen offers the following
-                                                                amenities: refrigerator, ice machine, microwave,
-                                                                stainless steel prep tables, dish sink, and hand washing
-                                                                sink.</span></p>
-                                                        <p><span style="font-weight: 400;">Should your caterer need to
-                                                                reheat a meal, our stove and oven are also available for
-                                                                a $100 rental fee.</span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_25 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Can we have a food truck on the
-                                                        premises?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Yes! Food trucks are allowed
-                                                                on our property. All food trucks must adhere to our
-                                                                vendor policies and are required to provide proof of
-                                                                insurance.</span></p>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_26 et_pb_toggle_item  et_pb_toggle_close">
-
-
-
-
-                                                    <h5 class="et_pb_toggle_title">Can I bring in a cake from an
-                                                        outside baker?</h5>
-                                                    <div class="et_pb_toggle_content clearfix">Of course!</div>
-                                                </div>
-                                            </div>
-
-
-
-
-                                        </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_6 et_pb_gutters2">
-                                            <div
-                                                class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
-
-
-
-
-                                                <div
-                                                    class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left ">
-
-
-
-
-                                                    <div class="et_pb_text_inner">
-                                                        <h3 style="text-align: left;">A/V &amp; Technology</h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="et_pb_column et_pb_column_2_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-
-
-                                                <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_27 et_pb_toggle_item  et_pb_toggle_close">
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_29 et_pb_toggle_item  et_pb_toggle_close">
 
 
 
 
                                                     <h5 class="et_pb_toggle_title">Is there Wifi at the venue?
+
                                                     </h5>
                                                     <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">We do not have wifi so
+                                                        <p></i><span style="font-weight: 400;">
+                                                               We do not have wifi so
                                                                 please make sure all music is downloaded prior to the
                                                                 big event.
 
@@ -7519,22 +7249,32 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                     </div>
                                                 </div>
                                                 <div
-                                                    class="et_pb_module et_pb_toggle et_pb_toggle_28 et_pb_toggle_item  et_pb_toggle_close">
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_30 et_pb_toggle_item  et_pb_toggle_close">
 
 
 
 
                                                     <h5 class="et_pb_toggle_title">Is there a sound system at the barn?
-
                                                     </h5>
                                                     <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">While we do not have a sound
+                                                        <div class="ufaq-faq-title ufaq-faq-toggle"
+                                                            id="ufaq-title-500" data-postid="HAX-500-3"
+                                                            aria-expanded="true">
+                                                            <div class="ufaq-faq-title-text">
+                                                                <div class="ufaq-faq-title ufaq-faq-toggle"
+                                                                    id="ufaq-title-487" data-postid="ScH-487-13"
+                                                                    aria-expanded="true">
+                                                                    <div class="ufaq-faq-title-text"><span
+                                                                            style="font-weight: 400;">While we do not have a sound
                                                                 system, professional DJs and bands have all of the sound
                                                                 system capabilities available to make your event the
                                                                 perfect party you desire. Please visit our Preferred
                                                                 Vendors page for a list of preferred DJs or bands.
 
-                                                            </span></p>
+                                                                        </span></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -7543,7 +7283,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_7 et_pb_gutters2">
+                                           <div id="venuedetails" class="et_pb_row et_pb_row_7 et_pb_gutters2">
                                             <div
                                                 class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
 
@@ -7629,7 +7369,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_8 et_pb_gutters2">
+                                            <div id="venuedetails" class="et_pb_row et_pb_row_8 et_pb_gutters2">
                                             <div
                                                 class="et_pb_column et_pb_column_1_3 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough">
 
@@ -7698,15 +7438,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                                     the Lucky Penny Suite.</span></li>
                                                         </ul>
                                                     </div>
-                                                    <h5 class="et_pb_toggle_title">Can we swim in the pond?
-                                                    </h5>
-                                                    <div class="et_pb_toggle_content clearfix">
-                                                        <p><span style="font-weight: 400;">Swimming, wading or entering
-                                                                the pond water is not allowed.
-
-                                                            </span></p>
-
-                                                    </div>
+                                                </div>
+                                                     <div
+    class="et_pb_module et_pb_toggle et_pb_toggle_33 et_pb_toggle_item et_pb_toggle_close">
+    <h5 class="et_pb_toggle_title">Can we swim in the pond?</h5>
+    <div class="et_pb_toggle_content clearfix">
+        <p><span style="font-weight: 400;">Swimming, wading, or entering the pond water is not allowed.</span></p>
+    </div>
+</div>
 
                                                 </div>
                                             </div>
@@ -7715,7 +7454,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
+                                         <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
                                             <div
                                                 class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
                                                 <div
@@ -7937,7 +7676,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
+                                         <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
                                             <div
                                                 class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
                                                 <div
@@ -7987,28 +7726,32 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
+
+
+
+
+
+
+                                       <div id="venuedetails" class="et_pb_row et_pb_row_9 et_pb_gutters2">
                                             <div
                                                 class="et_pb_column et_pb_column_1_3 et_pb_column_16 et_pb_css_mix_blend_mode_passthrough">
                                                 <div
                                                     class="et_pb_module et_pb_text et_pb_text_9 et_pb_text_align_left ">
-                                                    <div class="et_pb_text_inner">
-                                                        <h3 style="text-align: left;">Still have questions?</h3>
-                                                    </div>
+
                                                 </div>
                                             </div>
                                             <div
                                                 class="et_pb_column et_pb_column_2_3 et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
                                                 <div
-                                                    class="et_pb_module et_pb_text et_pb_text_10 et_pb_text_align_left ">
-                                                    <div class="et_pb_text_inner">
-                                                        <p><span style="font-weight: 400;">If you still have additional
-                                                                questions, feel free to fill out the <a
-                                                                    href="{{ route('contact') }}">Contact Us</a> form
-                                                                and a member of our team will be happy to assist.</span>
-                                                        </p>
+                                                    class="et_pb_module et_pb_toggle et_pb_toggle_39 et_pb_toggle_item et_pb_toggle_close">
+                                                    <h5 class="et_pb_toggle_title">Still have questions?</h5>
+                                                    <div class="et_pb_toggle_content clearfix">
+                                                        <p><span style="font-weight: 400;">If you still have additional questions, feel free to fill out the <a href="{{ route('contact') }}">Contact Us</a>
+  form and a member of our team will be happy to assist.</span></p>
                                                     </div>
                                                 </div>
+
+
                                             </div>
                                         </div>
 

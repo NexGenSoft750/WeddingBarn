@@ -47,7 +47,7 @@
         .logo img {
             max-width: 300px;
             height: auto;
-            margin-top: 100px;
+            margin-top: 30px;
         }
 
         .social-links {
@@ -74,7 +74,7 @@
             margin-top: 20px;
         }
 
-        /* Media Query for small screens (mobile) */
+        /* Media Query for medium screens (tablet) */
         @media (max-width: 768px) {
             #footer {
                 flex-direction: column; /* Stack columns vertically */
@@ -85,12 +85,22 @@
                 border-right: none; /* Remove border between columns */
                 padding: 10px; /* Reduce padding */
                 min-width: 100%; /* Columns take up full width */
+                text-align: center; /* Center-align text */
             }
 
             .logo img {
-                max-width: 200px; /* Make the logo smaller on mobile */
+                max-width: 200px; /* Adjust logo size for smaller screens */
             }
+        }
 
+        /* Media Query for extra small screens (mobile devices) */
+        @media (max-width: 480px) {
+            .footer-column p {
+                font-size: 12px; /* Reduce text size for smaller screens */
+            }
+ .logo img {
+                max-width: 150px; /* Adjust logo size for smaller screens */
+            }
             .social-links {
                 flex-direction: column; /* Stack social media icons vertically */
                 align-items: center; /* Center the icons */
@@ -99,22 +109,14 @@
             .social-links a {
                 margin: 5px 0; /* Reduce space between social icons */
             }
-        }
-
-        /* Media Query for extra small screens (smaller mobile devices) */
-        @media (max-width: 480px) {
-            .footer-column p {
-                font-size: 12px; /* Reduce text size for smaller screens */
-            }
 
             .se-icon {
                 width: 25px; /* Make social media icons smaller */
                 height: 25px;
             }
         }
-
     </style>
-    <!-- Include Font Awesome CDN -->
+    <!-- Include Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 
@@ -136,7 +138,7 @@
 
         <!-- Second Column: Logo -->
         <div class="footer-column logo">
-            <img src="{{ asset('download.jpg') }}" alt="Company Logo">
+            <img src="{{ asset('download14.png') }}" alt="Company Logo">
         </div>
 
         <!-- Third Column: Social Media Links -->
@@ -160,6 +162,6 @@
         </div>
     </div>
     <div class="copyright">
-       © 2024 Kendall Point
+        © 2024 Kendall Point
     </div>
 </body>
