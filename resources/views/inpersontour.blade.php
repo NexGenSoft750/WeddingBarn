@@ -238,73 +238,81 @@
         let existingBookings = @json($bookedDates); // Get already booked dates from the backend
         console.log(existingBookings)
 
-        function populateDatesSwiper(month, year) {
-            const dateSwiperWrapper = document.getElementById("dateSwiperWrapper");
-            dateSwiperWrapper.innerHTML = ''; // Clear previous slides
+   function populateDatesSwiper(month, year) {
+    const dateSwiperWrapper = document.getElementById("dateSwiperWrapper");
+    dateSwiperWrapper.innerHTML = ''; // Clear previous slides
 
-            const daysInMonth = new Date(year, month + 1, 0).getDate();
-            const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    // Handle two months: current month and next month
+    for (let m = 0; m < 2; m++) {
+        const currentMonth = (month + m) % 12;
+        const currentYear = month + m > 11 ? year + 1 : year;
 
-            const today = new Date();
-            const isCurrentMonth = month === today.getMonth() && year === today.getFullYear();
+        const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+        const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+        const today = new Date();
+        const isCurrentMonth = currentMonth === today.getMonth() && currentYear === today.getFullYear();
 
-            let hasAvailableDates = false;
+        // Add a title for each month
+        const monthTitle = document.createElement('div');
+        monthTitle.classList.add('swiper-slide', 'month-title');
+        monthTitle.innerHTML = `<strong>${new Date(currentYear, currentMonth).toLocaleString('default', { month: 'long' })}</strong>`;
+        dateSwiperWrapper.appendChild(monthTitle);
 
-            // Iterate through the days in the current month
-            for (let i = 1; i <= daysInMonth; i++) {
-                const date = new Date(year, month, i);
-                const dayName = weekdays[date.getDay()];
-                const dateStr =
-                    `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`; // Ensure consistent date format
+        // Iterate through the days in the current month
+        for (let i = 1; i <= daysInMonth; i++) {
+            const date = new Date(currentYear, currentMonth, i);
+            const dayName = weekdays[date.getDay()]; // Get day of the week for current date
+            const dateStr =
+                `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`;
 
-                // Skip past dates for the current month
-                if (isCurrentMonth && i < today.getDate()) continue;
+            // Skip past dates for the current month
+            if (isCurrentMonth && i < today.getDate()) continue;
 
-                // Get availability for the day
-                const dayAvailability = availability[dayName.toLowerCase()];
+            // Check availability for the day (use backend data)
+            const dayAvailability = availability[dayName.toLowerCase()]; // Availability from backend
 
-                // Check if the date is already booked
-                const isBooked = existingBookings.includes(dateStr);
+            // Check if the date is already booked
+            const isBooked = existingBookings.includes(dateStr); // Check if the date is in the booked dates
 
-                // Create a swiper slide
-                const swiperSlide = document.createElement('div');
-                swiperSlide.classList.add('swiper-slide');
-                swiperSlide.innerHTML = `<strong>${dayName}</strong><br>${i}`;
-                swiperSlide.setAttribute('data-date', dateStr);
+            // Create a swiper slide
+            const swiperSlide = document.createElement('div');
+            swiperSlide.classList.add('swiper-slide');
+            swiperSlide.innerHTML = `<strong>${dayName}</strong><br>${i}`;
+            swiperSlide.setAttribute('data-date', dateStr);
 
-                // Disable unavailable or booked dates
-                if (isBooked || dayAvailability === 0) {
-                    swiperSlide.classList.add('disabled');
-                    swiperSlide.style.pointerEvents = 'none';
-                } else {
-                    hasAvailableDates = true;
-                    swiperSlide.addEventListener('click', () => handleDateSelection(dateStr, swiperSlide));
-                }
-
-                // Append the slide to the swiper wrapper
-                dateSwiperWrapper.appendChild(swiperSlide);
-
-                // Highlight the selected date
-                if (selectedDate === dateStr) swiperSlide.classList.add('active');
-            }
-
-
-            // Initialize or update Swiper instance
-            if (!window.swiperInstance) {
-                window.swiperInstance = new Swiper('#dateSwiper', {
-                    slidesPerView: 'auto',
-                    spaceBetween: 10,
-                    loop: true,
-                    freeMode: true,
-                    navigation: {
-                        nextEl: '.swiper-button-next',
-                        prevEl: '.swiper-button-prev',
-                    }
-                });
+            // Disable unavailable dates
+            if (!dayAvailability || isBooked) {
+                swiperSlide.classList.add('disabled');
+                swiperSlide.style.pointerEvents = 'none';
             } else {
-                window.swiperInstance.update();
+                swiperSlide.addEventListener('click', () => handleDateSelection(dateStr, swiperSlide));
             }
+
+            // Append the slide to the swiper wrapper
+            dateSwiperWrapper.appendChild(swiperSlide);
+
+            // Highlight the selected date
+            if (selectedDate === dateStr) swiperSlide.classList.add('active');
         }
+    }
+
+    // Initialize or update Swiper instance
+    if (!window.swiperInstance) {
+        window.swiperInstance = new Swiper('#dateSwiper', {
+            slidesPerView: 'auto',
+            spaceBetween: 10,
+            loop: true,
+            freeMode: true,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            }
+        });
+    } else {
+        window.swiperInstance.update();
+    }
+}
+
 
         function handleDateSelection(dateStr, swiperSlide) {
             console.log("Selected date:", dateStr);
@@ -438,6 +446,7 @@
             const formTab = new bootstrap.Tab(document.getElementById('form-tab'));
             formTab.show();
         }
+
     </script>
 
 

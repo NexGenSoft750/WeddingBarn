@@ -7,46 +7,53 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         /* Social Bar Styles */
-        .social-bar {
-            position: fixed;
-            bottom: 3;
-            right: 0;
-            background-color: #a67d5f;
-            width: 40px;
-            height: 350px; /* Let the height adjust based on content */
-            padding: 10px 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-end; /* Align items from bottom to top */
-            z-index: 999;
-        }
+        /* Social Bar Styles */
+.social-bar {
+    position: fixed;
+    bottom: 3;
+    right: 0;
+    background-color: #a67d5f;
+    width: 40px;
+    height: 350px; /* Let the height adjust based on content */
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end; /* Align items from bottom to top */
+    z-index: 999;
+}
 
-        /* Styling the icons */
-        .social-bar i {
-            color: #fff;
-            font-size: 24px;
-            margin: 8px 0; /* Add margin between icons for space */
-            transition: transform 0.3s ease;
-        }
+.social-bar i {
+    color: #fff;
+    font-size: 24px;
+    margin: 8px 0; /* Add margin between icons for space */
+    transition: transform 0.3s ease;
+}
 
-        .social-bar i:hover {
-            transform: scale(1.2);
-        }
+.social-bar i:hover {
+    transform: scale(1.2);
+}
 
-        /* Styling the stalk text */
-        .stalk-text {
-            color: #fff;
-            font-size: 12px;
-            text-align: center;
-            margin-bottom: 20px;
-        }
+.stalk-text {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+}
 
-        .stalk-text span {
-            display: block; /* Make each word appear in its own line */
-            transform: rotate(90deg); /* Rotate each word vertically */
-            margin-bottom: 10px; /* Space between words */
-        }
+.stalk-text span {
+    display: block; /* Make each word appear in its own line */
+    transform: rotate(90deg); /* Rotate each word vertically */
+    margin-bottom: 10px; /* Space between words */
+}
+
+/* Media Query for screens below 768px to hide social bar */
+@media (max-width: 425px) {
+    .social-bar {
+        display: none; /* Hide the social bar on smaller screens */
+    }
+}
+
     </style>
 </head>
 <body>

@@ -90,6 +90,7 @@ a.rsvp button {
     background-color: rgba(255, 255, 255, 0.9);
 }
 
+/* For devices with max-width 576px */
 @media (max-width: 576px) {
     .announcement-header h1 {
         font-size: 14px;
@@ -99,6 +100,19 @@ a.rsvp button {
     .rsvp button {
         font-size: 14px;
         padding: 8px 16px;
+    }
+}
+
+/* Additional styles for devices with max-width 375px */
+@media (max-width: 375px) {
+    .announcement-header h1 {
+        font-size: 12px; /* Smaller font size for narrow screens */
+        letter-spacing: 0.15em; /* Slightly reduced spacing */
+    }
+
+    .rsvp button {
+        font-size: 12px; /* Smaller font size for buttons */
+        padding: 6px 12px; /* Compact padding for smaller buttons */
     }
 }
 
@@ -440,4 +454,290 @@ footer img {
 .btn-primary:focus:active {
     background-color: #5e654a; /* Same as hover */
     border-color: #5e654a;
+}
+
+/* For devices with max-width 1024px */
+@media (max-width: 1024px) {
+    /* Adjust navbar brand font size */
+    .navbar-brand {
+        font-size: 2rem;
+    }
+
+    /* Adjust .rsvp button size */
+    .rsvp button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+
+    /* Adjust heading font sizes */
+    .announcement-header h1 {
+        font-size: 16px;
+    }
+
+    /* Adjust flex container for .want and .view buttons */
+    .flex-container {
+        gap: 15px;
+    }
+
+    /* Make image container responsive */
+    .image {
+        width: 100%;
+        height: auto;
+    }
+
+    /* Image grid for 4 columns */
+    .image-grid {
+        grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    }
+}
+
+/* For devices with max-width 768px */
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 2rem;
+    }
+
+    .announcement-header h1 {
+        font-size: 14px;
+    }
+
+    .rsvp button {
+        font-size: 14px;
+    }
+
+    /* Adjust flex container */
+    .flex-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Image grid for 2 columns */
+    .image-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    }
+}
+
+/* For devices with max-width 425px */
+@media (max-width: 425px) {
+    .navbar-brand {
+        font-size: 1.8rem;
+    }
+
+    /* Adjust button and font size */
+    .rsvp button {
+        font-size: 13px;
+        padding: 8px 14px;
+    }
+
+    .announcement-header h1 {
+        font-size: 12px;
+    }
+
+    /* Image grid for 1 column */
+    .image-grid {
+        grid-template-columns: 1fr; /* 1 column */
+    }
+
+    /* Adjust flex container for mobile */
+    .flex-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .image {
+        width: 100%;
+        height: auto;
+    }
+}
+
+/* For devices with max-width 375px */
+@media (max-width: 375px) {
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+
+    /* Adjust button and font size */
+    .rsvp button {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+
+    .announcement-header h1 {
+        font-size: 10px;
+    }
+
+    .image {
+        width: 100%;
+        height: auto;
+    }
+
+    .image-grid {
+        grid-template-columns: 1fr; /* 1 column */
+    }
+}
+
+/* For devices with max-width 600px */
+@media (max-width: 600px) {
+    .navbar-brand {
+        font-size: 1.8rem;
+    }
+
+    .announcement-header h1 {
+        font-size: 14px;
+    }
+
+    .rsvp button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+
+    .image-grid {
+        grid-template-columns: 1fr; /* 1 column */
+    }
+
+    .flex-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Optional adjustments for other sections */
+    .lets-marry {
+        font-size: 25px;
+    }
+
+    .love {
+        font-size: 12px;
+    }
+
+    .office {
+        font-size: 13px;
+    }
+}
+
+/* For devices with max-width 374px */
+@media (max-width: 374px) {
+    .navbar-brand {
+        font-size: 1.4rem; /* Slightly smaller font size */
+    }
+
+    .announcement-header h1 {
+        font-size: 10px; /* Smaller font size for tight screens */
+        letter-spacing: 0.1em; /* Reduce spacing for better fit */
+    }
+
+    .rsvp button {
+        font-size: 12px; /* Smaller font size */
+        padding: 6px 12px; /* Reduced padding */
+    }
+
+    /* Adjust the layout for image grids */
+    .image-grid {
+        grid-template-columns: 1fr; /* 1 column for small screens */
+    }
+
+    .image {
+        width: 100%; /* Ensure image container is responsive */
+        height: auto; /* Maintain aspect ratio */
+    }
+
+    /* Adjust text and button sizes for mobile */
+    .lets-marry {
+        font-size: 20px; /* Smaller font size for narrow screens */
+    }
+
+    .love {
+        font-size: 11px; /* Smaller font size for narrow screens */
+    }
+
+    .office {
+        font-size: 12px; /* Adjust font size */
+    }
+
+    .flex-container {
+        flex-direction: column; /* Stack elements vertically */
+        gap: 8px; /* Adjust spacing between stacked items */
+    }
+
+    /* Optional: Adjust padding and margins for containers */
+    .rsvp {
+        margin-left: 15px; /* Reduced left margin */
+        margin-top: 10px; /* Slightly reduced margin-top */
+    }
+
+    .info {
+        font-size: 12px; /* Smaller font size for better readability */
+        line-height: 1.5; /* Slightly reduced line height */
+    }
+
+    .btn-primary {
+        font-size: 12px; /* Smaller button font */
+        padding: 8px 14px; /* Adjust button size for smaller screens */
+    }
+
+    .footer-link li {
+        font-size: 12px; /* Smaller font size for footer links */
+    }
+
+    .footer-link a {
+        font-size: 12px; /* Smaller link font size */
+    }
+}
+
+/* For devices with screen widths between 375px and 380px */
+@media (min-width: 375px) and (max-width: 380px) {
+    .navbar-brand {
+        font-size: 1.5rem; /* Adjust font size for slightly wider screens */
+    }
+
+    .announcement-header h1 {
+        font-size: 12px; /* Adjust font size */
+        letter-spacing: 0.2em; /* Slightly reduce letter-spacing */
+    }
+
+    .rsvp button {
+        font-size: 14px; /* Adjust font size for button */
+        padding: 8px 14px; /* Adjust padding for button */
+    }
+
+    .lets-marry {
+        font-size: 24px; /* Adjust the font size for a better fit */
+    }
+
+    .love {
+        font-size: 13px; /* Adjust font size */
+    }
+
+    .office {
+        font-size: 14px; /* Adjust font size */
+    }
+
+    .flex-container {
+        flex-direction: row; /* Ensure items are displayed horizontally */
+        gap: 10px; /* Adjust gap between items */
+    }
+
+    .image-grid {
+        grid-template-columns: repeat(
+            2,
+            1fr
+        ); /* 2 columns for devices in this range */
+    }
+
+    .image {
+        width: 100%;
+        height: auto; /* Ensure images maintain aspect ratio */
+    }
+
+    .info {
+        font-size: 13px; /* Adjust text size */
+        line-height: 1.6; /* Adjust line height */
+    }
+
+    .footer-link li {
+        font-size: 13px; /* Adjust size of footer links */
+    }
+
+    .footer-link a {
+        font-size: 13px; /* Adjust link font size */
+    }
 }

@@ -28,9 +28,12 @@ body {
 
 .logo {
     border-style: none;
-    width: 120px; /* Increase the width for a bigger logo */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Ensure proper alignment */
+    width: 120px;
+    /* Increase the width for a bigger logo */
+    height: auto;
+    /* Maintain aspect ratio */
+    display: block;
+    /* Ensure proper alignment */
     margin: 10px auto;
 }
 
@@ -59,6 +62,71 @@ body {
     color: #b57059;
     border-radius: 5px;
     cursor: pointer;
+}
+
+/* Style for button container */
+.button-container {
+    display: inline-block;
+    /* Keep buttons inline */
+    margin: 10px;
+    /* Add spacing between buttons */
+    padding: 10px;
+    border-radius: 8px;
+    /* Rounded corners */
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+    /* Smooth hover effects */
+}
+
+/* Add hover effect to button container */
+.button-container:hover {
+    transform: translateY(-5px);
+    /* Slight lift effect on hover */
+}
+
+/* Style for the buttons */
+.custom-btn {
+    background-color: #6e7158;
+    /* Set background color */
+    border-color: #6e7158;
+    /* Set border color */
+    color: #fff;
+    /* Set text color to white */
+    padding: 10px 20px;
+    /* Add padding around text */
+    border-radius: 5px;
+    /* Rounded corners for buttons */
+    font-size: 16px;
+    /* Set font size */
+    text-decoration: none;
+    /* Remove underline from links */
+    display: inline-block;
+    /* Keep buttons inline */
+    transition:
+        background-color 0.3s,
+        border-color 0.3s;
+    /* Smooth color transition */
+}
+
+/* Hover effect for the button */
+.custom-btn:hover {
+    background-color: #5a5e46;
+    /* Darker background color on hover */
+    border-color: #5a5e46;
+    /* Darker border color on hover */
+    text-decoration: none;
+    /* Ensure no underline */
+}
+
+/* For mobile responsiveness */
+@media (max-width: 480px) {
+    .button-container {
+        width: 100%;
+        /* Make button containers full-width on small screens */
+        text-align: center;
+        /* Center-align the buttons */
+    }
 }
 
 .rsvp button:hover {
@@ -103,6 +171,8 @@ body {
     text-decoration: underline;
     /* Optional: Add underline on hover */
 }
+
+/* Style for h3 with class 'faizan' */
 
 .nav-link.active,
 .nav-link:hover {
@@ -540,5 +610,212 @@ p {
 @media screen and (max-width: 425px) {
     .left-content {
         font-size: xx-small;
+    }
+}
+
+/* Base Styles */
+.pricing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 50px;
+    flex-wrap: wrap;
+}
+
+.pricing-card {
+    background-color: #b36d58;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.pricing {
+    background-image: url("download.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+}
+
+.rental {
+    background-color: #6e7158;
+}
+
+/* Responsive Styles */
+
+/* For medium-large screens (up to 992px) */
+@media (max-width: 992px) {
+    .pricing-container {
+        padding: 30px;
+        gap: 15px;
+    }
+
+    .pricing-card {
+        width: 220px;
+        height: 280px;
+        padding: 25px;
+    }
+
+    .pricing {
+        height: 70vh;
+    }
+}
+
+/* For tablets and small screens (up to 768px) */
+@media (max-width: 768px) {
+    .pricing-container {
+        padding: 20px;
+        gap: 10px;
+    }
+
+    .pricing-card {
+        width: 180px;
+        height: 260px;
+        padding: 20px;
+    }
+
+    .pricing {
+        height: 60vh;
+        padding: 20px;
+    }
+}
+
+/* For extra small screens (up to 576px) */
+@media (max-width: 576px) {
+    .pricing-container {
+        padding: 10px;
+        gap: 5px;
+    }
+
+    .pricing-card {
+        width: 100%;
+        height: auto;
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    .pricing {
+        height: auto;
+        min-height: 50vh;
+        padding: 15px;
+    }
+}
+
+.included-section {
+    /* Light gray background to stand out */
+    padding: 40px;
+    border-radius: 8px;
+    margin: 40px 0;
+    /* spacing above and below section */
+}
+
+/* Centered heading styling */
+.included-section h2 {
+    font-family: 'Rubik', sans-serif;
+    /* Example font, use your preferred one */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.8rem;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+}
+
+/* List styling */
+.included-section ul {
+    color: white;
+    list-style: none;
+    /* Remove default bullets */
+    padding-left: 0;
+    /* Remove default left padding */
+}
+
+.included-section ul li {
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 25px;
+    /* space for custom bullet */
+    font-size: 1rem;
+    /* adjust as needed */
+    line-height: 1.4;
+    color: white;
+    font-size: 13px;
+    text-align: left;
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Custom bullet before each list item */
+.included-section ul li::before {
+    content: '•';
+    /* bullet symbol */
+    position: absolute;
+    left: 0;
+    color: white;
+    /* bullet color (example) */
+    font-size: 1.2rem;
+    /* bullet size */
+    line-height: 1;
+}
+
+/* OPTIONAL: Additional styling for smaller screens */
+@media (max-width: 576px) {
+    .included-section .col-md-6 {
+        margin-bottom: 20px;
+        /* spacing between columns on mobile */
+    }
+}
+
+@media (max-width: 576px) {
+    .pricing-card {
+        padding: 15px;
+        margin: 10px 0;
+    }
+
+    .pricing-card h5 {
+        font-size: 1rem;
+        margin-bottom: 8px;
+    }
+
+    .pricing-card p {
+        font-size: 0.9rem;
+    }
+
+    .included-section {
+        padding: 20px;
+    }
+
+    .included-section h2 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+
+    .included-section ul li {
+        font-size: 0.9rem;
+        margin-bottom: 8px;
+        padding-left: 20px;
     }
 }

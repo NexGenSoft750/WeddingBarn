@@ -30,11 +30,9 @@
                 <!-- First Paragraph in its own div -->
                 <div class="first-paragraph ">
                     <p>
-                        Austin micro weddings and elopements are becoming increasingly popular. At Red Ridge Receptions,
-                        we have over a decade of experience hosting small weddings and elopements at our venue near
-                        Austin,
-                        Texas,
-                        and we’ve helped couples book as few as two weeks before their wedding date!
+                        Discover intimate micro wedding and elopement packages at Acre 31, just 50 minutes from Austin, Texas. We offer all-inclusive services for meaningful ceremonies, ensuring a stress-free experience and deeper connections with your guests. Let us handle the details for your special day!
+
+
                     </p>
                 </div>
             </div>
@@ -45,27 +43,14 @@
         <div class="flex-paragraphs col-12 ">
             <div class="paragraph">
                 <p>
-                    If you are dreaming of an intimate and meaningful ceremony, our all-inclusive micro
-                    wedding
-                    and
-                    elopement packages are perfect for you. With a smaller guest list and reduced stress
-                    compared to
-                    larger weddings, these packages allow for more intimate moments and deeper
-                    interactions with
-                    your
-                    guests.
+                   Consider Acre 31  for your Austin micro wedding or elopement, where stunning hill country views meet a climate-controlled modern barn venue. Exchange vows amidst towering Spanish oak trees and a pond, then celebrate on our outdoor patio or in the barn. Enjoy a full-service, all-inclusive experience, allowing you to savor every moment without stress or hassle.
                 </p>
             </div>
             <div class="paragraph">
                 <p>
-                    These all-inclusive services include a comprehensive online planning portal
-                    accessible upon
-                    booking,
-                    help with the creation of timelines, floor plans, processionals, and customized
-                    wedding
-                    music. On
-                    the
-                    wedding day, our dedicated team manages every detail seamlessly.
+                   Located just 50 minutes from Austin, Acre 31 is easily accessible for you and your guests. Out of town guests can easily make it to Downtown Austin to experience all the city's lively culture and attractions.
+
+
                 </p>
             </div>
 
@@ -81,67 +66,105 @@
             </div>
         @endforeach
     </div>
-    <div class="container four">
-
-        <div class="grid">
-            <div class="images">
-                <img src="{{ asset('download5.jpg') }}" alt="Image 1">
-                <img src="{{ asset('download6.jpg') }}" alt="Image 2">
-                <img src="{{ storage::url('download1.jpg') }}" alt="Image 3">
-                <img src="{{ asset('download7.jpg') }}" alt="Image 4">
-            </div>
-            <div class="text">
-                <div class="title-paragraph">
-                    <h2>Why should you consider Red Ridge Receptions for your Austin Micro Wedding or Austin
-                        Elopement?
-                    </h2>
-                </div>
-                <div class="title-paragraph">
-                    <p>Red Ridge Receptions offers the best blend of beautiful hill country views surrounded by
-                        nature,
-                        a climate controlled venue, and elegant grand room. </p>
-                </div>
-                <div class="title-paragraph">
-                    <p>You’ll love our breathtaking panoramic views as you say your vows from one of our hilltop
-                        ceremony locations among the towering pines and full oak trees of the Colorado River Valley.
-                        You
-                        can choose between our ceremony lawn or the custom iron arbor, with both options providing a
-                        beautiful backdrop.</p>
-                </div>
-                <div class="title-paragraph">
-                    <p>Following your intimate ceremony guests will continue your celebrations taking in the epic
-                        hill
-                        country views from our outdoor deck with bistro lighting and our elegant Grande Room with
-                        awe-inspiring vaulted ceilings and exposed beams. </p>
-                </div>
-                <div class="title-paragraph">
-                    <p>We offer a full-service, all-inclusive experience for our couples planning your micro-wedding
-                        or
-                        elopement from start to finish, allowing you to fully enjoy your wedding without having to
-                        do
-                        any "work" on your wedding day. Our staff will make sure you have the time and peace of mind
-                        to
-                        truly enjoy every moment of your wedding experience. </p>
-                </div>
-                <div class="title-paragraph">
-                    <p>You can still have a beautiful wedding ceremony and photos without the cost of a full wedding
-                        reception or the impersonal experience of going to a courthouse or chapel. </p>
-                </div>
-                <div class="title-paragraph">
-                    <h2>Convenient location</h2>
-                </div>
-                <div class="title-paragraph">
-                    <p>Our location is close to Austin-Bergstrom International Airport, making it easy for out of
-                        town
-                        guests to attend. Downtown Austin is just over 45 minutes away, allowing guests to
-                        experience
-                        all the history and charm of Austin while also enjoying the picturesque views of the
-                        Colorado
-                        River valley at Red Ridge Receptions. </p>
-                </div>
-            </div>
+<!-- Pricing Section -->
+<div class="container-fluid pricing py-5">
+  <div class="container">
+    @foreach ($prices as $price)
+      <!-- Each Price record will render its own grid row -->
+      <div class="row row-cols-1 row-cols-md-4 text-center g-4 mb-4">
+        <div class="col">
+          <div class="pricing-card p-3 border rounded">
+            <h5 class="mb-2">{{ $price->micro_day_range }}</h5>
+            <p class="mb-1">{{ $price->micro_guest_range_1 }}</p>
+            <p class="mb-0"><em>${{ number_format($price->micro_price_1, 2) }}</em></p>
+          </div>
         </div>
+        <div class="col">
+          <div class="pricing-card p-3 border rounded">
+            <h5 class="mb-2">{{ $price->micro_day_range }}</h5>
+            <p class="mb-1">{{ $price->micro_guest_range_2 }}</p>
+            <p class="mb-0"><em>${{ number_format($price->micro_price_2, 2) }}</em></p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="pricing-card p-3 border rounded">
+            <h5 class="mb-2">{{ $price->micro_day_range }}</h5>
+            <p class="mb-1">{{ $price->micro_guest_range_3 }}</p>
+            <p class="mb-0"><em>${{ number_format($price->micro_price_3, 2) }}</em></p>
+          </div>
+        </div>
+        <div class="col">
+          <div class="pricing-card p-3 border rounded">
+            <h5 class="mb-2">{{ $price->micro_day_range }}</h5>
+            <p class="mb-1">{{ $price->micro_guest_range_4 }}</p>
+            <p class="mb-0"><em>${{ number_format($price->micro_price_4, 2) }}</em></p>
+          </div>
+        </div>
+      </div>
+    @endforeach
+  </div>
+</div>
+
+
+<!-- Rental Included & Add-ins Section -->
+<div class="container rental my-5">
+  <div class="included-section p-4  rounded">
+    <h2 class="text-center mb-4">Included with your rental</h2>
+    <p class="text-center  fw-bold mb-4 text-white">
+      All inclusive of venue rental, bar staff, cups and ice, catered dinner, table linens
+    </p>
+
+    <div class="row">
+      <!-- Left Column -->
+      <div class="col-12 col-md-6">
+        <ul class="list-unstyled">
+          <li>Exclusive Rental for ceremony and reception | 4:00 pm - 11pm (10pm end time) Mon-Thur</li>
+          <li>2400 Sq Ft climate controlled barn for up to 150 guests with built-in cedar bar area</li>
+          <li>2400 Sq Ft Patio with Pergola for outdoor ceremony with pond view</li>
+          <li>Outside unlimited space for seating/dining; we can assist in renting more chairs/tables/tents, etc.</li>
+          <li>Outdoor gravel patio/bar area for Cocktail Hour and lawn games</li>
+          <li>Bridal Suite with private bathroom</li>
+          <li>Groom's Suite</li>
+          <li>Separate catering kitchen</li>
+        </ul>
+      </div>
+      <!-- Right Column -->
+      <div class="col-12 col-md-6">
+        <ul class="list-unstyled">
+          <li>Gorgeous outdoor portraits area with cedar altar facing our pond</li>
+          <li>BYOB (TABC Bartenders are mandatory and security will be provided/scheduled by our staff for an added fee)</li>
+          <li>Free parking</li>
+          <li>Set up and breakdown of chairs and tables</li>
+          <li>Clear chiavari wedding chairs</li>
+          <li>60” round tables and table linens</li>
+          <li>4 farm style tables (2 8ft and 2 4ft)</li>
+          <li>Sign-In table, gift table and buffet tables provided</li>
+          <li>No set vendors list*</li>
+        </ul>
+      </div>
     </div>
+
+    <!-- Add-ins Section -->
+    <h2 class="text-center mt-5">Add-ins</h2>
+    <div class="row">
+      <div class="col-12 col-md-6">
+        <ul class="list-unstyled">
+          <li>Cocktail hour appetizers starting at $6 pp</li>
+          <li>Day of planner $1000</li>
+          <li>Mini dessert station $5/person</li>
+        </ul>
+      </div>
+      <div class="col-12 col-md-6">
+        <ul class="list-unstyled">
+          <li>Professional DJ $1795</li>
+          <li>Photobooth starting at $600</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
     <div class="container my-5">
         <!-- Row and Column to center content -->
         <div class="row justify-content-center">
@@ -167,7 +190,7 @@
                         first dance.
                     </p>
 
-                    <h3>Book Your Tour</h3>
+                    <h3 class="faizan">Book Your Tour</h3>
                     <h2>All-Inclusive Micro Wedding Package - $4500</h2>
                     <p>
                         6-hour rental is from start to finish at the venue and includes time for rehearsal, getting
@@ -225,7 +248,7 @@
                         include traditional elements such as a toast, cake cutting, and first dance.
                     </p>
 
-                    <h3>Book Your Tour</h3>
+                    <h3 >Book Your Tour</h3>
                     <h2>Austin Texas Elopement Package - $2500</h2>
                     <p>
                         This 2-hour timeline includes a ceremony followed by photos, snacks, cake cutting, toast,
@@ -342,7 +365,7 @@
                             </p>
                         </div>
                         <div class="button-container text-center">
-                            <a href="{{route('book')}}" class="btn btn-secondary mt-2">Book Your Tour</a>
+                            <a href="{{route('book')}}" class=" custom-btn mt-2">Book Your Tour</a>
                         </div>
 
                         <!-- Image Example -->
@@ -369,16 +392,13 @@
 
                     <!-- Button to Book a Tour -->
                     <div class="button-container">
-                        <a href="{{route('book')}}" class="btn btn-secondary">Book A Tour</a>
+                        <a href="{{route('book')}}" class=" custom-btn">Book A Tour</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <hr class="styled-line">
-  @include('partials.customfooter')
-    <hr class="styled-line">
-    <p class="text-center">© 2022-2024 Red Ridge Receptions. web design: hawthorn creative.</p>
+     @include('partials.newfooter')
 
 
 

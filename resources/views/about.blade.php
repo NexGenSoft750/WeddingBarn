@@ -2073,7 +2073,7 @@
         .d .sie-about_0 {
             left: 71px;
             top: 72px;
-            width: 1059px;
+            width: 1069px;
             height: 87px;
         }
 
@@ -2427,18 +2427,26 @@
             color: #667462;
         }
 
-        .d .sie-meet-the-team_5 {
-            left: 201px;
-            top: 154px;
-            width: 300px;
-            height: 300px;
-        }
+       .d .sie-meet-the-team_5 {
+    left: 210px;
+    top: 154px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://weddingwebsite.nexgensoft.io/amber.jpg);
+    background-size: cover;  /* Ensures the image covers the div fully */
+    background-position: center;  /* Centers the image within the div */
+    background-repeat: no-repeat;  /* Prevents image from repeating */
+}
 
         .m .sie-meet-the-team_5 {
             left: 48px;
             top: 64px;
             width: 225px;
             height: 225px;
+             background-image: url(https://weddingwebsite.nexgensoft.io/amber.jpg);
+    background-size: cover;  /* Ensures the image covers the div fully */
+    background-position: center;  /* Centers the image within the div */
+    background-repeat: no-repeat;  /* Prevents image from repeating */
         }
 
         .d .sie-meet-the-team_5 .se-img {
@@ -4765,9 +4773,7 @@
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
                     <div data-sid="verse_0" class="sie-verse_0 se">
-                        <p class="se-t sie-verse_0-text st-m-paragraph st-d-paragraph se-rc">And whatever you do, in
-                            word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father
-                            through him. - Colossians 3:17<br></p>
+                        <p class="se-t sie-verse_0-text st-m-paragraph st-d-paragraph se-rc">If I get married, I want to be very married – Audrey Hepburn<br></p>
                     </div>
                 </div>
             </div>
@@ -4775,12 +4781,10 @@
         <div id="about" data-bid="about" class="sb sib-about">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
-                    <div data-sid="about_0" class="sie-about_0 se">
-                        <p class="se-t sie-about_0-text st-m-paragraph st-d-paragraph se-rc">Kendall Point is a family
-                            owned and operated Christian business. Celebrating 10 years in 2021, Kendall Point has grown
-                            into Texas’ most sought after Hill Country wedding venue, offering the most desirable
-                            features for today's Bride and Groom.&nbsp; Built just for weddings with weddings in
-                            mind.&nbsp;<br><br></p>
+                    <div data-sid="about_0" class="sie-about_0 se ">
+                        <p class="se-t sie-about_0-text st-m-paragraph st-d-paragraph se-rc">Welcome to Acre 31, where love stories are celebrated and cherished! Located in the picturesque Texas Hill Country, our exquisite wedding venue is the perfect setting for your unforgettable day. Owned and operated by Amber, a passionate wedding enthusiast, dedicated to making your dream wedding a reality. It has been Amber's lifelong dream to create a space where couples can celebrate their love surrounded by beauty and grace.
+
+ <br><br></p>
                     </div>
                     <div data-sid="about_1" class="sie-about_1 se">
                         <h2 class="se-t sie-about_1-text st-m-heading st-d-heading se-rc">Our Story</h2>
@@ -4868,40 +4872,28 @@
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
                     <div data-sid="meet-the-team_0" class="sie-meet-the-team_0 se">
-                        <p class="se-t sie-meet-the-team_0-text st-m-paragraph st-d-paragraph se-rc">Boerne native. SWT
-                            alum, Dallas Cowboys FOR LIFE, baseball all day, gardening expert, loves the beach and loves
-                            Texas history.&nbsp;<br>Favorite wedding season: Summer&nbsp;<br>Favorite wedding color:
-                            Shades of Blue<br>Favorite wedding moment: Before the bride walks down the
-                            stairs<br>Favorite wedding song: Can't Help Falling In Love - Elvis<br>Favorite wedding
-                            food: Beef of any kind<br>Favorite wedding drink: Whiskey with a splash of
-                            Whiskey<br><br><br></p>
+                        <p class="se-t sie-meet-the-team_0-text st-m-paragraph st-d-paragraph se-rc">Amber's love for weddings began with the meticulous planning of her own, a journey that ignited a lifelong passion for creating unforgettable moments. Since then, she has had the joy of organizing weddings for many of her family members, each celebration reflecting her unique touch and attention to detail. Her experience in crafting beautiful events has equipped her with the skills to ensure that every wedding at Acre 31 is a seamless and joyous occasion.
+
+ <br><br><br></p>
                     </div>
                     <div data-sid="meet-the-team_1" class="sie-meet-the-team_1 se">
-                        <h2 class="se-t sie-meet-the-team_1-text st-m-heading st-d-subheading se-rc">Kristin</h2>
+                        <h2 class="se-t sie-meet-the-team_1-text st-m-heading st-d-subheading se-rc">About Amber</h2>
                     </div>
                     <div data-sid="meet-the-team_3" class="sie-meet-the-team_3 se">
-                        <p class="se-t sie-meet-the-team_3-text st-m-paragraph st-d-paragraph se-rc">Boerne native. SWT
-                            alum. Farm life is life, travel baseball dad, hunter of animals with horns, terrible at
-                            fishing but loves it. Jeremy is an amature but makes it work maintenance man, floor plan
-                            guy, landscaper extraordinaire, lightbulb changer, and groundskeeper.<br>Favorite wedding
-                            season: Winter<br>Favorite wedding color: B &amp; W<br>Favorite wedding moment: Dessert
-                            Time<br>Favorite wedding song: Not the Wobble<br>Favorite wedding food: Fajitas<br>Favorite
-                            wedding drink: Topo Chico<br></p>
+                        <p class="se-t sie-meet-the-team_3-text st-m-paragraph st-d-paragraph se-rc">Beyond weddings, Amber has a flair for throwing lavish and intimate gatherings, from milestone birthday parties to heartfelt anniversaries. Her experience in crafting these special occasions has honed her skills in creating atmospheres that resonate with warmth and celebration. Whether it's a grand affair or a cozy gathering, Amber knows how to make every event feel extraordinary.<br></p>
                     </div>
                     <div data-sid="meet-the-team_4" class="sie-meet-the-team_4 se">
-                        <h2 class="se-t sie-meet-the-team_4-text st-m-heading st-d-heading se-rc">Meet the Team</h2>
+                        <h2 class="se-t sie-meet-the-team_4-text st-m-heading st-d-heading se-rc">Meet The Team</h2>
                     </div>
                     <div data-sid="meet-the-team_5" class="sie-meet-the-team_5 se">
-                        <div style="width:100%;height:100%" data-img="meet-the-team_5" class="se-img se-gr slzy">
-                            <span role="img" aria-label="Kristin, a member of the Kendall Point team."></span>
-                        </div><noscript><img
-                                src="../static.showit.co/400/PhFN9001PXJ7E8Oe7HYoyw/105740/voss-family-dawn-elizabeth-studios-040.jpg"
-                                class="se-img" alt="Kristin, a member of the Kendall Point team."
-                                title="Voss-Family-Dawn-Elizabeth-Studios-040" /></noscript>
-                    </div>
-                    <div data-sid="meet-the-team_6" class="sie-meet-the-team_6 se">
-                        <h2 class="se-t sie-meet-the-team_6-text st-m-heading st-d-subheading se-rc">Jeremy</h2>
-                    </div>
+    <noscript><img
+        src="{{ asset('amber.jpg') }}"
+        data-img="meet-the-team_5"
+        class="se-img se-gr slzy">
+    </img></noscript>
+</div>
+
+
                     <div data-sid="meet-the-team_7" class="sie-meet-the-team_7 se">
                         <div style="width:100%;height:100%" data-img="meet-the-team_7" class="se-img se-gr slzy">
                             <span role="img" aria-label="Jeremy, a member of the Kendall Point team."></span>
@@ -4911,17 +4903,12 @@
                                 title="Voss-Family-Dawn-Elizabeth-Studios-038" /></noscript>
                     </div>
                     <div data-sid="meet-the-team_8" class="sie-meet-the-team_8 se">
-                        <p class="se-t sie-meet-the-team_8-text st-m-paragraph st-d-paragraph se-rc">Boerne native.
-                            Dad, DC comic fan, serious hater of spiders, won't get on a ladder, lover of bird houses and
-                            bird feeders. Golf cart driver, stair vines beautician, uplights set-er-upper, the go to
-                            “can you do this “ guy. <br>Favorite wedding season: Winter<br>Favorite wedding color: Lots
-                            of colors<br>Favorite wedding moment: Last Dance<br>Favorite wedding song: Swing
-                            Music<br>Favorite wedding food: Italian&nbsp;<br>Favorite wedding drink: Rum &amp;
-                            Coke<br><br><br></p>
+                        <p class="se-t sie-meet-the-team_8-text st-m-paragraph st-d-paragraph se-rc">In addition to her event planning expertise, Amber is a true creative spirit. She makes custom jewelry and viral Dubai chocolate, which are great as wedding favors or for other occasions. She is eager to bring your creative visions to life and share the indulgent taste of our gourmet chocolate with you.<br><br><br><span>Join us at Acre 31 and let Amber and her team help you create cherished memories that will last a lifetime. We can't wait to be a part of your love story!
+
+ </span></p>
+
                     </div>
-                    <div data-sid="meet-the-team_9" class="sie-meet-the-team_9 se">
-                        <h2 class="se-t sie-meet-the-team_9-text st-m-heading st-d-subheading se-rc">Jonathan</h2>
-                    </div>
+
                     <div data-sid="meet-the-team_10" class="sie-meet-the-team_10 se">
                         <div style="width:100%;height:100%" data-img="meet-the-team_10" class="se-img se-gr slzy">
                             <span role="img" aria-label="Jonathan,  a member of the Kendall Point team."></span>
@@ -5158,7 +5145,7 @@
                 </div>
             </div>
         </div>
-     @include('partials.footer')
+     @include('partials.newfooter')
         <div id="contact-sticky" data-bid="contact-sticky" class="sb sib-contact-sticky sb-lm">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px"><a href="contact-book-your-tour.html" target="_self"

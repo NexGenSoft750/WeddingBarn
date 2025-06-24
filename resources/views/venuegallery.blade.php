@@ -3068,6 +3068,32 @@
     font-weight: 400;
     font-style: normal;
 }
+/* Container for the gallery */
+.gallery-container {
+    width: auto;
+    height: auto;
+  /* Optional container styling */
+}
+
+
+
+
+
+.gallery-caption {
+  font-size: 1rem;
+  color: #333;
+  margin: 0;
+  padding: 0.5rem 0;
+}
+@media (max-width: 425px) {
+    .gallery-container{
+    }}
+    @media (max-width: 375px) {
+    .gallery-container{
+    }
+}
+/* Responsive spacing is already handled by Bootstrap's grid (g-3 gives a 1rem gap) */
+
     </style>
 
 </head>
@@ -3084,648 +3110,58 @@
                     <div class="se-simple"></div>
                 </div>
                 <div data-sid="header-message_1" class="sie-header-message_1 se">
-                    <p class="se-t sie-header-message_1-text st-m-paragraph st-d-paragraph se-rc">Explore Kendall
-                        Point from the comfort of your own home! Use our 3D Tour and Galleries to get inspired and
-                        plan the wedding of your dreams! Want to see more photos? <a
-                            href="https://www.instagram.com/kendallpointvenue/" target="_blank">We post on
-                            Instagram every day!</a>&nbsp;<br><br><br></p>
+                    <p class="se-t sie-header-message_1-text st-m-paragraph st-d-paragraph se-rc">Take a peak at what your dream wedding could look like at Acre 31. Please check us out on Instagram!
+
+ <a
+                            href="https://www.instagram.com/kendallpointvenue/" target="_blank"> Please check us out on Instagram!</a>&nbsp;<br><br><br></p>
                 </div>
             </div>
         </div>
     </div>
-    <div id="venue-spaces-gallery" data-bid="venue-spaces-gallery"
-        class="sb sib-venue-spaces-gallery sb-nm-dH sb-nd-dH">
-        <div class="ss-s ss-bg">
-            <div class="sc" style="width:1200px"></div>
-        </div>
-        <div id="venue-spaces-gallery_select-gallery" class="ss sis-venue-spaces-gallery_select-gallery sactive">
-            <div class="sc">
-                <div data-sid="venue-spaces-gallery_select-gallery_0"
-                    class="sie-venue-spaces-gallery_select-gallery_0 se">
-                    <p class="se-t sie-venue-spaces-gallery_select-gallery_0-text st-m-paragraph st-d-paragraph se-rc">
-                        A huge thank you to these photographers for letting us share their amazing photos: Pine
-                        &amp; Blossom, Snap Chic Photography, Dawn Elizabeth Studios, Jessica Chole Photography, The
-                        Crakes, Allison Jeffers Photography, West Vita, Virginia Ann Photography, Chandra's
-                        Collection, Ashley Medrano Photography, Jonathan Ivy Photography, Jaime Burrow
-                        Photography<br></p>
-                </div><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_1 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_1" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|4|0|0">
-                    <p class="se-t sie-venue-spaces-gallery_select-gallery_1-text st-m-paragraph st-d-paragraph">
-                        Groom's suite</p>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_2 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_2" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|4|0|0">
-                    <div style="width:100%;height:100%" data-img="venue-spaces-gallery_select-gallery_2"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/400/3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg"
-                            class="se-img" alt=""
-                            title="51168180_2255071864504931_4830695553425735680_o" /></noscript>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_3 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_3" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|2|0|0">
-                    <p class="se-t sie-venue-spaces-gallery_select-gallery_3-text st-m-paragraph st-d-paragraph">
-                        the porch</p>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_4 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_4" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|2|0|0">
-                    <div style="width:100%;height:100%" data-img="venue-spaces-gallery_select-gallery_4"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/400/uYmuPqBZTUW-EQ3EZxFsAQ/105740/kendall-point-texas-wedding-venue-san_antonio-texas_-_march_2022-137_websize.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas - March 2022-137_websize" /></noscript>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_5 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_5" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|1|0|0">
-                    <p class="se-t sie-venue-spaces-gallery_select-gallery_5-text st-m-paragraph st-d-paragraph">
-                        The Grounds</p>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_6 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_6" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|1|0|0">
-                    <div style="width:100%;height:100%" data-img="venue-spaces-gallery_select-gallery_6"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/400/ljKvxeRmSvygKkT-Cz3btA/105740/kendall-point-texas-wedding-venue-san_antonio-texas-dawn-elizabeth-studios-0717.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-0717" /></noscript>
-                </a>
-                <div data-sid="venue-spaces-gallery_select-gallery_7"
-                    class="sie-venue-spaces-gallery_select-gallery_7 se">
-                    <h2 class="se-t sie-venue-spaces-gallery_select-gallery_7-text st-m-heading st-d-heading se-rc">
-                        venue space Galleries</h2>
-                </div>
-                <div data-sid="venue-spaces-gallery_select-gallery_8"
-                    class="sie-venue-spaces-gallery_select-gallery_8 se">
-                    <h3
-                        class="se-t sie-venue-spaces-gallery_select-gallery_8-text st-m-subheading st-d-subheading se-rc">
-                        explore our</h3>
-                </div><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_9 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_9" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|3|0|0">
-                    <p class="se-t sie-venue-spaces-gallery_select-gallery_9-text st-m-paragraph st-d-paragraph">
-                        bridal suite</p>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_select-gallery_10 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_select-gallery_10" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|3|0|0">
-                    <div style="width:100%;height:100%" data-img="venue-spaces-gallery_select-gallery_10"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/400/6yMErOZqQcuhoLg8apM5EA/105740/clawfoot-tub-kendall_point-texas-wedding-venue.jpg"
-                            class="se-img" alt=""
-                            title="clawfoot-tub-kendall point-texas-wedding-venue" /></noscript>
-                </a>
-            </div>
-        </div>
-        <div id="venue-spaces-gallery_gallery-1" class="ss sis-venue-spaces-gallery_gallery-1">
-            <div class="sc">
-                <div data-sid="venue-spaces-gallery_gallery-1_0"
-                    class="sie-venue-spaces-gallery_gallery-1_0 se se-pc">
-                    <div data-sie="venue-spaces-gallery_gallery-1_0" class="sg-t sig-venue-spaces-gallery_gallery-1_0"
-                        data-secn="d"></div>
-                    <div><noscript><img
-                                src="../static.showit.co/1200/0Du3vguBTwCyZ0Tt842X8g/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-53.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-53"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-53" /></noscript><noscript><img
-                                src="../static.showit.co/1200/-4EZaa1nSVq8GxlnzJ7OhQ/105740/kendall-point-texas-wedding-venue-ashley-medrano-photography-4.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Ashley-Medrano-Photography-4"
-                                title="Kendall-Point-Texas-Wedding-Venue-Ashley-Medrano-Photography-4" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Rbi_IZVZS7u0CBdqoEBEIQ/105740/kendall-point-texas-wedding-venue-allison-jeffers-photography8.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Allison-Jeffers-Photography8"
-                                title="Kendall-Point-Texas-Wedding-Venue-Allison-Jeffers-Photography8" /></noscript><noscript><img
-                                src="../static.showit.co/1200/dPYymN-lQVGQV6hyxfVxjQ/105740/kendall-point-texas-wedding-venue-virginia-ann-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mPfD2P8CQhKmhqCoQdqrng/105740/kendall-point-texas-wedding-venue-snap-chic-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/zN_HzBKmSnGLgtterscjug/105740/kendall-point-texas-wedding-venue-mark-thomas-films-3.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Mark-Thomas-Films-3"
-                                title="Kendall-Point-Texas-Wedding-Venue-Mark-Thomas-Films-3" /></noscript><noscript><img
-                                src="../static.showit.co/1200/SraohmJKTFyISGfnSlOq5g/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-65.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-65"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-65" /></noscript><noscript><img
-                                src="../static.showit.co/1200/80FYdRJHTxGTGNZGG_5z3w/105740/kendall-point-texas-wedding-venue-pine-and-blossom5.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Pine-And-Blossom5"
-                                title="Kendall-Point-Texas-Wedding-Venue-Pine-And-Blossom5" /></noscript><noscript><img
-                                src="../static.showit.co/1200/GNlIsmcLTb-fE5WuHg58Lg/105740/kendall-point-texas-wedding-venue-the-crakes-2.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-The-Crakes-2"
-                                title="Kendall-Point-Texas-Wedding-Venue-The-Crakes-2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/ZMedrRL6RlC_aRCo0BOh6Q/105740/kendall-point-texas-wedding-venue-chandras-collection-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/eAxFlhWTTMWxzrqqv8NfQA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-138.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-138"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-138" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Kea02-uHS1mk9H4DQ9XnHA/105740/kendall-point-texas-wedding-venue-snap-chic-9.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-9"
-                                title="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-9" /></noscript><noscript><img
-                                src="../static.showit.co/1200/O-JgFBSHkb-Iz-lpJgPtRA/105740/0p0a9770_websize.jpg"
-                                class="se-img" alt="0P0A9770_websize"
-                                title="0P0A9770_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Sqfw0jvOSeCd6yOc-JBzCA/105740/1q0a3631_websize_1.jpg"
-                                class="se-img" alt="1Q0A3631_websize (1)"
-                                title="1Q0A3631_websize (1)" /></noscript><noscript><img
-                                src="../static.showit.co/1200/j_IM5HwYTKWNatfBOCGEhg/105740/akg-148_websize.jpg"
-                                class="se-img" alt="AKG-148_websize"
-                                title="AKG-148_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/VEw7SVsDT5eAfu7ordTtdQ/105740/allisonwesley-weddingslideshow-37.jpg"
-                                class="se-img" alt="AllisonWesley-weddingslideshow-37"
-                                title="AllisonWesley-weddingslideshow-37" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mQXAFItwSEacz4y4rigpQA/105740/courtney_and_nick-ceremony-1.jpg"
-                                class="se-img" alt="Courtney&amp;Nick-Ceremony-1"
-                                title="Courtney&amp;Nick-Ceremony-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/4d601kO0S-iQauzJdDaN4A/105740/courtney_and_nick-ceremony-3.jpg"
-                                class="se-img" alt="Courtney&amp;Nick-Ceremony-3"
-                                title="Courtney&amp;Nick-Ceremony-3" /></noscript><noscript><img
-                                src="../static.showit.co/1200/OTruMVRWR32QzNDt3io9LQ/105740/crak5840.jpg"
-                                class="se-img" alt="CRAK5840" title="CRAK5840" /></noscript><noscript><img
-                                src="../static.showit.co/1200/RM1uHkS4RsSNfCJgFhLAiA/105740/dmwedding-94.jpg"
-                                class="se-img" alt="DMWedding-94" title="DMWedding-94" /></noscript><noscript><img
-                                src="../static.showit.co/1200/uqyYmLRybZlODfT8UYiBiw/105740/firework_websize.jpg"
-                                class="se-img" alt="firework_websize"
-                                title="firework_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/U-5kWsnU5HvsbdXQIfwjpA/105740/gmp-20659_websize.jpg"
-                                class="se-img" alt="GMP-20659_websize"
-                                title="GMP-20659_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/wdYqAcrlRgKbmLJyIcii6A/105740/guijarro-wedding-dawn-elizabeth-studios-0005.jpg"
-                                class="se-img" alt="Guijarro-Wedding-Dawn-Elizabeth-Studios-0005"
-                                title="Guijarro-Wedding-Dawn-Elizabeth-Studios-0005" /></noscript><noscript><img
-                                src="../static.showit.co/1200/c4cZDqRRRwSlRofI9Zkgjg/105740/haley_and_korey-ceremony-2.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Ceremony-2"
-                                title="Haley&amp;Korey-Ceremony-2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Ceremony-2"
-                                title="Haley&amp;Korey-Ceremony-2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/UbV-a3KWsOCGLOxQpoj09g/105740/hr_sneak_under_the_sun_photography-239_websize.jpg"
-                                class="se-img" alt="HR sneak  Under the Sun Photography-239_websize"
-                                title="HR sneak  Under the Sun Photography-239_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/fbnbHwO8OpdqTgYRdrP13A/105740/hr_sneak_under_the_sun_photography-242_websize.jpg"
-                                class="se-img" alt="HR sneak  Under the Sun Photography-242_websize"
-                                title="HR sneak  Under the Sun Photography-242_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/XANXPzwISem1prZD8ZD79g/105740/i-hlv5j9n-x2.jpg"
-                                class="se-img" alt="i-HLv5j9N-X2" title="i-HLv5j9N-X2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/3GtJ0TBURoeA8CffL5CznQ/105740/kayleejamesphoto-1076_websize.jpg"
-                                class="se-img" alt="KayleeJamesPhoto-1076_websize"
-                                title="KayleeJamesPhoto-1076_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/W0hzDlKkTsm-5VaJ9q2SCw/105740/kendall_point-ceremony-san_antonio-texas.jpg"
-                                class="se-img" alt="Kendall Point-Ceremony-San Antonio-Texas"
-                                title="Kendall Point-Ceremony-San Antonio-Texas" /></noscript><noscript><img
-                                src="../static.showit.co/1200/qzFb-GwBTzuWS9al__gCAg/105740/kendall_point-san_antonio-texas.jpg"
-                                class="se-img" alt="Kendall Point-San Antonio-Texas"
-                                title="Kendall Point-San Antonio-Texas" /></noscript><noscript><img
-                                src="../static.showit.co/1200/JjlVkYc3Q9KuNGpSGYLPZQ/105740/kendall_and_john_ceremony-2.jpg"
-                                class="se-img" alt="Kendall&amp;John_Ceremony-2"
-                                title="Kendall&amp;John_Ceremony-2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg"
-                                class="se-img" alt="Kendall&amp;John_Ceremony-6"
-                                title="Kendall&amp;John_Ceremony-6" /></noscript><noscript><img
-                                src="../static.showit.co/1200/1GzXuOSWRdedI0pTwWKSfw/105740/kendall-point-texas-wedding-venue-san_antonio-texas-dawn-elizabeth-studios-1168.jpg"
-                                class="se-img"
-                                alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-1168"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-1168" /></noscript><noscript><img
-                                src="../static.showit.co/1200/j6_4NhcKSCa2nBS2jwXQXQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasceremony-1_1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasCeremony-1 (1)"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasCeremony-1 (1)" /></noscript><noscript><img
-                                src="../static.showit.co/1200/aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg"
-                                class="se-img"
-                                alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061" /></noscript><noscript><img
-                                src="../static.showit.co/1200/WDSjSnHnQieHdy4q-zRZuA/105740/kendall-point-texas-wedding-venue-san_antonio-texaskp-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasKP-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasKP-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/OjAY-ERCSD6WAnVl1_nCgQ/105740/kendallplantationwedding-318.jpg"
-                                class="se-img" alt="kendallplantationwedding-318"
-                                title="kendallplantationwedding-318" /></noscript><noscript><img
-                                src="../static.showit.co/1200/r3KeomkHT066_PCVN9X9_g/105740/laurenkyle-slideshow-47.jpg"
-                                class="se-img" alt="LaurenKyle-Slideshow-47"
-                                title="LaurenKyle-Slideshow-47" /></noscript><noscript><img
-                                src="../static.showit.co/1200/tQucYe-vTz2mm38MuDNINg/105740/screen_shot_2021-03-16_at_10_23_48_am.png"
-                                class="se-img" alt="Screen Shot 2021-03-16 at 10.23.48 AM"
-                                title="Screen Shot 2021-03-16 at 10.23.48 AM" /></noscript><noscript><img
-                                src="../static.showit.co/1200/7X2EI1xJS7KCv-_VYEcIUw/105740/sloane_photo_-_caitlyn_john_wedding-433_websize.jpg"
-                                class="se-img" alt="Sloane Photo - Caitlyn John Wedding-433_websize"
-                                title="Sloane Photo - Caitlyn John Wedding-433_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/6bCL_cNpREOhpjv2m8I7SQ/105740/sloane_photo_-_caitlyn_john_wedding-919_websize.jpg"
-                                class="se-img" alt="Sloane Photo - Caitlyn John Wedding-919_websize"
-                                title="Sloane Photo - Caitlyn John Wedding-919_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg"
-                                class="se-img" alt="Sloane Photo - Caitlyn John Wedding-924_websize"
-                                title="Sloane Photo - Caitlyn John Wedding-924_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/ukePkUMRjtQVxDUjxe5cNg/105740/sp-4_websize.jpg"
-                                class="se-img" alt="SP-4_websize" title="SP-4_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/fnjYU_belMGc5nfyqdfgvA/105740/sp-5_websize.jpg"
-                                class="se-img" alt="SP-5_websize" title="SP-5_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/3eyDzelPuWVmRmX96C9Nkw/105740/sp-76_websize.jpg"
-                                class="se-img" alt="SP-76_websize" title="SP-76_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/es7n_TWjQn-lXF9wJdv0hA/105740/sun-set-kendall-point-san_antonio-wedding-venue.jpg"
-                                class="se-img" alt="sun-set-kendall-point-san antonio-wedding-venue"
-                                title="sun-set-kendall-point-san antonio-wedding-venue" /></noscript></div>
-                </div>
-                <div data-sid="venue-spaces-gallery_gallery-1_1" class="sie-venue-spaces-gallery_gallery-1_1 se">
-                    <p class="se-t sie-venue-spaces-gallery_gallery-1_1-text st-m-paragraph st-d-paragraph se-rc">
-                        the grounds</p>
-                </div><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-1_2 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-1_2" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                            <path
-                                d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256" />
-                        </svg></div>
-                </a><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-1_3 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-1_3" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <h2 class="se-t sie-venue-spaces-gallery_gallery-1_3-text st-m-subheading st-d-subheading">
-                        Return to galleries</h2>
-                </a>
-            </div>
-        </div>
-        <div id="venue-spaces-gallery_gallery-5" class="ss sis-venue-spaces-gallery_gallery-5">
-            <div class="sc">
-                <div data-sid="venue-spaces-gallery_gallery-5_0"
-                    class="sie-venue-spaces-gallery_gallery-5_0 se se-pc">
-                    <div data-sie="venue-spaces-gallery_gallery-5_0" class="sg-t sig-venue-spaces-gallery_gallery-5_0"
-                        data-secn="d"></div>
-                    <div><noscript><img
-                                src="../static.showit.co/1200/KJJ-rplYQQuNAosNsrSpcQ/105740/kendall-point-texas-wedding-venue-west-vita-0005.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-West-Vita-0005"
-                                title="Kendall-Point-Texas-Wedding-Venue-West-Vita-0005" /></noscript><noscript><img
-                                src="../static.showit.co/1200/pOvntoexTVuTvx_pLf28Zw/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-26.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Jessica-Chole-Photography-26"
-                                title="Kendall-Point-Texas-Wedding-Venue-Jessica-Chole-Photography-26" /></noscript><noscript><img
-                                src="../static.showit.co/1200/CfToNXedQ6qQIpif9Y72LA/105740/kendall-point-texas-wedding-venue-jackie-willome-photography-3.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Jackie-Willome-Photography-3"
-                                title="Kendall-Point-Texas-Wedding-Venue-Jackie-Willome-Photography-3" /></noscript><noscript><img
-                                src="../static.showit.co/1200/TXjOOKbzRS6wddClBaDLDw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-52.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-52"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-52" /></noscript><noscript><img
-                                src="../static.showit.co/1200/h6mRYntVRaO-uV6T7-sbbA/105740/kendall-point-texas-wedding-venue-chandras-collection-6.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-6"
-                                title="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-6" /></noscript><noscript><img
-                                src="../static.showit.co/1200/OQTCeH5vSnGXTlEvsFU0Vw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00145.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00145"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00145" /></noscript><noscript><img
-                                src="../static.showit.co/1200/pzqRvllBR3ew8YRNIl-ALQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-39.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-39"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-39" /></noscript><noscript><img
-                                src="../static.showit.co/1200/KWHQ8ZNXQH-wMriOzAY5xA/105740/kendall-point-texas-wedding-venue-chandras-collection-7.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-7"
-                                title="Kendall-Point-Texas-Wedding-Venue-Chandras-Collection-7" /></noscript><noscript><img
-                                src="../static.showit.co/1200/RUVdhijJTGeQajiL_0eoeg/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-45.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-45"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-45" /></noscript><noscript><img
-                                src="../static.showit.co/1200/jN5msUN2QfuJQpnvnR-6Uw/105740/brooke_colten-brooke-30.jpg"
-                                class="se-img" alt="Brooke+Colten-Brooke-30"
-                                title="Brooke+Colten-Brooke-30" /></noscript><noscript><img
-                                src="../static.showit.co/1200/tBdULn-JTfaHzCPRHpwPKg/105740/bobby_and_ariel_-_march_2022-137_websize.jpg"
-                                class="se-img" alt="Bobby &amp; Ariel - March 2022-137_websize"
-                                title="Bobby &amp; Ariel - March 2022-137_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/YAYDb8oGSe-m2hcV-GJ4gQ/105740/snapchicphotography-186_websize.jpg"
-                                class="se-img" alt="snapchicphotography-186_websize"
-                                title="snapchicphotography-186_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mPfD2P8CQhKmhqCoQdqrng/105740/kendall-point-texas-wedding-venue-snap-chic-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/8Oc8aB5FR2yypKMdQBSQvg/105740/05152021-madisonjoshwedding-330.jpg"
-                                class="se-img" alt="05152021-MadisonJoshWedding-330"
-                                title="05152021-MadisonJoshWedding-330" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Xgo0-CwU2MBSwpD0zICWhA/105740/0p0a9769_websize.jpg"
-                                class="se-img" alt="0P0A9769_websize"
-                                title="0P0A9769_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/XFXeNP0YFIwVp7ikI2k6RA/105740/allisonjeffersphotography-34.jpg"
-                                class="se-img" alt="allisonjeffersphotography-34"
-                                title="allisonjeffersphotography-34" /></noscript><noscript><img
-                                src="../static.showit.co/1200/0i8qVLWeT0mI00xNmvzfwA/105740/ally_and_ross-sneakpeek_20of62.jpg"
-                                class="se-img" alt="Ally&amp;Ross-sneakpeek(20of62)"
-                                title="Ally&amp;Ross-sneakpeek(20of62)" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Rlc7AIfQQoesIFDz4xHo6w/105740/crak4577.jpg"
-                                class="se-img" alt="CRAK4577" title="CRAK4577" /></noscript><noscript><img
-                                src="../static.showit.co/1200/KjK7Jqb9R5mmyivSNGVs5A/105740/dmwedding-290.jpg"
-                                class="se-img" alt="DMWedding-290" title="DMWedding-290" /></noscript><noscript><img
-                                src="../static.showit.co/1200/XkUn6nsESoSV6bv6Zp-25A/105740/haley_and_korey-haley-82.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Haley-82"
-                                title="Haley&amp;Korey-Haley-82" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mJNVAbmJRMSzukUQaJNzgQ/105740/haley_and_korey-korey-4.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Korey-4"
-                                title="Haley&amp;Korey-Korey-4" /></noscript><noscript><img
-                                src="../static.showit.co/1200/-43-sVwlTsSWIXtkeQsslA/105740/hibbing_wedding_bride_and_groom-3.jpg"
-                                class="se-img" alt="Hibbing_Wedding_Bride_and_Groom-3"
-                                title="Hibbing_Wedding_Bride_and_Groom-3" /></noscript><noscript><img
-                                src="../static.showit.co/1200/4CthDMN8S4GE5MOX0hWq3Q/105740/kayleejamesphoto-1261_websize.jpg"
-                                class="se-img" alt="KayleeJamesPhoto-1261_websize"
-                                title="KayleeJamesPhoto-1261_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/xWyw8g1VRoGvuPm5SSCpug/105740/kayleejamesphoto-200.jpg"
-                                class="se-img" alt="KayleeJamesPhoto-200"
-                                title="KayleeJamesPhoto-200" /></noscript><noscript><img
-                                src="../static.showit.co/1200/y_akxMsTQmm7n3HAbTSUuQ/105740/kendall_and_john_sneakpeek-21.jpg"
-                                class="se-img" alt="Kendall&amp;John_SneakPeek-21"
-                                title="Kendall&amp;John_SneakPeek-21" /></noscript><noscript><img
-                                src="../static.showit.co/1200/LgVnhGdvQre2T4tINU5VlQ/105740/kendall-point-texas-wedding-venue-san_antonio-texas-dawn-elizabeth-studios-0601.jpg"
-                                class="se-img"
-                                alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-0601"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-0601" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Mizc7mElSUGO_U1XY2wB9A/105740/kendall-point-texas-wedding-venue-san_antonio-texasbrooke-76.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasBrooke-76"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasBrooke-76" /></noscript><noscript><img
-                                src="../static.showit.co/1200/cIusZ-pYTSKYED2ZYejNdw/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-16.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-16"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-16" /></noscript><noscript><img
-                                src="../static.showit.co/1200/zT0w0QFkR4aYD2CD0yrocA/105740/libby_and_grant_bride_and_groom-54.jpg"
-                                class="se-img" alt="Libby&amp;Grant_Bride&amp;Groom-54"
-                                title="Libby&amp;Grant_Bride&amp;Groom-54" /></noscript><noscript><img
-                                src="../static.showit.co/1200/jmLAD9YeQqGex1wT33fphg/105740/sloane_photo_-_caitlyn_john_wedding-211_websize.jpg"
-                                class="se-img" alt="Sloane Photo - Caitlyn John Wedding-211_websize"
-                                title="Sloane Photo - Caitlyn John Wedding-211_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Zwyn9AIaQLyCzLicslYyhQ/105740/steed_wedding_previews-30.jpg"
-                                class="se-img" alt="Steed_Wedding_Previews-30"
-                                title="Steed_Wedding_Previews-30" /></noscript><noscript><img
-                                src="../static.showit.co/1200/CHelS5oa7L4hnBY2CucaKg/105740/marin_wedding_details_and_getting_ready-151-scaled.jpg"
-                                class="se-img" alt="Marin_Wedding_Details_and_Getting_Ready-151-scaled"
-                                title="Marin_Wedding_Details_and_Getting_Ready-151-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/KjK7Jqb9R5mmyivSNGVs5A/105740/dmwedding-290.jpg"
-                                class="se-img" alt="DMWedding-290" title="DMWedding-290" /></noscript><noscript><img
-                                src="../static.showit.co/1200/E07829BGQUaOY4e7ShKrUw/105740/kendall-point-san_antonio-wedding-venue.jpg"
-                                class="se-img" alt="Kendall-Point-San Antonio-wedding-venue"
-                                title="Kendall-Point-San Antonio-wedding-venue" /></noscript><noscript><img
-                                src="../static.showit.co/1200/ghNplET-Q7a3-SqOIl8chg/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-00969.jpg"
-                                class="se-img"
-                                alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-00969"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-00969" /></noscript><noscript><img
-                                src="../static.showit.co/1200/cIusZ-pYTSKYED2ZYejNdw/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-16.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-16"
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-16" /></noscript><noscript><img
-                                src="../static.showit.co/1200/6bCL_cNpREOhpjv2m8I7SQ/105740/sloane_photo_-_caitlyn_john_wedding-919_websize.jpg"
-                                class="se-img" alt="Sloane Photo - Caitlyn John Wedding-919_websize"
-                                title="Sloane Photo - Caitlyn John Wedding-919_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Zwyn9AIaQLyCzLicslYyhQ/105740/steed_wedding_previews-30.jpg"
-                                class="se-img" alt="Steed_Wedding_Previews-30"
-                                title="Steed_Wedding_Previews-30" /></noscript><noscript><img
-                                src="../static.showit.co/1200/_Xy2GPCcBz4vzcVhb-Fs3w/105740/morgan_brent_wedding-340-scaled.jpg"
-                                class="se-img" alt="Morgan__Brent_Wedding-340-scaled"
-                                title="Morgan__Brent_Wedding-340-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/OvTIANoO1AwBGPcKmY_gOw/105740/bridal-8-scaled.jpg"
-                                class="se-img" alt="BRIDAL-8-scaled"
-                                title="BRIDAL-8-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/_U364pOBkPeMdmX1Wl3HaA/105740/brittanyalexwedding-00520-scaled.jpg"
-                                class="se-img" alt="BrittanyAlexWedding-00520-scaled"
-                                title="BrittanyAlexWedding-00520-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/9xHrFxywhTAkRsHh8NhNJA/105740/rocka-engagement-dawn-elizabeth-studios-0011.jpg"
-                                class="se-img" alt="Rocka-Engagement-Dawn-Elizabeth-Studios-0011"
-                                title="Rocka-Engagement-Dawn-Elizabeth-Studios-0011" /></noscript><noscript><img
-                                src="../static.showit.co/1200/sjfgFlaK420ae1455UanrA/105740/a-black-and-white-summer-wedding-at-kendall-point-venue-in-boerne-texas_0049.jpg"
-                                class="se-img"
-                                alt="A-Black-and-White-Summer-wedding-at-Kendall-Point-venue-in-Boerne-Texas_0049"
-                                title="A-Black-and-White-Summer-wedding-at-Kendall-Point-venue-in-Boerne-Texas_0049" /></noscript><noscript><img
-                                src="../static.showit.co/1200/B_mdxzKXuVO1k_R--DZrxQ/105740/latricemark_details-138.jpg"
-                                class="se-img" alt="LatriceMark_details-138"
-                                title="LatriceMark_details-138" /></noscript><noscript><img
-                                src="../static.showit.co/1200/PMVmZ7PzWROFQCrU6vKA2A/105740/wh_032721_153116.jpg"
-                                class="se-img" alt="wh_032721.153116" title="wh_032721.153116" /></noscript>
-                    </div>
-                </div>
-                <div data-sid="venue-spaces-gallery_gallery-5_1" class="sie-venue-spaces-gallery_gallery-5_1 se">
-                    <p class="se-t sie-venue-spaces-gallery_gallery-5_1-text st-m-paragraph st-d-paragraph se-rc">
-                        The porch</p>
-                </div><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-5_2 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-5_2" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                            <path
-                                d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256" />
-                        </svg></div>
-                </a><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-5_3 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-5_3" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <h2 class="se-t sie-venue-spaces-gallery_gallery-5_3-text st-m-subheading st-d-subheading">
-                        Return to galleries</h2>
-                </a>
-            </div>
-        </div>
-        <div id="venue-spaces-gallery_gallery-2" class="ss sis-venue-spaces-gallery_gallery-2">
-            <div class="sc">
-                <div data-sid="venue-spaces-gallery_gallery-2_0"
-                    class="sie-venue-spaces-gallery_gallery-2_0 se se-pc">
-                    <div data-sie="venue-spaces-gallery_gallery-2_0" class="sg-t sig-venue-spaces-gallery_gallery-2_0"
-                        data-secn="d"></div>
-                    <div><noscript><img
-                                src="../static.showit.co/1200/cS0GcgPZQIGYmoz061n97Q/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-118.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-118"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-118" /></noscript><noscript><img
-                                src="../static.showit.co/1200/uUldV8BYTduDq_x_f15dQw/105740/allisonjeffersphotography-649.jpg"
-                                class="se-img" alt="allisonjeffersphotography-649"
-                                title="allisonjeffersphotography-649" /></noscript><noscript><img
-                                src="../static.showit.co/1200/zHYe0hriQWGYjZx7HMBWnA/105740/rocka-wedding-dawn-elizabeth-studios-0022.jpg"
-                                class="se-img" alt="Rocka-Wedding-Dawn-Elizabeth-Studios-0022"
-                                title="Rocka-Wedding-Dawn-Elizabeth-Studios-0022" /></noscript><noscript><img
-                                src="../static.showit.co/1200/aifQOOnYTK6vZdVs3HqFAA/105740/smith-bridals-dawn-elizabeth-studios-0010.jpg"
-                                class="se-img" alt="Smith-Bridals-Dawn-Elizabeth-Studios-0010"
-                                title="Smith-Bridals-Dawn-Elizabeth-Studios-0010" /></noscript><noscript><img
-                                src="../static.showit.co/1200/WnD4oZKSR7e0HLc-go_zGQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00057.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00057"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00057" /></noscript><noscript><img
-                                src="../static.showit.co/1200/VH5d2LFUT02GEPSXEdvYMA/105740/86451656_2987919944553449_6941888097869103104_o.jpg"
-                                class="se-img" alt="86451656_2987919944553449_6941888097869103104_o"
-                                title="86451656_2987919944553449_6941888097869103104_o" /></noscript><noscript><img
-                                src="../static.showit.co/1200/7q8jFNJeTI-jcY07Y-rJQw/105740/bobby_and_ariel_-_march_2022-69_websize.jpg"
-                                class="se-img" alt="Bobby &amp; Ariel - March 2022-69_websize"
-                                title="Bobby &amp; Ariel - March 2022-69_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Ovm38udaTLq0vLKap4GLMg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg"
-                                class="se-img" alt="Admire-Wedding-Dawn-Elizabeth-Studios-0065"
-                                title="Admire-Wedding-Dawn-Elizabeth-Studios-0065" /></noscript><noscript><img
-                                src="../static.showit.co/1200/c-tYEdY2SPKV0JHVDBLpQA/105740/admire-wedding-dawn-elizabeth-studios-0098.jpg"
-                                class="se-img" alt="Admire-Wedding-Dawn-Elizabeth-Studios-0098"
-                                title="Admire-Wedding-Dawn-Elizabeth-Studios-0098" /></noscript><noscript><img
-                                src="../static.showit.co/1200/UIOJjqcRTnG5s6CX5CPbbw/105740/allisonjeffersphotography-15.jpg"
-                                class="se-img" alt="allisonjeffersphotography-15"
-                                title="allisonjeffersphotography-15" /></noscript><noscript><img
-                                src="../static.showit.co/1200/OjPIbxdPAJqIIwKrReZHgw/105740/allisonjeffersphotography-244.jpg"
-                                class="se-img" alt="allisonjeffersphotography-244"
-                                title="allisonjeffersphotography-244" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Mq3AbHpKNnMUOHPUhIKsJg/105740/allisonjeffersphotography-73.jpg"
-                                class="se-img" alt="allisonjeffersphotography-73"
-                                title="allisonjeffersphotography-73" /></noscript><noscript><img
-                                src="../static.showit.co/1200/vOHWLdP8QQuKhfVrNe7MzQ/105740/ally_and_ross-ally-164.jpg"
-                                class="se-img" alt="Ally&amp;Ross-Ally-164"
-                                title="Ally&amp;Ross-Ally-164" /></noscript><noscript><img
-                                src="../static.showit.co/1200/6yMErOZqQcuhoLg8apM5EA/105740/clawfoot-tub-kendall_point-texas-wedding-venue.jpg"
-                                class="se-img" alt="clawfoot-tub-kendall point-texas-wedding-venue"
-                                title="clawfoot-tub-kendall point-texas-wedding-venue" /></noscript><noscript><img
-                                src="../static.showit.co/1200/BfHYzhLzTAKGbuxCTQpK9A/105740/haley_and_korey-haley-137.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Haley-137"
-                                title="Haley&amp;Korey-Haley-137" /></noscript><noscript><img
-                                src="../static.showit.co/1200/cqQGf9jYSXiXZ_nQxinGrQ/105740/haley_and_korey-haley-35.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Haley-35"
-                                title="Haley&amp;Korey-Haley-35" /></noscript><noscript><img
-                                src="../static.showit.co/1200/sKrByf3GRtemibZLGm8dKw/105740/haley_and_korey-haley-89.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Haley-89"
-                                title="Haley&amp;Korey-Haley-89" /></noscript><noscript><img
-                                src="../static.showit.co/1200/spEMgb5ERT2TYPlrdZpJiQ/105740/libby_and_grant_libby-82.jpg"
-                                class="se-img" alt="Libby&amp;Grant_Libby-82"
-                                title="Libby&amp;Grant_Libby-82" /></noscript><noscript><img
-                                src="../static.showit.co/1200/L1pdJ7rTTA2Kg4mMacBf9w/105740/libby_and_grant_sneakpeek-9.jpg"
-                                class="se-img" alt="Libby&amp;Grant_Sneakpeek-9"
-                                title="Libby&amp;Grant_Sneakpeek-9" /></noscript><noscript><img
-                                src="../static.showit.co/1200/jFaPOb_jRBmYsc_whUNsYw/105740/jordan_weston-733.jpg"
-                                class="se-img" alt="Jordan_Weston-733"
-                                title="Jordan_Weston-733" /></noscript><noscript><img
-                                src="../static.showit.co/1200/XebHd4UUtJSYcqCL2aUVEQ/105740/allisonjeffersphotography-244.jpg"
-                                class="se-img" alt="allisonjeffersphotography-244"
-                                title="allisonjeffersphotography-244" /></noscript><noscript><img
-                                src="../static.showit.co/1200/havqMqyGzJMI4IFELefE6w/105740/griceldasphotography_-1401_websize.jpg"
-                                class="se-img" alt="griceldasphotography -1401_websize"
-                                title="griceldasphotography -1401_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/zbFwrdmhx5JsnvD9Olivxg/105740/86451656_2987919944553449_6941888097869103104_o.jpg"
-                                class="se-img" alt="86451656_2987919944553449_6941888097869103104_o"
-                                title="86451656_2987919944553449_6941888097869103104_o" /></noscript><noscript><img
-                                src="../static.showit.co/1200/oLlkp2qASSvhvDn7gdeupA/105740/1q0a0210_websize.jpg"
-                                class="se-img" alt="1Q0A0210_websize"
-                                title="1Q0A0210_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/e_RxlX30NmS-R4qlMLmO9w/105740/skylar-tanner-wedding-texas-kendall-point-2022-bcp-37_websize.jpg"
-                                class="se-img" alt="skylar-tanner-wedding-texas-kendall-point-2022-BCP-37_websize"
-                                title="skylar-tanner-wedding-texas-kendall-point-2022-BCP-37_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/9rjRrZaElftc6ioVJ9YKSg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg"
-                                class="se-img" alt="Admire-Wedding-Dawn-Elizabeth-Studios-0065"
-                                title="Admire-Wedding-Dawn-Elizabeth-Studios-0065" /></noscript><noscript><img
-                                src="../static.showit.co/1200/qhoPkYAzB0FykfbbK4pbbg/105740/courtney_and_nick_sneakpeek-8.jpg"
-                                class="se-img" alt="Courtney&amp;Nick_sneakpeek-8"
-                                title="Courtney&amp;Nick_sneakpeek-8" /></noscript><noscript><img
-                                src="../static.showit.co/1200/6ojeK4gyw-uN72pUmvtlQQ/105740/0p0a9507_websize.jpg"
-                                class="se-img" alt="0P0A9507_websize"
-                                title="0P0A9507_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mOglzDYCUxdI_Fd7RxKm7A/105740/courtney_and_nick_sneakpeek-5.jpg"
-                                class="se-img" alt="Courtney&amp;Nick_sneakpeek-5"
-                                title="Courtney&amp;Nick_sneakpeek-5" /></noscript><noscript><img
-                                src="../static.showit.co/1200/w8uIxGQrIwfzf3JarOOjpg/105740/hibbings_wedding_previews-5.jpg"
-                                class="se-img" alt="Hibbings_Wedding_Previews-5"
-                                title="Hibbings_Wedding_Previews-5" /></noscript><noscript><img
-                                src="../static.showit.co/1200/Ml6xqfWcTG00pqpzUTLT_Q/105740/hibbings_wedding_previews-1_1.jpg"
-                                class="se-img" alt="Hibbings_Wedding_Previews-1 (1)"
-                                title="Hibbings_Wedding_Previews-1 (1)" /></noscript><noscript><img
-                                src="../static.showit.co/1200/aFm7AG-rzoLMM4j1pp2VeQ/105740/wdcj_0018.jpg"
-                                class="se-img" alt="WDCJ_0018" title="WDCJ_0018" /></noscript><noscript><img
-                                src="../static.showit.co/1200/VHlpLx5Ct-xafH_1LeTSNg/105740/lopez-wedding-dawn-elizabeth-studios-0089.jpg"
-                                class="se-img" alt="Lopez-Wedding-Dawn-Elizabeth-Studios-0089"
-                                title="Lopez-Wedding-Dawn-Elizabeth-Studios-0089" /></noscript><noscript><img
-                                src="../static.showit.co/1200/xt_Ikn_LKmvXRqUnE7Qy2w/105740/steed_wedding_previews-2-scaled.jpg"
-                                class="se-img" alt="Steed_Wedding_Previews-2-scaled"
-                                title="Steed_Wedding_Previews-2-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/t_3POXuIud_M4scmX8R4_w/105740/jakeandashleysweddingpreview-13-2.jpg"
-                                class="se-img" alt="JakeandAshleysWeddingPreview-13-2"
-                                title="JakeandAshleysWeddingPreview-13-2" /></noscript><noscript><img
-                                src="../static.showit.co/1200/TiJiDP9rQHPYSweaapAyQg/105740/meredithpaul-148-scaled.jpg"
-                                class="se-img" alt="MeredithPaul-148-scaled"
-                                title="MeredithPaul-148-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/29m_mVsKGMLz5BUhetpH9w/105740/smith-wedding-dawn-elizabeth-studios-0161-scaled.jpg"
-                                class="se-img" alt="Smith-Wedding-Dawn-Elizabeth-Studios-0161-scaled"
-                                title="Smith-Wedding-Dawn-Elizabeth-Studios-0161-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/0WpQp8IWR46toe4w6aWw9A/105740/kp-open-house-dawn-elizabeth-studios-0016-1.jpg"
-                                class="se-img" alt="KP-Open-House-Dawn-Elizabeth-Studios-0016-1"
-                                title="KP-Open-House-Dawn-Elizabeth-Studios-0016-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/jFaPOb_jRBmYsc_whUNsYw/105740/jordan_weston-733.jpg"
-                                class="se-img" alt="Jordan_Weston-733"
-                                title="Jordan_Weston-733" /></noscript><noscript><img
-                                src="../static.showit.co/1200/XebHd4UUtJSYcqCL2aUVEQ/105740/allisonjeffersphotography-244.jpg"
-                                class="se-img" alt="allisonjeffersphotography-244"
-                                title="allisonjeffersphotography-244" /></noscript><noscript><img
-                                src="../static.showit.co/1200/havqMqyGzJMI4IFELefE6w/105740/griceldasphotography_-1401_websize.jpg"
-                                class="se-img" alt="griceldasphotography -1401_websize"
-                                title="griceldasphotography -1401_websize" /></noscript><noscript><img
-                                src="../static.showit.co/1200/zbFwrdmhx5JsnvD9Olivxg/105740/86451656_2987919944553449_6941888097869103104_o.jpg"
-                                class="se-img" alt="86451656_2987919944553449_6941888097869103104_o"
-                                title="86451656_2987919944553449_6941888097869103104_o" /></noscript></div>
-                </div>
-                <div data-sid="venue-spaces-gallery_gallery-2_1" class="sie-venue-spaces-gallery_gallery-2_1 se">
-                    <p class="se-t sie-venue-spaces-gallery_gallery-2_1-text st-m-paragraph st-d-paragraph se-rc">
-                        Bridal Suite</p>
-                </div><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-2_2 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-2_2" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                            <path
-                                d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256" />
-                        </svg></div>
-                </a><a href="#/" target="_self" class="sie-venue-spaces-gallery_gallery-2_3 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_gallery-2_3" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <h2 class="se-t sie-venue-spaces-gallery_gallery-2_3-text st-m-subheading st-d-subheading">
-                        Return to galleries</h2>
-                </a>
-            </div>
-        </div>
-        <div id="venue-spaces-gallery_groom-suite-gallery" class="ss sis-venue-spaces-gallery_groom-suite-gallery">
-            <div class="sc">
-                <div data-sid="venue-spaces-gallery_groom-suite-gallery_0"
-                    class="sie-venue-spaces-gallery_groom-suite-gallery_0 se se-pc">
-                    <div data-sie="venue-spaces-gallery_groom-suite-gallery_0"
-                        class="sg-t sig-venue-spaces-gallery_groom-suite-gallery_0" data-secn="d"></div>
-                    <div><noscript><img
-                                src="../static.showit.co/1200/wQU6ha-bR52ONQkweNGAMQ/105740/haley_and_korey-korey-22.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Korey-22"
-                                title="Haley&amp;Korey-Korey-22" /></noscript><noscript><img
-                                src="../static.showit.co/1200/mJNVAbmJRMSzukUQaJNzgQ/105740/haley_and_korey-korey-4.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Korey-4"
-                                title="Haley&amp;Korey-Korey-4" /></noscript><noscript><img
-                                src="../static.showit.co/1200/WzkcrXdKS5OZLENerXZJzA/105740/haley_and_korey-korey-44.jpg"
-                                class="se-img" alt="Haley&amp;Korey-Korey-44"
-                                title="Haley&amp;Korey-Korey-44" /></noscript><noscript><img
-                                src="../static.showit.co/1200/MRw7TPg_SAu4NH-mYM95AA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00114.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00114"
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00114" /></noscript><noscript><img
-                                src="../static.showit.co/1200/GBLyyrPAQOmrGzTsLy0BRg/105740/kendall-point-texas-wedding-venue-west-vita-1.jpg"
-                                class="se-img" alt="Kendall-Point-Texas-Wedding-Venue-West-Vita-1"
-                                title="Kendall-Point-Texas-Wedding-Venue-West-Vita-1" /></noscript><noscript><img
-                                src="../static.showit.co/1200/3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg"
-                                class="se-img" alt="51168180_2255071864504931_4830695553425735680_o"
-                                title="51168180_2255071864504931_4830695553425735680_o" /></noscript><noscript><img
-                                src="../static.showit.co/1200/C5yafWAejTa4UgqDdWIQJQ/105740/aj0115.jpg" class="se-img"
-                                alt="AJ0115" title="AJ0115" /></noscript><noscript><img
-                                src="../static.showit.co/1200/xnBE4oxAwcrOLNX6XlRfQg/105740/barron-wedding-dawn-elizabeth-studios-0140.jpg"
-                                class="se-img" alt="Barron-Wedding-Dawn-Elizabeth-Studios-0140"
-                                title="Barron-Wedding-Dawn-Elizabeth-Studios-0140" /></noscript><noscript><img
-                                src="../static.showit.co/1200/gx75jEDrqUwlU19_8iw72Q/105740/adrianwedding-106.jpg"
-                                class="se-img" alt="adrianwedding-106"
-                                title="adrianwedding-106" /></noscript><noscript><img
-                                src="../static.showit.co/1200/vQN5TSUlPkkJAtZ7l5swVA/105740/wedding-at-kendall-plantation-henckel-dawn-elizabeth-studios-0020.jpg"
-                                class="se-img" alt="Wedding-At-Kendall-Plantation-Henckel-Dawn-Elizabeth-Studios-0020"
-                                title="Wedding-At-Kendall-Plantation-Henckel-Dawn-Elizabeth-Studios-0020" /></noscript><noscript><img
-                                src="../static.showit.co/1200/juJpyUFSv_j_ET8J_kEQMg/105740/steed_wedding_previews-12-scaled.jpg"
-                                class="se-img" alt="Steed_Wedding_Previews-12-scaled"
-                                title="Steed_Wedding_Previews-12-scaled" /></noscript><noscript><img
-                                src="../static.showit.co/1200/hANwR_8h_AXnpWXRvUdcpQ/105740/suite3.jpg" class="se-img"
-                                alt="Suite3" title="Suite3" /></noscript><noscript><img
-                                src="../static.showit.co/1200/gVe5ieYoFxtCE6p1ha-2tg/105740/bartlett-wedding-dawn-elizabeth-studios-0223-scaled.jpg"
-                                class="se-img" alt="Bartlett-Wedding-Dawn-Elizabeth-Studios-0223-scaled"
-                                title="Bartlett-Wedding-Dawn-Elizabeth-Studios-0223-scaled" /></noscript></div>
-                </div>
-                <div data-sid="venue-spaces-gallery_groom-suite-gallery_1"
-                    class="sie-venue-spaces-gallery_groom-suite-gallery_1 se">
-                    <p
-                        class="se-t sie-venue-spaces-gallery_groom-suite-gallery_1-text st-m-paragraph st-d-paragraph se-rc">
-                        Groom's Suite</p>
-                </div><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_groom-suite-gallery_2 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_groom-suite-gallery_2" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                            <path
-                                d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256" />
-                        </svg></div>
-                </a><a href="#/" target="_self"
-                    class="sie-venue-spaces-gallery_groom-suite-gallery_3 se se-sl se-stl"
-                    data-sid="venue-spaces-gallery_groom-suite-gallery_3" data-scrollto="#venue-spaces-gallery"
-                    data-state="venue-spaces-gallery|0|0|0">
-                    <h2
-                        class="se-t sie-venue-spaces-gallery_groom-suite-gallery_3-text st-m-subheading st-d-subheading">
-                        Return to galleries</h2>
-                </a>
-            </div>
-        </div>
+ <div class="container gallery-container py-5">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 justify-content-center">
+    <!-- Gallery Item 1 -->
+    <div class="col">
+      <div class="gallery-item text-center">
+        <img src="{{ asset('download.jpg') }}" alt="Groom's suite" class="img-fluid">
+        <p class="gallery-caption mt-2">Groom's suite</p>
+      </div>
     </div>
+    <!-- Gallery Item 2 -->
+    <div class="col">
+      <div class="gallery-item text-center">
+        <img src="{{ asset('download.jpg') }}" alt="The patio" class="img-fluid">
+        <p class="gallery-caption mt-2">the patio</p>
+      </div>
+    </div>
+    <!-- Gallery Item 3 -->
+    <div class="col">
+      <div class="gallery-item text-center">
+        <img src="{{ asset('download.jpg') }}" alt="The Grounds" class="img-fluid">
+        <p class="gallery-caption mt-2">The Grounds</p>
+      </div>
+    </div>
+    <!-- Gallery Item 4 -->
+    <div class="col">
+      <div class="gallery-item text-center">
+        <img src="{{ asset('download.jpg') }}" alt="Bridal suite" class="img-fluid">
+        <p class="gallery-caption mt-2">bridal suite</p>
+      </div>
+    </div>
+    <!-- Gallery Item 5 (New Item: Cocktail) -->
+    <div class="col">
+      <div class="gallery-item text-center">
+        <img src="{{ asset('download.jpg') }}" alt="Cocktail" class="img-fluid">
+        <p class="gallery-caption mt-2">Cocktail  area</p>
+      </div>
+    </div>
+    <!-- Add more items as needed -->
+  </div>
+</div>
+
+
+
+
     <div id="cta-gallery" data-bid="cta-gallery" class="sb sib-cta-gallery">
         <div class="ss-s ss-bg">
             <div class="sc" style="width:1200px">
@@ -3737,231 +3173,14 @@
                     <div class="se-simple"></div>
                 </a><a href="{{ route('book') }}" target="_self" class="sie-cta-gallery_2 se"
                     data-sid="cta-gallery_2">
-                    <h3 class="se-t sie-cta-gallery_2-text st-m-subheading st-d-subheading">See Kendall Point for
-                        Yourself!</h3>
+                    <h3 class="se-t sie-cta-gallery_2-text st-m-subheading st-d-subheading">Book a tour</h3>
                 </a>
             </div>
         </div>
     </div>
-    <div id="3d-tour" data-bid="3d-tour" class="sb sib-3d-tour">
-        <div class="ss-s ss-bg">
-            <div class="sc" style="width:1200px">
-                <div data-sid="3d-tour_0" class="sie-3d-tour_0 se"><iframe
-                        src="https://my.matterport.com/show/?m=5U8HbpJLLiw" width="100%" height="100%"
-                        frameBorder="0" allowfullscreen=""></iframe></div>
-                <div data-sid="3d-tour_1" class="sie-3d-tour_1 se">
-                    <h3 class="se-t sie-3d-tour_1-text st-m-subheading st-d-subheading se-rc">Looking for
-                        measurements? this tool is available, and awesome!<br><br></h3>
-                </div>
-                <div data-sid="3d-tour_2" class="sie-3d-tour_2 se">
-                    <h2 class="se-t sie-3d-tour_2-text st-m-heading st-d-heading se-rc">3D Tour</h2>
-                </div>
-                <div data-sid="3d-tour_3" class="sie-3d-tour_3 se">
-                    <h3 class="se-t sie-3d-tour_3-text st-m-subheading st-d-subheading se-rc">Look Around</h3>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="every-season" data-bid="every-season" class="sb sib-every-season">
-        <div class="ss-s ss-bg">
-            <div class="sc" style="width:1200px"></div>
-        </div>
-        <div id="every-season_stunning-in-every-season" class="ss sis-every-season_stunning-in-every-season sactive">
-            <div class="sc">
-                <div data-sid="every-season_stunning-in-every-season_0"
-                    class="sie-every-season_stunning-in-every-season_0 se">
-                    <div style="width:100%;height:100%" data-img="every-season_stunning-in-every-season_0"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/1600/I_CU1NR_QZaEWFwuUAmCsA/105740/kendall-point-venue-seasons-mobile.png"
-                            class="se-img" alt="" title="Kendall-Point-Venue-Seasons-Mobile" /></noscript>
-                </div>
-                <div data-sid="every-season_stunning-in-every-season_1"
-                    class="sie-every-season_stunning-in-every-season_1 se">
-                    <div style="width:100%;height:100%" data-img="every-season_stunning-in-every-season_1"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/1600/qM-Ma_wKSbuOnHnreHmZzQ/105740/kendall-point-venue-seasons.png"
-                            class="se-img" alt="" title="Kendall-Point-Venue-Seasons" /></noscript>
-                </div>
-                <div data-sid="every-season_stunning-in-every-season_2"
-                    class="sie-every-season_stunning-in-every-season_2 se">
-                    <div class="se-simple"></div>
-                </div>
-                <div data-sid="every-season_stunning-in-every-season_3"
-                    class="sie-every-season_stunning-in-every-season_3 se">
-                    <p
-                        class="se-t sie-every-season_stunning-in-every-season_3-text st-m-paragraph st-d-paragraph se-rc">
-                        It doesn't matter if you're planning a spring, summer, autumn or winter wedding, every
-                        season is beautiful in the Texas Hill Country!<br><br></p>
-                </div>
-                <div data-sid="every-season_stunning-in-every-season_4"
-                    class="sie-every-season_stunning-in-every-season_4 se">
-                    <h3 class="se-t sie-every-season_stunning-in-every-season_4-text st-m-title st-d-title se-rc">
-                        stunning in every season</h3>
-                </div>
-                <div data-sid="every-season_stunning-in-every-season_5"
-                    class="sie-every-season_stunning-in-every-season_5 se">
-                    <div class="se-simple"></div>
-                </div><a href="{{ route('gallery') }}" target="_self"
-                    class="sie-every-season_stunning-in-every-season_6 se se-sl se-stl"
-                    data-sid="every-season_stunning-in-every-season_6" data-scrollto="#every-season"
-                    data-state="every-season|next|0|0">
-                    <h3 class="se-t sie-every-season_stunning-in-every-season_6-text st-m-subheading st-d-subheading">
-                        See for yourself &gt;</h3>
-                </a>
-            </div>
-        </div>
-        <div id="every-season_spring" class="ss sis-every-season_spring">
-            <div class="sc">
-                <div data-sid="every-season_spring_0" class="sie-every-season_spring_0 se">
-                    <div style="width:100%;height:100%" data-img="every-season_spring_0" class="se-img se-gr slzy">
-                    </div><noscript><img
-                            src="../static.showit.co/800/bNRwLLm3SeSZgwtxlMFibQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00136.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00136" /></noscript>
-                </div>
-                <div data-sid="every-season_spring_1" class="sie-every-season_spring_1 se">
-                    <h1 class="se-t sie-every-season_spring_1-text st-m-title st-d-title se-rc">Spring at Kendall
-                        Point</h1>
-                </div>
-                <div data-sid="every-season_spring_2" class="sie-every-season_spring_2 se">
-                    <p class="se-t sie-every-season_spring_2-text st-m-paragraph st-d-paragraph se-rc">Early March
-                        - late April<br>Sunset time around 6:30PM - 8:15PM (timing is impacted by daylight
-                        savings!)<br></p>
-                </div>
-                <div data-sid="every-season_spring_3" class="sie-every-season_spring_3 se">
-                    <p class="se-t sie-every-season_spring_3-text st-m-paragraph st-d-paragraph se-rc">It doesn't
-                        matter if you're planning a spring, summer, autumn or winter wedding, every season is
-                        beautiful in the Texas Hill Country!<br><br><br><br></p>
-                </div><a href="https://www.pinterest.com/kendallpointvenue/spring-weddings-kendall-point-march-april/"
-                    target="_blank" class="sie-every-season_spring_4 se" data-sid="every-season_spring_4">
-                    <div class="se-simple"></div>
-                </a><a href="https://www.pinterest.com/kendallpointvenue/spring-weddings-kendall-point-march-april/"
-                    target="_blank" class="sie-every-season_spring_5 se" data-sid="every-season_spring_5">
-                    <h3 class="se-t sie-every-season_spring_5-text st-m-subheading st-d-subheading">See More
-                        Spring weddings at KP on Pinterest!</h3>
-                </a><a href="#/" target="_self" class="sie-every-season_spring_6 se se-sl se-stl"
-                    data-sid="every-season_spring_6" data-scrollto="#every-season"
-                    data-state="every-season|next|0|0">
-                    <h3 class="se-t sie-every-season_spring_6-text st-m-subheading st-d-subheading">See Next
-                        Season &gt;</h3>
-                </a>
-            </div>
-        </div>
-        <div id="every-season_summer" class="ss sis-every-season_summer">
-            <div class="sc">
-                <div data-sid="every-season_summer_0" class="sie-every-season_summer_0 se">
-                    <div style="width:100%;height:100%" data-img="every-season_summer_0"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/800/zIV0T8jNQnOeLf7inXDazA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-97.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-97" /></noscript>
-                </div>
-                <div data-sid="every-season_summer_1" class="sie-every-season_summer_1 se">
-                    <h1 class="se-t sie-every-season_summer_1-text st-m-title st-d-title se-rc">Summer at Kendall
-                        Point</h1>
-                </div>
-                <div data-sid="every-season_summer_2" class="sie-every-season_summer_2 se">
-                    <p class="se-t sie-every-season_summer_2-text st-m-paragraph st-d-paragraph se-rc">Early May -
-                        late September<br>Sunset time around 7:30PM - 8:45PM<br></p>
-                </div>
-                <div data-sid="every-season_summer_3" class="sie-every-season_summer_3 se">
-                    <p class="se-t sie-every-season_summer_3-text st-m-paragraph st-d-paragraph se-rc">It doesn't
-                        matter if you're planning a spring, summer, autumn or winter wedding, every season is
-                        beautiful in the Texas Hill Country!<br><br><br><br></p>
-                </div><a
-                    href="https://www.pinterest.com/kendallpointvenue/summer-weddings-kendall-point-may-september/"
-                    target="_blank" class="sie-every-season_summer_4 se" data-sid="every-season_summer_4">
-                    <div class="se-simple"></div>
-                </a><a href="https://www.pinterest.com/kendallpointvenue/summer-weddings-kendall-point-may-september/"
-                    target="_blank" class="sie-every-season_summer_5 se" data-sid="every-season_summer_5">
-                    <h3 class="se-t sie-every-season_summer_5-text st-m-subheading st-d-subheading">See More
-                        Summer weddings at KP on Pinterest!</h3>
-                </a><a href="#/" target="_self" class="sie-every-season_summer_6 se se-sl se-stl"
-                    data-sid="every-season_summer_6" data-scrollto="#every-season"
-                    data-state="every-season|next|0|0">
-                    <h3 class="se-t sie-every-season_summer_6-text st-m-subheading st-d-subheading">See Next
-                        Season &gt;</h3>
-                </a>
-            </div>
-        </div>
-        <div id="every-season_fall" class="ss sis-every-season_fall">
-            <div class="sc">
-                <div data-sid="every-season_fall_0" class="sie-every-season_fall_0 se">
-                    <div style="width:100%;height:100%" data-img="every-season_fall_0" class="se-img se-gr slzy">
-                    </div><noscript><img
-                            src="../static.showit.co/800/-4EZaa1nSVq8GxlnzJ7OhQ/105740/kendall-point-texas-wedding-venue-ashley-medrano-photography-4.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-Ashley-Medrano-Photography-4" /></noscript>
-                </div>
-                <div data-sid="every-season_fall_1" class="sie-every-season_fall_1 se">
-                    <h1 class="se-t sie-every-season_fall_1-text st-m-title st-d-title se-rc">Fall at Kendall
-                        Point</h1>
-                </div>
-                <div data-sid="every-season_fall_2" class="sie-every-season_fall_2 se">
-                    <p class="se-t sie-every-season_fall_2-text st-m-paragraph st-d-paragraph se-rc">Early October
-                        - Late November<br>Sunset time around 5:30PM - 7:15PM<br>(timing is impacted by daylight
-                        savings!)<br></p>
-                </div>
-                <div data-sid="every-season_fall_3" class="sie-every-season_fall_3 se">
-                    <p class="se-t sie-every-season_fall_3-text st-m-paragraph st-d-paragraph se-rc">It doesn't
-                        matter if you're planning a spring, summer, autumn or winter wedding, every season is
-                        beautiful in the Texas Hill Country!<br><br><br><br></p>
-                </div><a
-                    href="https://www.pinterest.com/kendallpointvenue/fall-weddings-kendall-point-october-november/"
-                    target="_blank" class="sie-every-season_fall_4 se" data-sid="every-season_fall_4">
-                    <div class="se-simple"></div>
-                </a><a
-                    href="https://www.pinterest.com/kendallpointvenue/fall-weddings-kendall-point-october-november/"
-                    target="_blank" class="sie-every-season_fall_5 se" data-sid="every-season_fall_5">
-                    <h3 class="se-t sie-every-season_fall_5-text st-m-subheading st-d-subheading">See More Fall
-                        weddings at KP on Pinterest!</h3>
-                </a><a href="#/" target="_self" class="sie-every-season_fall_6 se se-sl se-stl"
-                    data-sid="every-season_fall_6" data-scrollto="#every-season"
-                    data-state="every-season|next|0|0">
-                    <h3 class="se-t sie-every-season_fall_6-text st-m-subheading st-d-subheading">See Next Season
-                        &gt;</h3>
-                </a>
-            </div>
-        </div>
-        <div id="every-season_winter" class="ss sis-every-season_winter">
-            <div class="sc">
-                <div data-sid="every-season_winter_0" class="sie-every-season_winter_0 se">
-                    <div style="width:100%;height:100%" data-img="every-season_winter_0"
-                        class="se-img se-gr slzy"></div><noscript><img
-                            src="../static.showit.co/800/YOzP8CMzQnaC4hH_KY1liw/105740/kendall-point-texas-wedding-venue-snap-chic-6.jpg"
-                            class="se-img" alt=""
-                            title="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-6" /></noscript>
-                </div>
-                <div data-sid="every-season_winter_1" class="sie-every-season_winter_1 se">
-                    <h1 class="se-t sie-every-season_winter_1-text st-m-title st-d-title se-rc">Winter at Kendall
-                        Point</h1>
-                </div>
-                <div data-sid="every-season_winter_2" class="sie-every-season_winter_2 se">
-                    <p class="se-t sie-every-season_winter_2-text st-m-paragraph st-d-paragraph se-rc">Early
-                        December - Late February<br>Sunset time around 5:30PM - 6:30PM<br><br></p>
-                </div>
-                <div data-sid="every-season_winter_3" class="sie-every-season_winter_3 se">
-                    <p class="se-t sie-every-season_winter_3-text st-m-paragraph st-d-paragraph se-rc">It doesn't
-                        matter if you're planning a spring, summer, autumn or winter wedding, every season is
-                        beautiful in the Texas Hill Country!<br><br><br><br></p>
-                </div><a
-                    href="https://www.pinterest.com/kendallpointvenue/winter-weddings-kendall-point-december-february/"
-                    target="_blank" class="sie-every-season_winter_4 se" data-sid="every-season_winter_4">
-                    <div class="se-simple"></div>
-                </a><a href="https://www.pinterest.com/kendallpointvenue/spring-weddings-kendall-point-march-april/"
-                    target="_blank" class="sie-every-season_winter_5 se" data-sid="every-season_winter_5">
-                    <h3 class="se-t sie-every-season_winter_5-text st-m-subheading st-d-subheading">See More
-                        Winter weddings at KP on Pinterest!</h3>
-                </a><a href="#/" target="_self" class="sie-every-season_winter_6 se se-sl se-stl"
-                    data-sid="every-season_winter_6" data-scrollto="#every-season"
-                    data-state="every-season|next|0|0">
-                    <h3 class="se-t sie-every-season_winter_6-text st-m-subheading st-d-subheading">See Next
-                        Season &gt;</h3>
-                </a>
-            </div>
-        </div>
-    </div>
-  @include('partials.footer')
+
+
+  @include('partials.newfooter')
     <div id="mobile-nav" data-bid="mobile-nav" class="sb sib-mobile-nav sb-lm">
         <div class="ss-s ss-bg">
             <div class="sc" style="width:1200px">

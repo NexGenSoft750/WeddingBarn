@@ -31,7 +31,7 @@
 
         .footer-column p {
             margin: 10px 0;
-            font-size: 14px;
+            font-size: 18px;
             color: white;
         }
 
@@ -73,6 +73,10 @@
             padding: 10px 0;
             margin-top: 20px;
         }
+        .copyright a{
+            color: blue;
+            text-decoration: underline;
+        }
 
         /* Media Query for medium screens (tablet) */
         @media (max-width: 768px) {
@@ -94,27 +98,54 @@
         }
 
         /* Media Query for extra small screens (mobile devices) */
-        @media (max-width: 480px) {
-            .footer-column p {
-                font-size: 12px; /* Reduce text size for smaller screens */
-            }
- .logo img {
-                max-width: 150px; /* Adjust logo size for smaller screens */
-            }
-            .social-links {
-                flex-direction: column; /* Stack social media icons vertically */
-                align-items: center; /* Center the icons */
-            }
+     /* Media Query for extra small screens (mobile devices) */
+/* Media Query for extra small screens (mobile devices) */
+@media (max-width: 480px) {
+    .footer-column p {
+        font-size: 12px; /* Reduce text size for smaller screens */
+        margin: 0; /* Remove margin between paragraphs */
+    }
 
-            .social-links a {
-                margin: 5px 0; /* Reduce space between social icons */
-            }
+    .footer-column a {
+        margin: 0; /* Remove margin from footer links */
+    }
 
-            .se-icon {
-                width: 25px; /* Make social media icons smaller */
-                height: 25px;
-            }
-        }
+    .logo img {
+        max-width: 150px; /* Adjust logo size for smaller screens */
+        margin: 0; /* Remove margin around the logo */
+    }
+
+    .social-links {
+        display: flex; /* Enable horizontal layout */
+        justify-content: center; /* Center the icons */
+        flex-direction: row; /* Align icons horizontally */
+        align-items: center; /* Vertically center the icons */
+        margin: 0; /* Remove space around social links */
+    }
+
+ .social-links a {
+        margin: 0 10px; /* Add space between social icons */
+    }
+
+    .se-icon {
+        width: 25px; /* Make social media icons smaller */
+        height: 25px;
+    }
+
+    #footer {
+        padding: 10px; /* Reduce padding in footer */
+        margin: 0; /* Remove margin around the footer */
+    }
+
+    .footer-column {
+        padding: 0; /* Remove padding inside columns */
+        margin: 0; /* Remove margin between columns */
+        min-width: 100%; /* Ensure columns take up full width */
+        text-align: center; /* Center-align text */
+    }
+}
+
+
     </style>
     <!-- Include Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -124,16 +155,16 @@
     <div id="footer">
         <!-- First Column: Page Links -->
         <div class="footer-column">
-            <p><a href="{{ route('about') }}">About</a></p>
-            <p><a href="{{ route('amenities') }}">Amenities</a></p>
-            <p><a href="{{ route('gallery') }}">Gallery</a></p>
-            <p><a href="{{ route('vendor') }}">Vendors</a></p>
-            <p><a href="{{ route('price') }}">Pricing</a></p>
-            <p><a href="{{ route('contact') }}">Contact Us</a></p>
-            <p><a href="{{ route('blog') }}">Blog</a></p>
-            <p><a href="/resources">Resources</a></p>
-            <p><a href="{{ route('FAQ') }}">FAQs</a></p>
-            <p><a href="/san-antonio-wedding-venue">San Antonio Wedding Venue</a></p>
+            <a href="{{ route('about') }}">About</a>
+            <a href="{{ route('amenities') }}">Amenities</a>
+            <a href="{{ route('gallery') }}">Gallery</a>
+            <a href="{{ route('vendor') }}">Vendors</a>
+            <a href="{{ route('price') }}">Pricing</a>
+            <a href="{{ route('contact') }}">Contact Us</a>
+            <a href="{{ route('blog') }}">Blog</a>
+            <a href="/resources">Resources</a>
+            <a href="{{ route('FAQ') }}">FAQs</a>
+            <a href="/san-antonio-wedding-venue">San Antonio Wedding Venue</a>
         </div>
 
         <!-- Second Column: Logo -->
@@ -144,24 +175,25 @@
         <!-- Third Column: Social Media Links -->
         <div class="footer-column">
             <p>Like What You See?<br>Reach Out To Us!</p>
-            <p>Follow Us</p>
+            <p>Social Stalk Us</p>
             <div class="social-links">
                 <a href="https://www.tiktok.com/@texasweddingvenue" target="_blank">
-                    <i class="fab fa-tiktok se-icon"></i>
+                    <i class="fab fa-tiktok"></i>
                 </a>
                 <a href="http://instagram.com/kendallpointvenue" target="_blank">
-                    <i class="fab fa-instagram se-icon"></i>
+                    <i class="fab fa-instagram"></i>
                 </a>
                 <a href="https://www.facebook.com/kendallpointvenue" target="_blank">
-                    <i class="fab fa-facebook se-icon"></i>
+                    <i class="fab fa-facebook"></i>
                 </a>
                 <a href="https://www.pinterest.com/kendallpointvenue/" target="_blank">
-                    <i class="fab fa-pinterest se-icon"></i>
+                    <i class="fab fa-pinterest"></i>
                 </a>
             </div>
         </div>
     </div>
     <div class="copyright">
-        © 2024 Kendall Point
+        © 2024 Kendall Point | <a href="#">Click Here for Photo Credit</a>
     </div>
 </body>
+

@@ -3474,21 +3474,17 @@
                 <div class="sb-m ssp-d ssp-m"></div>
                 <div class="sc" style="width:1200px">
                     <div data-sid="book-your-tour_0" class="sie-book-your-tour_0 se">
-                        <h2 class="se-t sie-book-your-tour_0-text st-m-heading st-d-heading se-rc">come see it for
-                            yourself</h2>
+                        <h2 class="se-t sie-book-your-tour_0-text st-m-heading st-d-heading se-rc">Schedule a tour and discover our venue pricing</h2>
                     </div>
-                    <div data-sid="book-your-tour_1" class="sie-book-your-tour_1 se">
-                        <p class="se-t sie-book-your-tour_1-text st-m-paragraph st-d-paragraph se-rc">For a truly
-                            elegant wedding with timeless appeal and picturesque scenery, Kendall Point is the place to
-                            say “I Do.” Grab a time on our calendar to see it for yourself with a private tour!<br><br>
+                    <div data-sid="book-your-tour_1" class="sie-book-your-tour_1 se">We invite you to schedule a tour of Acre 31 to see firsthand why to choose us for your special day. During your visit, we’ll walk you through our venue spaces, discuss your wedding plans, and provide you with a detailed breakdown of our wedding venue pricing options. We are confident that once you see our beautiful venue, you’ll know that Acre 31 is the perfect place to say “I do.”<br><br>
                         </p>
                     </div><a
                         href="{{ route('inpersontour') }}"
-                        target="_blank" class="sie-book-your-tour_2 se" data-sid="book-your-tour_2">
+                        target="_blank" class="sie-book-your-tour_2 se mt-2" data-sid="book-your-tour_2">
                         <div class="se-simple"></div>
                     </a><a
                         href="{{ route('virtualtour') }}"
-                        target="_blank" class="sie-book-your-tour_3 se" data-sid="book-your-tour_3">
+                        target="_blank" class="sie-book-your-tour_3 se mt-2" data-sid="book-your-tour_3">
                         <div class="se-simple"></div>
                     </a><a href="{{ route('inpersontour') }}" target="_blank" class="sie-book-your-tour_4 se"
                         data-sid="book-your-tour_4">
@@ -4349,7 +4345,7 @@
                 </div>
             </div>
         </div>
-     @include('partials.footer')
+     @include('partials.newfooter')
     </div>
 
     <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/iRQuFsgPY -->

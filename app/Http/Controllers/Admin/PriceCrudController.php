@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Requests\PriceRequest;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
+use App\Models\Price;
 
 /**
  * Class PriceCrudController
@@ -26,7 +27,7 @@ class PriceCrudController extends CrudController
      */
     public function setup()
     {
-        CRUD::setModel(\App\Models\Price::class);
+        CRUD::setModel(Price::class);
         CRUD::setRoute(config('backpack.base.route_prefix') . '/price');
         CRUD::setEntityNameStrings('price', 'prices');
     }
@@ -34,11 +35,11 @@ class PriceCrudController extends CrudController
     /**
      * Define what happens when the List operation is loaded.
      *
-     * @see  https://backpackforlaravel.com/docs/crud-operation-list-entries
      * @return void
      */
     protected function setupListOperation()
     {
+        // Existing pricing fields:
         $this->crud->addColumn(['name' => 'monday_thursday_price', 'label' => 'Monday to Thursday Price', 'type' => 'number']);
         $this->crud->addColumn(['name' => 'friday_non_peak', 'label' => 'Friday Non-Peak Price', 'type' => 'number']);
         $this->crud->addColumn(['name' => 'friday_peak', 'label' => 'Friday Peak Price', 'type' => 'number']);
@@ -53,33 +54,29 @@ class PriceCrudController extends CrudController
         $this->crud->addColumn(['name' => 'full_weekend_peak', 'label' => 'Full Weekend Peak', 'type' => 'number']);
         $this->crud->addColumn(['name' => 'full_weekend_non_peak', 'label' => 'Full Weekend Non-Peak', 'type' => 'number']);
         $this->crud->addColumn(['name' => 'full_weekend_only', 'label' => 'Full Weekend Only', 'type' => 'number']);
+
+        // Additional Micro Pricing Fields:
+        $this->crud->addColumn(['name' => 'micro_day_range', 'label' => 'Micro Day Range', 'type' => 'text']);
+        $this->crud->addColumn(['name' => 'micro_guest_range_1', 'label' => 'Package 1 - Guest Range', 'type' => 'text']);
+        $this->crud->addColumn(['name' => 'micro_price_1', 'label' => 'Package 1 - Price', 'type' => 'number', 'prefix' => '$', 'decimals' => 2]);
+        $this->crud->addColumn(['name' => 'micro_guest_range_2', 'label' => 'Package 2 - Guest Range', 'type' => 'text']);
+        $this->crud->addColumn(['name' => 'micro_price_2', 'label' => 'Package 2 - Price', 'type' => 'number', 'prefix' => '$', 'decimals' => 2]);
+        $this->crud->addColumn(['name' => 'micro_guest_range_3', 'label' => 'Package 3 - Guest Range', 'type' => 'text']);
+        $this->crud->addColumn(['name' => 'micro_price_3', 'label' => 'Package 3 - Price', 'type' => 'number', 'prefix' => '$', 'decimals' => 2]);
+        $this->crud->addColumn(['name' => 'micro_guest_range_4', 'label' => 'Package 4 - Guest Range', 'type' => 'text']);
+        $this->crud->addColumn(['name' => 'micro_price_4', 'label' => 'Package 4 - Price', 'type' => 'number', 'prefix' => '$', 'decimals' => 2]);
     }
 
     /**
      * Define what happens when the Create operation is loaded.
      *
-     * @see https://backpackforlaravel.com/docs/crud-operation-create
      * @return void
      */
     protected function setupCreateOperation()
     {
-        CRUD::setValidation([
-            'monday_thursday_price' => 'required|numeric',
-            'friday_non_peak' => 'required|numeric',
-            'friday_peak' => 'required|numeric',
-            'saturday_non_peak' => 'required|numeric',
-            'saturday_peak' => 'required|numeric',
-            'sunday_non_peak' => 'required|numeric',
-            'sunday_peak' => 'required|numeric',
-            'multi_day_friday_saturday_peak' => 'required|numeric',
-            'multi_day_friday_saturday_non_peak' => 'required|numeric',
-            'multi_day_saturday_sunday_peak' => 'required|numeric',
-            'multi_day_saturday_sunday_non_peak' => 'required|numeric',
-            'full_weekend_peak' => 'required|numeric',
-            'full_weekend_non_peak' => 'required|numeric',
-            'full_weekend_only' => 'required|numeric',
-        ]);
+        CRUD::setValidation(PriceRequest::class);
 
+        // Existing pricing fields:
         CRUD::field('monday_thursday_price');
         CRUD::field('friday_non_peak');
         CRUD::field('friday_peak');
@@ -94,12 +91,75 @@ class PriceCrudController extends CrudController
         CRUD::field('full_weekend_peak');
         CRUD::field('full_weekend_non_peak');
         CRUD::field('full_weekend_only');
+
+        // Additional Micro Pricing Fields:
+        CRUD::field([
+            'name'    => 'micro_day_range',
+            'label'   => 'Micro Day Range',
+            'type'    => 'text',
+            'default' => 'Mon - Thursday',
+        ]);
+        CRUD::field([
+            'name'    => 'micro_guest_range_1',
+            'label'   => 'Package 1 - Guest Range',
+            'type'    => 'text',
+            'default' => '30 - 40 Guests',
+        ]);
+        CRUD::field([
+            'name'     => 'micro_price_1',
+            'label'    => 'Package 1 - Price',
+            'type'     => 'number',
+            'prefix'   => '$',
+            'decimals' => 2,
+            'default'  => 4199.00,
+        ]);
+        CRUD::field([
+            'name'    => 'micro_guest_range_2',
+            'label'   => 'Package 2 - Guest Range',
+            'type'    => 'text',
+            'default' => '40 - 50 Guests',
+        ]);
+        CRUD::field([
+            'name'     => 'micro_price_2',
+            'label'    => 'Package 2 - Price',
+            'type'     => 'number',
+            'prefix'   => '$',
+            'decimals' => 2,
+            'default'  => 4599.00,
+        ]);
+        CRUD::field([
+            'name'    => 'micro_guest_range_3',
+            'label'   => 'Package 3 - Guest Range',
+            'type'    => 'text',
+            'default' => '50 - 60 Guests',
+        ]);
+        CRUD::field([
+            'name'     => 'micro_price_3',
+            'label'    => 'Package 3 - Price',
+            'type'     => 'number',
+            'prefix'   => '$',
+            'decimals' => 2,
+            'default'  => 4899.00,
+        ]);
+        CRUD::field([
+            'name'    => 'micro_guest_range_4',
+            'label'   => 'Package 4 - Guest Range',
+            'type'    => 'text',
+            'default' => '60 - 70 Guests',
+        ]);
+        CRUD::field([
+            'name'     => 'micro_price_4',
+            'label'    => 'Package 4 - Price',
+            'type'     => 'number',
+            'prefix'   => '$',
+            'decimals' => 2,
+            'default'  => 5299.00,
+        ]);
     }
 
     /**
      * Define what happens when the Update operation is loaded.
      *
-     * @see https://backpackforlaravel.com/docs/crud-operation-update
      * @return void
      */
     protected function setupUpdateOperation()

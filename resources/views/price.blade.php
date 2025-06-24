@@ -8215,6 +8215,7 @@
 }
 
 .image-text {
+    width: 150px;
     font-size: 14px;
     color: #555; /* Text color */
     text-align: center; /* Center align text */
@@ -8949,8 +8950,7 @@
                 <div class="sb-m ssp-d ssp-m"></div>
                 <div class="sc" style="width:1200px">
                     <div data-sid="testimonials-1_0" class="sie-testimonials-1_0 se">
-                        <h2 class="se-t sie-testimonials-1_0-text st-m-heading st-d-title se-rc"><b>"This venue made
-                                for the best wedding<br></b>I could have dreamed of!"<br></h2>
+                        <h2 class="se-t sie-testimonials-1_0-text st-m-heading st-d-title se-rc"><b>Read heartfelt reviews from our couples and their families<br></h2>
                     </div><a href="{{ route('review') }}" target="_self" class="sie-testimonials-1_1 se"
                         data-sid="testimonials-1_1">
                         <div class="se-simple"></div>
@@ -8959,10 +8959,7 @@
                         <h3 class="se-t sie-testimonials-1_2-text st-m-subheading st-d-subheading">Read more reviews
                         </h3>
                     </a>
-                    <div data-sid="testimonials-1_3" class="sie-testimonials-1_3 se">
-                        <h3 class="se-t sie-testimonials-1_3-text st-m-subheading st-d-subheading se-rc">Nicolette C.
-                        </h3>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -8982,7 +8979,7 @@
                 </div>
             </div>
         </div>
-     @include('partials.footer')
+     @include('partials.newfooter')
         <div id="mobile-nav" data-bid="mobile-nav" class="sb sib-mobile-nav sb-lm">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">

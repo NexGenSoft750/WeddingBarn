@@ -3232,7 +3232,7 @@
                 </div>
             </div>
         </div>
-       @include('partials.footer')
+       @include('partials.newfooter')
         <div id="mobile-nav" data-bid="mobile-nav" class="sb sib-mobile-nav sb-lm">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">

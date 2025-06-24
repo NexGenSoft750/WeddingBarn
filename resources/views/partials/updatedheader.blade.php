@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1">
     <title>Contact Us - Kendall Point</title>
     <link rel="stylesheet" href="{{ asset('style.css') }}" />
     <!-- Bootstrap CSS -->
@@ -85,6 +85,10 @@
             background-color: #6e7158;
             border: #6e7158
                 /* Change to desired color */
+        }.logo{
+            width: 100px;
+            height: auto;
+            margin-left: 50px
         }
     </style>
 </head>
@@ -111,7 +115,6 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <!-- Existing Navbar Items -->
-                    <li class="nav-item"><a class="nav-link" href="{{ route('microwedding') }}">MICRO WEDDING</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('amenities') }}">THE VENUE</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="{{ route('gallery') }}" id="galleryDropdown"
@@ -137,9 +140,10 @@
         <div class="container d-flex justify-content-between align-items-center">
             <a class="navbar-brand" href="{{ route('home') }}">Kendall Point</a>
             <ul class="navbar-nav d-flex flex-row">
-                <li class="nav-item"><a class="nav-link" href="{{ route('microwedding') }}">MICRO WEDDING</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('amenities') }}">THE VENUE</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('contact') }}">CONTACT US</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('review') }}">REVIEWS</a></li>
+
             </ul>
             <a class="btn btn-primary text-white" href="{{ route('book') }}">BOOK A TOUR</a>
         </div>

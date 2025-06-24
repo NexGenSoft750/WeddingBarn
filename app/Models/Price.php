@@ -22,6 +22,17 @@ class Price extends Model
         'multi_day_saturday_sunday_non_peak',
         'full_weekend_peak',
         'full_weekend_non_peak',
-        'full_weekend_only', // Include all columns here
+        'full_weekend_only',
+
+        // Micro pricing columns
+        'micro_day_range',
+        'micro_guest_range_1',
+        'micro_price_1',
+        'micro_guest_range_2',
+        'micro_price_2',
+        'micro_guest_range_3',
+        'micro_price_3',
+        'micro_guest_range_4',
+        'micro_price_4',
     ];
 }

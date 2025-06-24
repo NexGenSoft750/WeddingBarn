@@ -326,3 +326,291 @@ i p {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*media queries*/
+/* Base styles for large screens */
+body {
+    font-size: 16px;
+}
+@media (max-width: 1024px) {
+    .right-column {
+        p {
+            margin-left: 71px;
+        }
+    }
+}
+@media (max-width: 1200px) {
+    .nav-tabs .nav-link {
+        margin-right: 80px;
+        margin-left: 80px;
+        font-size: 1rem;
+    }
+
+    .content-container {
+        gap: 200px;
+    }
+
+    .left-column,
+    .right-column {
+        padding: 20px;
+        min-width: 250px;
+    }
+
+    .calendar-container {
+        width: 150px;
+    }
+}
+
+@media (max-width: 992px) {
+    .nav-tabs .nav-link {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+
+    .swiper-slide {
+        font-size: 16px;
+        width: 12%;
+    }
+
+    .content-container {
+        gap: 100px;
+        margin-top: 30px;
+    }
+
+    .calendar-container {
+        width: 120px;
+    }
+}
+
+@media (max-width: 768px) {
+    .right-column {
+        p {
+            margin-left: 233px;
+        }
+    }
+
+    .content-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .swiper-slide {
+        font-size: 14px;
+        width: auto;
+    }
+
+    .calendar-container {
+        width: 100%;
+    }
+
+    .left-column,
+    .right-column {
+        min-width: auto;
+        flex: none;
+        padding: 10px;
+    }
+
+    .full-width-swiper .swiper-button-prev,
+    .full-width-swiper .swiper-button-next {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .nav-tabs .nav-link {
+        font-size: 0.8rem;
+    }
+
+    .swiper-slide {
+        font-size: 12px;
+    }
+
+    .calendar-container {
+        padding: 5px;
+        width: 100%;
+    }
+
+    .full-width-swiper {
+        padding: 5px 0;
+    }
+}
+@media (max-width: 1440px) {
+    /* Tabs */
+    .nav-tabs .nav-link {
+        margin-right: 60px;
+        margin-left: 60px;
+        font-size: 1.1rem;
+    }
+    .right-column {
+        p {
+            margin-left: 222px;
+        }
+    }
+    /* Swiper Slide */
+    .swiper-slide {
+        font-size: 14px;
+        width: auto;
+        padding: 12px;
+    }
+
+    /* Content Layout */
+    .content-container {
+        gap: 150px;
+        margin-top: 40px;
+    }
+
+    /* Calendar Container */
+    .calendar-container {
+        width: 180px;
+        margin: 10px auto;
+    }
+
+    /* Swiper Arrows */
+    .full-width-swiper .swiper-button-prev,
+    .full-width-swiper .swiper-button-next {
+        font-size: 22px;
+    }
+
+    /* Columns */
+    .left-column,
+    .right-column {
+        padding: 30px;
+        flex: 1;
+        min-width: 300px;
+    }
+
+    /* General Font Scaling */
+    body {
+        font-size: 15px;
+    }
+}
+/* Base styles */
+.right-column p {
+    margin: 0 auto; /* Center-align the paragraph */
+    text-align: center;
+    font-size: 1rem; /* Base font size */
+    line-height: 1.5;
+    max-width: 90%; /* Prevent overflow */
+}
+
+/* Large screens */
+@media (max-width: 1440px) {
+    .right-column p {
+        margin: 0 auto; /* Center-align */
+        font-size: 1rem;
+    }
+    .content-container {
+        gap: 120px; /* Adjust spacing */
+    }
+}
+
+/* Medium screens */
+@media (max-width: 1200px) {
+    .right-column p {
+        margin: 0 auto;
+        font-size: 0.95rem; /* Slightly smaller text */
+    }
+    .content-container {
+        gap: 80px;
+    }
+}
+
+/* Tablets */
+@media (max-width: 992px) {
+    .right-column p {
+        margin: 0 auto;
+        font-size: 0.9rem;
+    }
+    .content-container {
+        gap: 50px;
+    }
+}
+
+/* Small Tablets and Phones */
+@media (max-width: 768px) {
+    .content-container {
+        flex-direction: column; /* Stack columns */
+        gap: 20px;
+    }
+    .right-column p {
+        margin: 0 auto;
+        font-size: 0.85rem; /* Scale down font size */
+        max-width: 100%;
+    }
+}
+
+/* Phones */
+@media (max-width: 576px) {
+    .right-column p {
+        margin: 0 auto;
+        font-size: 0.8rem; /* Further scale down for smaller screens */
+    }
+    .content-container {
+        padding: 10px;
+    }
+}
+/* Time select dropdown hidden by default */
+#timeSelect {
+    display: none; /* Keep hidden initially */
+    position: absolute;
+    bottom: 0; /* Ensure it stays at the bottom of the container */
+    left: 0;
+    width: auto; /* Make the dropdown span the full width of its container */
+    z-index: 10;
+    box-sizing: border-box;
+}
+
+/* Style for the time dropdown */
+#timeDropdown {
+    width: 100%; /* Make the dropdown span the full width of its container */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Specific adjustments for smaller screens */
+@media (max-width: 768px) {
+    #timeSelect {
+        bottom: 0; /* Keep at the bottom */
+        left: 0;
+        width: auto;
+        z-index: 10;
+        position: absolute;
+    }
+    #timeDropdown {
+        width: 100%; /* Make the dropdown span the full width of its container */
+        margin-bottom: 10px;
+        /* Ensure full width */
+    }
+}
+
+@media (max-width: 425px) {
+    #timeSelect {
+        bottom: 0; /* Keep at the bottom */
+        left: 0;
+        width: auto;
+        z-index: 10;
+        position: absolute;
+    }
+    #timeDropdown {
+        width: 100%;
+        /* Ensure full width */
+        /* Ensure full width */
+    }
+}
+
+@media (max-width: 375px) {
+    #timeSelect {
+        bottom: 0; /* Keep at the bottom */
+        left: 0;
+        width: auto; /* Ensure it spans the full width */
+        z-index: 10;
+        position: absolute; /* Absolute positioning to control placement */
+    }
+
+    #timeDropdown {
+        width: auto;
+        position: absolute;
+        right: -27px;
+        bottom: -6px; /* Align it 10px from the right edge */
+    }
+}

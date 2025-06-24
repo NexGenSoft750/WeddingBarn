@@ -3263,13 +3263,14 @@
         .d .sie-look-around-1_15-text {
             color: rgba(0, 69, 88, 1);
             text-transform: lowercase;
-            line-height: 1.2;
+            line-height: 1.5;
             letter-spacing: 0.1em;
-            font-size: 24px;
+            font-size: 18px;
             text-align: center;
             font-family: 'Libre Baskerville';
-            font-weight: 400;
+            font-weight: 600;
             font-style: italic;
+
         }
 
         .m .sie-look-around-1_15-text {
@@ -6141,46 +6142,7 @@
 
     <div id="si-sp" class="sp">
        @include('partials.updatedheader')
-        <div id="social-stalk-us" data-bid="social-stalk-us" class="sb sib-social-stalk-us sb-lm sb-ld">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div data-sid="social-stalk-us_0" class="sie-social-stalk-us_0 se">
-                        <div class="se-simple" style="background-color:#a67d5f"></div>
-                    </div><a href="https://www.tiktok.com/@texasweddingvenue" target="_blank"
-                        class="sie-social-stalk-us_1 se" data-sid="social-stalk-us_1">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M433.29,150.28c-13.21-1.22-34.28-5.4-52.61-20.21a164.93,164.93,0,0,1-27.47-32.68l-.64-1-.62-1-.14-.21c-.69-1.12-1.35-2.23-2-3.32-2.62-4.5-4.75-8.68-5.29-9.73-1.91-3.82-3.48-7.31-4.76-10.37-.34-.93-.67-1.89-1-2.92A54.43,54.43,0,0,1,336.56,53l-70.32.4.84,277.68c0,14.9-12.19,40-34.61,50.87-16.22,7.88-38.32,7.19-50.67.72l-.09-.05-.06,0,0,0a74,74,0,0,1-8.89-5.62,62.36,62.36,0,0,1-9.41-8.8c-3.5-4-10.71-12.57-13.11-25.7-1.89-10.33.28-18.48,1.34-23.35.85-3.87,5.85-24.89,26.59-37.94,21.7-13.65,43.91-8.06,47.54-7.08.28-17.86,1.05-64.79,1.15-70.41-10.74-1.81-46-6.37-82.41,14-39.25,21.89-53.34,57.85-57.12,68a131,131,0,0,0-8.2,49.21,122.67,122.67,0,0,0,37.24,86.72,148.78,148.78,0,0,0,21,16.79q2.58,2,5.41,3.72a69.53,69.53,0,0,0,14.59,6.79c5.4,2.32,62.76,25.78,118.78-8.39,56.58-34.5,61.55-97.13,61.9-102.79V189.44A150.19,150.19,0,0,0,434.54,220C434.43,213.39,433.64,166.92,433.29,150.28Z" />
-                            </svg></div>
-                    </a><a href="https://www.instagram.com/kendallpointvenue/" target="_blank"
-                        class="sie-social-stalk-us_2 se" data-sid="social-stalk-us_2">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M338,54.63H174c-62.72,0-114,51.32-114,114V343.33c0,62.72,51.32,114,114,114H338c62.72,0,114-51.32,114-114V168.67C452,105.94,400.68,54.63,338,54.63Zm83.91,288.71A84.24,84.24,0,0,1,338,427.24H174a84.24,84.24,0,0,1-83.91-83.91V168.67A84.24,84.24,0,0,1,174,84.76H338a84.24,84.24,0,0,1,83.91,83.91Z" />
-                                <path
-                                    d="M255.77,148.18A107.94,107.94,0,1,0,363.71,256.13,107.94,107.94,0,0,0,255.77,148.18Zm-.52,178.71a70.68,70.68,0,1,1,70.68-70.68A70.68,70.68,0,0,1,255.25,326.9Z" />
-                                <circle cx="365.44" cy="146.5" r="25.56" />
-                            </svg></div>
-                    </a><a href="https://www.facebook.com/kendallpointvenue/" target="_blank"
-                        class="sie-social-stalk-us_3 se" data-sid="social-stalk-us_3">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M288 192v-38.1c0-17.2 3.8-25.9 30.5-25.9H352V64h-55.9c-68.5 0-91.1 31.4-91.1 85.3V192h-45v64h45v192h83V256h56.4l7.6-64h-64z" />
-                            </svg></div>
-                    </a><a href="https://www.pinterest.com/kendallpointvenue/" target="_blank"
-                        class="sie-social-stalk-us_4 se" data-sid="social-stalk-us_4">
-                        <div class="se-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                <path
-                                    d="M256 32C132.3 32 32 132.3 32 256s100.3 224 224 224 224-100.3 224-224S379.7 32 256 32zm135.8 359.8C355.5 428 307.3 448 256 448c-16.2 0-32.1-2-47.4-5.9 2.8-6.3 5.2-12.8 7-19.3 2.8-10 15.8-61.6 15.8-61.6 7.8 14.8 30.5 27.9 54.7 27.9 72 0 120.9-65.6 120.9-153.5 0-66.4-56.3-128.3-141.8-128.3-106.4 0-160.1 76.3-160.1 139.9 0 38.5 14.6 72.8 45.9 85.6 5.1 2.1 9.7.1 11.2-5.6 1-3.9 3.5-13.9 4.6-18 1.5-5.6.9-7.6-3.2-12.5-9-10.7-14.8-24.4-14.8-43.9 0-56.6 42.3-107.3 110.3-107.3 60.1 0 93.2 36.7 93.2 85.8 0 64.6-28.6 119.1-71 119.1-23.4 0-41-19.4-35.4-43.1 6.7-28.4 19.8-59 19.8-79.5 0-18.3-9.8-33.6-30.2-33.6-24 0-43.2 24.8-43.2 58 0 21.1 7.2 35.4 7.2 35.4S175 391.5 170.7 409.7c-1.3 5.5-2.2 11.1-2.9 16.8-17.3-9-33.3-20.6-47.4-34.8C84 355.5 64 307.3 64 256s20-99.5 56.2-135.8C156.5 84 204.7 64 256 64s99.5 20 135.8 56.2C428 156.5 448 204.7 448 256s-20 99.5-56.2 135.8z" />
-                            </svg></div>
-                    </a>
-                    <div data-sid="social-stalk-us_5" class="sie-social-stalk-us_5 se">
-                        <h3 class="se-t sie-social-stalk-us_5-text st-m-subheading st-d-subheading se-rc">social stalk
-                            us!</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+        @include('partials.social')
         <div id="top-gallery" data-bid="top-gallery" class="sb sib-top-gallery sb-nd-dH">
             <div class="ss-s ss-bg">
                 <div class="sb-m"></div>
@@ -6274,18 +6236,18 @@
                     </div><a href="{{ route('price') }}" target="_self" class="sie-look-around-1_14 se"
                         data-sid="look-around-1_14">
                         <h2 class="se-t sie-look-around-1_14-text st-m-heading st-d-heading">pricing</h2>
-                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_15 se"
+                    </a><a href="{{ route('microwedding') }}" target="_self" class="sie-look-around-1_15 se"
                         data-sid="look-around-1_15">
-                        <h2 class="se-t sie-look-around-1_15-text st-m-heading st-d-heading">blog</h2>
+                        <h2 class="se-t sie-look-around-1_15-text st-m-heading st-d-heading">micro wedding package</h2>
                     </a><a href="{{ route('vendor') }}" target="_self" class="sie-look-around-1_16 se"
                         data-sid="look-around-1_16">
                         <h3 class="se-t sie-look-around-1_16-text st-m-heading st-d-heading">Check them out »</h3>
                     </a><a href="{{ route('price') }}" target="_self" class="sie-look-around-1_17 se"
                         data-sid="look-around-1_17">
                         <h3 class="se-t sie-look-around-1_17-text st-m-heading st-d-heading">Check it out »</h3>
-                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_18 se"
+                    </a><a href="{{ route('microwedding') }}" target="_self" class="sie-look-around-1_18 se"
                         data-sid="look-around-1_18">
-                        <h3 class="se-t sie-look-around-1_18-text st-m-heading st-d-heading">read now! »</h3>
+                        <h3 class="se-t sie-look-around-1_18-text st-m-heading st-d-heading">Check it out »</h3>
                     </a><a href="{{ route('vendor') }}" target="_self" class="sie-look-around-1_19 se"
                         data-sid="look-around-1_19">
                         <div style="width:100%;height:100%" data-img="look-around-1_19" class="se-img se-gr slzy">
@@ -6296,7 +6258,7 @@
                                 class="se-img"
                                 alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
                                 title="Kendall&amp;John_Ceremony-6" /></noscript>
-                    </a><a href="{{ route('blog') }}" target="_self" class="sie-look-around-1_20 se"
+                    </a><a href="{{ route('microwedding') }}" target="_self" class="sie-look-around-1_20 se"
                         data-sid="look-around-1_20">
                         <div style="width:100%;height:100%" data-img="look-around-1_20" class="se-img se-gr slzy">
                             <span role="img"
@@ -6565,21 +6527,12 @@
                 </div>
             </div>
         </div>
-        @include('partials.footer')
-        <div id="contact-sticky" data-bid="contact-sticky" class="sb sib-contact-sticky sb-lm">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"><a href="c{{route('book')}}" target="_self"
-                        class="sie-contact-sticky_0 se" data-sid="contact-sticky_0">
-                        <h2 class="se-t sie-contact-sticky_0-text st-m-subheading st-d-subheading">Book Your Tour<br>
-                        </h2>
-                    </a></div>
-            </div>
-        </div>
+        @include('partials.newfooter')
+
     </div>
 
     <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/rE174ODWG -->
-    <div id="mobile-sticky-sec" class="mobile-contact-sec"><span class="contact_us_page_sec"><a
-                href=contact-book-your-tour.html "><img src= wp-content/plugins/mobile-contact-section/public/assets/images/email_icon.svg  width="10px" height="10px" alt="Contact" /></a><h2><a class="contact_us_page_sec_sub" rel="nofollow" href="contact-book-your-tour.html">Book Your Tour</a></h2></span></div></body>
+   </body>
 
 <!-- Mirrored from kendallpoint.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Jan 2025 16:01:08 GMT -->
 </html>

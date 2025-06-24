@@ -6842,7 +6842,7 @@
                 </div>
             </div>
         </div>
-     @include('partials.footer')
+     @include('partials.newfooter')
 
         <div id="contact-sticky" data-bid="contact-sticky" class="sb sib-contact-sticky sb-lm">
             <div class="ss-s ss-bg">

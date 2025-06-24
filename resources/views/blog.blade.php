@@ -5120,7 +5120,7 @@
                 </div>
             </div>
         </div>
-       @include('partials.footer')
+       @include('partials.newfooter')
     </div>
 
     <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/PGtLrHjqiD -->

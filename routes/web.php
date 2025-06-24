@@ -101,11 +101,23 @@ Route::get('/virtualtour', function () {
 
 Route::get('/micro-wedding', function () {
     $images = DefaultImage::all();
-    return view('microwedding', compact('images'));
+    $prices = Price::all();
+    return view('microwedding', compact('images', 'prices'));
 })->name('microwedding');
 Route::get('/faq', function () {
     return view('faq');
 })->name('FAQ');
 Route::post('/submit-contact-form', [ContactController::class, 'submitForm'])->name('contactemail');
 
-Route::post('/tour-booking', [TourBookingController::class, 'store'])->name('touremail');;
+Route::post('/tour-booking', [TourBookingController::class, 'store'])->name('touremail');
+
+// Temporary route for production deployment - remove after use
+Route::get('/symlink', function () {
+    // Only allow in production and if storage link doesn't exist
+    if (app()->environment('production') && !file_exists(public_path('storage'))) {
+        Artisan::call('storage:link');
+        return 'Storage link created successfully! Please remove this route now.';
+    }
+    return 'Storage link already exists or not in production environment.';
+});
+
