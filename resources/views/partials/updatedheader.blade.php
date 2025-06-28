@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1">
-    <title>Contact Us - Kendall Point</title>
+    <title>Contact Us - Acre 31</title>
     <link rel="stylesheet" href="{{ asset('style.css') }}" />
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -107,7 +107,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('download14.png') }}" alt="Kendall Point Logo" class="logo">
+                <img src="{{ asset('download14.png') }}" alt="Acre 31 Logo" class="logo">
             </a>
             <button class="navbar-toggler" type="button" onclick="toggleNavbar()">
                 <span class="navbar-toggler-icon"></span>
@@ -138,7 +138,7 @@
     <!-- Sticky Navbar -->
     <nav class="sticky-navbar">
         <div class="container d-flex justify-content-between align-items-center">
-            <a class="navbar-brand" href="{{ route('home') }}">Kendall Point</a>
+            <a class="navbar-brand" href="{{ route('home') }}">Acre 31</a>
             <ul class="navbar-nav d-flex flex-row">
                 <li class="nav-item"><a class="nav-link" href="{{ route('amenities') }}">THE VENUE</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('contact') }}">CONTACT US</a></li>

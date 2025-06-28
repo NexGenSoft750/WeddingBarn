@@ -13,7 +13,7 @@
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="description"
-        content="See everything Kendall Point has to offer with photos from all the dream weddings we've hosted in the past." />
+        content="See everything Acre 31 has to offer with photos from all the dream weddings we've hosted in the past." />
     <link rel="canonical" href="the-venue-gallery.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/uCQDpsEtTHe35z3KKR0bPA/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-5.jpg" />

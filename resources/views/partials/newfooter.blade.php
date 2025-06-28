@@ -190,7 +190,7 @@
                     <p>(830) 229-5090</p>
                 </div>
                 <div class="col-md-4 column-border">
-                    <p>2024 <a href="#">Kendall Point</a></p>
+                    <p>2024 <a href="#">Acre 31</a></p>
                     <a href="#">Click Here For Photo Credits</a>
                 </div>
                 <div class="col-md-4">

@@ -8,13 +8,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Book Your Tour - Kendall Point Wedding Venue San Antonio</title>
+    <title>Book Your Tour - Acre 31 Wedding Venue San Antonio</title>
     <link rel="icon" type="image/png"
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="robots" content="noindex" />
     <meta name="description"
-        content="Ready to plan the wedding of your dreams at Kendall Point? Send us a message to get started and learn more ." />
+        content="Ready to plan the wedding of your dreams at Acre 31? Send us a message to get started and learn more ." />
     <link rel="canonical" href="contact-book-your-tour.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/su5x09qAQDOf4KXRlkh0tg/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0068.jpg" />

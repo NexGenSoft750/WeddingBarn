@@ -13,7 +13,7 @@
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="description"
-        content="Get the perfect wedding plus so much more at Kendall Point wedding venue in Boerne, Texas." />
+        content="Get the perfect wedding plus so much more at Acre 31 wedding venue in Boerne, Texas." />
     <link rel="canonical" href="pricing-guide.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/vlKYgoYASCGKl5Vm-43sBg/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-32.jpg" />
@@ -36,16 +36,18 @@
         href="https://fonts.googleapis.com/css?family=Montserrat:regular|Montserrat:700|Libre+Baskerville:regular|Libre+Baskerville:italic"
         rel="stylesheet" type="text/css" />
     <script id="init_data" type="application/json">
-      {"mobile":{"w":320},"desktop":{"w":1200,"bgFillType":"color","bgColor":"#000000:0"},"sid":"uxugyxraqtkqhmrchhfzzg","break":768,"assetURL":"//static.showit.co","contactFormId":"105740/224708","cfAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9jb250YWN0Zm9ybQ==","sgAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9zb2NpYWxncmlk","blockData":[{"slug":"announcement-header","visible":"a","states":[],"d":{"h":76,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":137,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"drop-navigation","visible":"d","states":[{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1-1"}],"d":{"h":124,"w":1200,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st","scrollOffset":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"stateTrans":[{},{}]},{"slug":"header","visible":"a","states":[],"d":{"h":1,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"ps":[{"trigger":"offscreen","type":"show","block":"drop-navigation"},{"trigger":"onscreen","type":"hide","block":"drop-navigation"}]},{"slug":"social-stalk-us","visible":"d","states":[],"d":{"h":1,"w":1200,"locking":{"offset":100,"scrollOffset":1,"side":"t"},"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"h":46,"w":320,"locking":{"side":"t","offset":0},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"navigation","visible":"a","states":[{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-2"}],"d":{"h":124,"w":1200,"locking":{},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st"},"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"stateTrans":[{},{},{}]},{"slug":"gallery","visible":"a","states":[],"d":{"h":601,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":203,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"Sqfw0jvOSeCd6yOc-JBzCA/105740/1q0a3631_websize_1.jpg","aspect_ratio":1.49953,"title":"1Q0A3631_websize (1)","type":"asset"},"bgOpacity":100,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"pricing-navigation","visible":"a","states":[],"d":{"h":80,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":228,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro","visible":"a","states":[],"d":{"h":109,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":172,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"pricing","visible":"a","states":[],"d":{"h":566,"w":1200,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"image","bgImage":{"key":"HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg","aspect_ratio":1.49927,"title":"Sloane Photo - Caitlyn John Wedding-924_websize","type":"asset"},"bgOpacity":100,"bgPos":"cb","bgScale":"cover","bgScroll":"p"},"m":{"h":933,"w":320,"bgFillType":"color","bgColor":"colors-7","bgMediaType":"image","bgImage":{"key":"XQqtHk-JT9ijAQ4lqapmHA/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-58.jpg","aspect_ratio":0.6665,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-58","type":"asset"},"bgOpacity":100,"bgPos":"cb","bgScale":"cover","bgScroll":"p"}},{"slug":"cta-pricing","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"included-with-your-rental-1","visible":"a","states":[],"d":{"h":508,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":1208,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro-1","visible":"a","states":[],"d":{"h":1,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"payment-schedule-1","visible":"a","states":[],"d":{"h":91,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":174,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"look-around-1","visible":"a","states":[],"d":{"h":516,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1551,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"book-tour-1","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro-2","visible":"a","states":[],"d":{"h":371,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":830,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"book-tour-3","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"important-notes","visible":"a","states":[],"d":{"h":847,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1324,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"vendor-banner","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"},"m":{"h":298,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"faq","visible":"a","states":[],"d":{"h":1335,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1933,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"in-house-upgrades","visible":"a","states":[],"d":{"h":1478,"w":1200,"nature":"dH","bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":3606,"w":320,"nature":"dH","bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"testimonials-1","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"},"m":{"h":323,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"}},{"slug":"instagram","visible":"a","states":[],"d":{"h":338,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":153,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"footer","visible":"a","states":[],"d":{"h":342,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":851,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"mobile-nav","visible":"m","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":600,"w":320,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-6","bgMediaType":"none"}},{"slug":"contact-sticky","visible":"m","states":[],"d":{"h":43,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":50,"w":320,"locking":{"side":"sb"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}}],"elementData":[{"type":"simple","visible":"a","id":"announcement-header_0","blockId":"announcement-header","m":{"x":72,"y":81,"w":176,"h":41,"a":0},"d":{"x":874,"y":22,"w":158,"h":36,"a":0}},{"type":"text","visible":"a","id":"announcement-header_1","blockId":"announcement-header","m":{"x":9,"y":19,"w":311,"h":39,"a":0},"d":{"x":315,"y":16,"w":533,"h":45,"a":0}},{"type":"text","visible":"a","id":"announcement-header_2","blockId":"announcement-header","m":{"x":72,"y":94,"w":176,"h":28,"a":0},"d":{"x":889,"y":33,"w":138,"h":25,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_7","blockId":"drop-navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":749,"y":91,"w":211,"h":135,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_8","blockId":"drop-navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":104,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_9","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":134,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_10","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":164,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_11","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":194,"w":164,"h":24,"a":0}},{"type":"simple","visible":"d","id":"social-stalk-us_0","blockId":"social-stalk-us","m":{"x":-357,"y":23,"w":224,"h":140,"a":0},"d":{"x":1163,"y":64,"w":40,"h":400,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_1","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":264,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_2","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":312,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_3","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":360,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_4","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":408,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"text","visible":"a","id":"social-stalk-us_5","blockId":"social-stalk-us","m":{"x":12,"y":20,"w":144,"h":10,"a":0},"d":{"x":1107,"y":160,"w":152,"h":15,"a":-90,"lockH":"r"}},{"type":"text","visible":"d","id":"navigation_0","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":-294,"y":174,"w":162,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":514,"y":49,"w":124,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_2","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":888,"y":49,"w":114,"h":27,"a":0}},{"type":"text","visible":"m","id":"navigation_3","blockId":"navigation","m":{"x":60,"y":13,"w":200,"h":26,"a":0},"d":{"x":547,"y":587,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"simple","visible":"d","id":"navigation_view-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_5","blockId":"navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":650,"y":90,"w":217,"h":127,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_6","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":102,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_7","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":131,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_8","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":159,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_9","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":188,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_0","blockId":"navigation","m":{"x":132,"y":28,"w":75.60000000000001,"h":14,"a":0},"d":{"x":733,"y":13,"w":66,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-2_1","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":674,"y":35,"w":194,"h":160,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_2","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":690,"y":97,"w":183,"h":17,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_3","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":681,"y":61,"w":118,"h":17,"a":0}},{"type":"gallery","visible":"d","id":"gallery_0","blockId":"gallery","m":{"x":-26,"y":-1,"w":373,"h":756,"a":0,"g":{"aa":3,"dots":true}},"d":{"x":-22,"y":0,"w":1208,"h":604,"a":0,"lockH":"s","g":{"aa":3,"dots":true}},"imgs":[{"key":"LfzMwE79hYfGtkcZvnnabg/105740/hr_sneak_under_the_sun_photography-388_websize.jpg","ar":1.50235},{"key":"Mq3AbHpKNnMUOHPUhIKsJg/105740/allisonjeffersphotography-73.jpg","ar":0.66667},{"key":"r2UIq7fpSl2w00CqUmE7dg/105740/20230610_4838_websize.jpg","ar":0.66563},{"key":"mQXAFItwSEacz4y4rigpQA/105740/courtney_and_nick-ceremony-1.jpg","ar":0.6665},{"key":"Rlc7AIfQQoesIFDz4xHo6w/105740/crak4577.jpg","ar":0.66688},{"key":"OL8mM6a_SNqp5s0upZFAXg/105740/indoor_ceremony_kendall_point.jpg","ar":1.50037},{"key":"4xMwOBRMShyygF8kNMK5mA/105740/anna-wright-photography-f_j-14.jpg","ar":0.66667},{"key":"aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg","ar":1.50037},{"key":"tM97ujPXEYxnnYx2ZczgZw/105740/clairedavid_wedding-1740.jpg","ar":1.50311},{"key":"zBrMdPspfp5ql-K_QLmNrA/105740/arguijo_wedding_maria_rogers_photography-651_websize.jpg","ar":0.66563},{"key":"OjPIbxdPAJqIIwKrReZHgw/105740/allisonjeffersphotography-244.jpg","ar":0.66667},{"key":"9jl4GayhGrccysR1kCLaTA/105740/hr_sneak_under_the_sun_photography-364_websize.jpg","ar":0.66563},{"key":"jmLAD9YeQqGex1wT33fphg/105740/sloane_photo_-_caitlyn_john_wedding-211_websize.jpg","ar":1.49927},{"key":"ZvLfHRS3SK-cnXHl9YpJjw/105740/bobby_and_ariel_-_march_2022-457_websize.jpg","ar":0.745},{"key":"hIeAAOL0T86JCHxJZ3mXIg/105740/cole_bg_-_6273.jpg","ar":1.49925}],"gal":"sliding","g":{},"ch":1},{"type":"text","visible":"a","id":"pricing-navigation_0","blockId":"pricing-navigation","m":{"x":50,"y":100,"w":221,"h":21,"a":0},"d":{"x":490,"y":30,"w":192,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_1","blockId":"pricing-navigation","m":{"x":100,"y":131,"w":122,"h":17,"a":0},"d":{"x":731,"y":30,"w":115,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_2","blockId":"pricing-navigation","m":{"x":115,"y":164,"w":92,"h":17,"a":0},"d":{"x":896,"y":30,"w":83,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_3","blockId":"pricing-navigation","m":{"x":115,"y":193,"w":92,"h":21,"a":0},"d":{"x":1028,"y":30,"w":107,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_4","blockId":"pricing-navigation","m":{"x":108,"y":67,"w":105,"h":21,"a":0},"d":{"x":322,"y":30,"w":118,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_5","blockId":"pricing-navigation","m":{"x":115,"y":38,"w":92,"h":17,"a":0},"d":{"x":216,"y":30,"w":57,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_6","blockId":"pricing-navigation","m":{"x":102,"y":14,"w":117,"h":11,"a":0},"d":{"x":35,"y":34,"w":131,"h":13,"a":0}},{"type":"simple","visible":"a","id":"pricing-intro_0","blockId":"pricing-intro","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"pricing-intro_1","blockId":"pricing-intro","m":{"x":30,"y":1052,"w":261,"h":20,"a":0},"d":{"x":304,"y":-2,"w":615,"h":111,"a":0}},{"type":"text","visible":"a","id":"pricing-intro_2","blockId":"pricing-intro","m":{"x":22,"y":25,"w":276,"h":132,"a":0},"d":{"x":289,"y":11,"w":660,"h":98,"a":0}},{"type":"simple","visible":"a","id":"pricing_0","blockId":"pricing","m":{"x":50,"y":357,"w":220,"h":220,"a":0},"d":{"x":460,"y":132,"w":280,"h":334,"a":0}},{"type":"simple","visible":"a","id":"pricing_1","blockId":"pricing","m":{"x":47,"y":89,"w":220,"h":220,"a":0},"d":{"x":113,"y":132,"w":280,"h":334,"a":0}},{"type":"simple","visible":"a","id":"pricing_2","blockId":"pricing","m":{"x":50,"y":623,"w":220,"h":220,"a":0},"d":{"x":814,"y":135,"w":280,"h":331,"a":0}},{"type":"text","visible":"a","id":"pricing_3","blockId":"pricing","m":{"x":62,"y":130,"w":189,"h":42,"a":0},"d":{"x":501,"y":199,"w":200,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_4","blockId":"pricing","m":{"x":54,"y":513,"w":211,"h":42,"a":0},"d":{"x":836,"y":378,"w":241,"h":29,"a":0}},{"type":"text","visible":"a","id":"pricing_5","blockId":"pricing","m":{"x":50,"y":405,"w":211,"h":42,"a":0},"d":{"x":836,"y":199,"w":241,"h":29,"a":0}},{"type":"text","visible":"a","id":"pricing_6","blockId":"pricing","m":{"x":91,"y":693,"w":136,"h":41,"a":0},"d":{"x":139,"y":253,"w":227,"h":56,"a":0}},{"type":"text","visible":"a","id":"pricing_7","blockId":"pricing","m":{"x":78,"y":187,"w":149,"h":25,"a":0},"d":{"x":500,"y":281,"w":200,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_8","blockId":"pricing","m":{"x":88,"y":247,"w":130,"h":25,"a":0},"d":{"x":508,"y":374,"w":200,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_9","blockId":"pricing","m":{"x":61,"y":371,"w":198,"h":25,"a":0},"d":{"x":830,"y":153,"w":247,"h":27,"a":0}},{"type":"text","visible":"a","id":"pricing_10","blockId":"pricing","m":{"x":69,"y":457,"w":180,"h":25,"a":0},"d":{"x":834,"y":281,"w":240,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_11","blockId":"pricing","m":{"x":101,"y":482,"w":105,"h":18,"a":0},"d":{"x":527,"y":230,"w":147,"h":23,"a":0}},{"type":"text","visible":"a","id":"pricing_12","blockId":"pricing","m":{"x":108,"y":748,"w":105,"h":25,"a":0},"d":{"x":170,"y":327,"w":147,"h":35,"a":0}},{"type":"text","visible":"a","id":"pricing_13","blockId":"pricing","m":{"x":97,"y":212,"w":105,"h":22,"a":0},"d":{"x":527,"y":318,"w":147,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_14","blockId":"pricing","m":{"x":100,"y":272,"w":105,"h":22,"a":0},"d":{"x":535,"y":413,"w":147,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_15","blockId":"pricing","m":{"x":100,"y":151,"w":105,"h":25,"a":0},"d":{"x":880,"y":316,"w":147,"h":35,"a":0}},{"type":"text","visible":"a","id":"pricing_16","blockId":"pricing","m":{"x":105,"y":426,"w":96,"h":16,"a":0},"d":{"x":900,"y":413,"w":108,"h":18,"a":0}},{"type":"text","visible":"a","id":"pricing_17","blockId":"pricing","m":{"x":106,"y":539,"w":96,"h":16,"a":0},"d":{"x":900,"y":235,"w":108,"h":18,"a":0}},{"type":"text","visible":"a","id":"pricing_18","blockId":"pricing","m":{"x":62,"y":98,"w":189,"h":16,"a":0},"d":{"x":482,"y":153,"w":236,"h":39,"a":0}},{"type":"text","visible":"a","id":"cta-pricing_0","blockId":"cta-pricing","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"cta-pricing_1","blockId":"cta-pricing","m":{"x":59,"y":101,"w":201,"h":34,"a":0},"d":{"x":774,"y":17,"w":260,"h":39,"a":0}},{"type":"text","visible":"a","id":"cta-pricing_2","blockId":"cta-pricing","m":{"x":76,"y":107,"w":173,"h":23,"a":0},"d":{"x":792,"y":32,"w":224,"h":10,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_0","blockId":"included-with-your-rental-1","m":{"x":24,"y":1036,"w":273,"h":82,"a":0},"d":{"x":117,"y":469,"w":966,"h":17,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_1","blockId":"included-with-your-rental-1","m":{"x":24,"y":745,"w":281,"h":291,"a":0},"d":{"x":800,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_2","blockId":"included-with-your-rental-1","m":{"x":24,"y":440,"w":281,"h":357,"a":0},"d":{"x":440,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_3","blockId":"included-with-your-rental-1","m":{"x":20,"y":87,"w":281,"h":315,"a":0},"d":{"x":79,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_4","blockId":"included-with-your-rental-1","m":{"x":59,"y":33,"w":202,"h":46,"a":0},"d":{"x":328,"y":19,"w":544,"h":41,"a":0}},{"type":"text","visible":"a","id":"payment-schedule-1_0","blockId":"payment-schedule-1","m":{"x":30,"y":67,"w":261,"h":40,"a":0},"d":{"x":61,"y":38,"w":1078,"h":68,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_0","blockId":"look-around-1","m":{"x":-68,"y":40,"w":456,"h":1,"a":0},"d":{"x":-23,"y":46,"w":1248,"h":1,"a":0,"lockH":"s"}},{"type":"graphic","visible":"a","id":"look-around-1_1","blockId":"look-around-1","m":{"x":31,"y":69,"w":260,"h":260,"a":0},"d":{"x":108,"y":104,"w":215,"h":203,"a":0,"gs":{"s":75,"t":"cover"}},"c":{"key":"LVVRQsNFTkey_hqm-LlB0Q/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-67.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_2","blockId":"look-around-1","m":{"x":31.5,"y":343,"w":259,"h":30,"a":0},"d":{"x":72,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_3","blockId":"look-around-1","m":{"x":66,"y":391,"w":191,"h":15,"a":0},"d":{"x":71,"y":387,"w":285,"h":25,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_4","blockId":"look-around-1","m":{"x":84,"y":29,"w":152,"h":25,"a":0},"d":{"x":525,"y":36,"w":150,"h":23,"a":0}},{"type":"text","visible":"a","id":"look-around-1_5","blockId":"look-around-1","m":{"x":101,"y":36,"w":118,"h":11,"a":0},"d":{"x":539,"y":43,"w":123,"h":18,"a":0}},{"type":"text","visible":"a","id":"look-around-1_6","blockId":"look-around-1","m":{"x":30,"y":375,"w":262,"h":16,"a":0},"d":{"x":75,"y":363,"w":284,"h":16,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_7","blockId":"look-around-1","m":{"x":30,"y":439,"w":260,"h":260,"a":0,"gs":{"s":50}},"d":{"x":359,"y":104,"w":215,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"jOQgo1txQHGvwR96e8XsqQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0446.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_8","blockId":"look-around-1","m":{"x":30.5,"y":713,"w":259,"h":30,"a":0},"d":{"x":323,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_9","blockId":"look-around-1","m":{"x":65,"y":761,"w":191,"h":15,"a":0},"d":{"x":324,"y":387,"w":285,"h":25,"a":0}},{"type":"text","visible":"a","id":"look-around-1_10","blockId":"look-around-1","m":{"x":29,"y":745,"w":262,"h":16,"a":0},"d":{"x":325,"y":363,"w":284,"h":16,"a":0}},{"type":"text","visible":"a","id":"look-around-1_11","blockId":"look-around-1","m":{"x":30,"y":1454,"w":262,"h":16,"a":0},"d":{"x":849,"y":363,"w":279,"h":16,"a":0}},{"type":"text","visible":"a","id":"look-around-1_12","blockId":"look-around-1","m":{"x":29,"y":1424,"w":259,"h":30,"a":0},"d":{"x":847,"y":324,"w":283,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_13","blockId":"look-around-1","m":{"x":63,"y":1126,"w":191,"h":15,"a":0},"d":{"x":586,"y":387,"w":285,"h":25,"a":0}},{"type":"text","visible":"a","id":"look-around-1_14","blockId":"look-around-1","m":{"x":65,"y":1470,"w":191,"h":15,"a":0},"d":{"x":847,"y":387,"w":281,"h":25,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_15","blockId":"look-around-1","m":{"x":30,"y":813,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":611,"y":104,"w":215,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg","aspect_ratio":1.50037}},{"type":"graphic","visible":"a","id":"look-around-1_16","blockId":"look-around-1","m":{"x":30,"y":1154,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":883,"y":104,"w":211,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_17","blockId":"look-around-1","m":{"x":29,"y":1080,"w":259,"h":30,"a":0},"d":{"x":583,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_18","blockId":"look-around-1","m":{"x":29,"y":1110,"w":262,"h":16,"a":0},"d":{"x":586,"y":363,"w":284,"h":16,"a":0}},{"type":"text","visible":"a","id":"book-tour-1_0","blockId":"book-tour-1","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour-1_1","blockId":"book-tour-1","m":{"x":77,"y":101,"w":166,"h":34,"a":0},"d":{"x":771,"y":22,"w":202,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour-1_2","blockId":"book-tour-1","m":{"x":101,"y":107,"w":118,"h":23,"a":0},"d":{"x":791,"y":32,"w":162,"h":9,"a":0}},{"type":"simple","visible":"a","id":"pricing-intro-2_0","blockId":"pricing-intro-2","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"pricing-intro-2_1","blockId":"pricing-intro-2","m":{"x":19,"y":61,"w":282,"h":742,"a":0},"d":{"x":109,"y":74,"w":982,"h":278,"a":0}},{"type":"text","visible":"a","id":"pricing-intro-2_2","blockId":"pricing-intro-2","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":293,"y":33,"w":613,"h":17,"a":0}},{"type":"text","visible":"a","id":"book-tour-3_0","blockId":"book-tour-3","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour-3_1","blockId":"book-tour-3","m":{"x":77,"y":101,"w":166,"h":34,"a":0},"d":{"x":771,"y":22,"w":208,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour-3_2","blockId":"book-tour-3","m":{"x":101,"y":107,"w":118,"h":23,"a":0},"d":{"x":781,"y":32,"w":190,"h":9,"a":0}},{"type":"simple","visible":"a","id":"important-notes_0","blockId":"important-notes","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"important-notes_1","blockId":"important-notes","m":{"x":19,"y":61,"w":282,"h":523,"a":0},"d":{"x":154,"y":80,"w":892,"h":745,"a":0}},{"type":"text","visible":"a","id":"important-notes_2","blockId":"important-notes","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":406,"y":45,"w":388,"h":17,"a":0}},{"type":"text","visible":"a","id":"vendor-banner_0","blockId":"vendor-banner","m":{"x":12,"y":38,"w":297,"h":124,"a":0},"d":{"x":84,"y":116,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"vendor-banner_1","blockId":"vendor-banner","m":{"x":56,"y":203,"w":209,"h":52,"a":0},"d":{"x":482,"y":240,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"vendor-banner_2","blockId":"vendor-banner","m":{"x":69,"y":221,"w":183,"h":17,"a":0},"d":{"x":509,"y":255,"w":183,"h":14,"a":0}},{"type":"text","visible":"a","id":"faq_0","blockId":"faq","m":{"x":16,"y":1801,"w":282,"h":101,"a":0},"d":{"x":155,"y":1201,"w":892,"h":94,"a":0}},{"type":"text","visible":"a","id":"faq_1","blockId":"faq","m":{"x":18,"y":1761,"w":282,"h":29,"a":0},"d":{"x":154,"y":1174,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_2","blockId":"faq","m":{"x":18,"y":1692,"w":282,"h":51,"a":0},"d":{"x":154,"y":1128,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_3","blockId":"faq","m":{"x":17,"y":1653,"w":282,"h":29,"a":0},"d":{"x":155,"y":1096,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_4","blockId":"faq","m":{"x":17,"y":1602,"w":282,"h":51,"a":0},"d":{"x":153,"y":1049,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_5","blockId":"faq","m":{"x":17,"y":1563,"w":282,"h":29,"a":0},"d":{"x":153,"y":1013,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_6","blockId":"faq","m":{"x":14,"y":1131,"w":282,"h":427,"a":0},"d":{"x":154,"y":798,"w":892,"h":200,"a":0}},{"type":"text","visible":"a","id":"faq_7","blockId":"faq","m":{"x":18,"y":1102,"w":282,"h":29,"a":0},"d":{"x":153,"y":769,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_8","blockId":"faq","m":{"x":14,"y":1051,"w":282,"h":51,"a":0},"d":{"x":155,"y":733,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_9","blockId":"faq","m":{"x":17,"y":1005,"w":282,"h":29,"a":0},"d":{"x":155,"y":710,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_10","blockId":"faq","m":{"x":18,"y":942,"w":282,"h":51,"a":0},"d":{"x":155,"y":645,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_11","blockId":"faq","m":{"x":18,"y":895,"w":282,"h":29,"a":0},"d":{"x":155,"y":622,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_12","blockId":"faq","m":{"x":16,"y":804,"w":282,"h":51,"a":0},"d":{"x":155,"y":563,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_13","blockId":"faq","m":{"x":20,"y":769,"w":282,"h":29,"a":0},"d":{"x":155,"y":540,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_14","blockId":"faq","m":{"x":20,"y":686,"w":282,"h":51,"a":0},"d":{"x":155,"y":478,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_15","blockId":"faq","m":{"x":17,"y":632,"w":282,"h":29,"a":0},"d":{"x":155,"y":455,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_16","blockId":"faq","m":{"x":20,"y":367,"w":282,"h":51,"a":0},"d":{"x":154,"y":277,"w":892,"h":50,"a":0}},{"type":"text","visible":"a","id":"faq_17","blockId":"faq","m":{"x":20,"y":326,"w":282,"h":29,"a":0},"d":{"x":154,"y":251,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_18","blockId":"faq","m":{"x":20,"y":234,"w":282,"h":51,"a":0},"d":{"x":155,"y":189,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_19","blockId":"faq","m":{"x":20,"y":197,"w":282,"h":29,"a":0},"d":{"x":154,"y":166,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_20","blockId":"faq","m":{"x":20,"y":138,"w":282,"h":24,"a":0},"d":{"x":154,"y":110,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_21","blockId":"faq","m":{"x":20,"y":98,"w":282,"h":31,"a":0},"d":{"x":154,"y":87,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_22","blockId":"faq","m":{"x":22,"y":29,"w":276,"h":43,"a":0},"d":{"x":356,"y":32,"w":489,"h":17,"a":0}},{"type":"text","visible":"a","id":"faq_23","blockId":"faq","m":{"x":65,"y":450,"w":192,"h":33,"a":0},"d":{"x":423,"y":350,"w":370,"h":18,"a":0}},{"type":"text","visible":"a","id":"faq_24","blockId":"faq","m":{"x":46,"y":501,"w":228,"h":105,"a":0},"d":{"x":258,"y":384,"w":687,"h":38,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_0","blockId":"in-house-upgrades","m":{"x":43,"y":11,"w":234,"h":18,"a":0},"d":{"x":483,"y":32,"w":234,"h":18,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_1","blockId":"in-house-upgrades","m":{"x":0,"y":28,"w":320,"h":34,"a":0},"d":{"x":434,"y":43,"w":332,"h":35,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_2","blockId":"in-house-upgrades","m":{"x":36,"y":692,"w":248,"h":246,"a":0},"d":{"x":759.363,"y":104.5,"w":248,"h":246,"a":0},"c":{"key":"bCJ0E3IgAjf7KX79fDIE_w/105740/cameron_and_katrina_-_wedding_3-23-564_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_3","blockId":"in-house-upgrades","m":{"x":36,"y":949,"w":248,"h":36,"a":0},"d":{"x":760,"y":376,"w":248.003,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_4","blockId":"in-house-upgrades","m":{"x":36,"y":646,"w":248,"h":36,"a":0},"d":{"x":462,"y":375,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_5","blockId":"in-house-upgrades","m":{"x":36,"y":389,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":104.5,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"jsF5MzU7RG2t7FYf5zbyyQ/105740/akg-148_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_6","blockId":"in-house-upgrades","m":{"x":36,"y":343,"w":248,"h":36,"a":0},"d":{"x":163,"y":376,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_7","blockId":"in-house-upgrades","m":{"x":36,"y":86,"w":248,"h":246,"a":0},"d":{"x":163,"y":104.5,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"cj9BYG2zaxLnTQzOTOSqNw/105740/c_and_m_exit_-under_the_sun_photography-82_websize.jpg","aspect_ratio":1.49953}},{"type":"graphic","visible":"a","id":"in-house-upgrades_8","blockId":"in-house-upgrades","m":{"x":36,"y":995,"w":248,"h":246,"a":0},"d":{"x":759,"y":411,"w":248,"h":272,"a":0,"gs":{"s":50}},"c":{"key":"X6PjO0MjsCt51MIfLF-wHw/105740/arguijo_wedding_maria_rogers_photography-1276_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_9","blockId":"in-house-upgrades","m":{"x":36,"y":1252,"w":248,"h":36,"a":0},"d":{"x":760,"y":706,"w":248.003,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_10","blockId":"in-house-upgrades","m":{"x":36,"y":1555,"w":248,"h":36,"a":0},"d":{"x":462,"y":705,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_11","blockId":"in-house-upgrades","m":{"x":36,"y":1299,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":435,"w":248,"h":246,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_12","blockId":"in-house-upgrades","m":{"x":36,"y":1858,"w":248,"h":36,"a":0},"d":{"x":163,"y":706,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_13","blockId":"in-house-upgrades","m":{"x":36,"y":1602,"w":248,"h":246,"a":0},"d":{"x":163,"y":435,"w":248,"h":246,"a":0,"gs":{"s":100}},"c":{"key":"zhvsnMRdTZ6LTl719Oj3Ow/105740/jakeandashley-138.jpg","aspect_ratio":0.66667}},{"type":"graphic","visible":"a","id":"in-house-upgrades_14","blockId":"in-house-upgrades","m":{"x":36,"y":1925,"w":248,"h":246,"a":0},"d":{"x":462,"y":768,"w":248,"h":246,"a":0,"gs":{"s":80}},"c":{"key":"ZSFrhrLlQuefEHXdWvoAdw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00100.jpg","aspect_ratio":0.6665}},{"type":"text","visible":"a","id":"in-house-upgrades_15","blockId":"in-house-upgrades","m":{"x":36,"y":2196,"w":248,"h":36,"a":0},"d":{"x":461,"y":1031,"w":248,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_16","blockId":"in-house-upgrades","m":{"x":36,"y":2535,"w":248,"h":36,"a":0},"d":{"x":163,"y":1036,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_17","blockId":"in-house-upgrades","m":{"x":36,"y":2257,"w":248,"h":246,"a":0},"d":{"x":163,"y":765,"w":248,"h":246,"a":0,"gs":{"s":100}},"c":{"key":"UGW4TebqbxMqSU2Q9KLaYg/105740/20230610_4219_websize.jpg","aspect_ratio":0.66563}},{"type":"graphic","visible":"a","id":"in-house-upgrades_18","blockId":"in-house-upgrades","m":{"x":36,"y":3249,"w":248,"h":246,"a":0},"d":{"x":758,"y":767,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"aHuVK-DIQZKjhifqChitig/105740/kendall_and_john_sneakpeek-102.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"in-house-upgrades_19","blockId":"in-house-upgrades","m":{"x":36,"y":3519,"w":248,"h":36,"a":0},"d":{"x":743,"y":1030,"w":274,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_20","blockId":"in-house-upgrades","m":{"x":36,"y":2860,"w":248,"h":36,"a":0},"d":{"x":462,"y":1365,"w":248,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_21","blockId":"in-house-upgrades","m":{"x":36,"y":2588,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":1095,"w":248,"h":246,"a":0,"gs":{"s":20,"t":"cover"}},"c":{"key":"1hLeiGQzYToCjOpOXCJP5g/105740/haddyweddingsneaks-233_websize_2.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_22","blockId":"in-house-upgrades","m":{"x":36,"y":3201,"w":248,"h":36,"a":0},"d":{"x":163,"y":1366,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_23","blockId":"in-house-upgrades","m":{"x":36,"y":2927,"w":248,"h":246,"a":0},"d":{"x":163,"y":1095,"w":248,"h":246,"a":0,"gs":{"s":40}},"c":{"key":"yBdTSKV0Wd_zkwOB1bN0Yg/105740/arguijo_wedding_maria_rogers_photography-1171_websize.jpg","aspect_ratio":1.50376}},{"type":"text","visible":"a","id":"testimonials-1_0","blockId":"testimonials-1","m":{"x":12,"y":53,"w":297,"h":84,"a":0},"d":{"x":84,"y":101,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"testimonials-1_1","blockId":"testimonials-1","m":{"x":66,"y":218,"w":189,"h":52,"a":0},"d":{"x":482,"y":255,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_2","blockId":"testimonials-1","m":{"x":86,"y":238,"w":150,"h":12,"a":0},"d":{"x":516,"y":263,"w":169,"h":28,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_3","blockId":"testimonials-1","m":{"x":112,"y":154,"w":96,"h":16,"a":0},"d":{"x":547,"y":199,"w":108,"h":14,"a":0}},{"type":"social","visible":"a","id":"instagram_0","blockId":"instagram","m":{"x":-31,"y":0,"w":383,"h":153,"a":0},"d":{"x":-1079,"y":14,"w":3358,"h":327,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"footer_0","blockId":"footer","m":{"x":16,"y":784,"w":289,"h":39,"a":0},"d":{"x":400,"y":284,"w":400,"h":38,"a":0}},{"type":"icon","visible":"a","id":"footer_1","blockId":"footer","m":{"x":174,"y":588,"w":33,"h":33,"a":0},"d":{"x":1141,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_2","blockId":"footer","m":{"x":52,"y":588,"w":33,"h":33,"a":0},"d":{"x":1051,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_3","blockId":"footer","m":{"x":113,"y":588,"w":33,"h":33,"a":0},"d":{"x":1081,"y":178,"w":15,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_4","blockId":"footer","m":{"x":235,"y":588,"w":33,"h":33,"a":0},"d":{"x":1111,"y":178,"w":16,"h":17,"a":0}},{"type":"text","visible":"a","id":"footer_5","blockId":"footer","m":{"x":95,"y":549,"w":131,"h":22,"a":0},"d":{"x":891,"y":178,"w":147,"h":16,"a":0}},{"type":"simple","visible":"a","id":"footer_6","blockId":"footer","m":{"x":10,"y":651,"w":300,"h":1,"a":0},"d":{"x":-39,"y":259,"w":1279,"h":1,"a":0,"lockH":"s"}},{"type":"simple","visible":"a","id":"footer_7","blockId":"footer","m":{"x":10,"y":364,"w":300,"h":1,"a":0},"d":{"x":366,"y":34,"w":1,"h":198,"a":0}},{"type":"simple","visible":"m","id":"footer_8","blockId":"footer","m":{"x":10,"y":531,"w":300,"h":1,"a":0},"d":{"x":376,"y":44,"w":1,"h":198,"a":0}},{"type":"simple","visible":"a","id":"footer_9","blockId":"footer","m":{"x":10,"y":259,"w":300,"h":1,"a":0},"d":{"x":833.5,"y":34.25,"w":1,"h":198,"a":0}},{"type":"text","visible":"a","id":"footer_10","blockId":"footer","m":{"x":29,"y":282,"w":262,"h":16,"a":0},"d":{"x":885,"y":85,"w":270,"h":14,"a":0}},{"type":"text","visible":"a","id":"footer_11","blockId":"footer","m":{"x":5,"y":315,"w":311,"h":32,"a":0},"d":{"x":863,"y":102,"w":314,"h":40,"a":0}},{"type":"graphic","visible":"a","id":"footer_12","blockId":"footer","m":{"x":48,"y":18,"w":224,"h":224,"a":0},"d":{"x":479,"y":15,"w":242,"h":242,"a":0},"c":{"key":"39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png","aspect_ratio":1}},{"type":"text","visible":"a","id":"footer_13","blockId":"footer","m":{"x":16,"y":729,"w":289,"h":39,"a":0},"d":{"x":800,"y":281,"w":400,"h":38,"a":0}},{"type":"text","visible":"a","id":"footer_14","blockId":"footer","m":{"x":16,"y":689,"w":289,"h":18,"a":0},"d":{"x":-3,"y":283,"w":400,"h":38,"a":0}},{"type":"text","visible":"d","id":"footer_15","blockId":"footer","m":{"x":674,"y":176,"w":131,"h":22,"a":0},"d":{"x":105,"y":26,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_16","blockId":"footer","m":{"x":95,"y":394,"w":131,"h":22,"a":0},"d":{"x":105,"y":51,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_17","blockId":"footer","m":{"x":95,"y":460,"w":131,"h":22,"a":0},"d":{"x":105,"y":77,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_18","blockId":"footer","m":{"x":95,"y":438,"w":131,"h":22,"a":0},"d":{"x":105,"y":106,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_19","blockId":"footer","m":{"x":48,"y":140,"w":131,"h":22,"a":0},"d":{"x":105,"y":162,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_20","blockId":"footer","m":{"x":95,"y":482,"w":131,"h":22,"a":0},"d":{"x":105,"y":186,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_21","blockId":"footer","m":{"x":16,"y":667,"w":289,"h":18,"a":0},"d":{"x":-3,"y":303,"w":400,"h":17,"a":0}},{"type":"text","visible":"d","id":"footer_22","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":105,"y":210,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_23","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":81,"y":234,"w":205,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_24","blockId":"footer","m":{"x":95,"y":416,"w":131,"h":22,"a":0},"d":{"x":105,"y":133,"w":147,"h":16,"a":0}},{"type":"icon","visible":"m","id":"mobile-nav_0","blockId":"mobile-nav","m":{"x":280,"y":9,"w":29,"h":28,"a":0,"lockV":"t"},"d":{"x":575,"y":175,"w":100,"h":100,"a":0},"pc":[{"type":"hide","block":"mobile-nav"}]},{"type":"text","visible":"m","id":"mobile-nav_1","blockId":"mobile-nav","m":{"x":32.5,"y":36,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_2","blockId":"mobile-nav","m":{"x":73.896,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1090.77,"y":35.5,"w":16.065,"h":16.575,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_3","blockId":"mobile-nav","m":{"x":25,"y":407,"w":44.374,"h":35.644,"a":0},"d":{"x":1069,"y":36.81,"w":16.065,"h":14.831,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_4","blockId":"mobile-nav","m":{"x":119.748,"y":407,"w":33.809,"h":34.218,"a":0},"d":{"x":1113.81,"y":35.937,"w":15.219,"h":15.702,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_5","blockId":"mobile-nav","m":{"x":164.783,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1134.946,"y":35.937,"w":16.065,"h":16.575,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_6","blockId":"mobile-nav","m":{"x":32.5,"y":378,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_7","blockId":"mobile-nav","m":{"x":32,"y":111,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_8","blockId":"mobile-nav","m":{"x":32,"y":148,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_9","blockId":"mobile-nav","m":{"x":32,"y":221,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_10","blockId":"mobile-nav","m":{"x":32,"y":258,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_11","blockId":"mobile-nav","m":{"x":32,"y":295,"w":239,"h":23,"a":0},"d":{"x":572,"y":203,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_13","blockId":"mobile-nav","m":{"x":32,"y":185,"w":239,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"mobile-nav_14","blockId":"mobile-nav","m":{"x":32,"y":326,"w":96,"h":16,"a":0},"d":{"x":546,"y":191,"w":107.99999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"contact-sticky_0","blockId":"contact-sticky","m":{"x":18,"y":16,"w":285,"h":18,"a":0},"d":{"x":143,"y":14,"w":915,"h":15,"a":0}}]}
+            {"mobile":{"w":320},"desktop":{"w":1200,"bgFillType":"color","bgColor":"#000000:0"},"sid":"uxugyxraqtkqhmrchhfzzg","break":768,"assetURL":"//static.showit.co","contactFormId":"105740/224708","cfAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9jb250YWN0Zm9ybQ==","sgAction":"aHR0cHM6Ly9jbGllbnRzZXJ2aWNlLnNob3dpdC5jby9zb2NpYWxncmlk","blockData":[{"slug":"announcement-header","visible":"a","states":[],"d":{"h":76,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":137,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"drop-navigation","visible":"d","states":[{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgMediaType":"none"},"m":{"bgFillType":"color","bgMediaType":"none"},"slug":"view-1-1"}],"d":{"h":124,"w":1200,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st","scrollOffset":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"stateTrans":[{},{}]},{"slug":"header","visible":"a","states":[],"d":{"h":1,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"ps":[{"trigger":"offscreen","type":"show","block":"drop-navigation"},{"trigger":"onscreen","type":"hide","block":"drop-navigation"}]},{"slug":"social-stalk-us","visible":"d","states":[],"d":{"h":1,"w":1200,"locking":{"offset":100,"scrollOffset":1,"side":"t"},"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"h":46,"w":320,"locking":{"side":"t","offset":0},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"navigation","visible":"a","states":[{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-1-1"},{"d":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"m":{"bgFillType":"color","bgColor":"#000000:0","bgMediaType":"none"},"slug":"view-2"}],"d":{"h":124,"w":1200,"locking":{},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":39,"w":320,"locking":{"side":"st"},"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"stateTrans":[{},{},{}]},{"slug":"gallery","visible":"a","states":[],"d":{"h":601,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":203,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"Sqfw0jvOSeCd6yOc-JBzCA/105740/1q0a3631_websize_1.jpg","aspect_ratio":1.49953,"title":"1Q0A3631_websize (1)","type":"asset"},"bgOpacity":100,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"pricing-navigation","visible":"a","states":[],"d":{"h":80,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":228,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro","visible":"a","states":[],"d":{"h":109,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":172,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"pricing","visible":"a","states":[],"d":{"h":566,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":933,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"cta-pricing","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"included-with-your-rental-1","visible":"a","states":[],"d":{"h":508,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":1208,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro-1","visible":"a","states":[],"d":{"h":1,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"payment-schedule-1","visible":"a","states":[],"d":{"h":91,"w":1200,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"},"m":{"h":174,"w":320,"bgFillType":"color","bgColor":"colors-3","bgMediaType":"none"}},{"slug":"look-around-1","visible":"a","states":[],"d":{"h":516,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1551,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"book-tour-1","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"pricing-intro-2","visible":"a","states":[],"d":{"h":371,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":830,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"book-tour-3","visible":"a","states":[],"d":{"h":73,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":167,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"important-notes","visible":"a","states":[],"d":{"h":847,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1324,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"vendor-banner","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"},"m":{"h":298,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"image","bgImage":{"key":"Do-Zxr3JQ-iCKgDe_OV5sg/105740/kendall-point-texas-wedding-venue-virginia-ann-2.jpg","aspect_ratio":1.43627,"title":"Kendall-Point-Texas-Wedding-Venue-Virginia-Ann-2","type":"asset"},"bgOpacity":20,"bgPos":"cm","bgScale":"cover","bgScroll":"p"}},{"slug":"faq","visible":"a","states":[],"d":{"h":1335,"w":1200,"nature":"dH","aav":5,"stateTrIn":{"type":"fade","duration":1},"stateTrOut":{"type":"fade","duration":1},"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"},"m":{"h":1933,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"none"}},{"slug":"in-house-upgrades","visible":"a","states":[],"d":{"h":1478,"w":1200,"nature":"dH","bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":3606,"w":320,"nature":"dH","bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"testimonials-1","visible":"a","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"},"m":{"h":323,"w":320,"bgFillType":"color","bgColor":"#ffffff","bgMediaType":"image","bgImage":{"key":"-PPPsmesRyu_eKKXIVXH3A/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-57.jpg","aspect_ratio":1.50037,"title":"Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-57","type":"asset"},"bgOpacity":40,"bgPos":"cm","bgScale":"cover","bgScroll":"f"}},{"slug":"instagram","visible":"a","states":[],"d":{"h":338,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":153,"w":320,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"}},{"slug":"footer","visible":"a","states":[],"d":{"h":342,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":851,"w":320,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}},{"slug":"mobile-nav","visible":"m","states":[],"d":{"h":400,"w":1200,"bgFillType":"color","bgColor":"#FFFFFF","bgMediaType":"none"},"m":{"h":600,"w":320,"locking":{"side":"t"},"bgFillType":"color","bgColor":"colors-6","bgMediaType":"none"}},{"slug":"contact-sticky","visible":"m","states":[],"d":{"h":43,"w":1200,"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"},"m":{"h":50,"w":320,"locking":{"side":"sb"},"bgFillType":"color","bgColor":"colors-1","bgMediaType":"none"}}],"elementData":[{"type":"simple","visible":"a","id":"announcement-header_0","blockId":"announcement-header","m":{"x":72,"y":81,"w":176,"h":41,"a":0},"d":{"x":874,"y":22,"w":158,"h":36,"a":0}},{"type":"text","visible":"a","id":"announcement-header_1","blockId":"announcement-header","m":{"x":9,"y":19,"w":311,"h":39,"a":0},"d":{"x":315,"y":16,"w":533,"h":45,"a":0}},{"type":"text","visible":"a","id":"announcement-header_2","blockId":"announcement-header","m":{"x":72,"y":94,"w":176,"h":28,"a":0},"d":{"x":889,"y":33,"w":138,"h":25,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_0","blockId":"drop-navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1025,"y":44,"w":138,"h":37,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_1","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":594,"y":49,"w":119,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_2","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":750,"y":49,"w":110,"h":27,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_3","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":890,"y":49,"w":91,"h":27,"a":0}},{"type":"text","visible":"m","id":"drop-navigation_view-1-1_4","blockId":"drop-navigation","m":{"x":112,"y":14,"w":96,"h":12,"a":0},"d":{"x":546.5,"y":581,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"graphic","visible":"d","id":"drop-navigation_view-1-1_5","blockId":"drop-navigation","m":{"x":-3,"y":5,"w":326,"h":31,"a":0},"d":{"x":0,"y":0,"w":231,"h":124,"a":0},"pc":[{"type":"show","block":"mobile-nav"}],"c":{"key":"KemWYaQ8SuytUbAoKiyJJA/105740/kendall-point-square-logo-no-tag-white.png","aspect_ratio":1}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_6","blockId":"drop-navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1025,"y":49,"w":138,"h":27,"a":0}},{"type":"simple","visible":"d","id":"drop-navigation_view-1-1_7","blockId":"drop-navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":749,"y":91,"w":211,"h":135,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_8","blockId":"drop-navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":104,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_9","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":134,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_10","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":164,"w":164,"h":24,"a":0}},{"type":"text","visible":"d","id":"drop-navigation_view-1-1_11","blockId":"drop-navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":762,"y":194,"w":164,"h":24,"a":0}},{"type":"simple","visible":"d","id":"social-stalk-us_0","blockId":"social-stalk-us","m":{"x":-357,"y":23,"w":224,"h":140,"a":0},"d":{"x":1163,"y":64,"w":40,"h":400,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_1","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":264,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_2","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":312,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_3","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":360,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"icon","visible":"d","id":"social-stalk-us_4","blockId":"social-stalk-us","m":{"x":135,"y":75,"w":50,"h":50,"a":0},"d":{"x":1171,"y":408,"w":25,"h":25,"a":0,"lockH":"r"}},{"type":"text","visible":"a","id":"social-stalk-us_5","blockId":"social-stalk-us","m":{"x":12,"y":20,"w":144,"h":10,"a":0},"d":{"x":1107,"y":160,"w":152,"h":15,"a":-90,"lockH":"r"}},{"type":"text","visible":"d","id":"navigation_0","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":-294,"y":174,"w":162,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":514,"y":49,"w":124,"h":27,"a":0}},{"type":"text","visible":"d","id":"navigation_2","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":888,"y":49,"w":114,"h":27,"a":0}},{"type":"text","visible":"m","id":"navigation_3","blockId":"navigation","m":{"x":60,"y":13,"w":200,"h":26,"a":0},"d":{"x":547,"y":587,"w":108,"h":18,"a":0},"pc":[{"type":"show","block":"mobile-nav"}]},{"type":"simple","visible":"d","id":"navigation_view-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_0","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":1031,"y":43,"w":140,"h":39,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_1","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":761,"y":49,"w":114,"h":27,"a":0}},{"type":"graphic","visible":"d","id":"navigation_view-1-1_2","blockId":"navigation","m":{"x":48,"y":78,"w":224,"h":45,"a":0},"d":{"x":10,"y":25,"w":356,"h":75,"a":0},"c":{"key":"785FvymzRC2ayJG9DI9HtQ/105740/kendall-point-logo.png","aspect_ratio":5}},{"type":"text","visible":"d","id":"navigation_view-1-1_3","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":1031,"y":49,"w":140,"h":33,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_4","blockId":"navigation","m":{"x":122,"y":18,"w":75.60000000000001,"h":14,"a":0},"d":{"x":644,"y":49,"w":110,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-1-1_5","blockId":"navigation","m":{"x":58,"y":16,"w":224,"h":27.299999999999997,"a":0},"d":{"x":650,"y":90,"w":217,"h":127,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_6","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":102,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_7","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":131,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_8","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":159,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-1-1_9","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":656,"y":188,"w":155,"h":23,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_0","blockId":"navigation","m":{"x":132,"y":28,"w":75.60000000000001,"h":14,"a":0},"d":{"x":733,"y":13,"w":66,"h":27,"a":0}},{"type":"simple","visible":"d","id":"navigation_view-2_1","blockId":"navigation","m":{"x":48,"y":6,"w":224,"h":27.299999999999997,"a":0},"d":{"x":674,"y":35,"w":194,"h":160,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_2","blockId":"navigation","m":{"x":124,"y":21,"w":91.8,"h":17,"a":0},"d":{"x":690,"y":97,"w":183,"h":17,"a":0}},{"type":"text","visible":"d","id":"navigation_view-2_3","blockId":"navigation","m":{"x":114,"y":11,"w":91.8,"h":17,"a":0},"d":{"x":681,"y":61,"w":118,"h":17,"a":0}},{"type":"gallery","visible":"d","id":"gallery_0","blockId":"gallery","m":{"x":-26,"y":-1,"w":373,"h":756,"a":0,"g":{"aa":3,"dots":true}},"d":{"x":-22,"y":0,"w":1208,"h":604,"a":0,"lockH":"s","g":{"aa":3,"dots":true}},"imgs":[{"key":"LfzMwE79hYfGtkcZvnnabg/105740/hr_sneak_under_the_sun_photography-388_websize.jpg","ar":1.50235},{"key":"Mq3AbHpKNnMUOHPUhIKsJg/105740/allisonjeffersphotography-73.jpg","ar":0.66667},{"key":"r2UIq7fpSl2w00CqUmE7dg/105740/20230610_4838_websize.jpg","ar":0.66563},{"key":"mQXAFItwSEacz4y4rigpQA/105740/courtney_and_nick-ceremony-1.jpg","ar":0.6665},{"key":"Rlc7AIfQQoesIFDz4xHo6w/105740/crak4577.jpg","ar":0.66688},{"key":"OL8mM6a_SNqp5s0upZFAXg/105740/indoor_ceremony_kendall_point.jpg","ar":1.50037},{"key":"4xMwOBRMShyygF8kNMK5mA/105740/anna-wright-photography-f_j-14.jpg","ar":0.66667},{"key":"aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg","ar":1.50037},{"key":"tM97ujPXEYxnnYx2ZczgZw/105740/clairedavid_wedding-1740.jpg","ar":1.50311},{"key":"zBrMdPspfp5ql-K_QLmNrA/105740/arguijo_wedding_maria_rogers_photography-651_websize.jpg","ar":0.66563},{"key":"OjPIbxdPAJqIIwKrReZHgw/105740/allisonjeffersphotography-244.jpg","ar":0.66667},{"key":"9jl4GayhGrccysR1kCLaTA/105740/hr_sneak_under_the_sun_photography-364_websize.jpg","ar":0.66563},{"key":"jmLAD9YeQqGex1wT33fphg/105740/sloane_photo_-_caitlyn_john_wedding-211_websize.jpg","ar":1.49927},{"key":"ZvLfHRS3SK-cnXHl9YpJjw/105740/bobby_and_ariel_-_march_2022-457_websize.jpg","ar":0.745},{"key":"hIeAAOL0T86JCHxJZ3mXIg/105740/cole_bg_-_6273.jpg","ar":1.49925}],"gal":"sliding","g":{},"ch":1},{"type":"text","visible":"a","id":"pricing-navigation_0","blockId":"pricing-navigation","m":{"x":50,"y":100,"w":221,"h":21,"a":0},"d":{"x":490,"y":30,"w":192,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_1","blockId":"pricing-navigation","m":{"x":100,"y":131,"w":122,"h":17,"a":0},"d":{"x":731,"y":30,"w":115,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_2","blockId":"pricing-navigation","m":{"x":115,"y":164,"w":92,"h":17,"a":0},"d":{"x":896,"y":30,"w":83,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_3","blockId":"pricing-navigation","m":{"x":115,"y":193,"w":92,"h":21,"a":0},"d":{"x":1028,"y":30,"w":107,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_4","blockId":"pricing-navigation","m":{"x":108,"y":67,"w":105,"h":21,"a":0},"d":{"x":322,"y":30,"w":118,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_5","blockId":"pricing-navigation","m":{"x":115,"y":38,"w":92,"h":17,"a":0},"d":{"x":216,"y":30,"w":57,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing-navigation_6","blockId":"pricing-navigation","m":{"x":102,"y":14,"w":117,"h":11,"a":0},"d":{"x":35,"y":34,"w":131,"h":13,"a":0}},{"type":"simple","visible":"a","id":"pricing-intro_0","blockId":"pricing-intro","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"pricing-intro_1","blockId":"pricing-intro","m":{"x":30,"y":1052,"w":261,"h":20,"a":0},"d":{"x":304,"y":-2,"w":615,"h":111,"a":0}},{"type":"text","visible":"a","id":"pricing-intro_2","blockId":"pricing-intro","m":{"x":22,"y":25,"w":276,"h":132,"a":0},"d":{"x":289,"y":11,"w":660,"h":98,"a":0}},{"type":"simple","visible":"a","id":"pricing_0","blockId":"pricing","m":{"x":50,"y":357,"w":220,"h":220,"a":0},"d":{"x":460,"y":132,"w":280,"h":334,"a":0}},{"type":"simple","visible":"a","id":"pricing_1","blockId":"pricing","m":{"x":47,"y":89,"w":220,"h":220,"a":0},"d":{"x":113,"y":132,"w":280,"h":334,"a":0}},{"type":"simple","visible":"a","id":"pricing_2","blockId":"pricing","m":{"x":50,"y":623,"w":220,"h":220,"a":0},"d":{"x":814,"y":135,"w":280,"h":331,"a":0}},{"type":"text","visible":"a","id":"pricing_3","blockId":"pricing","m":{"x":62,"y":130,"w":189,"h":42,"a":0},"d":{"x":501,"y":199,"w":200,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_4","blockId":"pricing","m":{"x":54,"y":513,"w":211,"h":42,"a":0},"d":{"x":836,"y":378,"w":241,"h":29,"a":0}},{"type":"text","visible":"a","id":"pricing_5","blockId":"pricing","m":{"x":50,"y":405,"w":211,"h":42,"a":0},"d":{"x":836,"y":199,"w":241,"h":29,"a":0}},{"type":"text","visible":"a","id":"pricing_6","blockId":"pricing","m":{"x":91,"y":693,"w":136,"h":41,"a":0},"d":{"x":139,"y":253,"w":227,"h":56,"a":0}},{"type":"text","visible":"a","id":"pricing_7","blockId":"pricing","m":{"x":78,"y":187,"w":149,"h":25,"a":0},"d":{"x":500,"y":281,"w":200,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_8","blockId":"pricing","m":{"x":88,"y":247,"w":130,"h":25,"a":0},"d":{"x":508,"y":374,"w":200,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_9","blockId":"pricing","m":{"x":61,"y":371,"w":198,"h":25,"a":0},"d":{"x":830,"y":153,"w":247,"h":27,"a":0}},{"type":"text","visible":"a","id":"pricing_10","blockId":"pricing","m":{"x":69,"y":457,"w":180,"h":25,"a":0},"d":{"x":834,"y":281,"w":240,"h":37,"a":0}},{"type":"text","visible":"a","id":"pricing_11","blockId":"pricing","m":{"x":101,"y":482,"w":105,"h":18,"a":0},"d":{"x":527,"y":230,"w":147,"h":23,"a":0}},{"type":"text","visible":"a","id":"pricing_12","blockId":"pricing","m":{"x":108,"y":748,"w":105,"h":25,"a":0},"d":{"x":170,"y":327,"w":147,"h":35,"a":0}},{"type":"text","visible":"a","id":"pricing_13","blockId":"pricing","m":{"x":97,"y":212,"w":105,"h":22,"a":0},"d":{"x":527,"y":318,"w":147,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_14","blockId":"pricing","m":{"x":100,"y":272,"w":105,"h":22,"a":0},"d":{"x":535,"y":413,"w":147,"h":21,"a":0}},{"type":"text","visible":"a","id":"pricing_15","blockId":"pricing","m":{"x":100,"y":151,"w":105,"h":25,"a":0},"d":{"x":880,"y":316,"w":147,"h":35,"a":0}},{"type":"text","visible":"a","id":"pricing_16","blockId":"pricing","m":{"x":105,"y":426,"w":96,"h":16,"a":0},"d":{"x":900,"y":413,"w":108,"h":18,"a":0}},{"type":"text","visible":"a","id":"pricing_17","blockId":"pricing","m":{"x":106,"y":539,"w":96,"h":16,"a":0},"d":{"x":900,"y":235,"w":108,"h":18,"a":0}},{"type":"text","visible":"a","id":"pricing_18","blockId":"pricing","m":{"x":62,"y":98,"w":189,"h":16,"a":0},"d":{"x":482,"y":153,"w":236,"h":39,"a":0}},{"type":"text","visible":"a","id":"cta-pricing_0","blockId":"cta-pricing","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"cta-pricing_1","blockId":"cta-pricing","m":{"x":59,"y":101,"w":201,"h":34,"a":0},"d":{"x":774,"y":17,"w":260,"h":39,"a":0}},{"type":"text","visible":"a","id":"cta-pricing_2","blockId":"cta-pricing","m":{"x":76,"y":107,"w":173,"h":23,"a":0},"d":{"x":792,"y":32,"w":224,"h":10,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_0","blockId":"included-with-your-rental-1","m":{"x":24,"y":1036,"w":273,"h":82,"a":0},"d":{"x":117,"y":469,"w":966,"h":17,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_1","blockId":"included-with-your-rental-1","m":{"x":24,"y":745,"w":281,"h":291,"a":0},"d":{"x":800,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_2","blockId":"included-with-your-rental-1","m":{"x":24,"y":440,"w":281,"h":357,"a":0},"d":{"x":440,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_3","blockId":"included-with-your-rental-1","m":{"x":20,"y":87,"w":281,"h":315,"a":0},"d":{"x":79,"y":83,"w":322,"h":378,"a":0}},{"type":"text","visible":"a","id":"included-with-your-rental-1_4","blockId":"included-with-your-rental-1","m":{"x":59,"y":33,"w":202,"h":46,"a":0},"d":{"x":328,"y":19,"w":544,"h":41,"a":0}},{"type":"text","visible":"a","id":"payment-schedule-1_0","blockId":"payment-schedule-1","m":{"x":30,"y":67,"w":261,"h":40,"a":0},"d":{"x":61,"y":38,"w":1078,"h":68,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_0","blockId":"look-around-1","m":{"x":-68,"y":40,"w":456,"h":1,"a":0},"d":{"x":-23,"y":46,"w":1248,"h":1,"a":0,"lockH":"s"}},{"type":"graphic","visible":"a","id":"look-around-1_1","blockId":"look-around-1","m":{"x":31,"y":69,"w":260,"h":260,"a":0},"d":{"x":108,"y":104,"w":215,"h":203,"a":0,"gs":{"s":75,"t":"cover"}},"c":{"key":"LVVRQsNFTkey_hqm-LlB0Q/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-67.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_2","blockId":"look-around-1","m":{"x":31.5,"y":343,"w":259,"h":30,"a":0},"d":{"x":72,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_3","blockId":"look-around-1","m":{"x":66,"y":391,"w":191,"h":15,"a":0},"d":{"x":71,"y":387,"w":285,"h":25,"a":0}},{"type":"simple","visible":"a","id":"look-around-1_4","blockId":"look-around-1","m":{"x":84,"y":29,"w":152,"h":25,"a":0},"d":{"x":525,"y":36,"w":150,"h":23,"a":0}},{"type":"text","visible":"a","id":"look-around-1_5","blockId":"look-around-1","m":{"x":101,"y":36,"w":118,"h":11,"a":0},"d":{"x":539,"y":43,"w":123,"h":18,"a":0}},{"type":"text","visible":"a","id":"look-around-1_6","blockId":"look-around-1","m":{"x":30,"y":375,"w":262,"h":16,"a":0},"d":{"x":75,"y":363,"w":284,"h":16,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_7","blockId":"look-around-1","m":{"x":30,"y":439,"w":260,"h":260,"a":0,"gs":{"s":50}},"d":{"x":359,"y":104,"w":215,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"jOQgo1txQHGvwR96e8XsqQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0446.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_8","blockId":"look-around-1","m":{"x":30.5,"y":713,"w":259,"h":30,"a":0},"d":{"x":323,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_9","blockId":"look-around-1","m":{"x":65,"y":761,"w":191,"h":15,"a":0},"d":{"x":324,"y":387,"w":285,"h":25,"a":0}},{"type":"text","visible":"a","id":"look-around-1_10","blockId":"look-around-1","m":{"x":29,"y":745,"w":262,"h":16,"a":0},"d":{"x":325,"y":363,"w":284,"h":16,"a":0}},{"type":"text","visible":"a","id":"look-around-1_11","blockId":"look-around-1","m":{"x":30,"y":1454,"w":262,"h":16,"a":0},"d":{"x":849,"y":363,"w":279,"h":16,"a":0}},{"type":"text","visible":"a","id":"look-around-1_12","blockId":"look-around-1","m":{"x":29,"y":1424,"w":259,"h":30,"a":0},"d":{"x":847,"y":324,"w":283,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_13","blockId":"look-around-1","m":{"x":63,"y":1126,"w":191,"h":15,"a":0},"d":{"x":586,"y":387,"w":285,"h":25,"a":0}},{"type":"text","visible":"a","id":"look-around-1_14","blockId":"look-around-1","m":{"x":65,"y":1470,"w":191,"h":15,"a":0},"d":{"x":847,"y":387,"w":281,"h":25,"a":0}},{"type":"graphic","visible":"a","id":"look-around-1_15","blockId":"look-around-1","m":{"x":30,"y":813,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":611,"y":104,"w":215,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg","aspect_ratio":1.50037}},{"type":"graphic","visible":"a","id":"look-around-1_16","blockId":"look-around-1","m":{"x":30,"y":1154,"w":260,"h":260,"a":0,"gs":{"s":5}},"d":{"x":883,"y":104,"w":211,"h":203,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"look-around-1_17","blockId":"look-around-1","m":{"x":29,"y":1080,"w":259,"h":30,"a":0},"d":{"x":583,"y":324,"w":288,"h":29,"a":0}},{"type":"text","visible":"a","id":"look-around-1_18","blockId":"look-around-1","m":{"x":29,"y":1110,"w":262,"h":16,"a":0},"d":{"x":586,"y":363,"w":284,"h":16,"a":0}},{"type":"text","visible":"a","id":"book-tour-1_0","blockId":"book-tour-1","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour-1_1","blockId":"book-tour-1","m":{"x":77,"y":101,"w":166,"h":34,"a":0},"d":{"x":771,"y":22,"w":202,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour-1_2","blockId":"book-tour-1","m":{"x":101,"y":107,"w":118,"h":23,"a":0},"d":{"x":791,"y":32,"w":162,"h":9,"a":0}},{"type":"simple","visible":"a","id":"pricing-intro-2_0","blockId":"pricing-intro-2","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"pricing-intro-2_1","blockId":"pricing-intro-2","m":{"x":19,"y":61,"w":282,"h":742,"a":0},"d":{"x":109,"y":74,"w":982,"h":278,"a":0}},{"type":"text","visible":"a","id":"pricing-intro-2_2","blockId":"pricing-intro-2","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":293,"y":33,"w":613,"h":17,"a":0}},{"type":"text","visible":"a","id":"book-tour-3_0","blockId":"book-tour-3","m":{"x":43,"y":34,"w":234,"h":51,"a":0},"d":{"x":238,"y":27,"w":478,"h":19,"a":0}},{"type":"simple","visible":"a","id":"book-tour-3_1","blockId":"book-tour-3","m":{"x":77,"y":101,"w":166,"h":34,"a":0},"d":{"x":771,"y":22,"w":208,"h":29,"a":0}},{"type":"text","visible":"a","id":"book-tour-3_2","blockId":"book-tour-3","m":{"x":101,"y":107,"w":118,"h":23,"a":0},"d":{"x":781,"y":32,"w":190,"h":9,"a":0}},{"type":"simple","visible":"a","id":"important-notes_0","blockId":"important-notes","m":{"x":-27,"y":0,"w":374,"h":10,"a":0},"d":{"x":-2,"y":-2,"w":1203,"h":6,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"important-notes_1","blockId":"important-notes","m":{"x":19,"y":61,"w":282,"h":523,"a":0},"d":{"x":154,"y":80,"w":892,"h":745,"a":0}},{"type":"text","visible":"a","id":"important-notes_2","blockId":"important-notes","m":{"x":22,"y":29,"w":276,"h":16,"a":0},"d":{"x":406,"y":45,"w":388,"h":17,"a":0}},{"type":"text","visible":"a","id":"vendor-banner_0","blockId":"vendor-banner","m":{"x":12,"y":38,"w":297,"h":124,"a":0},"d":{"x":84,"y":116,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"vendor-banner_1","blockId":"vendor-banner","m":{"x":56,"y":203,"w":209,"h":52,"a":0},"d":{"x":482,"y":240,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"vendor-banner_2","blockId":"vendor-banner","m":{"x":69,"y":221,"w":183,"h":17,"a":0},"d":{"x":509,"y":255,"w":183,"h":14,"a":0}},{"type":"text","visible":"a","id":"faq_0","blockId":"faq","m":{"x":16,"y":1801,"w":282,"h":101,"a":0},"d":{"x":155,"y":1201,"w":892,"h":94,"a":0}},{"type":"text","visible":"a","id":"faq_1","blockId":"faq","m":{"x":18,"y":1761,"w":282,"h":29,"a":0},"d":{"x":154,"y":1174,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_2","blockId":"faq","m":{"x":18,"y":1692,"w":282,"h":51,"a":0},"d":{"x":154,"y":1128,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_3","blockId":"faq","m":{"x":17,"y":1653,"w":282,"h":29,"a":0},"d":{"x":155,"y":1096,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_4","blockId":"faq","m":{"x":17,"y":1602,"w":282,"h":51,"a":0},"d":{"x":153,"y":1049,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_5","blockId":"faq","m":{"x":17,"y":1563,"w":282,"h":29,"a":0},"d":{"x":153,"y":1013,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_6","blockId":"faq","m":{"x":14,"y":1131,"w":282,"h":427,"a":0},"d":{"x":154,"y":798,"w":892,"h":200,"a":0}},{"type":"text","visible":"a","id":"faq_7","blockId":"faq","m":{"x":18,"y":1102,"w":282,"h":29,"a":0},"d":{"x":153,"y":769,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_8","blockId":"faq","m":{"x":14,"y":1051,"w":282,"h":51,"a":0},"d":{"x":155,"y":733,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_9","blockId":"faq","m":{"x":17,"y":1005,"w":282,"h":29,"a":0},"d":{"x":155,"y":710,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_10","blockId":"faq","m":{"x":18,"y":942,"w":282,"h":51,"a":0},"d":{"x":155,"y":645,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_11","blockId":"faq","m":{"x":18,"y":895,"w":282,"h":29,"a":0},"d":{"x":155,"y":622,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_12","blockId":"faq","m":{"x":16,"y":804,"w":282,"h":51,"a":0},"d":{"x":155,"y":563,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_13","blockId":"faq","m":{"x":20,"y":769,"w":282,"h":29,"a":0},"d":{"x":155,"y":540,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_14","blockId":"faq","m":{"x":20,"y":686,"w":282,"h":51,"a":0},"d":{"x":155,"y":478,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_15","blockId":"faq","m":{"x":17,"y":632,"w":282,"h":29,"a":0},"d":{"x":155,"y":455,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_16","blockId":"faq","m":{"x":20,"y":367,"w":282,"h":51,"a":0},"d":{"x":154,"y":277,"w":892,"h":50,"a":0}},{"type":"text","visible":"a","id":"faq_17","blockId":"faq","m":{"x":20,"y":326,"w":282,"h":29,"a":0},"d":{"x":154,"y":251,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_18","blockId":"faq","m":{"x":20,"y":234,"w":282,"h":51,"a":0},"d":{"x":155,"y":189,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_19","blockId":"faq","m":{"x":20,"y":197,"w":282,"h":29,"a":0},"d":{"x":154,"y":166,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_20","blockId":"faq","m":{"x":20,"y":138,"w":282,"h":24,"a":0},"d":{"x":154,"y":110,"w":892,"h":20,"a":0}},{"type":"text","visible":"a","id":"faq_21","blockId":"faq","m":{"x":20,"y":98,"w":282,"h":31,"a":0},"d":{"x":154,"y":87,"w":892,"h":12,"a":0}},{"type":"text","visible":"a","id":"faq_22","blockId":"faq","m":{"x":22,"y":29,"w":276,"h":43,"a":0},"d":{"x":356,"y":32,"w":489,"h":17,"a":0}},{"type":"text","visible":"a","id":"faq_23","blockId":"faq","m":{"x":65,"y":450,"w":192,"h":33,"a":0},"d":{"x":423,"y":350,"w":370,"h":18,"a":0}},{"type":"text","visible":"a","id":"faq_24","blockId":"faq","m":{"x":46,"y":501,"w":228,"h":105,"a":0},"d":{"x":258,"y":384,"w":687,"h":38,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_0","blockId":"in-house-upgrades","m":{"x":43,"y":11,"w":234,"h":18,"a":0},"d":{"x":483,"y":32,"w":234,"h":18,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_1","blockId":"in-house-upgrades","m":{"x":0,"y":28,"w":320,"h":34,"a":0},"d":{"x":434,"y":43,"w":332,"h":35,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_2","blockId":"in-house-upgrades","m":{"x":36,"y":692,"w":248,"h":246,"a":0},"d":{"x":759.363,"y":104.5,"w":248,"h":246,"a":0},"c":{"key":"bCJ0E3IgAjf7KX79fDIE_w/105740/cameron_and_katrina_-_wedding_3-23-564_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_3","blockId":"in-house-upgrades","m":{"x":36,"y":949,"w":248,"h":36,"a":0},"d":{"x":760,"y":376,"w":248.003,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_4","blockId":"in-house-upgrades","m":{"x":36,"y":646,"w":248,"h":36,"a":0},"d":{"x":462,"y":375,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_5","blockId":"in-house-upgrades","m":{"x":36,"y":389,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":104.5,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"jsF5MzU7RG2t7FYf5zbyyQ/105740/akg-148_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_6","blockId":"in-house-upgrades","m":{"x":36,"y":343,"w":248,"h":36,"a":0},"d":{"x":163,"y":376,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_7","blockId":"in-house-upgrades","m":{"x":36,"y":86,"w":248,"h":246,"a":0},"d":{"x":163,"y":104.5,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"cj9BYG2zaxLnTQzOTOSqNw/105740/c_and_m_exit_-under_the_sun_photography-82_websize.jpg","aspect_ratio":1.49953}},{"type":"graphic","visible":"a","id":"in-house-upgrades_8","blockId":"in-house-upgrades","m":{"x":36,"y":995,"w":248,"h":246,"a":0},"d":{"x":759,"y":411,"w":248,"h":272,"a":0,"gs":{"s":50}},"c":{"key":"X6PjO0MjsCt51MIfLF-wHw/105740/arguijo_wedding_maria_rogers_photography-1276_websize.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_9","blockId":"in-house-upgrades","m":{"x":36,"y":1252,"w":248,"h":36,"a":0},"d":{"x":760,"y":706,"w":248.003,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_10","blockId":"in-house-upgrades","m":{"x":36,"y":1555,"w":248,"h":36,"a":0},"d":{"x":462,"y":705,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_11","blockId":"in-house-upgrades","m":{"x":36,"y":1299,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":435,"w":248,"h":246,"a":0,"gs":{"s":50,"t":"cover"}},"c":{"key":"o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_12","blockId":"in-house-upgrades","m":{"x":36,"y":1858,"w":248,"h":36,"a":0},"d":{"x":163,"y":706,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_13","blockId":"in-house-upgrades","m":{"x":36,"y":1602,"w":248,"h":246,"a":0},"d":{"x":163,"y":435,"w":248,"h":246,"a":0,"gs":{"s":100}},"c":{"key":"zhvsnMRdTZ6LTl719Oj3Ow/105740/jakeandashley-138.jpg","aspect_ratio":0.66667}},{"type":"graphic","visible":"a","id":"in-house-upgrades_14","blockId":"in-house-upgrades","m":{"x":36,"y":1925,"w":248,"h":246,"a":0},"d":{"x":462,"y":768,"w":248,"h":246,"a":0,"gs":{"s":80}},"c":{"key":"ZSFrhrLlQuefEHXdWvoAdw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00100.jpg","aspect_ratio":0.6665}},{"type":"text","visible":"a","id":"in-house-upgrades_15","blockId":"in-house-upgrades","m":{"x":36,"y":2196,"w":248,"h":36,"a":0},"d":{"x":461,"y":1031,"w":248,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_16","blockId":"in-house-upgrades","m":{"x":36,"y":2535,"w":248,"h":36,"a":0},"d":{"x":163,"y":1036,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_17","blockId":"in-house-upgrades","m":{"x":36,"y":2257,"w":248,"h":246,"a":0},"d":{"x":163,"y":765,"w":248,"h":246,"a":0,"gs":{"s":100}},"c":{"key":"UGW4TebqbxMqSU2Q9KLaYg/105740/20230610_4219_websize.jpg","aspect_ratio":0.66563}},{"type":"graphic","visible":"a","id":"in-house-upgrades_18","blockId":"in-house-upgrades","m":{"x":36,"y":3249,"w":248,"h":246,"a":0},"d":{"x":758,"y":767,"w":248,"h":246,"a":0,"gs":{"s":50}},"c":{"key":"aHuVK-DIQZKjhifqChitig/105740/kendall_and_john_sneakpeek-102.jpg","aspect_ratio":1.50037}},{"type":"text","visible":"a","id":"in-house-upgrades_19","blockId":"in-house-upgrades","m":{"x":36,"y":3519,"w":248,"h":36,"a":0},"d":{"x":743,"y":1030,"w":274,"h":36,"a":0}},{"type":"text","visible":"a","id":"in-house-upgrades_20","blockId":"in-house-upgrades","m":{"x":36,"y":2860,"w":248,"h":36,"a":0},"d":{"x":462,"y":1365,"w":248,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_21","blockId":"in-house-upgrades","m":{"x":36,"y":2588,"w":248,"h":246,"a":0},"d":{"x":460.863,"y":1095,"w":248,"h":246,"a":0,"gs":{"s":20,"t":"cover"}},"c":{"key":"1hLeiGQzYToCjOpOXCJP5g/105740/haddyweddingsneaks-233_websize_2.jpg","aspect_ratio":1.49953}},{"type":"text","visible":"a","id":"in-house-upgrades_22","blockId":"in-house-upgrades","m":{"x":36,"y":3201,"w":248,"h":36,"a":0},"d":{"x":163,"y":1366,"w":248.003,"h":36,"a":0}},{"type":"graphic","visible":"a","id":"in-house-upgrades_23","blockId":"in-house-upgrades","m":{"x":36,"y":2927,"w":248,"h":246,"a":0},"d":{"x":163,"y":1095,"w":248,"h":246,"a":0,"gs":{"s":40}},"c":{"key":"yBdTSKV0Wd_zkwOB1bN0Yg/105740/arguijo_wedding_maria_rogers_photography-1171_websize.jpg","aspect_ratio":1.50376}},{"type":"text","visible":"a","id":"testimonials-1_0","blockId":"testimonials-1","m":{"x":12,"y":53,"w":297,"h":84,"a":0},"d":{"x":84,"y":101,"w":1033,"h":80,"a":0}},{"type":"simple","visible":"a","id":"testimonials-1_1","blockId":"testimonials-1","m":{"x":66,"y":218,"w":189,"h":52,"a":0},"d":{"x":482,"y":255,"w":236,"h":44,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_2","blockId":"testimonials-1","m":{"x":86,"y":238,"w":150,"h":12,"a":0},"d":{"x":516,"y":263,"w":169,"h":28,"a":0}},{"type":"text","visible":"a","id":"testimonials-1_3","blockId":"testimonials-1","m":{"x":112,"y":154,"w":96,"h":16,"a":0},"d":{"x":547,"y":199,"w":108,"h":14,"a":0}},{"type":"social","visible":"a","id":"instagram_0","blockId":"instagram","m":{"x":-31,"y":0,"w":383,"h":153,"a":0},"d":{"x":-1079,"y":14,"w":3358,"h":327,"a":0,"lockH":"s"}},{"type":"text","visible":"a","id":"footer_0","blockId":"footer","m":{"x":16,"y":784,"w":289,"h":39,"a":0},"d":{"x":400,"y":284,"w":400,"h":38,"a":0}},{"type":"icon","visible":"a","id":"footer_1","blockId":"footer","m":{"x":174,"y":588,"w":33,"h":33,"a":0},"d":{"x":1141,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_2","blockId":"footer","m":{"x":52,"y":588,"w":33,"h":33,"a":0},"d":{"x":1051,"y":178,"w":16,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_3","blockId":"footer","m":{"x":113,"y":588,"w":33,"h":33,"a":0},"d":{"x":1081,"y":178,"w":15,"h":17,"a":0}},{"type":"icon","visible":"a","id":"footer_4","blockId":"footer","m":{"x":235,"y":588,"w":33,"h":33,"a":0},"d":{"x":1111,"y":178,"w":16,"h":17,"a":0}},{"type":"text","visible":"a","id":"footer_5","blockId":"footer","m":{"x":95,"y":549,"w":131,"h":22,"a":0},"d":{"x":891,"y":178,"w":147,"h":16,"a":0}},{"type":"simple","visible":"a","id":"footer_6","blockId":"footer","m":{"x":10,"y":651,"w":300,"h":1,"a":0},"d":{"x":-39,"y":259,"w":1279,"h":1,"a":0,"lockH":"s"}},{"type":"simple","visible":"a","id":"footer_7","blockId":"footer","m":{"x":10,"y":364,"w":300,"h":1,"a":0},"d":{"x":366,"y":34,"w":1,"h":198,"a":0}},{"type":"simple","visible":"m","id":"footer_8","blockId":"footer","m":{"x":10,"y":531,"w":300,"h":1,"a":0},"d":{"x":376,"y":44,"w":1,"h":198,"a":0}},{"type":"simple","visible":"a","id":"footer_9","blockId":"footer","m":{"x":10,"y":259,"w":300,"h":1,"a":0},"d":{"x":833.5,"y":34.25,"w":1,"h":198,"a":0}},{"type":"text","visible":"a","id":"footer_10","blockId":"footer","m":{"x":29,"y":282,"w":262,"h":16,"a":0},"d":{"x":885,"y":85,"w":270,"h":14,"a":0}},{"type":"text","visible":"a","id":"footer_11","blockId":"footer","m":{"x":5,"y":315,"w":311,"h":32,"a":0},"d":{"x":863,"y":102,"w":314,"h":40,"a":0}},{"type":"graphic","visible":"a","id":"footer_12","blockId":"footer","m":{"x":48,"y":18,"w":224,"h":224,"a":0},"d":{"x":479,"y":15,"w":242,"h":242,"a":0},"c":{"key":"39_RGpkJQ_ymBt-MQMEMRQ/105740/kendall-point-submark-white.png","aspect_ratio":1}},{"type":"text","visible":"a","id":"footer_13","blockId":"footer","m":{"x":16,"y":729,"w":289,"h":39,"a":0},"d":{"x":800,"y":281,"w":400,"h":38,"a":0}},{"type":"text","visible":"a","id":"footer_14","blockId":"footer","m":{"x":16,"y":689,"w":289,"h":18,"a":0},"d":{"x":-3,"y":283,"w":400,"h":38,"a":0}},{"type":"text","visible":"d","id":"footer_15","blockId":"footer","m":{"x":674,"y":176,"w":131,"h":22,"a":0},"d":{"x":105,"y":26,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_16","blockId":"footer","m":{"x":95,"y":394,"w":131,"h":22,"a":0},"d":{"x":105,"y":51,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_17","blockId":"footer","m":{"x":95,"y":460,"w":131,"h":22,"a":0},"d":{"x":105,"y":77,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_18","blockId":"footer","m":{"x":95,"y":438,"w":131,"h":22,"a":0},"d":{"x":105,"y":106,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_19","blockId":"footer","m":{"x":48,"y":140,"w":131,"h":22,"a":0},"d":{"x":105,"y":162,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_20","blockId":"footer","m":{"x":95,"y":482,"w":131,"h":22,"a":0},"d":{"x":105,"y":186,"w":147,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_21","blockId":"footer","m":{"x":16,"y":667,"w":289,"h":18,"a":0},"d":{"x":-3,"y":303,"w":400,"h":17,"a":0}},{"type":"text","visible":"d","id":"footer_22","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":105,"y":210,"w":147,"h":16,"a":0}},{"type":"text","visible":"d","id":"footer_23","blockId":"footer","m":{"x":89,"y":162,"w":131,"h":22,"a":0},"d":{"x":81,"y":234,"w":205,"h":16,"a":0}},{"type":"text","visible":"a","id":"footer_24","blockId":"footer","m":{"x":95,"y":416,"w":131,"h":22,"a":0},"d":{"x":105,"y":133,"w":147,"h":16,"a":0}},{"type":"icon","visible":"m","id":"mobile-nav_0","blockId":"mobile-nav","m":{"x":280,"y":9,"w":29,"h":28,"a":0,"lockV":"t"},"d":{"x":575,"y":175,"w":100,"h":100,"a":0},"pc":[{"type":"hide","block":"mobile-nav"}]},{"type":"text","visible":"m","id":"mobile-nav_1","blockId":"mobile-nav","m":{"x":32.5,"y":36,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_2","blockId":"mobile-nav","m":{"x":73.896,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1090.77,"y":35.5,"w":16.065,"h":16.575,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_3","blockId":"mobile-nav","m":{"x":25,"y":407,"w":44.374,"h":35.644,"a":0},"d":{"x":1069,"y":36.81,"w":16.065,"h":14.831,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_4","blockId":"mobile-nav","m":{"x":119.748,"y":407,"w":33.809,"h":34.218,"a":0},"d":{"x":1113.81,"y":35.937,"w":15.219,"h":15.702,"a":0}},{"type":"icon","visible":"a","id":"mobile-nav_5","blockId":"mobile-nav","m":{"x":164.783,"y":407,"w":35.217,"h":35.644,"a":0},"d":{"x":1134.946,"y":35.937,"w":16.065,"h":16.575,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_6","blockId":"mobile-nav","m":{"x":32.5,"y":378,"w":255,"h":15,"a":0},"d":{"x":422.5,"y":82.5,"w":195,"h":65,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_7","blockId":"mobile-nav","m":{"x":32,"y":111,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_8","blockId":"mobile-nav","m":{"x":32,"y":148,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_9","blockId":"mobile-nav","m":{"x":32,"y":221,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_10","blockId":"mobile-nav","m":{"x":32,"y":258,"w":239.006,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_11","blockId":"mobile-nav","m":{"x":32,"y":295,"w":239,"h":23,"a":0},"d":{"x":572,"y":203,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"m","id":"mobile-nav_13","blockId":"mobile-nav","m":{"x":32,"y":185,"w":239,"h":23,"a":0},"d":{"x":562,"y":193,"w":97.19999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"mobile-nav_14","blockId":"mobile-nav","m":{"x":32,"y":326,"w":96,"h":16,"a":0},"d":{"x":546,"y":191,"w":107.99999999999999,"h":18,"a":0}},{"type":"text","visible":"a","id":"contact-sticky_0","blockId":"contact-sticky","m":{"x":18,"y":16,"w":285,"h":18,"a":0},"d":{"x":143,"y":14,"w":915,"h":15,"a":0}}]}
     </script>
     <link rel="stylesheet" type="text/css" href="../cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css" />
     <script id="si-jquery" src="../ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="../lib.showit.co/widgets/sliding-gallery/2.0.4/gallery.js"></script>
+    <!-- Removed gallery.js to prevent conflicts with custom slider -->
     <script src="../lib.showit.co/engine/2.2.6/showit-lib.min.js"></script>
     <script src="../lib.showit.co/engine/2.2.6/showit.min.js"></script>
 
     <script>
         function initPage() {}
+
+
     </script>
     <script>
         (function(w, d, s, l, i) {
@@ -2401,12 +2403,15 @@
             height: 566px;
         }
 
+        /* First pricing section - Barn background */
+        .m .sib-pricing-barn .ss-bg,
         .m .sib-pricing .ss-bg {
-            background-color: rgba(255, 255, 255, 1);
+            background: url('/Pricing_Outside Barn 1.jpg') center center / cover no-repeat !important;
         }
 
+        .d .sib-pricing-barn .ss-bg,
         .d .sib-pricing .ss-bg {
-            background-color: rgba(255, 255, 255, 1);
+            background: url('/Pricing_Outside Barn 1.jpg') center center / cover no-repeat !important;
         }
 
         .d .sie-pricing_0 {
@@ -4360,12 +4365,35 @@
             height: 371px;
         }
 
-        .m .sib-pricing-intro-2 .ss-bg {
-            background-color: rgba(255, 255, 255, 1);
+        /* Second pricing section - Arch background */
+        .m .sib-pricing-multi-day .ss-bg {
+            background: url('/Pricing_FB_Outside Arch 2.jpg') center center / cover no-repeat !important;
         }
 
-        .d .sib-pricing-intro-2 .ss-bg {
-            background-color: rgba(255, 255, 255, 1);
+        .d .sib-pricing-multi-day .ss-bg {
+            background: url('/Pricing_FB_Outside Arch 2.jpg') center center / cover no-repeat !important;
+        }
+
+                /* Height settings for multi-day pricing section */
+        .m .sib-pricing-multi-day {
+            height: 1000px;
+        }
+
+        .d .sib-pricing-multi-day {
+            height: 566px;
+        }
+
+        /* Fix multi-day pricing mobile responsiveness */
+        @media (max-width: 768px) {
+            .m .sib-pricing-multi-day {
+                height: 1050px !important;
+            }
+        }
+
+        @media (max-width: 425px) {
+            .m .sib-pricing-multi-day {
+                height: 1100px !important;
+            }
         }
 
         .d .sib-pricing-intro-2.sb-nd-dH .sc {
@@ -8241,6 +8269,152 @@
     }
 }
 
+/* Custom navigation image class */
+.nav-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    transition: transform 0.3s ease;
+}
+
+
+
+/* Responsive design for navigation images */
+@media (max-width: 767px) {
+    .nav-image {
+        background-size: cover;
+        background-position: center center;
+    }
+}
+
+@media (width: 768px) {
+    .nav-image {
+        background-size: cover;
+        background-position: center center;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .nav-image {
+        background-size: cover;
+        background-position: center center;
+    }
+}
+
+/* Custom Venue Slider Styles - Matching Original Showit Slider */
+.custom-venue-slider {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.slider-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.slider-track {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.slide.active {
+    opacity: 1;
+    z-index: 2;
+}
+
+/* Removed problematic first-child rule that was interfering with JavaScript */
+
+.slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+}
+
+/* Special positioning for the couple image */
+.slide:first-child img {
+    object-position: 50% 30%;
+    object-fit: cover;
+}
+
+/* Navigation Arrows - Matching Original Style */
+.slider-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 10;
+    border-radius: 50%;
+    transition: background 0.3s ease;
+}
+
+.slider-nav:hover {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.slider-nav.prev {
+    left: 20px;
+}
+
+.slider-nav.next {
+    right: 20px;
+}
+
+/* Navigation Dots - Hidden like original */
+.slider-dots {
+    display: none;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dot.active, .dot:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* Removed all mobile responsiveness for slider as requested */
+
+/* Ensure slider cells have proper spacing like original */
+.slide {
+    margin-right: 4px;
+}
+
     </style>
 
 </head>
@@ -8257,53 +8431,42 @@
                 <div class="sb-m"></div>
                 <div class="sc" style="width:1200px">
                     <div data-sid="gallery_0" class="sie-gallery_0 se">
-                        <div data-sie="gallery_0" class="sg-sl sig-gallery_0 sg-sc-1" style="width:100%;height:100%">
+                        <!-- Custom Venue Slider -->
+                        <div class="custom-venue-slider" style="width:100%;height:100%;">
+                            <div class="slider-container">
+                                                                <div class="slider-track" id="sliderTrack">
+                                    <div class="slide active">
+                                        <img src="{{ asset('Pricing_FB_Couple 1 1.jpg') }}" alt="Couple at Venue" />
                         </div>
-                        <div><noscript><img
-                                    src="../static.showit.co/1600/LfzMwE79hYfGtkcZvnnabg/105740/hr_sneak_under_the_sun_photography-388_websize.jpg"
-                                    class="se-img" alt="HR sneak  Under the Sun Photography-388_websize"
-                                    title="HR sneak  Under the Sun Photography-388_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/Mq3AbHpKNnMUOHPUhIKsJg/105740/allisonjeffersphotography-73.jpg"
-                                    class="se-img" alt="allisonjeffersphotography-73"
-                                    title="allisonjeffersphotography-73" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/r2UIq7fpSl2w00CqUmE7dg/105740/20230610_4838_websize.jpg"
-                                    class="se-img" alt="20230610_4838_websize"
-                                    title="20230610_4838_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/mQXAFItwSEacz4y4rigpQA/105740/courtney_and_nick-ceremony-1.jpg"
-                                    class="se-img" alt="Courtney&amp;Nick-Ceremony-1"
-                                    title="Courtney&amp;Nick-Ceremony-1" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/Rlc7AIfQQoesIFDz4xHo6w/105740/crak4577.jpg"
-                                    class="se-img" alt="CRAK4577" title="CRAK4577" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/OL8mM6a_SNqp5s0upZFAXg/105740/indoor_ceremony_kendall_point.jpg"
-                                    class="se-img" alt="Indoor ceremony Kendall Point "
-                                    title="Indoor ceremony Kendall Point " /></noscript><noscript><img
-                                    src="../static.showit.co/1600/4xMwOBRMShyygF8kNMK5mA/105740/anna-wright-photography-f_j-14.jpg"
-                                    class="se-img" alt="Anna-Wright-Photography-F+J-14"
-                                    title="Anna-Wright-Photography-F+J-14" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg"
-                                    class="se-img"
-                                    alt="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061"
-                                    title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/tM97ujPXEYxnnYx2ZczgZw/105740/clairedavid_wedding-1740.jpg"
-                                    class="se-img" alt="ClaireDavid_Wedding-1740"
-                                    title="ClaireDavid_Wedding-1740" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/zBrMdPspfp5ql-K_QLmNrA/105740/arguijo_wedding_maria_rogers_photography-651_websize.jpg"
-                                    class="se-img" alt="Arguijo_Wedding_Maria Rogers Photography-651_websize"
-                                    title="Arguijo_Wedding_Maria Rogers Photography-651_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/OjPIbxdPAJqIIwKrReZHgw/105740/allisonjeffersphotography-244.jpg"
-                                    class="se-img" alt="allisonjeffersphotography-244"
-                                    title="allisonjeffersphotography-244" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/9jl4GayhGrccysR1kCLaTA/105740/hr_sneak_under_the_sun_photography-364_websize.jpg"
-                                    class="se-img" alt="HR sneak  Under the Sun Photography-364_websize"
-                                    title="HR sneak  Under the Sun Photography-364_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/jmLAD9YeQqGex1wT33fphg/105740/sloane_photo_-_caitlyn_john_wedding-211_websize.jpg"
-                                    class="se-img" alt="Sloane Photo - Caitlyn John Wedding-211_websize"
-                                    title="Sloane Photo - Caitlyn John Wedding-211_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/ZvLfHRS3SK-cnXHl9YpJjw/105740/bobby_and_ariel_-_march_2022-457_websize.jpg"
-                                    class="se-img" alt="Bobby &amp; Ariel - March 2022-457_websize"
-                                    title="Bobby &amp; Ariel - March 2022-457_websize" /></noscript><noscript><img
-                                    src="../static.showit.co/1600/hIeAAOL0T86JCHxJZ3mXIg/105740/cole_bg_-_6273.jpg"
-                                    class="se-img" alt="Cole_BG - 6273" title="Cole_BG - 6273" /></noscript></div>
+                                    <div class="slide">
+                                        <img src="{{ asset('Pricing_yelp_pond.jpg') }}" alt="Venue Pond View" />
+                    </div>
+                                    <div class="slide">
+                                        <img src="{{ asset('Pricing_yelp outside arch 2 (1).jpg') }}" alt="Outside Ceremony Arch" />
+                </div>
+                                    <div class="slide">
+                                        <img src="{{ asset('VenueOutsideArch.jpeg') }}" alt="Venue Outside Arch" />
+                                    </div>
+                                    <div class="slide">
+                                        <img src="{{ asset('Pricing_inside Barn.jpg') }}" alt="Inside Barn View" />
+                                    </div>
+
+                                </div>
+
+                                <!-- Navigation Arrows -->
+                                <button class="slider-nav prev" onclick="changeSlide(-1)">‹</button>
+                                <button class="slider-nav next" onclick="changeSlide(1)">›</button>
+
+                                <!-- Navigation Dots -->
+                                <div class="slider-dots">
+                                    <span class="dot active" onclick="currentSlide(1)"></span>
+                                    <span class="dot" onclick="currentSlide(2)"></span>
+                                    <span class="dot" onclick="currentSlide(3)"></span>
+                                    <span class="dot" onclick="currentSlide(4)"></span>
+                                    <span class="dot" onclick="currentSlide(5)"></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -8456,7 +8619,7 @@
                 </div>
             </div>
         </div>
-         <div id="pricing" data-bid="pricing" class="sb sib-pricing">
+         <div id="pricing-multi-day" data-bid="pricing-multi-day" class="sb sib-pricing-multi-day">
             <div class="ss-s ss-bg">
                 <div class="sb-m"></div>
                 <div class="sc" style="width:1200px">
@@ -8476,7 +8639,7 @@
                         <h2 class="se-t sie-pricing_4-text st-m-heading st-d-subheading se-rc">Fri-sat-sun<br></h2>
                     </div>
                     <div data-sid="pricing_5" class="sie-pricing_5 se">
-                        <h2 class="se-t sie-pricing_5-text st-m-heading st-d-subheading se-rc">Friday&Sat<br></h2>
+                        <h2 class="se-t sie-pricing_5-text st-m-heading st-d-subheading se-rc">Fri&Sat<br></h2>
                     </div>
                     <div data-sid="pricing_6" class="sie-pricing_6 se">
                         <h2 class="se-t sie-pricing_6-text st-m-heading st-d-subheading se-rc">Friday-Sunday<br></h2>
@@ -8558,8 +8721,11 @@
                     </div>
                     <div data-sid="included-with-your-rental-1_2" class="sie-included-with-your-rental-1_2 se">
                         <p class="se-t sie-included-with-your-rental-1_2-text st-m-paragraph st-d-paragraph se-rc">•
-                            Groom's Suite&nbsp;Separate catering kitchen
-                            &amp;Gorgeous outdoor portraits area with cedar altar facing our pond
+                            Groom's Suite<br><br>
+                            •
+                            Separate catering kitchen<br><br>
+                            •
+                            Gorgeous outdoor portraits area with cedar altar facing our pond<br><br>
                             <br><br>• Gazebo draping and sparkling chandelier<br><br>• BYOB (TABC Bartenders are mandatory and security will be provided and scheduled by our staff for an added fee)
                             <br><br>• Gift and sign/specialty and tables<br><br>• Free parking
                             <br>&nbsp;<br>• Set up and breakdown of chairs and tables<br></p>
@@ -8601,14 +8767,14 @@
                         <div class="se-simple"></div>
                     </div><a href="amenities.html" target="_self" class="sie-look-around-1_1 se"
                         data-sid="look-around-1_1">
-                        <div style="width:100%;height:100%" data-img="look-around-1_1" class="se-img se-gr slzy">
+                        <div style="width:100%;height:100%;background-image:url({{ asset('Venue_Amenities.jpeg') }})" class="nav-image">
                             <span role="img"
-                                aria-label="A bridge and groom kiss on a tree swing in front of the Kendall Point lake."></span>
+                                aria-label="Venue Amenities"></span>
                         </div><noscript><img
-                                src="../static.showit.co/400/LVVRQsNFTkey_hqm-LlB0Q/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-67.jpg"
+                                src="{{ asset('Venue_Amenities.jpeg') }}"
                                 class="se-img"
-                                alt="A bridge and groom kiss on a tree swing in front of the Kendall Point lake."
-                                title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texassneakpeek-67" /></noscript>
+                                alt="Venue Amenities"
+                                title="Venue Amenities" /></noscript>
                     </a><a href="amenities.html" target="_self" class="sie-look-around-1_2 se"
                         data-sid="look-around-1_2">
                         <h2 class="se-t sie-look-around-1_2-text st-m-heading st-d-heading">Amenities</h2>
@@ -8628,14 +8794,14 @@
                             package</h3>
                     </a><a href="gallery.html" target="_self" class="sie-look-around-1_7 se"
                         data-sid="look-around-1_7">
-                        <div style="width:100%;height:100%" data-img="look-around-1_7" class="se-img se-gr slzy">
+                        <div style="width:100%;height:100%;background-image:url({{ asset('Venue_Photos.jpeg') }})" class="nav-image">
                             <span role="img"
-                                aria-label="The Kendall Point wedding venue offers ample space and picturesque views."></span>
+                                aria-label="Venue Photos"></span>
                         </div><noscript><img
-                                src="../static.showit.co/400/jOQgo1txQHGvwR96e8XsqQ/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-0446.jpg"
+                                src="{{ asset('Venue_Photos.jpeg') }}"
                                 class="se-img"
-                                alt="The Kendall Point wedding venue offers ample space and picturesque views."
-                                title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-0446" /></noscript>
+                                alt="Venue Photos"
+                                title="Venue Photos" /></noscript>
                     </a><a href="gallery.html" target="_self" class="sie-look-around-1_8 se"
                         data-sid="look-around-1_8">
                         <h2 class="se-t sie-look-around-1_8-text st-m-heading st-d-heading">photos</h2>
@@ -8652,7 +8818,7 @@
                             and tips</h3>
                     </div><a href="blog/index.html" target="_self" class="sie-look-around-1_12 se"
                         data-sid="look-around-1_12">
-                        <h2 class="se-t sie-look-around-1_12-text st-m-heading st-d-heading">blog</h2>
+                        <h2 class="se-t sie-look-around-1_12-text st-m-heading st-d-heading">Micro Weddings</h2>
                     </a><a href="vendors.html" target="_self" class="sie-look-around-1_13 se"
                         data-sid="look-around-1_13">
                         <h3 class="se-t sie-look-around-1_13-text st-m-heading st-d-heading">Check them out »</h3>
@@ -8661,24 +8827,24 @@
                         <h3 class="se-t sie-look-around-1_14-text st-m-heading st-d-heading">read now! »</h3>
                     </a><a href="vendors.html" target="_self" class="sie-look-around-1_15 se"
                         data-sid="look-around-1_15">
-                        <div style="width:100%;height:100%" data-img="look-around-1_15" class="se-img se-gr slzy">
+                        <div style="width:100%;height:100%;background-image:url({{ asset('Venue_Vendors.png') }})" class="nav-image">
                             <span role="img"
-                                aria-label="A view from the stair at Kendall Point overlooking the ceremony site and lake."></span>
+                                aria-label="Venue Vendors"></span>
                         </div><noscript><img
-                                src="../static.showit.co/400/yWrmfsOWSS2ZF6KzJJQlmA/105740/kendall_and_john_ceremony-6.jpg"
+                                src="{{ asset('Venue_Vendors.png') }}"
                                 class="se-img"
-                                alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
-                                title="Kendall&amp;John_Ceremony-6" /></noscript>
+                                alt="Venue Vendors"
+                                title="Venue Vendors" /></noscript>
                     </a><a href="blog/index.html" target="_self" class="sie-look-around-1_16 se"
                         data-sid="look-around-1_16">
-                        <div style="width:100%;height:100%" data-img="look-around-1_16" class="se-img se-gr slzy">
+                        <div style="width:100%;height:100%;background-image:url({{ asset('Venue_MicroWeddings.jpeg') }})" class="nav-image">
                             <span role="img"
-                                aria-label="A view from the stair at Kendall Point overlooking the ceremony site and lake."></span>
+                                aria-label="Micro Weddings"></span>
                         </div><noscript><img
-                                src="../static.showit.co/400/_qGrqeNgSjK73j5rGpnqJA/105740/haley_and_korey-ceremony-2.jpg"
+                                src="{{ asset('Venue_MicroWeddings.jpeg') }}"
                                 class="se-img"
-                                alt="A view from the stair at Kendall Point overlooking the ceremony site and lake."
-                                title="Haley&amp;Korey-Ceremony-2" /></noscript>
+                                alt="Micro Weddings"
+                                title="Micro Weddings" /></noscript>
                     </a><a href="vendors.html" target="_self" class="sie-look-around-1_17 se"
                         data-sid="look-around-1_17">
                         <h2 class="se-t sie-look-around-1_17-text st-m-heading st-d-heading">vendors</h2>
@@ -8712,8 +8878,7 @@
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
                     <div data-sid="book-tour-3_0" class="sie-book-tour-3_0 se">
-                        <h3 class="se-t sie-book-tour-3_0-text st-m-heading st-d-heading se-rc">Book your Kendall point
-                            wedding now!</h3>
+                        <h3 class="se-t sie-book-tour-3_0-text st-m-heading st-d-heading se-rc">book your Acre 31 wedding now!</h3>
                     </div><a href="{{ route('contact') }}" target="_self" class="sie-book-tour-3_1 se"
                         data-sid="book-tour-3_1">
                         <div class="se-simple"></div>
@@ -8732,25 +8897,17 @@
                     </div><a href="amenities.html" target="_blank" class="sie-important-notes_1 se"
                         data-sid="important-notes_1">
                         <p class="se-t sie-important-notes_1-text st-m-paragraph st-d-paragraph">Security officers are
-                            required ($50/hour/officer 1 per 100 guests) Not included in rental.<br>A Professional
-                            wedding planner or coordinator from our preferred vendors list is required.*<br>Catering
-                            &amp; Bartender must be chosen from our preferred vendors list.*&nbsp;<br>Personal Event
+                            required ($50/hour/officer 1 per 100 guests) Not included in rental.<br>A professional wedding planner or coordinator  is required.<br>All vendors are required to sign our vendor agreement and provide proof of liability insurance.<br>Personal Event
                             Insurance required.<br>Holiday Rates will apply on all holiday weekends<br>$200 appreciation
                             discount to our Brides/Grooms who are active duty military or first responders!<br>No
-                            gratuity, service fees &amp; no taxes!&nbsp;<br><i><br></i>The wedding venue you choose is
-                            one of the biggest expenses in your wedding budget, and that’s why it’s crucial to choose
-                            the venue that offers you the most included in the price tag.<br><br>You’re getting so much
-                            more than a gorgeous wedding venue when you decide to get married at Kendall Point. You’re
-                            getting enough seating during the ceremony and reception for up to 400 guests plus full,
-                            exclusive access to the venue starting at 10 am on your wedding day.<br><br>Spacious bridal
-                            and groom’s suites are yours for the day and night to get ready, relax, take photos, play
-                            games, and more. We provide classic white wedding chairs for your ceremony, built in bars,
-                            specialty tables for gifts and signage, a custom floor plan for the reception, bridal
-                            portrait spots, and so much more.<br><br>We’ve got a stacked list of fantastic wedding
-                            vendors for you to choose from, including the top San Antonio wedding planners, caterers,
-                            DJs, and more. Plus, you can bring your own alcohol—a HUGE cost-saver.&nbsp;<br><br>Not to
-                            mention we handle all the setup and cleaning duties. Check out what else you’re getting when
-                            you choose Kendall Point.<br><br><br></p>
+                                                        gratuity, service fees &amp; no taxes!&nbsp;<br><i><br></i>Selecting a wedding venue is one of the largest expenses in your wedding budget, making it essential to choose a venue that provides the most value for the price.<br><br>When you choose Acre 31 as your wedding venue, you're not just selecting a beautiful location; you're also securing ample seating for up to 150 guests during both the ceremony and reception, along with complete, exclusive access to the venue starting at 10 AM on your special day.<br><br>
+
+
+                                You can select from our preferred vendors or choose any other vendors you prefer. Additionally, you have the option to bring your own alcohol, which can significantly reduce costs.<br><br>
+
+                                Furthermore, we take care of all setup and cleanup tasks. Discover all the benefits of choosing Acre 31!
+                            </p>
+
                     </a>
                     <div data-sid="important-notes_2" class="sie-important-notes_2 se">
                         <h3 class="se-t sie-important-notes_2-text st-m-subheading st-d-subheading se-rc">Important
@@ -8774,121 +8931,6 @@
                         data-sid="vendor-banner_2">
                         <h3 class="se-t sie-vendor-banner_2-text st-m-subheading st-d-subheading">Check them out</h3>
                     </a>
-                </div>
-            </div>
-        </div>
-        <div id="faq" data-bid="faq" class="sb sib-faq sb-nd-dH">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div data-sid="faq_0" class="sie-faq_0 se">
-                        <p class="se-t sie-faq_0-text st-m-paragraph st-d-paragraph se-rc">No nailing, gluing or
-                            staples in the walls. <br>No Loose glitter, confetti or small objects.<br>No fake rose
-                            petals outside.<br>No flame candles or water candles on the stairs.<br></p>
-                    </div>
-                    <div data-sid="faq_1" class="sie-faq_1 se">
-                        <p class="se-t sie-faq_1-text st-m-subheading st-d-subheading se-rc">Any "no-no's" I should
-                            know about?<br></p>
-                    </div>
-                    <div data-sid="faq_2" class="sie-faq_2 se">
-                        <p class="se-t sie-faq_2-text st-m-paragraph st-d-paragraph se-rc">You can absolutely do that!!
-                            We love indoor ceremonies!<br></p>
-                    </div>
-                    <div data-sid="faq_3" class="sie-faq_3 se">
-                        <p class="se-t sie-faq_3-text st-m-subheading st-d-subheading se-rc">What if I want an indoor
-                            ceremony?<br></p>
-                    </div>
-                    <div data-sid="faq_4" class="sie-faq_4 se">
-                        <p class="se-t sie-faq_4-text st-m-paragraph st-d-paragraph se-rc">Totally! But please make an
-                            appointment!<br></p>
-                    </div>
-                    <div data-sid="faq_5" class="sie-faq_5 se">
-                        <p class="se-t sie-faq_5-text st-m-subheading st-d-subheading se-rc">Can I make more than one
-                            site visit?<br></p>
-                    </div>
-                    <div data-sid="faq_6" class="sie-faq_6 se">
-                        <p class="se-t sie-faq_6-text st-m-paragraph st-d-paragraph se-rc">We require you to utilize
-                            one of our approved caterers for food, wedding coordinator/planner and Bartenders4You for
-                            your bar.* Other than those, you can choose your own vendors! We do, however, require all
-                            vendors to sign our vendor agreement and provide proof of liability insurance.<br><br><span
-                                style="font-style: normal;">*If you've already selected your caterer or wedding
-                                planner, have specific dietary needs, or have any concerns about using any one of our
-                                required vendors, please reach out to us. We'd love to work with
-                                you!&nbsp;</span><br><br><a href="vendors.html" target="_self">Looking for top-notch
-                                vendors? Check out our preferred vendor list!</a><br></p>
-                    </div>
-                    <div data-sid="faq_7" class="sie-faq_7 se">
-                        <p class="se-t sie-faq_7-text st-m-subheading st-d-subheading se-rc">Can I bring my own
-                            vendors?<br></p>
-                    </div>
-                    <div data-sid="faq_8" class="sie-faq_8 se">
-                        <p class="se-t sie-faq_8-text st-m-paragraph st-d-paragraph se-rc">Totally! We have both!<br>
-                        </p>
-                    </div>
-                    <div data-sid="faq_9" class="sie-faq_9 se">
-                        <p class="se-t sie-faq_9-text st-m-subheading st-d-subheading se-rc">Can we use both banquet
-                            tables and round tables?<br></p>
-                    </div>
-                    <div data-sid="faq_10" class="sie-faq_10 se">
-                        <p class="se-t sie-faq_10-text st-m-paragraph st-d-paragraph se-rc">Sure can, just let us know
-                            when and we will confirm availability!<br></p>
-                    </div>
-                    <div data-sid="faq_11" class="sie-faq_11 se">
-                        <p class="se-t sie-faq_11-text st-m-subheading st-d-subheading se-rc">Can we take bridal and
-                            engagement photos on site?<br></p>
-                    </div>
-                    <div data-sid="faq_12" class="sie-faq_12 se">
-                        <p class="se-t sie-faq_12-text st-m-paragraph st-d-paragraph se-rc">Usually the day of the
-                            wedding, unless the day prior is available!<br></p>
-                    </div>
-                    <div data-sid="faq_13" class="sie-faq_13 se">
-                        <p class="se-t sie-faq_13-text st-m-subheading st-d-subheading se-rc">When is my rehearsal?<br>
-                        </p>
-                    </div>
-                    <div data-sid="faq_14" class="sie-faq_14 se">
-                        <p class="se-t sie-faq_14-text st-m-paragraph st-d-paragraph se-rc">None! The price is
-                            inclusive of all the amenities offered. No gratuity or service fees are charged.<br></p>
-                    </div>
-                    <div data-sid="faq_15" class="sie-faq_15 se">
-                        <p class="se-t sie-faq_15-text st-m-subheading st-d-subheading se-rc">What are the hidden &amp;
-                            extra costs?<br></p>
-                    </div>
-                    <div data-sid="faq_16" class="sie-faq_16 se">
-                        <p class="se-t sie-faq_16-text st-m-paragraph st-d-paragraph se-rc">10AM-11:00PM Friday &amp;
-                            Saturday<br>10AM-10:00PM Monday-Thursday &amp; Sunday<br></p>
-                    </div>
-                    <div data-sid="faq_17" class="sie-faq_17 se">
-                        <p class="se-t sie-faq_17-text st-m-subheading st-d-subheading se-rc">How long do we have the
-                            venue?<br></p>
-                    </div>
-                    <div data-sid="faq_18" class="sie-faq_18 se">
-                        <p class="se-t sie-faq_18-text st-m-paragraph st-d-paragraph se-rc">No problem. We will take
-                            care of executing an indoor plan B in minutes!<br></p>
-                    </div>
-                    <div data-sid="faq_19" class="sie-faq_19 se">
-                        <p class="se-t sie-faq_19-text st-m-subheading st-d-subheading se-rc">What's the plan for
-                            inclement weather?<br></p>
-                    </div>
-                    <div data-sid="faq_20" class="sie-faq_20 se">
-                        <p class="se-t sie-faq_20-text st-m-paragraph st-d-paragraph se-rc">No way! It's all yours, all
-                            day!<br></p>
-                    </div>
-                    <div data-sid="faq_21" class="sie-faq_21 se">
-                        <p class="se-t sie-faq_21-text st-m-subheading st-d-subheading se-rc">Are there any other
-                            events on our day?<br></p>
-                    </div>
-                    <div data-sid="faq_22" class="sie-faq_22 se">
-                        <h3 class="se-t sie-faq_22-text st-m-heading st-d-subheading se-rc">Frequently Asked Questions
-                        </h3>
-                    </div>
-                    <div data-sid="faq_23" class="sie-faq_23 se">
-                        <h3 class="se-t sie-faq_23-text st-m-subheading st-d-subheading se-rc">can I have my ceremony
-                            off-site?</h3>
-                    </div>
-                    <div data-sid="faq_24" class="sie-faq_24 se">
-                        <p class="se-t sie-faq_24-text st-m-paragraph st-d-paragraph se-rc"><i>Absolutely! You'll still
-                                get full use of the venue on your wedding day, so you can use our gorgeous landscape for
-                                your wedding photos!</i></p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -9055,6 +9097,136 @@
             </div>
         </div>
     </div>
+
+        <!-- Custom Slider JavaScript -->
+    <script>
+    let currentSlideIndex = 0;
+    let slides, dots, totalSlides;
+    let autoSlideInterval;
+
+    // Initialize slider
+    function initSlider() {
+        // Get elements after DOM is loaded
+        slides = document.querySelectorAll('.slide');
+        dots = document.querySelectorAll('.dot');
+        totalSlides = slides.length;
+
+        if (slides.length === 0) {
+            return;
+        }
+
+        // Make sure first slide is visible
+        showSlide(0);
+        startAutoSlide();
+
+        // Add touch/swipe support
+        addTouchSupport();
+    }
+
+        // Show specific slide
+    function showSlide(index) {
+        if (!slides || slides.length === 0) {
+            return;
+        }
+
+        // Hide all slides
+        slides.forEach(slide => {
+            slide.classList.remove('active');
+        });
+
+        dots.forEach(dot => dot.classList.remove('active'));
+
+        // Show current slide
+        if (slides[index]) {
+            slides[index].classList.add('active');
+        }
+        if (dots[index]) {
+            dots[index].classList.add('active');
+        }
+
+        currentSlideIndex = index;
+    }
+
+    // Change slide function
+    function changeSlide(direction) {
+        let newIndex = currentSlideIndex + direction;
+
+        if (newIndex >= totalSlides) {
+            newIndex = 0;
+        } else if (newIndex < 0) {
+            newIndex = totalSlides - 1;
+        }
+
+        showSlide(newIndex);
+        resetAutoSlide();
+    }
+
+    // Go to specific slide
+    function currentSlide(index) {
+        showSlide(index - 1);
+        resetAutoSlide();
+    }
+
+    // Auto-slide functionality
+    function startAutoSlide() {
+        autoSlideInterval = setInterval(() => {
+            changeSlide(1);
+        }, 4000); // Change slide every 4 seconds like original
+    }
+
+    function resetAutoSlide() {
+        clearInterval(autoSlideInterval);
+        startAutoSlide();
+    }
+
+    // Touch/Swipe support for mobile
+    function addTouchSupport() {
+        const slider = document.querySelector('.custom-venue-slider');
+        if (!slider) return;
+
+        let startX = 0;
+        let endX = 0;
+
+        slider.addEventListener('touchstart', (e) => {
+            startX = e.touches[0].clientX;
+        });
+
+        slider.addEventListener('touchend', (e) => {
+            endX = e.changedTouches[0].clientX;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            const swipeThreshold = 50;
+            const diff = startX - endX;
+
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    changeSlide(1); // Swipe left - next slide
+                } else {
+                    changeSlide(-1); // Swipe right - previous slide
+                }
+            }
+        }
+    }
+
+    // Pause auto-slide on hover (like original)
+    document.addEventListener('DOMContentLoaded', function() {
+        const slider = document.querySelector('.custom-venue-slider');
+        if (slider) {
+            slider.addEventListener('mouseenter', () => {
+                clearInterval(autoSlideInterval);
+            });
+
+            slider.addEventListener('mouseleave', () => {
+                startAutoSlide();
+            });
+
+            // Initialize the slider
+            initSlider();
+        }
+    });
+    </script>
 
     <!-- uxugyxraqtkqhmrchhfzzg/20241230165430Sxw8a6a/QNC5KcacA -->
 </body>

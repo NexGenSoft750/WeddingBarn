@@ -42,12 +42,12 @@
                 <div class="content-container" data-tour-type="in_person">
                     <div class="left-column">
                         <h3>1st Step Venue Tour - In-Person</h3>
-                        <h3>Kendell Point</h3>
+                        <h3>Acre 31</h3>
                         <i class="bi bi-clock-fill">
                             <p>Appointment Duration: 35 minutes</p>
                         </i>
                         <i class="bi bi-geo-alt-fill">
-                            <p>Kendall Point - 20 Guthrie Rd. Boerne, TX 78006</p>
+                            <p>Acre 31 - 20 Guthrie Rd. Boerne, TX 78006</p>
                         </i>
                     </div>
 

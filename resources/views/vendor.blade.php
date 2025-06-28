@@ -13,7 +13,7 @@
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="description"
-        content="For your dream wedding, book dream vendors. These are Kendall Point's favorite and most-trusted wedding vendors." />
+        content="For your dream wedding, book dream vendors. These are Acre 31's favorite and most-trusted wedding vendors." />
     <link rel="canonical" href="vendors.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/wccgvzDASzGgmqDxyEo4EQ/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-9.jpg" />
@@ -6393,13 +6393,13 @@
                         <div><noscript><img
                                     src="../static.showit.co/1600/LgVnhGdvQre2T4tINU5VlQ/105740/kendall-point-texas-wedding-venue-san_antonio-texas-dawn-elizabeth-studios-0601.jpg"
                                     class="se-img"
-                                    alt="Wedding party poses with the bride and groom on the porch at Kendall Point."
+                                    alt="Wedding party poses with the bride and groom on the porch at Acre 31."
                                     title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-Dawn-Elizabeth-Studios-0601" /></noscript><noscript><img
                                     src="../static.showit.co/1600/3g2PvkZCTH677t5v-E1nmw/105740/20230610_3531_websize.jpg"
                                     class="se-img" alt="20230610_3531_websize"
                                     title="20230610_3531_websize" /></noscript><noscript><img
                                     src="../static.showit.co/1600/BL1Y92DUQ-m3HIEctbtnbA/105740/kendall-point-texas-wedding-venue-san_antonio-texas-62_websize_1.jpg"
-                                    class="se-img" alt="Cocktail tables set up outside Kendall Point ballroom."
+                                    class="se-img" alt="Cocktail tables set up outside Acre 31 ballroom."
                                     title="Kendall-Point-Texas-Wedding-Venue-San Antonio-Texas-62_websize (1)" /></noscript><noscript><img
                                     src="../static.showit.co/1600/Cnv7tXSZTgS-_A_YbZpxFQ/105740/allisonwesley-weddingslideshow-38.jpg"
                                     class="se-img" alt="AllisonWesley-weddingslideshow-38"
@@ -6457,7 +6457,7 @@
                                 target="_self">wedding officiants</a>, DJs, and more. Plus, you can bring your own
                             alcohol—a HUGE cost-saver. <br><br>Not to mention we handle all the setup and cleaning
                             duties. Check out <a href="amenities.html" target="_self">what else you’re getting</a>
-                            when you choose Kendall Point.<br><br></p>
+                            when you choose Acre 31.<br><br></p>
                     </div>
                     <div data-sid="header-message_2" class="sie-header-message_2 se">
                         <h1 class="se-t sie-header-message_2-text st-m-subheading st-d-subheading se-rc">San antonio
@@ -6623,7 +6623,7 @@
                         <p class="se-t sie-catering_3-text st-m-paragraph st-d-paragraph se-rc">The food at your
                             reception is one of the main things everyone remembers from your big day, so you want to get
                             it right. Each of these superb catering companies has worked their magic for numerous
-                            Kendall Point couples in the past, so you can rest assured you're in delicious
+                            Acre 31 couples in the past, so you can rest assured you're in delicious
                             hands.&nbsp;<br><br><br></p>
                     </div>
                 </div>
@@ -6660,7 +6660,7 @@
                             or <a href="day-of-wedding-coordinator/index.html" target="_blank">wedding
                                 coordinator</a>. With all the different vendors and staff to manage, payments to be
                             made, and time schedules to keep up with, it's too much work for just the bride and groom to
-                            handle. That's why the team at Kendall Point has provided you with this list of trusted San
+                            handle. That's why the team at Acre 31 has provided you with this list of trusted San
                             Antonio wedding planners to help make your special day everything you've always wanted. Each
                             one offers a variety of planning packages so you an find your perfect
                             fit.<br><br><br><br><br></p>
@@ -6700,9 +6700,9 @@
                     </div>
                     <div data-sid="florists_2" class="sie-florists_2 se">
                         <p class="se-t sie-florists_2-text st-m-paragraph st-d-paragraph se-rc">Find the perfect floral
-                            bouquets and decorations to match the beautiful landscapes of Kendall Point! Whether you're
+                            bouquets and decorations to match the beautiful landscapes of Acre 31! Whether you're
                             going for a rustic barn look or a more modern, elegant wedding, gorgeous flowers are a
-                            must.&nbsp; We designed Kendall Point to be a blank canvas so that it can match your ideal
+                            must.&nbsp; We designed Acre 31 to be a blank canvas so that it can match your ideal
                             wedding look, whatever it is. You are not required to choose one of the below, but you will
                             be glad you did!&nbsp;<br><br></p>
                     </div>
@@ -6816,7 +6816,7 @@
                                 well wishes and special messages from your guests, relive those hilarious and touching
                                 toasts whenever you want, and watch your special choreographed dance number again and
                                 again.<br>When using a videographer, you won't miss a second of your wedding day from
-                                the moment you arrive at Kendall Point to when you and your new spouse make your grand
+                                the moment you arrive at Acre 31 to when you and your new spouse make your grand
                                 exit.</i></p>
                     </div>
                 </div>
@@ -6860,9 +6860,9 @@
                     </div>
                     <div data-sid="bar_3" class="sie-bar_3 se">
                         <p class="se-t sie-bar_3-text st-m-paragraph st-d-paragraph se-rc"><i>When it comes to the
-                                drinks for your wedding at Kendall Point, we've checked this item off your <a
+                                drinks for your wedding at Acre 31, we've checked this item off your <a
                                     href="wedding-vendor-checklist/index.html" target="_blank">wedding vendors
-                                    list</a> already. Through thousands of weddings at Kendall Point, we know without a
+                                    list</a> already. Through thousands of weddings at Acre 31, we know without a
                                 doubt that Bartenders 4 You offer the best wedding bar service around. <b>Bring your own
                                     liquor and let them handle the rest. </b><br>Contact them today and they'll help you
                                 plan what beverages to offer and how much liquor you'll need based on the number of

@@ -13,7 +13,7 @@
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="description"
-        content="See what other couples have loved about their wedding at Kendall Point. Plan your dream wedding today." />
+        content="See what other couples have loved about their wedding at Acre 31. Plan your dream wedding today." />
     <link rel="canonical" href="reviews.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/q9NKQyoaSSOKroJog69bqQ/105740/kp-testimonial-background.png" />

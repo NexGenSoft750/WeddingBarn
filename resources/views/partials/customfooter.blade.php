@@ -193,7 +193,7 @@
         </div>
     </div>
     <div class="copyright">
-        © 2024 Kendall Point | <a href="#">Click Here for Photo Credit</a>
+        © 2024 Acre 31 | <a href="#">Click Here for Photo Credit</a>
     </div>
 </body>
 

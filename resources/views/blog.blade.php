@@ -18,7 +18,7 @@
     </script>
 
     <!-- This site is optimized with the Yoast SEO plugin v20.0 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Blog - Kendall Point</title>
+    <title>Blog - Acre 31</title>
     <meta name="description"
         content="Check out helpful hints on wedding planning, get inspiration from past nuptials, and start planning your dream wedding at Kendall Point." />
     <link rel="canonical" href="https://kendallpoint.com/blog/" />

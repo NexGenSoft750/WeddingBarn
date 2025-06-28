@@ -1617,38 +1617,38 @@
                 "imgs": [{
                     "key": "aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg",
                     "ar": 1.50037,
-                    "desc": "Aerial view of the Kendall Point gazebo set up for an outdoor ceremony."
+                    "desc": "Aerial view of the Acre 31 gazebo set up for an outdoor ceremony."
                 }, {
                     "key": "HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg",
                     "ar": 1.49927,
-                    "desc": "View of Kendall Point San Antonio wedding venue."
+                    "desc": "View of Acre 31 San Antonio wedding venue."
                 }, {
                     "key": "3eyDzelPuWVmRmX96C9Nkw/105740/sp-76_websize.jpg",
                     "ar": 1.49953
                 }, {
                     "key": "j_IM5HwYTKWNatfBOCGEhg/105740/akg-148_websize.jpg",
                     "ar": 1.49953,
-                    "desc": "Kendall Point adorned with string lights for an evening wedding reception."
+                    "desc": "Acre 31 adorned with string lights for an evening wedding reception."
                 }, {
                     "key": "o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg",
                     "ar": 1.49953,
-                    "desc": "The outdoor gazebo at Kendall Point."
+                    "desc": "The outdoor gazebo at Acre 31."
                 }, {
                     "key": "im99cqRXTTCxaG1ID0q55A/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-32.jpg",
                     "ar": 1.50037,
-                    "desc": "Reception tables set up in Kendall Point ballroom."
+                    "desc": "Reception tables set up in Acre 31 ballroom."
                 }, {
                     "key": "PF9kR3NNRb-LrsU224uhRA/105740/haley_and_korey-receptiondetails-22.jpg",
                     "ar": 1.50037,
-                    "desc": "Head table set up for a reception at Kendall Point"
+                    "desc": "Head table set up for a reception at Acre 31"
                 }, {
                     "key": "3OWqus9zTzS33vvWQw3xSw/105740/haley_and_korey-receptiondetails-10.jpg",
                     "ar": 0.6665,
-                    "desc": "The Kendall Point grand staircase decorated with flowers."
+                    "desc": "The Acre 31 grand staircase decorated with flowers."
                 }, {
                     "key": "4d601kO0S-iQauzJdDaN4A/105740/courtney_and_nick-ceremony-3.jpg",
                     "ar": 0.6665,
-                    "desc": "The wooden swing next to the Kendall Point lake."
+                    "desc": "The wooden swing next to the Acre 31 lake."
                 }, {
                     "key": "kBuy2gywRwGmyHiEpvUaWg/105740/20230610_3398_websize.jpg",
                     "ar": 0.66688
@@ -1990,11 +1990,11 @@
                 }, {
                     "key": "Ovm38udaTLq0vLKap4GLMg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg",
                     "ar": 1.50037,
-                    "desc": "A bride sitting in the Kendall Point clawfoot tub and holding her shoes."
+                    "desc": "A bride sitting in the Acre 31 clawfoot tub and holding her shoes."
                 }, {
                     "key": "VH5d2LFUT02GEPSXEdvYMA/105740/86451656_2987919944553449_6941888097869103104_o.jpg",
                     "ar": 1.5,
-                    "desc": "The clawfoot tub in the Kendall Point bridal suite."
+                    "desc": "The clawfoot tub in the Acre 31 bridal suite."
                 }, {
                     "key": "cS0GcgPZQIGYmoz061n97Q/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-118.jpg",
                     "ar": 1.50037,
@@ -2002,7 +2002,7 @@
                 }, {
                     "key": "6M0C-8bgRMSDTiOBskG5Ow/105740/kendall-point-texas-wedding-venue-snap-chic-3.jpg",
                     "ar": 1.49953,
-                    "desc": "A bride sits in the tub in the Kendall Point bridal suite."
+                    "desc": "A bride sits in the tub in the Acre 31 bridal suite."
                 }, {
                     "key": "sMwwLY96QTSEzJ7YeI0yCw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00056.jpg",
                     "ar": 0.66667,
@@ -2139,7 +2139,7 @@
                 }, {
                     "key": "GBLyyrPAQOmrGzTsLy0BRg/105740/kendall-point-texas-wedding-venue-west-vita-1.jpg",
                     "ar": 1.50037,
-                    "desc": "A groom and his groomsmen pose on the Kendall Point balcony"
+                    "desc": "A groom and his groomsmen pose on the Acre 31 balcony"
                 }, {
                     "key": "3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg",
                     "ar": 1,
@@ -6386,32 +6386,32 @@
                         <div><noscript><img
                                     src="../static.showit.co/1600/aYF3ZmKMS9erAdYui_uZCQ/105740/kendall-point-texas-wedding-venue-san_antonio-texasdawn-elizabeth-studios-1061.jpg"
                                     class="se-img"
-                                    alt="Aerial view of the Kendall Point gazebo set up for an outdoor ceremony."
-                                    title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061" /></noscript><noscript><img
+                                    alt="Aerial view of the Acre 31 gazebo set up for an outdoor ceremony."
+                                    title="Acre 31-Texas-Wedding-Venue-San Antonio-TexasDawn-Elizabeth-Studios-1061" /></noscript><noscript><img
                                     src="../static.showit.co/1600/HD2UqX_8QwKNFxUPhLQObg/105740/sloane_photo_-_caitlyn_john_wedding-924_websize.jpg"
-                                    class="se-img" alt="View of Kendall Point San Antonio wedding venue."
+                                    class="se-img" alt="View of Acre 31 San Antonio wedding venue."
                                     title="Sloane Photo - Caitlyn John Wedding-924_websize" /></noscript><noscript><img
                                     src="../static.showit.co/1600/3eyDzelPuWVmRmX96C9Nkw/105740/sp-76_websize.jpg"
                                     class="se-img" alt="SP-76_websize"
                                     title="SP-76_websize" /></noscript><noscript><img
                                     src="../static.showit.co/1600/j_IM5HwYTKWNatfBOCGEhg/105740/akg-148_websize.jpg"
                                     class="se-img"
-                                    alt="Kendall Point adorned with string lights for an evening wedding reception."
+                                    alt="Acre 31 adorned with string lights for an evening wedding reception."
                                     title="AKG-148_websize" /></noscript><noscript><img
                                     src="../static.showit.co/1600/o_SWAQfDRQuFJj6Njpk6oQ/105740/kendall-point-texas-wedding-venue-the-crakes-3.jpg"
-                                    class="se-img" alt="The outdoor gazebo at Kendall Point."
-                                    title="Kendall-Point-Texas-Wedding-Venue-The-Crakes-3" /></noscript><noscript><img
+                                    class="se-img" alt="The outdoor gazebo at Acre 31."
+                                    title="Acre 31-Texas-Wedding-Venue-The-Crakes-3" /></noscript><noscript><img
                                     src="../static.showit.co/1600/im99cqRXTTCxaG1ID0q55A/105740/kendall-point-texas-wedding-venue-san_antonio-texassneakpeek-32.jpg"
-                                    class="se-img" alt="Reception tables set up in Kendall Point ballroom."
-                                    title="Kendall-Point-Texas-Wedding-Venue-San Antonio-TexasSneakpeek-32" /></noscript><noscript><img
+                                    class="se-img" alt="Reception tables set up in Acre 31 ballroom."
+                                    title="Acre 31-Texas-Wedding-Venue-San Antonio-TexasSneakpeek-32" /></noscript><noscript><img
                                     src="../static.showit.co/1600/PF9kR3NNRb-LrsU224uhRA/105740/haley_and_korey-receptiondetails-22.jpg"
-                                    class="se-img" alt="Head table set up for a reception at Kendall Point"
+                                    class="se-img" alt="Head table set up for a reception at Acre 31"
                                     title="Haley&amp;Korey-ReceptionDetails-22" /></noscript><noscript><img
                                     src="../static.showit.co/1600/3OWqus9zTzS33vvWQw3xSw/105740/haley_and_korey-receptiondetails-10.jpg"
-                                    class="se-img" alt="The Kendall Point grand staircase decorated with flowers."
+                                    class="se-img" alt="The Acre 31 grand staircase decorated with flowers."
                                     title="Haley&amp;Korey-ReceptionDetails-10" /></noscript><noscript><img
                                     src="../static.showit.co/1600/4d601kO0S-iQauzJdDaN4A/105740/courtney_and_nick-ceremony-3.jpg"
-                                    class="se-img" alt="The wooden swing next to the Kendall Point lake."
+                                    class="se-img" alt="The wooden swing next to the Acre 31 lake."
                                     title="Courtney&amp;Nick-Ceremony-3" /></noscript><noscript><img
                                     src="../static.showit.co/1600/kBuy2gywRwGmyHiEpvUaWg/105740/20230610_3398_websize.jpg"
                                     class="se-img" alt="20230610_3398_websize"
@@ -6492,12 +6492,12 @@
                     <div data-sid="header-message_1" class="sie-header-message_1 se">
                         <p class="se-t sie-header-message_1-text st-m-paragraph st-d-paragraph se-rc">For a truly
                             elegant wedding
-                            with timeless appeal and picturesque scenery, Kendall Point is the place to say “I Do.” Set
+                            with timeless appeal and picturesque scenery, Acre 31 is the place to say "I Do." Set
                             atop a hill,
                             offering <a href="{{ route('gallery') }}" target="_self">breathtaking
                                 views of Texas Hill
                                 Country</a> and a cool
-                            breeze year-round, Kendall Point highlights some of the most desirable features for today’s
+                            breeze year-round, Acre 31 highlights some of the most desirable features for today's
                             bride.<br><br>Celebrate your nuptials in unforgettable elegance with an outdoor ceremony on
                             our
                             forever-green lawn under a beautiful gazebo. Century-old live oak trees frame the gazebo as
@@ -6552,7 +6552,7 @@
                                 the needs of
                                 wedding day preparations</a>. An oversized mirror, wall-to-wall make-up counter with
                             mirrors and
-                            excellent lighting allow for flawless hair and make-up. <br><br>Kendall Point brides will
+                            excellent lighting allow for flawless hair and make-up. <br><br>Acre 31 brides will
                             enjoy the claw
                             foot tub surrounded by windows and 360º views; great for relaxing and fun for photos! A walk
                             in shower and
@@ -6586,17 +6586,17 @@
                                     title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-49" /></noscript><noscript><img
                                     src="../static.showit.co/400/Ovm38udaTLq0vLKap4GLMg/105740/admire-wedding-dawn-elizabeth-studios-0065.jpg"
                                     class="se-img"
-                                    alt="A bride sitting in the Kendall Point clawfoot tub and holding her shoes."
+                                    alt="A bride sitting in the Acre 31 clawfoot tub and holding her shoes."
                                     title="Admire-Wedding-Dawn-Elizabeth-Studios-0065" /></noscript><noscript><img
                                     src="../static.showit.co/400/VH5d2LFUT02GEPSXEdvYMA/105740/86451656_2987919944553449_6941888097869103104_o.jpg"
-                                    class="se-img" alt="The clawfoot tub in the Kendall Point bridal suite."
+                                    class="se-img" alt="The clawfoot tub in the Acre 31 bridal suite."
                                     title="86451656_2987919944553449_6941888097869103104_o" /></noscript><noscript><img
                                     src="../static.showit.co/400/cS0GcgPZQIGYmoz061n97Q/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-118.jpg"
                                     class="se-img"
                                     alt="A bride and two bridesmaids sit in the clawfoot tub in the bridal suite."
                                     title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-118" /></noscript><noscript><img
                                     src="../static.showit.co/400/6M0C-8bgRMSDTiOBskG5Ow/105740/kendall-point-texas-wedding-venue-snap-chic-3.jpg"
-                                    class="se-img" alt="A bride sits in the tub in the Kendall Point bridal suite."
+                                    class="se-img" alt="A bride sits in the tub in the Acre 31 bridal suite."
                                     title="Kendall-Point-Texas-Wedding-Venue-Snap-Chic-3" /></noscript><noscript><img
                                     src="../static.showit.co/400/sMwwLY96QTSEzJ7YeI0yCw/105740/kendall-point-texas-wedding-venue-dawn-elizabeth-studios-00056.jpg"
                                     class="se-img"
@@ -6635,7 +6635,7 @@
                             suite you'll
                             find at any <a href="san-antonio-wedding-venue.html" target="_self">San Antonio wedding
                                 venue</a>! The
-                            Kendall Point groom’s suite offers private seating, foosball table, pub-style table, and
+                            Acre 31 groom's suite offers private seating, foosball table, pub-style table, and
                             flat screen TV; a
                             true wedding day man cave!<br><br>The guys can enjoy their own private entrance to the wrap
                             around porch
@@ -6665,8 +6665,8 @@
                                     alt="A groom and his groomsmen celebrate in the groom&#x27;s suite."
                                     title="Kendall-Point-Texas-Wedding-Venue-Dawn-Elizabeth-Studios-00114" /></noscript><noscript><img
                                     src="../static.showit.co/800/GBLyyrPAQOmrGzTsLy0BRg/105740/kendall-point-texas-wedding-venue-west-vita-1.jpg"
-                                    class="se-img" alt="A groom and his groomsmen pose on the Kendall Point balcony"
-                                    title="Kendall-Point-Texas-Wedding-Venue-West-Vita-1" /></noscript><noscript><img
+                                    class="se-img" alt="A groom and his groomsmen pose on the Acre 31 balcony"
+                                    title="Acre 31-Texas-Wedding-Venue-West-Vita-1" /></noscript><noscript><img
                                     src="../static.showit.co/800/3GyrMMYpRrOQfcxfZ8ZsBg/105740/51168180_2255071864504931_4830695553425735680_o.jpg"
                                     class="se-img"
                                     alt="A groom and his groomsmen pose on the balcony outside the groom&#x27;s suite."

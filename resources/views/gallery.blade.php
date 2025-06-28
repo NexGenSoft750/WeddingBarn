@@ -13,7 +13,7 @@
         href="../static.showit.co/200/MNYG8wQfSECIdtwu409WvA/105740/kendall-point-favicon.png" />
     <link rel="preconnect" href="https://static.showit.co/" />
     <meta name="description"
-        content="See everything Kendall Point has to offer with photos from all the dream weddings we've hosted in the past." />
+        content="See everything Acre 31 has to offer with photos from all the dream weddings we've hosted in the past." />
     <link rel="canonical" href="gallery.html" />
     <meta property="og:image"
         content="../static.showit.co/1200/uCQDpsEtTHe35z3KKR0bPA/105740/kendall-point-texas-wedding-venue-jessica-chole-photography-5.jpg" />
@@ -2884,7 +2884,7 @@
                         <div class="se-simple"></div>
                     </a><a href="{{ route('book') }}" target="_self" class="sie-cta-gallery_2 se"
                         data-sid="cta-gallery_2">
-                        <h3 class="se-t sie-cta-gallery_2-text st-m-subheading st-d-subheading">See Kendall Point for
+                        <h3 class="se-t sie-cta-gallery_2-text st-m-subheading st-d-subheading">See Acre 31 for
                             Yourself!</h3>
                     </a>
                 </div>
@@ -3047,7 +3047,7 @@
                                 title="Kendall-Point-Texas-Wedding-Venue-Ashley-Medrano-Photography-4" /></noscript>
                     </div>
                     <div data-sid="every-season_fall_1" class="sie-every-season_fall_1 se">
-                        <h1 class="se-t sie-every-season_fall_1-text st-m-title st-d-title se-rc">Fall at Kendall Point
+                        <h1 class="se-t sie-every-season_fall_1-text st-m-title st-d-title se-rc">Fall at Acre 31
                         </h1>
                     </div>
                     <div data-sid="every-season_fall_2" class="sie-every-season_fall_2 se">
